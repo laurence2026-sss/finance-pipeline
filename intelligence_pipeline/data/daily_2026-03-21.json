@@ -315,5 +315,27 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "급등"
+  },
+  {
+    "id": "deb5d2e18a822d6b288550a7c744cbbe",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Qatar Dethroned As 'LNG King' As U.S. Seizes Throne, Reshaping Future Of Gas",
+    "summary": "Qatar Dethroned As 'LNG King' As U.S. Seizes Throne, Reshaping Future Of Gas\n\n            Submitted by Criterion Research President, James Bevan, \n\nThe geopolitical calculus underpinning global LNG supply through the early 2030s has shifted materially. Iranian drone strikes on Qatari LNG trains, delays to key expansion projects, and the indefinite closure of the Strait of Hormuz have created a compounding threat to Qatar's LNG position that goes well beyond a construction delay. What had been fr",
+    "url": "https://www.zerohedge.com/energy/qatar-dethroned-lng-king-us-seizes-throne-reshaping-future-gas",
+    "published_at": "2026-03-20T22:55:00+00:00",
+    "collected_at": "2026-03-20T23:54:56.079920+00:00",
+    "filter_score": 8,
+    "summary_ko": "미국이 LNG 시장에서 카타르를 추월하여 가스 시장의 미래가 재편되는 중",
+    "emerging_sector": "LNG",
+    "leading_companies": [
+      "체사피크 에너지",
+      "엑슨모빌"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Qatar"
   }
 ]
