@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "id": "d04c007a11da2d5e36bbd3df2f9da247",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "JPMorgan Activates BTC & ETH As Institutional Collateral",
+    "summary": "JPMorgan Activates BTC & ETH As Institutional Collateral\n\n            Via Sentora Research,\n\nJPMorgan has officially bridged the gap between \"Digital Gold\" and \"Wholesale Credit.\" \n\nThe activation of direct BTC and ETH collateralization allows institutional giants to finally turn their dormant holdings into immediate USD liquidity without selling a single satoshi.\n\nOperating through the Kinexys (formerly Onyx) digital financing platform, the bank now allows institutional clients like hedge funds",
+    "url": "https://www.zerohedge.com/crypto/jpmorgan-activates-btc-eth-institutional-collateral",
+    "published_at": "2026-03-20T15:25:00+00:00",
+    "collected_at": "2026-03-20T16:47:12.953841+00:00",
+    "filter_score": 8,
+    "summary_ko": "JP모간은 비트코인과 이더리움을 기관 담보로 활성화했습니다. 이는 디지털 자산이 기관 투자에서 중요한 역할을 할 수 있음을 시사합니다.",
+    "emerging_sector": "Digital Asset",
+    "leading_companies": [
+      "JPMorgan"
+    ],
+    "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "d7d8eadb7b8569a10cb1b16eda372342",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Novartis pays $2B to land a startup’s breast cancer drug",
+    "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
+    "published_at": "2026-03-20T14:34:00+00:00",
+    "collected_at": "2026-03-20T16:47:14.801680+00:00",
+    "filter_score": 8,
+    "summary_ko": "Novartis는 유방암 약물 개발을 위해 20억 달러를 투자했습니다.",
+    "emerging_sector": "유방암 약물",
+    "leading_companies": [
+      "Novartis"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "93acfbc474981e15f123116ffd14bbd3",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "IEA Chief Warns Gulf Flows May Take Six Months To Restore After Biggest-Ever Energy Shock",
+    "summary": "IEA Chief Warns Gulf Flows May Take Six Months To Restore After Biggest-Ever Energy Shock\n\n            The head of the International Energy Agency told the Financial Times on Friday that the world is severely underestimating the scale of the Gulf energy shock, and that it may take at least six months to restore disrupted oil and gas flows.\n\nFatih Birol described the conflict, now in its third week, as \"the greatest global energy security threat in history\", and said it would take time \"to have o",
+    "url": "https://www.zerohedge.com/energy/iea-chief-warns-biggest-ever-energy-shock-gulf-flows-may-take-six-months-restore",
+    "published_at": "2026-03-20T14:20:00+00:00",
+    "collected_at": "2026-03-20T16:47:12.953959+00:00",
+    "filter_score": 7,
+    "summary_ko": "IEA 책임자는 걸프 에너지 공급이 6개월 내에 회복될 수 있을지 우려하고 있습니다. 이는 에너지 시장에 영향을 미칠 수 있습니다.",
+    "emerging_sector": "Energy Security",
+    "leading_companies": [
+      "IEA"
+    ],
+    "category": "macro",
+    "urgency": "high"
+  },
+  {
+    "id": "36840024d7f09f211f63a9c67f02e282",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Rhythm obesity drug wins broader use from FDA",
+    "summary": "Imcivree&rsquo;s approval in a type of obesity driven by brain injury could unlock an opportunity Wall Street analysts believe to be worth more than $1 billion.",
+    "url": "https://www.biopharmadive.com/news/rhythm-imcivree-fda-approve-acquired-hypothalamic-obesity/815276/",
+    "published_at": "2026-03-20T11:30:00+00:00",
+    "collected_at": "2026-03-20T16:47:14.801694+00:00",
+    "filter_score": 7,
+    "summary_ko": "Rhythm의 비만 치료 약물이 FDA의 승인을 받았습니다.",
+    "emerging_sector": "비만 치료",
+    "leading_companies": [
+      "Rhythm"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "a1c5cefec7ed5cd8451eb87a35cc19bf",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Novo uses FDA voucher to win speedy approval of higher-dose Wegovy",
+    "summary": "The clearance, issued 54 days after an approval submission, gives Novo another chance to claw back market share from Eli Lilly.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/novo-high-dose-wegovy-fda-approval-voucher-obesity/815235/",
+    "published_at": "2026-03-19T18:09:00+00:00",
+    "collected_at": "2026-03-20T16:47:14.801707+00:00",
+    "filter_score": 7,
+    "summary_ko": "Novo의 고용량 Wegovy가 FDA의 승인을 받았습니다.",
+    "emerging_sector": "고용량 약물",
+    "leading_companies": [
+      "Novo"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
+  }
+]
