@@ -7,37 +7,18 @@
     "summary": "JPMorgan Activates BTC & ETH As Institutional Collateral\n\n            Via Sentora Research,\n\nJPMorgan has officially bridged the gap between \"Digital Gold\" and \"Wholesale Credit.\" \n\nThe activation of direct BTC and ETH collateralization allows institutional giants to finally turn their dormant holdings into immediate USD liquidity without selling a single satoshi.\n\nOperating through the Kinexys (formerly Onyx) digital financing platform, the bank now allows institutional clients like hedge funds",
     "url": "https://www.zerohedge.com/crypto/jpmorgan-activates-btc-eth-institutional-collateral",
     "published_at": "2026-03-20T15:25:00+00:00",
-    "collected_at": "2026-03-20T18:54:05.567226+00:00",
+    "collected_at": "2026-03-20T20:36:16.738173+00:00",
     "filter_score": 8,
-    "summary_ko": "JP모간이 비트코인과 이더리움을 기관 담보로 활성화했다.",
+    "summary_ko": "JPMorgan은 비트코인과 이더리움을 기관 담보로 활성화했다. 이는 디지털 자산과 전통 금융 간의 격차를 좁히는 중요한 단계이다.",
     "emerging_sector": "Digital Asset",
     "leading_companies": [
       "JPMorgan"
     ],
-    "category": "tech_trend",
+    "category": "smart_money",
     "urgency": "high",
     "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
+    "korea_news_count": 7,
     "korea_search_query": "JPMorgan"
-  },
-  {
-    "id": "5a25a05da0be0231714c40c716487674",
-    "source": "STAT News",
-    "source_type": "rss",
-    "title": "A conversation with the ‘godfather’ of biotech",
-    "summary": "This week on \"The Readout LOUD,\" a conversation with biotech \"godfather\" Stelios Papadapolous live from #STATBreakthrough.",
-    "url": "https://www.statnews.com/2026/03/20/readout-loud-podcast-stelios-papadopoulos-obesity-lilly-structure/?utm_campaign=rss",
-    "published_at": "2026-03-20T14:25:21+00:00",
-    "collected_at": "2026-03-20T18:54:07.573310+00:00",
-    "filter_score": 8,
-    "summary_ko": "바이오텍의 대부인 스텔리오스 파파도풀로스와의 대화이다.",
-    "emerging_sector": "바이오텍",
-    "leading_companies": [],
-    "category": "tech_trend",
-    "urgency": "high",
-    "korea_status": "⚡ 검증 불가",
-    "korea_news_count": -1,
-    "korea_search_query": ""
   },
   {
     "id": "6b4078147584dde07ca6dae1a2a2fc24",
@@ -47,10 +28,10 @@
     "summary": "The hefty funding will support a U.S. and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-20T18:54:07.860796+00:00",
+    "collected_at": "2026-03-20T20:36:20.646538+00:00",
     "filter_score": 8,
-    "summary_ko": "AI를 이용한 의약품 개발 회사 Earendil Labs가 7억 8천만 달러의 자금을 확보했습니다.",
-    "emerging_sector": "AI를 이용한 의약품 개발",
+    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs, 787억 달러 투자 유치",
+    "emerging_sector": "AI 기반 의약품 개발",
     "leading_companies": [
       "Earendil Labs",
       "Sanofi"
@@ -69,10 +50,10 @@
     "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said&nbsp;Sant&eacute; Ventures&rsquo; Omar Khalil.",
     "url": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
     "published_at": "2026-03-19T13:40:00+00:00",
-    "collected_at": "2026-03-20T18:54:07.860887+00:00",
+    "collected_at": "2026-03-20T20:36:20.646628+00:00",
     "filter_score": 8,
-    "summary_ko": "바이오테크 벤처 캐피탈은 스타트업의 전환기를 예상합니다. 이는 새로운 자금 조달 물결이 형성되고 있는 것을 의미합니다.",
-    "emerging_sector": "바이오테크 스타트업",
+    "summary_ko": "바이오테크 벤처 캐피탈은 바이오테크 스타트업의 전환기를 예상합니다. 이는 새로운 자금 조달 물결이 형성되고 있음을 시사합니다.",
+    "emerging_sector": "바이오테크",
     "leading_companies": [
       "산테 벤처스"
     ],
@@ -83,69 +64,6 @@
     "korea_search_query": ""
   },
   {
-    "id": "95bdb22dd977455eb181ce517732e999",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/ai-and-machine-learning/behind-curtain-what-xaira-building-after-its-1b-fundraise\" hreflang=\"en\">Behind the curtain: What Xaira is building after its $1B fundraise</a>",
-    "summary": "What has Xaira been doing since its $1 billion raise? Xaira COO Jeff Jonker joins \"The Top Line\" to talk strategy, AI and the company’s long-game vision for drug discovery.",
-    "url": "https://www.fiercebiotech.com/ai-and-machine-learning/behind-curtain-what-xaira-building-after-its-1b-fundraise",
-    "published_at": "2026-03-20T18:54:08.053647+00:00",
-    "collected_at": "2026-03-20T18:54:08.053654+00:00",
-    "filter_score": 8,
-    "summary_ko": "Xaira는 10억 달러의 자금을 조달한 후에 어떤 비전을 가지고 있는지 COO Jeff Jonker가 인터뷰를 통해 밝혔다. Xaira는 인공지능과 약물 발견에 중점을 두고 있다.",
-    "emerging_sector": "AI in Drug Discovery",
-    "leading_companies": [
-      "Xaira"
-    ],
-    "category": "tech_trend",
-    "urgency": "medium",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "Behind"
-  },
-  {
-    "id": "b2fdb8336635a125fc2ea8bfe174f579",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company\" hreflang=\"en\">Verily banks $300M to accelerate AI road map, transitions to independent company</a>",
-    "summary": "Verily raised a $300 million investment round to accelerate its work in artificial intelligence and precision health as it also moves out from under the corporate umbrella of Alphabet.",
-    "url": "https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company",
-    "published_at": "2026-03-20T18:54:08.053708+00:00",
-    "collected_at": "2026-03-20T18:54:08.053713+00:00",
-    "filter_score": 8,
-    "summary_ko": "Verily는 인공지능과 정밀 건강 분야에서 연구를 가속화하기 위해 3억 달러의 투자를 유치했다. Verily는 알파벳의 자회사에서 독립 회사로 전환했다.",
-    "emerging_sector": "AI in Healthcare",
-    "leading_companies": [
-      "Verily"
-    ],
-    "category": "tech_trend",
-    "urgency": "medium",
-    "korea_status": "⚡ 초기 반영",
-    "korea_news_count": 3,
-    "korea_search_query": "Verily"
-  },
-  {
-    "id": "93acfbc474981e15f123116ffd14bbd3",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "IEA Chief Warns Gulf Flows May Take Six Months To Restore After Biggest-Ever Energy Shock",
-    "summary": "IEA Chief Warns Gulf Flows May Take Six Months To Restore After Biggest-Ever Energy Shock\n\n            The head of the International Energy Agency told the Financial Times on Friday that the world is severely underestimating the scale of the Gulf energy shock, and that it may take at least six months to restore disrupted oil and gas flows.\n\nFatih Birol described the conflict, now in its third week, as \"the greatest global energy security threat in history\", and said it would take time \"to have o",
-    "url": "https://www.zerohedge.com/energy/iea-chief-warns-biggest-ever-energy-shock-gulf-flows-may-take-six-months-restore",
-    "published_at": "2026-03-20T14:20:00+00:00",
-    "collected_at": "2026-03-20T18:54:05.567337+00:00",
-    "filter_score": 7,
-    "summary_ko": "IEA 책임자가 에너지 공급이 6개월 내에 회복되지 않을 수 있다고 경고했다.",
-    "emerging_sector": "Energy Security",
-    "leading_companies": [
-      "International Energy Agency"
-    ],
-    "category": "macro",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "Chief"
-  },
-  {
     "id": "d7d8eadb7b8569a10cb1b16eda372342",
     "source": "BioPharma Dive",
     "source_type": "rss",
@@ -153,16 +71,16 @@
     "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
     "published_at": "2026-03-20T14:34:00+00:00",
-    "collected_at": "2026-03-20T18:54:07.860829+00:00",
+    "collected_at": "2026-03-20T20:36:20.646569+00:00",
     "filter_score": 7,
-    "summary_ko": "Novartis가 스타트업의 유방암 치료제를 20억 달러에 인수했습니다.",
+    "summary_ko": "노바티스, 스타트업의 유방암 치료제 인수",
     "emerging_sector": "유방암 치료제",
     "leading_companies": [
-      "Novartis",
+      "노바티스",
       "Synnovation Therapeutics"
     ],
-    "category": "smart_money",
-    "urgency": "high",
+    "category": "tech_trend",
+    "urgency": "medium",
     "korea_status": "⚡ 초기 반영",
     "korea_news_count": 3,
     "korea_search_query": "Novartis"
@@ -175,15 +93,15 @@
     "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
     "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-20T18:54:07.860865+00:00",
+    "collected_at": "2026-03-20T20:36:20.646605+00:00",
     "filter_score": 7,
-    "summary_ko": "엘리 릴리의 3중 작용 비만 약물이 대규모 당뇨병 임상시험에서 목표를 달성했습니다. 이는 비만 치료에 효과적인 약물이 될 수 있습니다.",
-    "emerging_sector": "비만 치료 약물",
+    "summary_ko": "엘리 릴리의 레트라튜트는 대규모 당뇨병 임상시험에서 목표를 달성했습니다. 이는 레트라튜트가 비만 치료에 효과적일 수 있음을 시사합니다.",
+    "emerging_sector": "의료 기술",
     "leading_companies": [
       "엘리 릴리"
     ],
     "category": "tech_trend",
-    "urgency": "high",
+    "urgency": "medium",
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Lilly"
@@ -196,10 +114,10 @@
     "summary": "The planned Shanghai facility extends a yearslong push into the field and will support CAR-T therapies AstraZeneca is making for autoimmune disease and cancer.",
     "url": "https://www.biopharmadive.com/news/astrazeneca-cell-therapy-china-shanghai-biotech/815159/",
     "published_at": "2026-03-19T11:22:00+00:00",
-    "collected_at": "2026-03-20T18:54:07.860899+00:00",
+    "collected_at": "2026-03-20T20:36:20.646638+00:00",
     "filter_score": 7,
-    "summary_ko": "아스트라제네카는 중국에 새로운 시설을 투자하여 세포 치료 능력을 강화할 계획입니다. 이는 CAR-T 치료를 위한 시설을 확대하는 것입니다.",
-    "emerging_sector": "CAR-T 치료",
+    "summary_ko": "아스트라제네카는 중국에 새로운 시설을 투자하여 세포 치료 능력을 강화할 계획입니다. 이는 아스트라제네카의 CAR-T 치료를 지원할 것입니다.",
+    "emerging_sector": "의료 기술",
     "leading_companies": [
       "아스트라제네카"
     ],
@@ -208,27 +126,5 @@
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 2,
     "korea_search_query": "AstraZeneca"
-  },
-  {
-    "id": "f6b1f3e4e867dcf7fdd909c03a85bbe9",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle\" hreflang=\"en\">Novartis pays Synnovation $2B upfront for breast cancer program as rivals circle</a>",
-    "summary": "Novartis has struck a deal to buy Synnovation Therapeutics’ pan-mutant‑selective PI3Kα inhibitor for $2 billion upfront, securing an asset that could defend its breast cancer franchise from challengers including Eli Lilly.",
-    "url": "https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle",
-    "published_at": "2026-03-20T18:54:08.053680+00:00",
-    "collected_at": "2026-03-20T18:54:08.053686+00:00",
-    "filter_score": 7,
-    "summary_ko": "노바티스는 Synnovation Therapeutics의 유방암 치료제를 20억 달러의 선불금으로 인수했다. 이 치료제는 노바티스의 유방암 치료제 시장 지위를 유지하는 데 도움이 될 수 있다.",
-    "emerging_sector": "Breast Cancer Treatment",
-    "leading_companies": [
-      "Novartis",
-      "Synnovation Therapeutics"
-    ],
-    "category": "macro",
-    "urgency": "high",
-    "korea_status": "⚡ 초기 반영",
-    "korea_news_count": 3,
-    "korea_search_query": "Novartis"
   }
 ]
