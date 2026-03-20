@@ -1,0 +1,144 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+접근성 링크
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (125,74)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjr8b6LrK2TAxW1KBAIHW-KG3oQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (419,73)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (633,73)<div  />
+	[3] (631,73)<div aria-label='지우기' class='M2vV3 vOY7J' role='button' />
+		[4] (631,73)<span  />
+	[5] (654,73)<span  />
+[6] (677,73)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (677,73)<span  />
+[8] (716,73)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (754,73)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (798,73)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (792,73)<div  />
+		[12] (792,73)<span  />
+[13] (874,73)<a aria-label='Search Labs' class='gb_B' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (920,73)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (962,73)<a aria-label='Google 계정: ᆞ  
+(kso01033092812@gmail.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DKubera%2BCopilot%2BMoney%2Bmonetization%2Bpricing%2BThe%2BRich%2BClassic%2Bpricing%2BKorea&ec=futura_srp_og_si_72236_p' role='button' />
+필터 및 주제
+[16] (101,160)<a class='XVMlrc C6AK7c' href='/search?q=Kubera+Copilot+Money+monetization+pricing+The+Rich+Classic+pricing+Korea&sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n49TpbUjnOjIa7qpYZmmcUgVB7TGw:1773970767465&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx1f5yGcugedVaCvCbm021nZ8uR2JBaPEs6wimBFL3c73ST03k5J8TdNY-SCc6l0OghgEZkVcEpbLsLns-0iCxL7SLxQ6g&aep=1&ntc=1&sa=X&ved=2ahUKEwjr8b6LrK2TAxW1KBAIHW-KG3oQ2J8OegQIERAE' />
+	[17] (101,160)<div  />
+		[18] (101,172)<div  />
+			[19] (101,165)<span >AI 모드 />
+[20] (157,160)<a class='C6AK7c' role='link' />
+	전체
+[21] (211,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n49TpbUjnOjIa7qpYZmmcUgVB7TGw:1773970767465&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx1f5yGcugedVaCvCbm021nZ8uR2JBaPEs6wimBFL3c73ST03k5J8TdNY-SCc6l0OghgEZkVcEpbLsLns-0iCxL7SLxQ6g&q=Kubera+Copilot+Money+monetization+pricing+The+Rich+Classic+pricing+Korea&sa=X&ved=2ahUKEwjr8b6LrK2TAxW1KBAIHW-KG3oQtKgLegQIFxAB' />
+	[22] (211,160)<div  />
+		[23] (211,172)<span >이미지 />
+[24] (265,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n49TpbUjnOjIa7qpYZmmcUgVB7TGw:1773970767465&q=Kubera+Copilot+Money+monetization+pricing+The+Rich+Classic+pricing+Korea&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx1f5yGcugedVaCvCbm021nZ8uR2JBaPEs6wimBFL3c73ST03k5J8TdNY-SCc6l0OghgEZkVcEpbLsLns-0iCxL7SLxQ6g&sa=X&ved=2ahUKEwjr8b6LrK2TAxW1KBAIHW-KG3oQ0pQJegQIFBAB' />
+	[25] (265,160)<div  />
+		[26] (265,172)<span >뉴스 />
+[27] (318,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n49TpbUjnOjIa7qpYZmmcUgVB7TGw:1773970767465&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx1f5yGcugedVaCvCbm021nZ8uR2JBaPEs6wimBFL3c73ST03k5J8TdNY-SCc6l0OghgEZkVcEpbLsLns-0iCxL7SLxQ6g&q=Kubera+Copilot+Money+monetization+pricing+The+Rich+Classic+pricing+Korea&sa=X&ved=2ahUKEwjr8b6LrK2TAxW1KBAIHW-KG3oQtKgLegQIFRAB' />
+	[28] (318,160)<div  />
+		[29] (318,172)<span >동영상 />
+[30] (372,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n49TpbUjnOjIa7qpYZmmcUgVB7TGw:1773970767465&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx1f5yGcugedVaCvCbm021nZ8uR2JBaPEs6wimBFL3c73ST03k5J8TdNY-SCc6l0OghgEZkVcEpbLsLns-0iCxL7SLxQ6g&q=Kubera+Copilot+Money+monetization+pricing+The+Rich+Classic+pricing+Korea&ved=1t:220175&ictx=111' />
+	[31] (372,160)<div  />
+		[32] (372,172)<span >쇼핑 />
+[33] (440,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n49TpbUjnOjIa7qpYZmmcUgVB7TGw:1773970767465&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx1f5yGcugedVaCvCbm021nZ8uR2JBaPEs6wimBFL3c73ST03k5J8TdNY-SCc6l0OghgEZkVcEpbLsLns-0iCxL7SLxQ6g&q=Kubera+Copilot+Money+monetization+pricing+The+Rich+Classic+pricing+Korea&sa=X&ved=2ahUKEwjr8b6LrK2TAxW1KBAIHW-KG3oQs6gLegQIExAB' />
+	[34] (440,160)<div  />
+		[35] (440,172)<span >짧은 동영상 />
+[36] (523,160)<div class='mTpL7c' role='button' />
+	[37] (523,160)<div  />
+		[38] (523,172)<div  />
+			[39] (514,165)<span >더보기 />
+			[40] (542,165)<span  />
+[41] (594,160)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (594,160)<div  />
+		[43] (594,172)<div  />
+			[44] (586,165)<span >도구 />
+			[45] (607,165)<span  />
+검색결과
+[46] (249,281)<a class='zReHs' href='https://clawskills.sh/' />
+	[47] (249,312)<h3 >ClawSkills — Discover OpenClaw Skills />
+	[48] (148,263)<div  />
+		[49] (148,263)<div  />
+			[50] (94,263)<span  />
+				[51] (94,263)<div  />
+					[52] (94,263)<span  />
+			[53] (167,263)<div  />
+				[54] (167,250)<div  />
+					[55] (167,250)<span >clawskills.sh />
+				[56] (167,277)<div  />
+					[57] (167,277)<cite class='tjvcx GvPZzd cHaqb' role='text'>https://clawskills.sh />
+[58] (237,275)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[59] (237,275)<span  />
+		[60] (237,277)<span  />
+2시간 전
+—
+Find work, earn
+money
+, and collaborate with other AI agents. 2.6k6293. communication-skillaatmaan1/skills. Deep Listening & ...
+[61] (262,487)<a class='zReHs' href='https://snap.berkeley.edu/project/11166188' />
+	[62] (262,518)<h3 >https://snap.berkeley.edu/project/11166188 />
+	[63] (204,469)<div  />
+		[64] (204,469)<div  />
+			[65] (94,469)<span  />
+				[66] (94,469)<div  />
+					[67] (94,469)<img  />
+			[68] (223,469)<div  />
+				[69] (223,456)<div  />
+					[70] (223,456)<span >University of California, Berkeley />
+				[71] (223,483)<div  />
+					[72] (223,483)<cite class='qLRx3b tjvcx GvPZzd dTxz9 cHaqb' role='text'>https://snap.berkeley.edu />
+						[73] (268,482)<span class='ylgVCe ob9lvb' role='text'>› project />
+XML
+[74] (356,481)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[75] (356,481)<span  />
+		[76] (356,483)<span  />
+...
+classic
+,
+classical
+,classically,classicism,classicist,classico,
+classics
+...
+copilot
+,coping,copious,copiously,copiousness,copland,copley,copolymer,coppa ...
+[77] (256,694)<a class='zReHs' href='https://github.com/nikhilkr29/Email-Spam-Classifier-using-Naive-Bayes/blob/main/Naive%20Bayes%20Spam%20Email%20Classifier.ipynb' />
+	[78] (256,725)<h3 >Naive Bayes Spam Email Classifier.ipynb />
+	[79] (208,675)<div  />
+		[80] (208,675)<div  />
+			[81] (94,675)<span  />
+				[82] (94,675)<div  />
+					[83] (94,675)<img  />
+			[84] (227,675)<div  />
+				[85] (227,662)<div  />
+					[86] (227,662)<span >GitHub />
+				[87] (227,689)<div  />
+					[88] (227,689)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://github.com />
+						[89] (272,688)<span class='ylgVCe ob9lvb' role='text'>› nikhilkr29 › blob › main />
+[90] (356,688)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[91] (356,688)<span  />
+		[92] (356,689)<span  />
+A Naive Bayes spam/ham classifier based on Bayes' Theorem. A bunch of email subject is first used to train the classifier and then a previously unseen email ...
+[93] (230,900)<a class='zReHs' href='https://www.andrew.cmu.edu/user/mm6/95-771/words/words.html' />
+	[94] (116,931)<h3 >제목없음 />
+	[95] (230,881)<div  />
+		[96] (230,881)<div  />
+			[97] (94,881)<span  />
+				[98] (94,881)<div  />
+					[99] (94,881)<span  />
+			[100] (249,881)<div  />
+				[101] (249,869)<div  />
+					[102] (249,869)<span >Carnegie Mellon University | CMU />
+				[103] (249,895)<div  />
+					[104] (249,895)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.andrew.cmu.edu />
+						[105] (322,894)<span class='ylgVCe ob9lvb' role='text'>› user › words › words />
+[106] (400,894)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[107] (400,894)<span  />
+		[108] (400,895)<span  />
+...
+classic classical
+classicalism classicalist classicality classicalize ...
+copilot
+coping copiopia copiopsia copiosity copious copiously copiousness ...
+
+</current_dom>

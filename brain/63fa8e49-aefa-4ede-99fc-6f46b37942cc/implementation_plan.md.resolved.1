@@ -1,0 +1,71 @@
+# Business Model Implementation Plan
+
+## Goal
+Create 3 actionable, 1-person business models focused on **Subscription Services**, **Notion**, and **AI Automation (n8n/Antigravity)**, specifically including a **Stock Investment** model. These models will be "installed" into NotebookLM for the user to query.
+
+## User Review Required
+> [!IMPORTANT]
+> **Browser Automation Limitation**: I will attempt to create the notebook via browser automation. If the "File Upload" dialog is a system window (which it usually is), I cannot interact with it. I will fall back to using the **"Paste Text"** source option or asking you to upload the generated files.
+
+## Proposed Business Models
+
+### 1. 📉 The "Alpha Signal" Dashboard (Stock Investment)
+*   **Concept**: A Notion dashboard that auto-updates with AI-summarized earnings calls, insider trading alerts, and sentiment analysis for specific sectors.
+*   **Stack**: n8n (fetch news/data) -> Gemini (Analyze) -> Notion (Display).
+*   **Target**: Retail investors who don't have time to read 10-K reports.
+
+### 2. ✍️ Content Repurposing Engine (Creator Tool)
+*   **Concept**: specialized workflow to turn 1 long-form video into 10 social posts.
+*   **Stack**: YouTube API -> Whisper (Transcribe) -> Gemini (Remix) -> Notion (Content Calendar).
+
+### 3. 🏢 Niche Competitor Monitor (B2B SaaS)
+*   **Concept**: Daily alerts on competitor pricing/reviews for local businesses.
+*   **Stack**: Scraper -> Diff Checker -> Notification (Slack/Kakao).
+
+## Execution Steps
+
+### Phase 1: Research & Content Generation
+1.  **Research**: Verify API availability for Stock data (Alpha Vantage, Yahoo Finance) and Notion integration limits.
+2.  **Drafting**: Write detailed "Business Strategy Documents" for each model.
+    *   *File*: `strategies/stock_investment_model.md`
+    *   *File*: `strategies/content_repurposing_model.md`
+    *   *File*: `strategies/niche_monitor_model.md`
+
+### Phase 2: NotebookLM Installation
+1.  **Browser Action**: Open `notebooklm.google.com`.
+2.  **Creation**: Click "New Notebook". title: "Antigravity Business Models".
+3.  **Ingestion**: Copy content from the markdown files and add as "Copied Text" sources.
+4.  **Registration**: Use `add_notebook` MCP tool to register the new URL.
+
+### Phase 3: Verification
+1.  **Test Query**: Ask the new notebook specific questions like "How do I price the Stock Dashboard?" to ensure it grounded in the uploaded strategies.
+
+---
+
+# 🚀 Phase 4: Investment SaaS Feasibility (New Request)
+
+## Goal
+Determine if the "Alpha Signal" model can be productized as a **"No-Code Setup" web service**.
+
+## The Challenge (UX vs Engineering)
+*   **User Requirement**: "Customers shouldn't install n8n or download files."
+*   **Technical Implication**: We cannot ask users to run the backend. **We must host the backend.**
+
+## Architecture: "The Hosted Integration"
+1.  **Frontend (Web)**: Simple landing page (Next.js/Framer).
+    *   "Connect Notion" button (OAuth 2.0).
+    *   User selects *their* Notion page to sync.
+2.  **Backend (Centralized n8n/Serverless)**:
+    *   We run *one* big n8n instance (or AWS Lambda).
+    *   It stores User IDs + Notion Access Tokens in a database (Supabase).
+    *   **Cron Job**: Every morning, loop through all users -> Fetch their Portfolio -> Get AI Analysis -> Push to *their* Notion.
+
+## Feasibility Verdict: ✅ YES
+*   **Notion API**: Supports OAuth for public integrations (SaaS style).
+*   **Cost**: Hosting n8n is cheap ($5-10/mo). API calls (Stock Data) scale with users.
+*   **Complexity**: Medium. Requires building a "Connect" flow, not just a script.
+
+## Next Steps
+1.  Create `strategies/4_investment_saas_architecture.md`.
+2.  Attempt to create a *new* NotebookLM for this specific project.
+3.  Wait for user to return for login/auth.

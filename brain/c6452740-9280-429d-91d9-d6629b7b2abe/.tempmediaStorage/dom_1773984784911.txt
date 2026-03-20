@@ -1,0 +1,150 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (34,39)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (34,39)<yt-icon  />
+		[2] (34,39)<span  />
+			[3] (34,39)<div  />
+[4] (112,39)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (112,39)<div  />
+		[6] (112,38)<ytd-logo  />
+			[7] (112,39)<yt-icon  />
+				[8] (113,39)<span  />
+					[9] (113,39)<div  />
+KR
+[10] (445,39)<div  />
+	[11] (436,39)<form  />
+		[12] (436,39)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (622,39)<div  />
+		[14] (622,39)<ytd-text-input-assistant  />
+			[15] (622,39)<button class='ytdTextInputAssistantButton' />
+				[16] (622,39)<img  />
+[17] (671,39)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (671,39)<span  />
+		[19] (671,39)<span  />
+			[20] (671,39)<div  />
+[21] (736,39)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (736,39)<yt-touch-feedback-shape  />
+		[23] (736,39)<div  />
+[24] (814,39)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[25] (814,39)<yt-touch-feedback-shape  />
+		[26] (814,39)<div  />
+[27] (886,39)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (886,38)<yt-icon-badge-shape  />
+		[29] (886,39)<div  />
+			[30] (886,39)<div  />
+				[31] (886,39)<span  />
+[32] (942,39)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[33] (942,39)<yt-img-shadow  />
+		[34] (942,39)<img  />
+[35] (34,136)<a aria-label='홈' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='홈' />
+	[36] (34,123)<yt-icon  />
+	[37] (34,158)<span >홈 />
+[38] (34,239)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[39] (34,227)<yt-icon  />
+	[40] (34,262)<span >Shorts />
+[41] (34,343)<a aria-label='구독' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='구독' />
+	[42] (34,331)<yt-icon  />
+	[43] (34,366)<span >구독 />
+[44] (34,447)<a aria-label='내 페이지' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='내 페이지' />
+	[45] (34,434)<yt-icon  />
+	[46] (34,469)<span >내 페이지 />
+뉴스 2막
+@뉴스2막
+•
+구독자 7.02만명
+•
+동영상 31개
+[47] (573,426)<yt-description-preview-view-model  />
+	[48] (573,426)<truncated-text  />
+		[49] (573,426)<truncated-text-content  />
+			[50] (435,426)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>🗺️ 뉴스가 돈이 되는 지도, 펜으로 직접 그려드립니다. />
+		[51] (608,426)<button aria-label='설명: 🗺️ 뉴스가 돈이 되는 지도, 펜으로 직접 그... 탭하여 자세히 알아보세요.' class='yt-truncated-text__absolute-button' />
+			[52] (608,426)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text' />
+				[53] (608,426)<span >...더보기 />
+[54] (314,482)<button aria-label='뉴스 2막을(를) 구독합니다.' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--disable-text-ellipsis yt-spec-button-shape-next--enable-backdrop-filter-experiment'>구독 />
+	구독
+	[55] (314,482)<yt-touch-feedback-shape  />
+		[56] (314,482)<div  />
+[57] (141,557)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[58] (141,557)<div >홈 />
+[59] (210,557)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[60] (210,557)<div >동영상 />
+[61] (284,557)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[62] (284,557)<div >팟캐스트 />
+[63] (363,557)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[64] (363,557)<div >재생목록 />
+[65] (437,557)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[66] (437,557)<div >게시물 />
+[67] (577,557)<yt-tab-shape  />
+	[68] (502,557)<button aria-label='검색' class='style-scope yt-icon-button' id='button' />
+		[69] (502,557)<yt-icon  />
+			[70] (502,557)<span  />
+				[71] (502,557)<div  />
+[72] (156,636)<button aria-label='최신순' class='ytChipShapeButtonReset' role='tab' />
+	[73] (156,636)<div >최신순 />
+		최신순
+		[74] (156,636)<yt-touch-feedback-shape  />
+			[75] (156,636)<div  />
+[76] (223,636)<button aria-label='인기순' class='ytChipShapeButtonReset' role='tab' />
+	[77] (223,636)<div >인기순 />
+		인기순
+		[78] (223,636)<yt-touch-feedback-shape  />
+			[79] (223,636)<div  />
+[80] (291,636)<button aria-label='날짜순' class='ytChipShapeButtonReset' role='tab' />
+	[81] (291,636)<div >날짜순 />
+		날짜순
+		[82] (291,636)<yt-touch-feedback-shape  />
+			[83] (291,636)<div  />
+[84] (247,798)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=SzCC3koiaIc' id='thumbnail' />
+	[85] (247,899)<yt-image  />
+		[86] (247,798)<img  />
+	[87] (348,879)<ytd-thumbnail-overlay-time-status-renderer  />
+		[88] (350,879)<div  />
+			[89] (350,879)<badge-shape aria-label='11분 41초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[90] (350,879)<div >11:41 />
+[91] (247,957)<div  />
+	[92] (247,957)<div  />
+		[93] (236,949)<h3  />
+			[94] (236,949)<a aria-label='월가 사모펀드 5조 환매 충격. '가짜 AI 주식' 연쇄 부도 전 반드시 담아야 할 진짜 포식자 (5초 감별법) 11분 41초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=SzCC3koiaIc' id='video-title-link' title='월가 사모펀드 5조 환매 충격. '가짜 AI 주식' 연쇄 부도 전 반드시 담아야 할 진짜 포식자 (5초 감별법)' />
+				[95] (236,949)<yt-formatted-string >월가 사모펀드 5조 환매 충격. '가짜 AI 주식' 연쇄 부도 전 반드시 담아야 할 진짜 포식자 (5초 감별법) />
+		[96] (236,998)<ytd-video-meta-block  />
+			[97] (236,998)<div  />
+				[98] (236,998)<div  />
+					[99] (154,998)<span >조회수 3.9만회 />
+					[100] (211,998)<span >2일 전 />
+[101] (520,798)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=5QiVDDwXs44' id='thumbnail' />
+	[102] (520,899)<yt-image  />
+		[103] (520,798)<img  />
+	[104] (620,879)<ytd-thumbnail-overlay-time-status-renderer  />
+		[105] (622,879)<div  />
+			[106] (622,879)<badge-shape aria-label='16분 56초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[107] (622,879)<div >16:56 />
+[108] (520,957)<div  />
+	[109] (520,957)<div  />
+		[110] (508,949)<h3  />
+			[111] (508,949)<a aria-label='29억 주사 한 방에 '빅파마 패닉'. 1000조 제약업계 붕괴시킬 "다음 텐배거" (이곳에 돈 몰립니다) 16분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=5QiVDDwXs44' id='video-title-link' title='29억 주사 한 방에 '빅파마 패닉'. 1000조 제약업계 붕괴시킬 "다음 텐배거" (이곳에 돈 몰립니다)' />
+				[112] (508,949)<yt-formatted-string >29억 주사 한 방에 '빅파마 패닉'. 1000조 제약업계 붕괴시킬 "다음 텐배거" (이곳에 돈 몰립니다) />
+		조회수 2.2만회
+		6일 전
+[113] (792,798)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=BUZTHvapaJw' id='thumbnail' />
+	[114] (792,899)<yt-image  />
+		[115] (792,798)<img  />
+	[116] (893,879)<ytd-thumbnail-overlay-time-status-renderer  />
+		[117] (895,879)<div  />
+			[118] (895,879)<badge-shape aria-label='15분 15초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[119] (895,879)<div >15:15 />
+[120] (792,957)<div  />
+	[121] (792,957)<div  />
+		[122] (781,949)<h3  />
+			[123] (781,949)<a aria-label='모두가 전쟁 공포에 패닉할 때, 위기를 '완벽한 기회'로 바꾸는 상위 1%의 치트키 15분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=BUZTHvapaJw' id='video-title-link' title='모두가 전쟁 공포에 패닉할 때, 위기를 '완벽한 기회'로 바꾸는 상위 1%의 치트키' />
+				[124] (781,949)<yt-formatted-string >모두가 전쟁 공포에 패닉할 때, 위기를 '완벽한 기회'로 바꾸는 상위 1%의 치트키 />
+		[125] (781,998)<ytd-video-meta-block  />
+			[126] (781,998)<div  />
+				[127] (781,998)<div  />
+					[128] (699,998)<span >조회수 2.5만회 />
+					[129] (756,998)<span >9일 전 />
+
+</current_dom>

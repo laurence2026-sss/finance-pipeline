@@ -1,0 +1,2121 @@
+[
+  {
+    "id": "ab9d0859bcbfab92ed1f9493bcb8af12",
+    "source": "SemiAnalysis",
+    "source_type": "rss",
+    "title": "The Great AI Silicon Shortage",
+    "summary": "TSMC N3 Wafer Shortages, Memory Constraints, Datacenter Bottlenecks, Supply Chain Wars Winner",
+    "url": "https://newsletter.semianalysis.com/p/the-great-ai-silicon-shortage",
+    "published_at": "2026-03-12T15:20:37+00:00",
+    "collected_at": "2026-03-20T07:07:45.535327+00:00"
+  },
+  {
+    "id": "3bff48a0c681984f899df14f8917adea",
+    "source": "SemiAnalysis",
+    "source_type": "rss",
+    "title": "Are AI Datacenters Increasing Electric Bills for American Households?",
+    "summary": "Power prices misconception, PJM's poor market design, Capacity prices 9.3x growth,",
+    "url": "https://newsletter.semianalysis.com/p/are-ai-datacenters-increasing-electric",
+    "published_at": "2026-03-03T14:27:50+00:00",
+    "collected_at": "2026-03-20T07:07:45.537871+00:00"
+  },
+  {
+    "id": "f5d956e66ae87de7bb3533c9f39f38d4",
+    "source": "SemiAnalysis",
+    "source_type": "rss",
+    "title": "Vera Rubin – Extreme Co-Design: An Evolution from Grace Blackwell Oberon",
+    "summary": "Vera, Rubin, NVLink 6 Switch, ConnectX-9, BlueField-4, Spectrum-6, Seamless Cableless Compute Tray Design, Power Rack, VR NVL72 TCO and BoM",
+    "url": "https://newsletter.semianalysis.com/p/vera-rubin-extreme-co-design-an-evolution",
+    "published_at": "2026-02-25T18:40:00+00:00",
+    "collected_at": "2026-03-20T07:07:45.537871+00:00"
+  },
+  {
+    "id": "a97f19d47d4d3d603c160a3aec1aee37",
+    "source": "SemiAnalysis",
+    "source_type": "rss",
+    "title": "InferenceX v2: NVIDIA Blackwell Vs AMD vs Hopper - Formerly InferenceMAX",
+    "summary": "The Artist Known as InferenceMAX. GB300 NVL72, MI355X, B200, H100, Disaggregated Serving, Wide Expert Parallelism, Large Mixture of Experts, SGLang, vLLM, TRTLLM",
+    "url": "https://newsletter.semianalysis.com/p/inferencex-v2-nvidia-blackwell-vs",
+    "published_at": "2026-02-16T17:13:11+00:00",
+    "collected_at": "2026-03-20T07:07:45.537871+00:00"
+  },
+  {
+    "id": "e1b32bdcee71087d257666abdb62287b",
+    "source": "SemiAnalysis",
+    "source_type": "rss",
+    "title": "CPUs are Back: The Datacenter CPU Landscape in 2026",
+    "summary": "RL and Agent Usage, Context Memory Storage, DRAM Pricing Impacts, CPU Interconnect Evolution, AMD Venice, Verano, Florence, Intel Diamond Rapids, Coral Rapids, Arm Phoenix + Venom, Graviton 5, Axion",
+    "url": "https://newsletter.semianalysis.com/p/cpus-are-back-the-datacenter-cpu",
+    "published_at": "2026-02-09T18:18:04+00:00",
+    "collected_at": "2026-03-20T07:07:45.537871+00:00"
+  },
+  {
+    "id": "77eb05cf1fce068bb68ccd9c454fefd0",
+    "source": "SemiAnalysis",
+    "source_type": "rss",
+    "title": "Memory Mania: How a Once-in-Four-Decades Shortage Is Fueling a Memory Boom",
+    "summary": "Pricing doubles again, Supercycle is bigger, and could last longer than you think",
+    "url": "https://newsletter.semianalysis.com/p/memory-mania-how-a-once-in-four-decades",
+    "published_at": "2026-02-06T16:10:46+00:00",
+    "collected_at": "2026-03-20T07:07:45.537871+00:00"
+  },
+  {
+    "id": "c2a3999a262f4fed987a2a9907852070",
+    "source": "SemiAnalysis",
+    "source_type": "rss",
+    "title": "Claude Code is the Inflection Point",
+    "summary": "What It Is, How We Use It, Industry Repercussions, Microsoft's Dilemma, Why Anthropic Is Winning",
+    "url": "https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point",
+    "published_at": "2026-02-05T18:56:39+00:00",
+    "collected_at": "2026-03-20T07:07:45.537871+00:00"
+  },
+  {
+    "id": "58a47ef70de8753b4191ea7bb9747552",
+    "source": "SemiAnalysis",
+    "source_type": "rss",
+    "title": "From Tokens to Burgers: A Water Footprint Face-Off",
+    "summary": "A different perspective on the datacenter water debate, forget tokens/watt or tokens/dollar, it's about tokens/burger, how many In-N-Outs is equivalent to the world's largest datacenter",
+    "url": "https://newsletter.semianalysis.com/p/from-tokens-to-burgers-a-water-footprint",
+    "published_at": "2026-01-15T18:54:49+00:00",
+    "collected_at": "2026-03-20T07:07:45.537871+00:00"
+  },
+  {
+    "id": "acb30dfaa22e05125b4d76879a18c210",
+    "source": "SemiAnalysis",
+    "source_type": "rss",
+    "title": "Interconnects Beyond Copper, 1,000 CFETs, SK Hynix Next-Gen NAND, 2D Materials, and More",
+    "summary": "IEDM 2025 Round-Up",
+    "url": "https://newsletter.semianalysis.com/p/interconnects-beyond-copper-1000",
+    "published_at": "2026-01-13T19:03:36+00:00",
+    "collected_at": "2026-03-20T07:07:45.537871+00:00"
+  },
+  {
+    "id": "dd72b2e9eded2e6d537cf5f70e18ae4e",
+    "source": "SemiAnalysis",
+    "source_type": "rss",
+    "title": "Apple-TSMC: The Partnership That Built Modern Semiconductors",
+    "summary": "Wafer demand model, node economics, and the shifting power dynamics as AI reshapes the foundry landscape",
+    "url": "https://newsletter.semianalysis.com/p/apple-tsmc-the-partnership-that-built",
+    "published_at": "2026-01-08T17:52:16+00:00",
+    "collected_at": "2026-03-20T07:07:45.537871+00:00"
+  },
+  {
+    "id": "503da90c775254a274472c265daf7254",
+    "source": "Asianometry",
+    "source_type": "rss",
+    "title": "An Interview with Stratechery; A New Start",
+    "summary": "I got interviewed by Ben Thompson of Stratechery. I also want to talk a change.",
+    "url": "https://www.asianometry.com/p/an-interview-with-stratechery-a-new",
+    "published_at": "2025-01-21T03:30:53+00:00",
+    "collected_at": "2026-03-20T07:07:46.366816+00:00"
+  },
+  {
+    "id": "b79efabb4efcc0eb7953584c7f2aa4f8",
+    "source": "Asianometry",
+    "source_type": "rss",
+    "title": "Looking Back at 2024",
+    "summary": "Can you imagine it?",
+    "url": "https://www.asianometry.com/p/looking-back-at-2024",
+    "published_at": "2024-12-31T22:00:51+00:00",
+    "collected_at": "2026-03-20T07:07:46.366816+00:00"
+  },
+  {
+    "id": "d7514da623a1c003456ec35ab9deda0c",
+    "source": "Asianometry",
+    "source_type": "rss",
+    "title": "Nvidia's Unique History and Culture",
+    "summary": "An interview with Tae Kim, author of the \"Nvidia Way\"",
+    "url": "https://www.asianometry.com/p/nvidias-unique-history-and-culture",
+    "published_at": "2024-12-06T18:26:51+00:00",
+    "collected_at": "2026-03-20T07:07:46.366816+00:00"
+  },
+  {
+    "id": "b15887256b5ef9d6d63f5e75ee988107",
+    "source": "Asianometry",
+    "source_type": "rss",
+    "title": "The Big Data Center Water Problem",
+    "summary": "A datacenter with 15 megawatts of IT capacity is estimated to use about 80-130 million gallons of water each year.",
+    "url": "https://www.asianometry.com/p/the-big-data-center-water-problem",
+    "published_at": "2024-11-20T18:01:06+00:00",
+    "collected_at": "2026-03-20T07:07:46.366816+00:00"
+  },
+  {
+    "id": "d577750ed55df68a0f812c9fd113ceca",
+    "source": "Asianometry",
+    "source_type": "rss",
+    "title": "How Sony Mastered the Transistor",
+    "summary": "Last month&#8217;s AiSalon was quite fun.",
+    "url": "https://www.asianometry.com/p/how-sony-mastered-the-transistor",
+    "published_at": "2024-11-07T18:01:58+00:00",
+    "collected_at": "2026-03-20T07:07:46.366816+00:00"
+  },
+  {
+    "id": "461845de4af2936ddbb13ff0d9934c15",
+    "source": "Asianometry",
+    "source_type": "rss",
+    "title": "EUV With Fewer Mirrors?",
+    "summary": "Has it really been so long since I last did a newsletter?",
+    "url": "https://www.asianometry.com/p/euv-with-fewer-mirrors",
+    "published_at": "2024-10-28T18:01:42+00:00",
+    "collected_at": "2026-03-20T07:07:46.366816+00:00"
+  },
+  {
+    "id": "b4a01fcdc4707110a645b5419d5407ae",
+    "source": "Asianometry",
+    "source_type": "rss",
+    "title": "The Creation of STMicroelectronics",
+    "summary": "Two semiconductor companies.",
+    "url": "https://www.asianometry.com/p/the-creation-of-stmicroelectronics",
+    "published_at": "2024-08-31T10:02:15+00:00",
+    "collected_at": "2026-03-20T07:07:46.366816+00:00"
+  },
+  {
+    "id": "36862da963d49c0d8816011c214501e8",
+    "source": "Asianometry",
+    "source_type": "rss",
+    "title": "The $600 Billion AI Chip Giant",
+    "summary": "Note: All I would like to point out is that Broadcom&#8217;s market cap is $771 billon now.",
+    "url": "https://www.asianometry.com/p/the-600-billion-ai-chip-giant",
+    "published_at": "2024-08-20T19:01:20+00:00",
+    "collected_at": "2026-03-20T07:07:46.366816+00:00"
+  },
+  {
+    "id": "1cb29c5fda3420f10bf74b454899eb46",
+    "source": "Asianometry",
+    "source_type": "rss",
+    "title": "What’s Next For ASML?",
+    "summary": "See the video below:",
+    "url": "https://www.asianometry.com/p/whats-next-for-asml",
+    "published_at": "2024-06-16T18:04:53+00:00",
+    "collected_at": "2026-03-20T07:07:46.366816+00:00"
+  },
+  {
+    "id": "636b1c9656245db430b3f1e008ed26bf",
+    "source": "Asianometry",
+    "source_type": "rss",
+    "title": "Why Brain-like Computers Are Hard",
+    "summary": "Computers that run the Von Neumann architecture store their programs and data in the same memory bank.",
+    "url": "https://www.asianometry.com/p/why-brain-like-computers-are-hard",
+    "published_at": "2024-04-29T18:00:50+00:00",
+    "collected_at": "2026-03-20T07:07:46.366816+00:00"
+  },
+  {
+    "id": "b8f6c660d01e39e2be840435eec8a319",
+    "source": "The Transcript",
+    "source_type": "rss",
+    "title": "Catalyst Watch",
+    "summary": "Welcome to Catalyst Watch at The Transcript, where we distill the most important themes emerging from last week&#8217;s earnings calls.",
+    "url": "https://thetranscript.substack.com/p/03-17-2026-catalyst-watch",
+    "published_at": "2026-03-17T12:02:57+00:00",
+    "collected_at": "2026-03-20T07:07:46.543745+00:00"
+  },
+  {
+    "id": "2af738b4632fd2c0fdecba8f747ac427",
+    "source": "The Transcript",
+    "source_type": "rss",
+    "title": "Wild Card",
+    "summary": "\"The war in the Middle East is a wild card...we&#8217;ll just have to wait and see.\"",
+    "url": "https://thetranscript.substack.com/p/03-16-2026-wild-card",
+    "published_at": "2026-03-16T12:03:17+00:00",
+    "collected_at": "2026-03-20T07:07:46.543745+00:00"
+  },
+  {
+    "id": "c1ab6998ce05f2785d47358713c76619",
+    "source": "The Transcript",
+    "source_type": "rss",
+    "title": "How Long Will it Last?",
+    "summary": "\"Is it going to look &#8288;more like Russia-Ukraine, or is it going to look more like Hamas attacking Israel?\"",
+    "url": "https://thetranscript.substack.com/p/03-09-2026-how-long-will-it-last",
+    "published_at": "2026-03-09T13:06:44+00:00",
+    "collected_at": "2026-03-20T07:07:46.543745+00:00"
+  },
+  {
+    "id": "e409eb38199355fdeb1162fbdd66a417",
+    "source": "The Transcript",
+    "source_type": "rss",
+    "title": "The Agentic Inflection",
+    "summary": "NVDA: The world is now awakened to the agentic AI inflection",
+    "url": "https://thetranscript.substack.com/p/03-02-2026-the-agentic-inflection",
+    "published_at": "2026-03-02T12:20:23+00:00",
+    "collected_at": "2026-03-20T07:07:46.543745+00:00"
+  },
+  {
+    "id": "1395d6b6f397bd231221060786b9f678",
+    "source": "The Transcript",
+    "source_type": "rss",
+    "title": "Struck Down",
+    "summary": "\"IEEPA does not authorize the President to impose tariffs...\"",
+    "url": "https://thetranscript.substack.com/p/02-23-2026-struck-down",
+    "published_at": "2026-02-23T12:33:27+00:00",
+    "collected_at": "2026-03-20T07:07:46.543745+00:00"
+  },
+  {
+    "id": "e8a5ccaefbc7afed65891a092d289ab1",
+    "source": "The Transcript",
+    "source_type": "rss",
+    "title": "Feeling Pretty Good",
+    "summary": "The macro setup is very good, broadly",
+    "url": "https://thetranscript.substack.com/p/02-17-2026-feeling-pretty-good",
+    "published_at": "2026-02-17T12:16:02+00:00",
+    "collected_at": "2026-03-20T07:07:46.543745+00:00"
+  },
+  {
+    "id": "e616571bdf54eb5c012622f89edac770",
+    "source": "The Transcript",
+    "source_type": "rss",
+    "title": "Software Bust?",
+    "summary": "There&#8217;s a whole bunch of software companies whose stock prices are under a lot of pressure",
+    "url": "https://thetranscript.substack.com/p/02-09-2026-software-bust",
+    "published_at": "2026-02-09T12:03:09+00:00",
+    "collected_at": "2026-03-20T07:07:46.543745+00:00"
+  },
+  {
+    "id": "782fcc3b6d7f2aff74cd02c6390d2068",
+    "source": "The Transcript",
+    "source_type": "rss",
+    "title": "A New Sheriff",
+    "summary": "Trump nominates Kevin Warsh as the next Fed Chair",
+    "url": "https://thetranscript.substack.com/p/02-02-2026-a-new-sheriff",
+    "published_at": "2026-02-02T12:46:07+00:00",
+    "collected_at": "2026-03-20T07:07:46.543745+00:00"
+  },
+  {
+    "id": "59cff786c439abe3d6dc86cae13c52c2",
+    "source": "The Transcript",
+    "source_type": "rss",
+    "title": "So Much Work to Do",
+    "summary": "The current AI landscape is ferociously competitive",
+    "url": "https://thetranscript.substack.com/p/01-26-2026-so-much-work-to-do",
+    "published_at": "2026-01-26T12:30:37+00:00",
+    "collected_at": "2026-03-20T07:07:46.543745+00:00"
+  },
+  {
+    "id": "57770264647935d5ac24238276731daa",
+    "source": "The Transcript",
+    "source_type": "rss",
+    "title": "Tailwinds",
+    "summary": "Well-capitalized corporates and higher-end consumers are driving the economy forward",
+    "url": "https://thetranscript.substack.com/p/01-20-2026-tailwinds",
+    "published_at": "2026-01-20T13:03:23+00:00",
+    "collected_at": "2026-03-20T07:07:46.543745+00:00"
+  },
+  {
+    "id": "9f7076a4fefd924851994a138d7b0987",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Out Of The BDC, Into The CLO: World's Largest Private Credit Fund Repacking Loans As Bonds Hoping To Find New Investors",
+    "summary": "Out Of The BDC, Into The CLO: World's Largest Private Credit Fund Repacking Loans As Bonds Hoping To Find New Investors\n\n            When a motley crew of private credit loans (mostly to software companies) are all mixed in and thrown together into a messy melange known as a Business Development Company, then quietly all go sour and spark a redemption run, what's the frazzled investor to do? Why take them out of the melange, put them into a different wrapper, changing nothing except the name and",
+    "url": "https://www.zerohedge.com/markets/out-bdc-clo-worlds-largest-private-credit-fund-repacking-loans-bonds-hoping-find-new",
+    "published_at": "2026-03-20T04:55:57+00:00",
+    "collected_at": "2026-03-20T07:07:48.518432+00:00"
+  },
+  {
+    "id": "0ecbc87b734eb83bfa4a0dc32d2bbdd5",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "The Ultimate Race Hoax",
+    "summary": "The Ultimate Race Hoax\n\n            Authored by Scott Greer via American Greatness,\n\nIt was a case that captured the nation’s attention 20 years ago. In March of 2006, a black stripper accused three members of Duke University’s nearly all-white lacrosse team of rape. The only evidence for the crime was her own testimony, which changed repeatedly. It didn’t matter that every other eyewitness disputed the rape claim. An opportunistic district attorney, a vengeful cop, a feminist nurse, and a raven",
+    "url": "https://www.zerohedge.com/political/ultimate-race-hoax",
+    "published_at": "2026-03-20T03:30:00+00:00",
+    "collected_at": "2026-03-20T07:07:48.518432+00:00"
+  },
+  {
+    "id": "960d45ecf06b2198b36aae36790aba8e",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Pakistan Outraged At Being Called An Emerging Missile Threat To US By DNI Gabbard",
+    "summary": "Pakistan Outraged At Being Called An Emerging Missile Threat To US By DNI Gabbard\n\n            The US declared Pakistan a major non-NATO ally all the way back in 2004, but relations have soured at various points since then. But given Pakistan does indeed remain a close regional ally, which is also nuclear-armed, the country is outraged at Wednesday's Senate Intelligence hearing wherein Director of National Intelligence (DNI) Tulsi Gabbard raised some eyebrows over a new 'missile threat'.\n\nShe fo",
+    "url": "https://www.zerohedge.com/geopolitical/pakistan-outraged-being-called-emerging-missile-threat-us-dni-gabbard",
+    "published_at": "2026-03-20T03:05:00+00:00",
+    "collected_at": "2026-03-20T07:07:48.518432+00:00"
+  },
+  {
+    "id": "24c64007ee79f9a616cb84d0a06eaa11",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Why Is Australia Not Already Rationing Fuel?",
+    "summary": "Why Is Australia Not Already Rationing Fuel?\n\n            Authored by 'Fast Eddy' via 'The World according to Fast Eddy' substack,\n\nI’m an Australian Wholesale Fuel Trader\n\nAn insider's explanation of what is going on...\n\nThe commentary below was lifted from a Reddit post.\n\nOther than the issues I have already raised in previous articles How Is Iran Blocking and Mining Hormuz? And so it begins.... the question I am asking after reading this analysis is:\n\nWhy is Australia Not Already Rationing Fu",
+    "url": "https://www.zerohedge.com/energy/why-australia-not-already-rationing-fuel",
+    "published_at": "2026-03-20T02:40:00+00:00",
+    "collected_at": "2026-03-20T07:07:48.518432+00:00"
+  },
+  {
+    "id": "97b1fa010dfcc4e71b24a454eff46cdb",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Comey Subpoenaed For Alleged 'Grand Conspiracy' Against Trump",
+    "summary": "Comey Subpoenaed For Alleged 'Grand Conspiracy' Against Trump\n\n            Former FBI Director James Comey has been slapped with a subpoena as part of a wide-ranging case against Obama-Biden-era officials who helped frame Donald Trump is a Russian asset in a \"grand conspiracy.\" \n\n\n\nThe grand jury subpoena, issued last week by the U.S. Attorney’s Office for the Southern District of Florida, focuses on Comey’s role in the preparation of the January 2017 Intelligence Community Assessment that concl",
+    "url": "https://www.zerohedge.com/political/comey-subpoenaed-grand-conspiracy-investigation-against-trump",
+    "published_at": "2026-03-20T02:15:00+00:00",
+    "collected_at": "2026-03-20T07:07:48.518432+00:00"
+  },
+  {
+    "id": "a66a022ed4be5c4a17d3ac95725df6e0",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Disclosure? US Government Registers Aliens.gov Domain",
+    "summary": "Disclosure? US Government Registers Aliens.gov Domain\n\n            Authored by Steve Watson via Modernity.news,\n\nThe momentum behind President Trump’s drive to expose hidden UAP files continues to build, now underscored by fresh reminders of why such secrets have been buried for decades.\n\n\n\nThe Executive Office of the President has registered the aliens.gov domain, a quiet but unmistakable step toward a potential public portal for declassified materials on unidentified anomalous phenomena.\n\nThis",
+    "url": "https://www.zerohedge.com/technology/disclosure-us-government-registers-aliensgov-domain",
+    "published_at": "2026-03-20T01:50:00+00:00",
+    "collected_at": "2026-03-20T07:07:48.518432+00:00"
+  },
+  {
+    "id": "f000b5bb4932f69ef108f10e4efb13cb",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Netanyahu Declares Iran's Nuclear Program & Missile Production \"Destroyed\" - Denies Israel Influenced Trump",
+    "summary": "Netanyahu Declares Iran's Nuclear Program & Missile Production \"Destroyed\" - Denies Israel Influenced Trump\n\n            Summary\n\n\n\tNetanyahu: Iran can no longer enrich Uranium; missile production destroyed; says Israel acted alone against Pars oil field; claims Trump was not influenced by Israel to go to war.\n\t\n\t\n\tF-35 stealth jet takes on Iranian fire, emergency landing: CNN\n\t\n\t\n\tTrump dials up threat, seeking leverage, denies approving Israeli Pars strikes; however, reports from The Wall Stre",
+    "url": "https://www.zerohedge.com/geopolitical/trump-threatens-blow-worlds-largest-gas-field-distances-us-israeli-actions-macron",
+    "published_at": "2026-03-20T01:31:00+00:00",
+    "collected_at": "2026-03-20T07:07:48.518432+00:00"
+  },
+  {
+    "id": "b05eda0f2f90e9678c9bac2d137e18da",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Kent Tells Tucker: 'Imminent Threat' Was From Israel, Not Iran; Ordered To Halt Charlie Kirk Investigation",
+    "summary": "Kent Tells Tucker: 'Imminent Threat' Was From Israel, Not Iran; Ordered To Halt Charlie Kirk Investigation\n\n            Joe Kent, former Director of the National Counterterrorism Center who was President Trump’s principal counterterrorism advisor, appeared on Tucker Carlson's show to explain his side of the story after stepping down from the administration.\n\n\n\nKent announced his resignation Tuesday, citing his opposition to the ongoing U.S. war with Iran, and his belief that Iran posed \"no immin",
+    "url": "https://www.zerohedge.com/political/kent-tells-tucker-imminent-threat-was-israel-not-iran-ordered-halt-charlie-kirk",
+    "published_at": "2026-03-20T01:25:00+00:00",
+    "collected_at": "2026-03-20T07:07:48.518432+00:00"
+  },
+  {
+    "id": "e4dba583f06760bd8dfa6b9f80b86063",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "SoCal Heat-Wave Prompts Health Warning Of High Bacteria Levels At Los Angeles Beaches",
+    "summary": "SoCal Heat-Wave Prompts Health Warning Of High Bacteria Levels At Los Angeles Beaches\n\n            Authored by Jack Phillips via The Epoch Times,\n\nHealth officials warned that some Southern California beaches may be unsafe for swimming due to elevated bacterial levels this week amid elevated temperatures across the region.\n\n\n\nThe Los Angeles County Department of Public Health on March 18 said that visitors should avoid swimming, surfing, or playing in the ocean waters between Malibu and Santa Mo",
+    "url": "https://www.zerohedge.com/weather/socal-heat-wave-prompts-warning-high-bacteria-levels-los-angeles-beaches",
+    "published_at": "2026-03-20T01:00:00+00:00",
+    "collected_at": "2026-03-20T07:07:48.518432+00:00"
+  },
+  {
+    "id": "d7f95a34cab88d1a4b373486c9dd0efb",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Bezos Plots Colossal $100 Billion Fund To Transform Companies Using AI: WSJ",
+    "summary": "Bezos Plots Colossal $100 Billion Fund To Transform Companies Using AI: WSJ\n\n            Amazon founder Jeff Bezos is in early discussions to raise as much as $100 billion for a new investment vehicle aimed at acquiring and revitalizing manufacturing companies through the application of artificial intelligence, according to the Wall Street Journal.\n\n\n\nThe proposed fund, described in investor materials as a “manufacturing transformation vehicle,” would target companies in strategic industrial sec",
+    "url": "https://www.zerohedge.com/ai/bezos-plots-colossal-100-billion-fund-transform-companies-using-ai-wsj",
+    "published_at": "2026-03-20T00:35:00+00:00",
+    "collected_at": "2026-03-20T07:07:48.518432+00:00"
+  },
+  {
+    "id": "0e4dbb042f867f3752d8b9930d549cfb",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Political influence ‘a serious problem’ for FDA under Trump, former commissioner says",
+    "summary": "“What's changed now is that there's a view in this administration that everything is political,” said Robert Califf, former FDA commissioner.",
+    "url": "https://www.statnews.com/2026/03/19/political-influence-serious-problem-fda-former-commissioner-robert-califf/?utm_campaign=rss",
+    "published_at": "2026-03-20T00:54:44+00:00",
+    "collected_at": "2026-03-20T07:07:49.574124+00:00"
+  },
+  {
+    "id": "f6998ed449a06204934e2f74fc4d0f7e",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "Judge will rule against Kennedy’s declaration on gender-affirming care",
+    "summary": "A U.S. district judge said he will vacate a declaration by Kennedy that asserted gender-affirming care for young trans people does not meet medical standards of care.",
+    "url": "https://www.statnews.com/2026/03/19/judge-vacates-kennedy-gender-affirming-care-declaration/?utm_campaign=rss",
+    "published_at": "2026-03-20T00:28:45+00:00",
+    "collected_at": "2026-03-20T07:07:49.574124+00:00"
+  },
+  {
+    "id": "bb9acaa593f60604254863e678909a51",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "Drug development is booming in China. Should the U.S. view it as a threat or an opportunity?",
+    "summary": "If the U.S. wants to hold on to its title as the world's top biotech innovator, it might want to take a page out of China's book, a pioneer in&#8230;",
+    "url": "https://www.statnews.com/2026/03/19/american-gene-therapy-leadership-challenged-speedy-china-trials/?utm_campaign=rss",
+    "published_at": "2026-03-19T23:19:25+00:00",
+    "collected_at": "2026-03-20T07:07:49.574124+00:00"
+  },
+  {
+    "id": "60cdfafb3764d53694069c142f10fb64",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "Independent autism committee kicks off efforts to counter RFK Jr., influence Congress",
+    "summary": "A group of autism scientists kicked off efforts Thursday to influence Congress, and the research agendas of private organizations.",
+    "url": "https://www.statnews.com/2026/03/19/autism-scientists-organize-alternative-to-rfk-jr-advisors/?utm_campaign=rss",
+    "published_at": "2026-03-19T22:57:43+00:00",
+    "collected_at": "2026-03-20T07:07:49.574124+00:00"
+  },
+  {
+    "id": "a6f6abc2beacaad793446c279ea67ca2",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Trump’s Medicare director seeks to rein in expectations for TrumpRx",
+    "summary": "The Trump administration is counting on its drug pricing efforts to help with the midterm elections.",
+    "url": "https://www.statnews.com/2026/03/19/chris-klomp-hhs-medicare-discusses-mfn-drug-pricing-trumprx/?utm_campaign=rss",
+    "published_at": "2026-03-19T21:11:10+00:00",
+    "collected_at": "2026-03-20T07:07:49.574124+00:00"
+  },
+  {
+    "id": "15c14974af2c6f3288a0183e963a196f",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Democrats prepare for health care overhaul",
+    "summary": "Democrats are outlining a new vision for the health care system ahead of the midterms.",
+    "url": "https://www.statnews.com/2026/03/19/democrats-prepare-for-health-care-overhaul-dc-diagnosis-newsletter/?utm_campaign=rss",
+    "published_at": "2026-03-19T17:02:12+00:00",
+    "collected_at": "2026-03-20T07:07:49.574124+00:00"
+  },
+  {
+    "id": "2e4c48e0de09e0359b3b34ff8f2e38e7",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Novo Nordisk’s high-dose Wegovy approved in the U.S.",
+    "summary": "A high-dose version of Novo Nordisk’s injectable obesity drug Wegovy received U.S. approval.",
+    "url": "https://www.statnews.com/2026/03/19/wegovy-novo-norisk-high-dose-approved/?utm_campaign=rss",
+    "published_at": "2026-03-19T16:21:12+00:00",
+    "collected_at": "2026-03-20T07:07:49.574124+00:00"
+  },
+  {
+    "id": "de96beeccfc2fd381c937497fa1d9e18",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Eli Lilly’s ‘triple-G’ shows potency, raises concerns",
+    "summary": "Eli Lilly's 'triple-G' drug shows potency, In-vivo CAR-T inches toward clinical reality, and more in today's Readout newsletter.",
+    "url": "https://www.statnews.com/2026/03/19/eli-lilly-retatrutide-in-vivo-cart-readout-newsletter/?utm_campaign=rss",
+    "published_at": "2026-03-19T14:10:40+00:00",
+    "collected_at": "2026-03-20T07:07:49.574124+00:00"
+  },
+  {
+    "id": "d55075e7d6b0efcc8fbfeb69d50a9330",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: A biotech turns to Apple Watch to study its Parkinson’s drug",
+    "summary": "In this edition of STAT Health Tech: How Apple Watch is being used in a clinical trial for a Parkinson's drug, and more",
+    "url": "https://www.statnews.com/2026/03/19/biotech-uses-apple-watch-parkinsons-drug-study-health-tech/?utm_campaign=rss",
+    "published_at": "2026-03-19T13:48:39+00:00",
+    "collected_at": "2026-03-20T07:07:49.574124+00:00"
+  },
+  {
+    "id": "d8c5727f9efeb950daac982b94992c5b",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "Did we undercount Covid deaths by 155,000?",
+    "summary": "In today's Morning Rounds newsletter: the precarious state of U.S. science, what we take for granted about vaccines, and more.",
+    "url": "https://www.statnews.com/2026/03/19/covid-deaths-undercount-scientists-trump-cuts-morning-rounds/?utm_campaign=rss",
+    "published_at": "2026-03-19T13:28:11+00:00",
+    "collected_at": "2026-03-20T07:07:49.574124+00:00"
+  },
+  {
+    "id": "a1c5cefec7ed5cd8451eb87a35cc19bf",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Novo uses FDA voucher to win speedy approval of higher-dose Wegovy",
+    "summary": "The clearance, issued 54 days after an approval submission, gives Novo another chance to claw back market share from Eli Lilly.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/novo-high-dose-wegovy-fda-approval-voucher-obesity/815235/",
+    "published_at": "2026-03-19T18:09:00+00:00",
+    "collected_at": "2026-03-20T07:07:50.091030+00:00"
+  },
+  {
+    "id": "c98cf249cff394000a6d523e7f10a6c3",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Lilly’s three-pronged obesity drug hits goal in large diabetes trial",
+    "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
+    "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
+    "published_at": "2026-03-19T16:15:00+00:00",
+    "collected_at": "2026-03-20T07:07:50.091030+00:00"
+  },
+  {
+    "id": "d2a540b06ebc0a5d21f55cd1f75c348d",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Pfizer aims for wider use of PARP drug in prostate cancer with new data",
+    "summary": "While sales of Talzenna, which Pfizer acquired in a $14 billion deal, have been &ldquo;negligible&rdquo; so far, the new results should justify use in earlier lines of care, one analyst said.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/pfizer-talzenna-prostate-parp-early-talapro-study-results/815180/",
+    "published_at": "2026-03-19T15:37:00+00:00",
+    "collected_at": "2026-03-20T07:07:50.091030+00:00"
+  },
+  {
+    "id": "25c735fdd3dba6e74dcd3898e350d5cd",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "A biotech VC sees early signs of a turnaround for startups",
+    "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said&nbsp;Sant&eacute; Ventures&rsquo; Omar Khalil.",
+    "url": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
+    "published_at": "2026-03-19T13:40:00+00:00",
+    "collected_at": "2026-03-20T07:07:50.091030+00:00"
+  },
+  {
+    "id": "e9cedfc14e03514318cdb27fb44c7fa0",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "AstraZeneca to boost cell therapy capabilities with new China investment",
+    "summary": "The planned Shanghai facility extends a yearslong push into the field and will support CAR-T therapies AstraZeneca is making for autoimmune disease and cancer.",
+    "url": "https://www.biopharmadive.com/news/astrazeneca-cell-therapy-china-shanghai-biotech/815159/",
+    "published_at": "2026-03-19T11:22:00+00:00",
+    "collected_at": "2026-03-20T07:07:50.091030+00:00"
+  },
+  {
+    "id": "fc62c73811d3b486e091ae8e3f00f8ff",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "RBC: Revolution, Xenon, Arrowhead among top takeover targets",
+    "summary": "As part of a larger review, analyst Leonid Timashev identified 13 companies that could see deal interest as well as more than half a dozen poised to be potential buyers.",
+    "url": "https://www.biopharmadive.com/news/biotech-takeover-targets-rbc-mergers-acquisitions-deals/815061/",
+    "published_at": "2026-03-18T16:14:00+00:00",
+    "collected_at": "2026-03-20T07:07:50.091030+00:00"
+  },
+  {
+    "id": "5606305bc9108222deb544fedcbde903",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "J&J wins FDA nod for psoriasis pill that aims to compete with top-selling injections",
+    "summary": "The clearance is the first for an oral peptide that blocks IL-23, the target of popular medicines like Skyrizi and Tremfya.&nbsp;J&J has said the new drug, Icotyde, has the potential to top $5 billion in sales.",
+    "url": "https://www.biopharmadive.com/news/jnj-psoriasis-pill-il-23-icotyde-fda-approval/815076/",
+    "published_at": "2026-03-18T16:05:00+00:00",
+    "collected_at": "2026-03-20T07:07:50.091030+00:00"
+  },
+  {
+    "id": "ba658aa830ba351b6a99c331f139ffe2",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Aspen’s fresh Parkinson’s data; Aldeyra tanks following FDA rejection",
+    "summary": "Aspen Neuroscience presented positive Phase 1/2 data for its stem cell-derived therapy. Elsewhere, Aldeyra lost over half its market value following a rejection from the FDA.",
+    "url": "https://www.biopharmadive.com/news/aspen-aldeyra-fda-rhythm-mestag/814969/",
+    "published_at": "2026-03-18T15:45:00+00:00",
+    "collected_at": "2026-03-20T07:07:50.091030+00:00"
+  },
+  {
+    "id": "fb6a3bad8298bcf849ee77da312f3121",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Crossbow raises $77M for new cancer immunotherapies",
+    "summary": "Backed by more than a dozen investors, the biotech startup will use the funding to further a Phase 1 trial of its lead program CBX-250.",
+    "url": "https://www.biopharmadive.com/news/crossbow-cancer-immunotherapies-tce-series-b/815049/",
+    "published_at": "2026-03-18T14:11:52+00:00",
+    "collected_at": "2026-03-20T07:07:50.091030+00:00"
+  },
+  {
+    "id": "13d6ea44b19da2579a7c567c7d2b8a7c",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Chinese biotech startup Excalipoint banks $69M for next-gen T cell engagers",
+    "summary": "The funding, which ranks as one of the largest of its kind for a China-based drug startup, will support a portfolio of multifaceted antibodies the company believes to be advances over existing treatments.",
+    "url": "https://www.biopharmadive.com/news/excalipoint-biotech-startup-china-t-cell-engagers/814829/",
+    "published_at": "2026-03-18T12:00:00+00:00",
+    "collected_at": "2026-03-20T07:07:50.091030+00:00"
+  },
+  {
+    "id": "bb63f21464e96f921170918f473793c6",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/embecta-buy-auto-injector-maker-owen-mumford-200m-diversify-beyond-insulin\" hreflang=\"en\">Embecta to buy auto-injector maker Owen Mumford for $200M to diversify beyond insulin</a>",
+    "summary": "Embecta has agreed to pay 100 million pounds sterling upfront for the company, or about $134.3 million, plus another 50 million pounds in sales milestones.",
+    "url": "https://www.fiercebiotech.com/medtech/embecta-buy-auto-injector-maker-owen-mumford-200m-diversify-beyond-insulin",
+    "published_at": "2026-03-20T07:07:50.167771+00:00",
+    "collected_at": "2026-03-20T07:07:50.167771+00:00"
+  },
+  {
+    "id": "cd38d8d97f3f73067ac5cbbf8bb0f71c",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/genentech-shreds-ripk1-inhibitor-pipeline-after-early-ph-2-failure\" hreflang=\"en\">Genentech shreds RIPK1 inhibitor from pipeline after early ph. 2 failure</a>",
+    "summary": "Genentech has elected to stop a phase 2 trial of a RIPK1 inhibitor early and dump the asset after an analysis revealed the candidate was unlikely to meet the study’s primary endpoint.",
+    "url": "https://www.fiercebiotech.com/biotech/genentech-shreds-ripk1-inhibitor-pipeline-after-early-ph-2-failure",
+    "published_at": "2026-03-20T07:07:50.167771+00:00",
+    "collected_at": "2026-03-20T07:07:50.167771+00:00"
+  },
+  {
+    "id": "7aa3fa82d8d1bd3dd4570ee4ce06b073",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-adds-seagen-scrap-heap-another-early-cancer-candidate-cull\" hreflang=\"en\">Pfizer adds to Seagen scrap heap with another early cancer candidate cull</a>",
+    "summary": "About a month after Pfizer CEO Albert Bourla, Ph.D., told investors that the Big Pharma’s pipeline pruning was mostly done, the company has trimmed another branch. Pfizer has scrapped a phase 1 antibody-drug conjugate that was being tested in solid tumors, a company spokesperson confirmed to Fierce Biotech.",
+    "url": "https://www.fiercebiotech.com/biotech/pfizer-adds-seagen-scrap-heap-another-early-cancer-candidate-cull",
+    "published_at": "2026-03-20T07:07:50.167771+00:00",
+    "collected_at": "2026-03-20T07:07:50.167771+00:00"
+  },
+  {
+    "id": "727a9c1c930edf0f482eb8895a934c49",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/cro/syneos-health-scoops-chinese-cro-secure-place-rapidly-growing-market\" hreflang=\"en\">Syneos Health scoops up Chinese CRO to secure place in ‘rapidly growing market’</a>",
+    "summary": "North Carolina-based contract research organization Syneos Health is making a play to capitalize on China’s rapidly ascendant biopharma industry. Syneos has acquired Chinese CRO Bestudy to secure a foothold in the Asian nation.",
+    "url": "https://www.fiercebiotech.com/cro/syneos-health-scoops-chinese-cro-secure-place-rapidly-growing-market",
+    "published_at": "2026-03-20T07:07:50.167771+00:00",
+    "collected_at": "2026-03-20T07:07:50.167771+00:00"
+  },
+  {
+    "id": "4e22918dbed15ce827976a6549f11949",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/phage-focused-biomx-resets-after-adverse-events-derail-pipeline-considers-pivot-defense\" hreflang=\"en\">Phage-focused BiomX resets after adverse events derail pipeline, considers pivot to defense sector</a>",
+    "summary": "Phage-focused BiomX is undergoing a “strategic and financial reset” in efforts to improve the biotech’s financial position, mapping out a possible shift from therapeutics to the defense sector.",
+    "url": "https://www.fiercebiotech.com/biotech/phage-focused-biomx-resets-after-adverse-events-derail-pipeline-considers-pivot-defense",
+    "published_at": "2026-03-20T07:07:50.167771+00:00",
+    "collected_at": "2026-03-20T07:07:50.167771+00:00"
+  },
+  {
+    "id": "9284108c57ec2da9fcdeacda23d243df",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/minimed-claims-fda-clearance-small-screen-free-insulin-pump\" hreflang=\"en\">MiniMed claims FDA clearance for small, screen-free insulin pump</a>",
+    "summary": "At about half the size of the 780G pump, the shape of the 300-unit MiniMed Flex is described as roughly two insulin vials stacked on top of each other.",
+    "url": "https://www.fiercebiotech.com/medtech/minimed-claims-fda-clearance-small-screen-free-insulin-pump",
+    "published_at": "2026-03-20T07:07:50.167771+00:00",
+    "collected_at": "2026-03-20T07:07:50.167771+00:00"
+  },
+  {
+    "id": "34886b6a704fc6d686d4f2460c895f07",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/pharma/astrazeneca-build-cell-therapy-manufacturing-hub-rd-center-shanghai\" hreflang=\"en\">AstraZeneca to build cell therapy manufacturing hub, R&amp;D center in Shanghai</a>",
+    "summary": "As part of its $15 billion investment commitment in China, AstraZeneca on Thursday unveiled plans to build a commercial cell therapy manufacturing base and an innovation center dedicated to the modality in Shanghai.",
+    "url": "https://www.fiercebiotech.com/pharma/astrazeneca-build-cell-therapy-manufacturing-hub-rd-center-shanghai",
+    "published_at": "2026-03-20T07:07:50.167771+00:00",
+    "collected_at": "2026-03-20T07:07:50.167771+00:00"
+  },
+  {
+    "id": "6c9557043c585af1b1cec08ca04904fa",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/lillys-obesity-partner-fauna-gets-cosey-hibernating-mammals-weight-loss-potential\" hreflang=\"en\">Lilly's obesity discovery partner Fauna sees weight loss potential in hibernating mammals</a>",
+    "summary": "Fauna Bio, which signed an obesity-focused partnership with Lilly back in 2023, has now unveiled the target that it will be focusing on.",
+    "url": "https://www.fiercebiotech.com/biotech/lillys-obesity-partner-fauna-gets-cosey-hibernating-mammals-weight-loss-potential",
+    "published_at": "2026-03-20T07:07:50.167771+00:00",
+    "collected_at": "2026-03-20T07:07:50.167771+00:00"
+  },
+  {
+    "id": "74658b4b02606827d63b45dc52c63f7b",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/xcath-completes-remote-controlled-robotic-stroke-procedure\" hreflang=\"en\">XCath completes remote-controlled robotic stroke procedure</a>",
+    "summary": "XCath's Iris robot performed a mechanical thrombectomy and removed a blood clot from a patient in Panama while being operated more than 100 miles away.",
+    "url": "https://www.fiercebiotech.com/medtech/xcath-completes-remote-controlled-robotic-stroke-procedure",
+    "published_at": "2026-03-20T07:07:50.167771+00:00",
+    "collected_at": "2026-03-20T07:07:50.167771+00:00"
+  },
+  {
+    "id": "c4e887a888a5e5ebfb53718c89ac1c55",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-retatrutide-type-2-diabetes-weight-loss-ph-3-data\" hreflang=\"en\">Lilly's triple-G bet lowers blood sugar, prompts 16.8% weight loss in phase 3 diabetes trial</a>",
+    "summary": "With the obesity numbers for Eli Lilly’s experimental triple agonist retatrutide already stacking up nicely, the company is rounding out its pitch for the drug with new top-line data on its ability to lower blood sugar levels in patients with Type 2 diabetes and help them lose weight.",
+    "url": "https://www.fiercebiotech.com/biotech/eli-lilly-retatrutide-type-2-diabetes-weight-loss-ph-3-data",
+    "published_at": "2026-03-20T07:07:50.167771+00:00",
+    "collected_at": "2026-03-20T07:07:50.167771+00:00"
+  },
+  {
+    "id": "59258347faa3ee436f27b4e3fdedebb3",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Turmoil at ACIP continues after claim committee ‘disbanded’ is quickly refuted",
+    "summary": "ACIP is being broken up. No it’s not.\n\n On Thursday afternoon, an outspoken member of the CDC’s Advisory Committee on Immunization Practices claimed that the vaccine advisory group “has been disbanded.” But the",
+    "url": "https://endpoints.news/turmoil-at-acip-continues-after-claim-committee-disbanded-is-quickly-refuted/",
+    "published_at": "2026-03-20T00:26:49+00:00",
+    "collected_at": "2026-03-20T07:07:50.758854+00:00"
+  },
+  {
+    "id": "6d04a20e1c5248dc7f5e7a0638009795",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Tech talent comes to healthcare",
+    "summary": "In San Francisco a few weeks ago, I caught up with Nworah Ayogu, partner at Thrive Capital. Thrive had recently announced that it raised a $10 billion+ fund.\n\n Ayogu, who joined Thrive in 2024 after ...",
+    "url": "https://endpoints.news/tech-talent-comes-to-healthcare/",
+    "published_at": "2026-03-19T21:10:13+00:00",
+    "collected_at": "2026-03-20T07:07:50.758854+00:00"
+  },
+  {
+    "id": "0da1120fc36a7fcbf1dc2bbf5b471540",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Novo wins FDA approval for high-dose Wegovy under commissioner's voucher",
+    "summary": "The FDA approved a high-dose version of Novo Nordisk's blockbuster weight loss injection Wegovy, giving its go-ahead about two months faster than normal thanks to a voucher received from the commissioner's program.\n\n Thursday's approval is ...",
+    "url": "https://endpoints.news/novo-wins-fda-approval-for-high-dose-wegovy-under-commissioners-voucher/",
+    "published_at": "2026-03-19T18:06:03+00:00",
+    "collected_at": "2026-03-20T07:07:50.758854+00:00"
+  },
+  {
+    "id": "19961450370cd5e14b4e7f094cf8d8d6",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Verily raises $300M, sheds Alphabet’s majority control",
+    "summary": "Verily has raised $300 million in new, outside funding that ends parent company Alphabet's controlling position in the healthcare innovation company, Endpoints News has learned exclusively.\n\n The funding round was led by Series X Capital ...",
+    "url": "https://endpoints.news/verily-raises-300m-sheds-alphabets-majority-control/",
+    "published_at": "2026-03-19T18:00:37+00:00",
+    "collected_at": "2026-03-20T07:07:50.758854+00:00"
+  },
+  {
+    "id": "5abbad0ff7b2ee86091301f47540fe3f",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "TerraPower’s $450M radioisotope factory; Lilly’s $126M Japan budget",
+    "summary": "TerraPower Isotopes, a subsidiary of founder Bill Gates' nuclear company TerraPower, is building an actinium-225 factory in Philadelphia. Production will start in 2029.\n\n TerraPower Isotopes said it reviewed 350 potential locations ...",
+    "url": "https://endpoints.news/terrapowers-450m-radioisotope-factory-lillys-126m-japan-budget/",
+    "published_at": "2026-03-19T17:26:49+00:00",
+    "collected_at": "2026-03-20T07:07:50.758854+00:00"
+  },
+  {
+    "id": "58c5f5325a029be23841d2a3c09f54ca",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "CSL says its hemophilia B gene therapy is out of stock",
+    "summary": "CSL Behring disclosed a \"temporary global stockout\" of its gene therapy for hemophilia B that it says could delay treatment for some patients.\n\n In a letter to the patient community",
+    "url": "https://endpoints.news/csl-says-its-hemophilia-b-gene-therapy-is-out-of-stock/",
+    "published_at": "2026-03-19T16:33:06+00:00",
+    "collected_at": "2026-03-20T07:07:50.758854+00:00"
+  },
+  {
+    "id": "b9a8ead75cbef70ee35e429952b82251",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "AstraZeneca deepens UK-China ties with cell therapy R&D hub, manufacturing plans",
+    "summary": "AstraZeneca has added more details on how it will use its $15 billion budget to expand in China — and the UK pharma is betting on cell therapy.\n\n AstraZeneca",
+    "url": "https://endpoints.news/astrazeneca-deepens-uk-china-ties-with-cell-therapy-rd-hub-manufacturing-plans/",
+    "published_at": "2026-03-19T15:29:18+00:00",
+    "collected_at": "2026-03-20T07:07:50.758854+00:00"
+  },
+  {
+    "id": "e38861fd5b63cfd7b50ee63e4b9b633d",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Collegium is acquiring Corium's approved ADHD drug for $650M",
+    "summary": "Collegium Pharmaceutical is beefing up its portfolio in ADHD with the acquisition of Corium's FDA-approved drug Azstarys.\n\n The $650 million upfront deal carries up to an additional $135 million in milestones and is expected to ...",
+    "url": "https://endpoints.news/collegium-is-acquiring-coriums-approved-adhd-drug-for-650m/",
+    "published_at": "2026-03-19T14:55:37+00:00",
+    "collected_at": "2026-03-20T07:07:50.758854+00:00"
+  },
+  {
+    "id": "da6106550ac5f0a903da5a963c3d765f",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Pfizer seeks earlier use of Talzenna in prostate cancer with Phase 3 win",
+    "summary": "Pfizer said a combination of two of its prostate cancer drugs — Talzenna and Xtandi — succeeded in a Phase 3 study and that it plans to ask regulators for earlier use of Talzenna, a PARP inhibitor ...",
+    "url": "https://endpoints.news/pfizer-seeks-earlier-use-of-talzenna-in-prostate-cancer-with-phase-3-win/",
+    "published_at": "2026-03-19T14:24:11+00:00",
+    "collected_at": "2026-03-20T07:07:50.758854+00:00"
+  },
+  {
+    "id": "0d27ff96156f23d8ce5b3327facbd6f7",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Washington’s Medicaid program will pay for ElliQ, an AI robot for loneliness",
+    "summary": "Washington’s Medicaid program will start paying for a friendly AI-powered robot called ElliQ to keep seniors company and help them stay independent and healthy at home.\n\n ElliQ, made by Israel-based startup Intuition Robotics, looks a ...",
+    "url": "https://endpoints.news/washingtons-medicaid-program-will-pay-for-elliq-an-ai-robot-for-loneliness/",
+    "published_at": "2026-03-19T13:00:43+00:00",
+    "collected_at": "2026-03-20T07:07:50.758854+00:00"
+  },
+  {
+    "id": "655af3d94bf058f8fc1b4fdc82dbfb3d",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Inside One VC’s Litmus Test for Investable Healthcare AI Startups",
+    "summary": "Katie Jacobs Stanton, founder of Moxxie Ventures, shared some details of how she and her team evaluate healthcare AI startups. She stressed the need for founders with deep industry expertise, differentiated products and realistic distribution strategies.\nThe post Inside One VC’s Litmus Test for Investable Healthcare AI Startups appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/venture-capital-invest-healthcare-ai/",
+    "published_at": "2026-03-19T22:43:30+00:00",
+    "collected_at": "2026-03-20T07:07:51.152963+00:00"
+  },
+  {
+    "id": "a819017e10f11c7383a4257696dbfc2b",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "How PreSeed Is Tackling the Sperm Donor Shortage",
+    "summary": "A new startup called PreSeed Fertility launched on Thursday. The company is a recruitment and matching platform for sperm donors.\nThe post How PreSeed Is Tackling the Sperm Donor Shortage appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/how-preseed-is-tackling-the-sperm-donor-shortage/",
+    "published_at": "2026-03-19T22:41:16+00:00",
+    "collected_at": "2026-03-20T07:07:51.152963+00:00"
+  },
+  {
+    "id": "08b399e3e78fef91a953275f6ed468b3",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Behavior Changes Happen Outside the Exam Room, But Validation of Lifestyle Medicine Programs Cannot",
+    "summary": "If CMS and private payers are serious about whole-person health, reimbursement structures must align with the workforce actually delivering that care. Payment pathways should recognize the value of the broader care team and enable the seamless integration of their expertise with the objective data generated through connected devices and programs like RPM.\nThe post Behavior Changes Happen Outside the Exam Room, But Validation of Lifestyle Medicine Programs Cannot appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/behavior-changes-happen-outside-the-exam-room-but-validation-of-lifestyle-medicine-programs-cannot/",
+    "published_at": "2026-03-19T14:17:00+00:00",
+    "collected_at": "2026-03-20T07:07:51.152963+00:00"
+  },
+  {
+    "id": "c97b1fe631d8b99828da0af8c80cd0db",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "When Oral Health Joins the Care Team",
+    "summary": "By strengthening the connection between dentists and physicians, we can enable real-time care coordination, ensure patients get follow-up when needed and help teams spot risk factors earlier.\nThe post When Oral Health Joins the Care Team appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/when-oral-health-joins-the-care-team/",
+    "published_at": "2026-03-19T13:40:00+00:00",
+    "collected_at": "2026-03-20T07:07:51.152963+00:00"
+  },
+  {
+    "id": "54b53dfa1b8f49549bac754b3bfcb8a2",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "5 Key Companies Hiring Scientific Sales Reps",
+    "summary": "[Sponsored] As a medical or clinical professional, you possess a highly valuable skill set. \nThe post 5 Key Companies Hiring Scientific Sales Reps appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/5-key-companies-hiring-scientific-sales-reps/",
+    "published_at": "2026-03-19T13:01:00+00:00",
+    "collected_at": "2026-03-20T07:07:51.152963+00:00"
+  },
+  {
+    "id": "a6738fc072a5eca82089da5a88ab1c1b",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Maternal Health Startup Raises $5.7M to Expand Doula Network Nationwide",
+    "summary": "Flourish Care&#8217;s seed round was led by Zeal Capital Partners, with participation from Create Health Ventures, Collide Capital, Rogue Women’s Fund, Symphonic Capital, Capita3, Slater Technology Fund and Catalytic Impact Foundation. \nThe post Maternal Health Startup Raises $5.7M to Expand Doula Network Nationwide appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/flourish-care-doula-seed-funding/",
+    "published_at": "2026-03-18T22:02:10+00:00",
+    "collected_at": "2026-03-20T07:07:51.152963+00:00"
+  },
+  {
+    "id": "60054e179c877148a41ee2fbe1577457",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Sutter, Allina Health Combine to Form $26B Health System",
+    "summary": "Sutter Health is acquiring Allina Health in a deal that would create a $26 billion nonprofit health system spanning California, Minnesota and Wisconsin. The deal reflects a broader wave of hospital consolidation as providers pursue scale to manage rising costs and fund tech investments.\nThe post Sutter, Allina Health Combine to Form $26B Health System appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/sutter-allina-health-merger-hospital/",
+    "published_at": "2026-03-18T21:52:45+00:00",
+    "collected_at": "2026-03-20T07:07:51.152963+00:00"
+  },
+  {
+    "id": "07d61a554f15434b601090b11d5e694a",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "J&J Gets FDA Nod for Plaque Psoriasis Pill Positioned to Compete With Injectables",
+    "summary": "FDA approval of Icotyde covers the treatment of adults and adolescents with moderate-to-severe plaque psoriasis. This  once-daily pill, developed by partners Johnson & Johnson and Protagonist Therapeutics, offers an easier dosing option compared to injectables and is projected to become a blockbuster seller across several immunological indications. \nThe post J&J Gets FDA Nod for Plaque Psoriasis Pill Positioned to Compete With Injectables appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/jj-gets-fda-nod-for-plaque-psoriasis-pill-positioned-to-compete-with-injectables/",
+    "published_at": "2026-03-18T18:08:44+00:00",
+    "collected_at": "2026-03-20T07:07:51.152963+00:00"
+  },
+  {
+    "id": "8f963cb1ad7fceeb91e9cc14bd8b2166",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Top Fertility Supplements for Women in the U.S.: What to Know",
+    "summary": "[Sponsored] People are more empowered than ever to take care of their health. \nThe post Top Fertility Supplements for Women in the U.S.: What to Know appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/top-fertility-supplements-for-women-in-the-u-s-what-to-know/",
+    "published_at": "2026-03-18T17:00:17+00:00",
+    "collected_at": "2026-03-20T07:07:51.152963+00:00"
+  },
+  {
+    "id": "b310cb48d9fc8782c1b96e92bb910f7d",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "The Evolving Landscape of Privacy and Cybersecurity: Essential Strategies for Legal and Compliance Professionals",
+    "summary": "As legal and compliance professionals, we champion privacy and cybersecurity in our organizations — but success requires a team effort. \nThe post The Evolving Landscape of Privacy and Cybersecurity: Essential Strategies for Legal and Compliance Professionals appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/the-evolving-landscape-of-privacy-and-cybersecurity-essential-strategies-for-legal-and-compliance-professionals/",
+    "published_at": "2026-03-18T13:23:00+00:00",
+    "collected_at": "2026-03-20T07:07:51.152963+00:00"
+  },
+  {
+    "id": "c3f84ba5e491501f3cf3825b2c3d0450",
+    "source": "r/hardware",
+    "source_type": "reddit",
+    "title": "Reminder: Please do not submit tech support or build questions to /r/hardware",
+    "summary": "For the newer members in our community, please take a moment to review our rules in the sidebar. If you are looking for tech support, want help building a computer, or have questions about what you should buy please don't post here. Instead try /r/buildapc or /r/techsupport, subreddits dedicated to building and supporting computers, or consider if another of our related subreddits might be a better fit:\n\n* /r/AMD (/r/AMDHelp for support)\n* /r/battlestations\n* /r/buildapc\n* /r/buildapcsales\n* /r/",
+    "url": "https://reddit.com/r/hardware/comments/3n9tky/reminder_please_do_not_submit_tech_support_or/",
+    "published_at": "2015-10-02T21:04:56+00:00",
+    "collected_at": "2026-03-20T07:07:52.220352+00:00",
+    "metadata": {
+      "score": 243,
+      "num_comments": 19,
+      "upvote_ratio": 0.93
+    }
+  },
+  {
+    "id": "d0dcc8d597cfd9244ac0b07e71b82181",
+    "source": "r/hardware",
+    "source_type": "reddit",
+    "title": "Super Micro co-founder, employee and contractor smuggled Nvidia chips to China, U.S. prosecutors charge",
+    "summary": "",
+    "url": "https://reddit.com/r/hardware/comments/1rygsvt/super_micro_cofounder_employee_and_contractor/",
+    "published_at": "2026-03-19T23:58:43+00:00",
+    "collected_at": "2026-03-20T07:07:52.220352+00:00",
+    "metadata": {
+      "score": 218,
+      "num_comments": 28,
+      "upvote_ratio": 0.97
+    }
+  },
+  {
+    "id": "e34f236477f5ece9925529b342f1b7b2",
+    "source": "r/hardware",
+    "source_type": "reddit",
+    "title": "Intel Reportedly Readies a 10% Price Hike for Consumer CPUs",
+    "summary": "",
+    "url": "https://reddit.com/r/hardware/comments/1ryelha/intel_reportedly_readies_a_10_price_hike_for/",
+    "published_at": "2026-03-19T22:29:14+00:00",
+    "collected_at": "2026-03-20T07:07:52.220352+00:00",
+    "metadata": {
+      "score": 202,
+      "num_comments": 73,
+      "upvote_ratio": 0.94
+    }
+  },
+  {
+    "id": "7376f3efaa01240d4df4859f1a64d321",
+    "source": "r/hardware",
+    "source_type": "reddit",
+    "title": "M5 Max 40 core matches RTX 5090 laptop in Blender 5.1",
+    "summary": "Apple has managed to catch Nvidia in at least this one (albeit very widely used) 3D rendering application. The M5 Max uses way less power than the 5090 laptop and unlike the lower end models which have a price advantage, the 5090 laptops aren't any cheaper. And they will all be much louder and lose performance on battery.\n\nWhere do we go from here? Is the gap just going to keep increasing? M6 will be out this year and will be on N2. RTX 60 Series from all we know will only go up to N3, which App",
+    "url": "https://reddit.com/r/hardware/comments/1ry7qzg/m5_max_40_core_matches_rtx_5090_laptop_in_blender/",
+    "published_at": "2026-03-19T18:03:20+00:00",
+    "collected_at": "2026-03-20T07:07:52.220352+00:00",
+    "metadata": {
+      "score": 191,
+      "num_comments": 132,
+      "upvote_ratio": 0.85
+    }
+  },
+  {
+    "id": "4b3a06d7e2dc24b2a1ff9030da608788",
+    "source": "r/hardware",
+    "source_type": "reddit",
+    "title": "How the Xbox One Was Finally Hacked After 12 Years",
+    "summary": "After more than a decade of being considered “unhackable,” the Xbox One has finally been compromised at the hardware level using a new exploit called Bliss.\n\nThe interesting part here is how it was done.\n\nInstead of a traditional software exploit, this attack targets the boot ROM in silicon using precise voltage glitching:\n\n- Two carefully timed voltage drops on the CPU rail\n- First glitch skips memory protection initialization\n- Second glitch hijacks control flow during a memcpy operation\n\nThis",
+    "url": "https://reddit.com/r/hardware/comments/1rxzu0m/how_the_xbox_one_was_finally_hacked_after_12_years/",
+    "published_at": "2026-03-19T13:03:06+00:00",
+    "collected_at": "2026-03-20T07:07:52.220352+00:00",
+    "metadata": {
+      "score": 252,
+      "num_comments": 28,
+      "upvote_ratio": 0.95
+    }
+  },
+  {
+    "id": "00086fe6d2d1ef301eac22905797af6e",
+    "source": "r/hardware",
+    "source_type": "reddit",
+    "title": "8GB MacBook Neo vs 16GB Laptops - Sorry Apple..",
+    "summary": "",
+    "url": "https://reddit.com/r/hardware/comments/1ry3dy7/8gb_macbook_neo_vs_16gb_laptops_sorry_apple/",
+    "published_at": "2026-03-19T15:23:58+00:00",
+    "collected_at": "2026-03-20T07:07:52.220352+00:00",
+    "metadata": {
+      "score": 128,
+      "num_comments": 254,
+      "upvote_ratio": 0.71
+    }
+  },
+  {
+    "id": "ba22f71874550d61a61cf406621f66e7",
+    "source": "r/hardware",
+    "source_type": "reddit",
+    "title": "SK Group chairman predicts the DRAM shortage will continue through 2030 due to limited wafer capacity and long production lead times",
+    "summary": "",
+    "url": "https://reddit.com/r/hardware/comments/1rxw9yy/sk_group_chairman_predicts_the_dram_shortage_will/",
+    "published_at": "2026-03-19T09:59:55+00:00",
+    "collected_at": "2026-03-20T07:07:52.220352+00:00",
+    "metadata": {
+      "score": 180,
+      "num_comments": 71,
+      "upvote_ratio": 0.92
+    }
+  },
+  {
+    "id": "304e2d8842ae6418f3bf95819ba750e1",
+    "source": "r/hardware",
+    "source_type": "reddit",
+    "title": "Great news from Ubiquiti towards STR MLO developments at WLPC! - YouTube",
+    "summary": "Ubiquiti showed real use case results using Simultaneous Transmit and Receive Multi-Link Operation at WLPC (Wireless LAN Professionals Conference)!\n\nSTR MLO is what we consider the true implementation of MLO and we are really happy to see it come to home users!\n\nSince no client devices currently support STR MLO, Ubiquiti took the matter in their own hands and announced today a 200$ USB device that can be used as the MLO client.  \nNow, this is not what customers need, but it is a great step towar",
+    "url": "https://reddit.com/r/hardware/comments/1rygmpa/great_news_from_ubiquiti_towards_str_mlo/",
+    "published_at": "2026-03-19T23:51:28+00:00",
+    "collected_at": "2026-03-20T07:07:52.220352+00:00",
+    "metadata": {
+      "score": 6,
+      "num_comments": 3,
+      "upvote_ratio": 0.63
+    }
+  },
+  {
+    "id": "d7f7ad755e6b213947e7807b8b218373",
+    "source": "r/hardware",
+    "source_type": "reddit",
+    "title": "AMD Medusa Point leak shows 10-core Zen 6 APU beating Ryzen AI 9 365 in Geekbench multi-core",
+    "summary": "",
+    "url": "https://reddit.com/r/hardware/comments/1rxxn0p/amd_medusa_point_leak_shows_10core_zen_6_apu/",
+    "published_at": "2026-03-19T11:16:39+00:00",
+    "collected_at": "2026-03-20T07:07:52.220352+00:00",
+    "metadata": {
+      "score": 56,
+      "num_comments": 32,
+      "upvote_ratio": 0.84
+    }
+  },
+  {
+    "id": "3246c951b0f60132af3582eb1374edd5",
+    "source": "r/hardware",
+    "source_type": "reddit",
+    "title": "NVIDIA DLSS 5 Hands on presentation",
+    "summary": "",
+    "url": "https://reddit.com/r/hardware/comments/1rxqjt3/nvidia_dlss_5_hands_on_presentation/",
+    "published_at": "2026-03-19T04:16:27+00:00",
+    "collected_at": "2026-03-20T07:07:52.220352+00:00",
+    "metadata": {
+      "score": 24,
+      "num_comments": 102,
+      "upvote_ratio": 0.58
+    }
+  },
+  {
+    "id": "b95331d4878f9a69ef795722bbc71604",
+    "source": "r/MachineLearning",
+    "source_type": "reddit",
+    "title": "[D] Self-Promotion Thread",
+    "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc.\n\nPlease mention the payment and pricing requirements for products and services.\n\nPlease do not post link shorteners, link aggregator websites , or auto-subscribe links.\n\n\\--\n\nAny abuse of trust will lead to bans.\n\nEncourage others who create new posts for questions to post here instead!\n\nThread will stay alive until next one so keep posting after the date in the title.\n\n\\--\n\nMeta: This is an experim",
+    "url": "https://reddit.com/r/MachineLearning/comments/1rihows/d_selfpromotion_thread/",
+    "published_at": "2026-03-02T03:15:30+00:00",
+    "collected_at": "2026-03-20T07:07:53.566447+00:00",
+    "metadata": {
+      "score": 13,
+      "num_comments": 95,
+      "upvote_ratio": 0.8
+    }
+  },
+  {
+    "id": "05bb14eefa91538e808347106a5314e2",
+    "source": "r/MachineLearning",
+    "source_type": "reddit",
+    "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+    "summary": "**For Job Postings** please use this template\n\n&gt;Hiring: \\[Location\\], Salary:\\[\\], \\[Remote | Relocation\\], \\[Full Time | Contract | Part Time\\]    and \\[Brief overview, what you're looking for\\]\n\n**For Those looking for jobs** please use this template\n\n&gt;Want to be Hired: \\[Location\\], Salary Expectation:\\[\\], \\[Remote | Relocation\\], \\[Full Time | Contract | Part Time\\]  Resume: \\[Link to resume\\] and \\[Brief overview, what you're looking for\\]\n\n&amp;#x200B;\n\nPlease remember that this com",
+    "url": "https://reddit.com/r/MachineLearning/comments/1qrrayn/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+    "published_at": "2026-01-31T03:30:32+00:00",
+    "collected_at": "2026-03-20T07:07:53.566447+00:00",
+    "metadata": {
+      "score": 15,
+      "num_comments": 17,
+      "upvote_ratio": 0.95
+    }
+  },
+  {
+    "id": "ac739f774185078adbb38e15c3b15259",
+    "source": "r/MachineLearning",
+    "source_type": "reddit",
+    "title": "ICLR 2026 oral with 2 rejects, 1 borderline reject",
+    "summary": "[https://openreview.net/forum?id=BlSH7gNQSq](https://openreview.net/forum?id=BlSH7gNQSq)\n\nI'm just surprised that a paper with 2 rejects and 1 borderline reject (out of 4 scores) would end up being an oral. The AC says: \n\n&gt;Initial ratings came as 8/4/2/2. While we cannot be sure how reviewers may have updated their scores, I'd expect a final score above 6.\n\nConsidering most reviewers do not update their scores, this is a very odd statement.\n\n",
+    "url": "https://reddit.com/r/MachineLearning/comments/1ry78cn/iclr_2026_oral_with_2_rejects_1_borderline_reject/",
+    "published_at": "2026-03-19T17:44:53+00:00",
+    "collected_at": "2026-03-20T07:07:53.566447+00:00",
+    "metadata": {
+      "score": 99,
+      "num_comments": 21,
+      "upvote_ratio": 0.98
+    }
+  },
+  {
+    "id": "8f88776dfb534dbe89651e2d41be6ca0",
+    "source": "r/MachineLearning",
+    "source_type": "reddit",
+    "title": "[D] Scale AI ML Research Engineer Interview",
+    "summary": "Hi! I'm preparing for the first round **ML coding round** for the **ML Research Engineer role at Scale**, but I'm pretty confused about what to expect.\n\nThe portal mentions debugging using GitHub Codespaces, but the email has a HackerRank link, which looks more like implementation.\n\nDoes anyone know the actual structure? Will it be data parsing/ transformations, or is it more focused on ML concepts, LLMs, and debugging?\n\nMy prep so far:\n\n* Transformers &amp; LLMs, implementation from scratch/ de",
+    "url": "https://reddit.com/r/MachineLearning/comments/1rym21x/d_scale_ai_ml_research_engineer_interview/",
+    "published_at": "2026-03-20T03:56:44+00:00",
+    "collected_at": "2026-03-20T07:07:53.566447+00:00",
+    "metadata": {
+      "score": 14,
+      "num_comments": 4,
+      "upvote_ratio": 0.89
+    }
+  },
+  {
+    "id": "c01c103877130d403ea168960ad70f19",
+    "source": "r/MachineLearning",
+    "source_type": "reddit",
+    "title": "[D] How hard is it to get Research Engineer interview from Deepmind?",
+    "summary": "Hi all! New to this forum. I have interviewed at multiple places for quant-research role and actively job-searching as a new grad studying math/physics. I saw an opening for deepmind which seems one of the most interesting roles I've ever seen at intersection of physics math and ML. How hard is it to get an interview from them? I'm only ever applied for one other ML role which was fellow at anthropic and I didn't get far in it after the OA.",
+    "url": "https://reddit.com/r/MachineLearning/comments/1ry1j0g/d_how_hard_is_it_to_get_research_engineer/",
+    "published_at": "2026-03-19T14:13:50+00:00",
+    "collected_at": "2026-03-20T07:07:53.566447+00:00",
+    "metadata": {
+      "score": 65,
+      "num_comments": 25,
+      "upvote_ratio": 0.86
+    }
+  },
+  {
+    "id": "11bfb5c439a1503fd94067bf96916b57",
+    "source": "r/MachineLearning",
+    "source_type": "reddit",
+    "title": "[D] Extracting time-aware commitment signals from conversation history — implementation approaches?",
+    "summary": "Working on a system that saves key context from multi-model conversations (across GPT, Gemini, Grok, Deepseek, Claude) to a persistent store. The memory layer is working - the interesting problem I'm now looking at is extracting \"commitments\" from unstructured conversation and attaching temporal context to them.\n\nThe goal is session-triggered proactive recall: when a user logs in, the system surfaces relevant unresolved commitments from previous sessions without being prompted.\n\nThe challenges I",
+    "url": "https://reddit.com/r/MachineLearning/comments/1ryffof/d_extracting_timeaware_commitment_signals_from/",
+    "published_at": "2026-03-19T23:02:22+00:00",
+    "collected_at": "2026-03-20T07:07:53.566447+00:00",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
+      "upvote_ratio": 0.67
+    }
+  },
+  {
+    "id": "00f7bbce1a713cbda89ee45abc10ee5b",
+    "source": "r/MachineLearning",
+    "source_type": "reddit",
+    "title": "[R] Doc-to-LoRA: Learning to Instantly Internalize Contexts from Sakana AI",
+    "summary": "This is cool paper! Creating loras from docs on the fly using a hypernetwork.\n\n  \n\"Long input sequences are central to in-context learning, document understanding, and multi-step reasoning of Large Language Models (LLMs). However, the quadratic attention cost of Transformers makes inference memory-intensive and slow. While context distillation (CD) can transfer information into model parameters, per-prompt distillation is impractical due to training costs and latency. To address these limitation",
+    "url": "https://reddit.com/r/MachineLearning/comments/1ryew3g/r_doctolora_learning_to_instantly_internalize/",
+    "published_at": "2026-03-19T22:40:51+00:00",
+    "collected_at": "2026-03-20T07:07:53.566447+00:00",
+    "metadata": {
+      "score": 5,
+      "num_comments": 1,
+      "upvote_ratio": 0.86
+    }
+  },
+  {
+    "id": "348ded2955a102aa323a466f3e46f84d",
+    "source": "r/MachineLearning",
+    "source_type": "reddit",
+    "title": "[D] When to submit to a workshop and how much are top tier conference workshop papers worth?",
+    "summary": "Pretty much the title. I had an idea I developed into a paper, always received borderline results (in 3 separate conferences) and gave up and submitted to a CVPR workshop. The paper was accepted and will be made available in the CVPR proceedings.\n\nWhen do people submit to workshops usually? I made minor changes for every rejection but more papers with similar ideas came out and people started saying I didn't compare with newer models so it feels like I would always be chasing a moving goal post.",
+    "url": "https://reddit.com/r/MachineLearning/comments/1rxxrgs/d_when_to_submit_to_a_workshop_and_how_much_are/",
+    "published_at": "2026-03-19T11:23:14+00:00",
+    "collected_at": "2026-03-20T07:07:53.566447+00:00",
+    "metadata": {
+      "score": 22,
+      "num_comments": 7,
+      "upvote_ratio": 0.83
+    }
+  },
+  {
+    "id": "c61a32aac73a891dceea012b27790911",
+    "source": "r/MachineLearning",
+    "source_type": "reddit",
+    "title": "AlgoTrade Hackathon 206 (Zagreb, Croatia)",
+    "summary": "*Posted with moderator approval* \n\nWe’re organizing AlgoTrade 2026, a student-focused hackathon centered on algorithmic trading and quantitative finance, hosted in Zagreb this May.\n\n**What it is:**\n\nA 24-hour hackathon built around a simulated market environment, where participants design and implement trading strategies under time constraints.\n\nThe event is preceded by several days of lectures from industry participants.\n\n**Event details:**\n\n\\* Educational phase: May 4–7, 2026\n\n\\* Opening + net",
+    "url": "https://reddit.com/r/MachineLearning/comments/1rxzyao/algotrade_hackathon_206_zagreb_croatia/",
+    "published_at": "2026-03-19T13:08:25+00:00",
+    "collected_at": "2026-03-20T07:07:53.566447+00:00",
+    "metadata": {
+      "score": 12,
+      "num_comments": 3,
+      "upvote_ratio": 0.94
+    }
+  },
+  {
+    "id": "0cf320bf5850541365b67fdb8e4f9a09",
+    "source": "r/MachineLearning",
+    "source_type": "reddit",
+    "title": "[R] ICLR Workshop Virtual Presentation",
+    "summary": "Hello all,\n\nDoes anyone know how to present in workshops virtually? I got two papers accepted at ICLR TTU and DATA-FM workshops as posters. But I have not received any instructions from them on how I can present my papers. I did a virtual registration since it's not possible for me to travel to Brazil.\n\nEdit: I sent email to both but none responded.",
+    "url": "https://reddit.com/r/MachineLearning/comments/1ry8961/r_iclr_workshop_virtual_presentation/",
+    "published_at": "2026-03-19T18:21:24+00:00",
+    "collected_at": "2026-03-20T07:07:53.566447+00:00",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "upvote_ratio": 0.6
+    }
+  },
+  {
+    "id": "605cc98e8c03fa347b957fd6d1759fc0",
+    "source": "r/ECE",
+    "source_type": "reddit",
+    "title": "The /r/ECE Monthly Jobs Post!",
+    "summary": "# Rules For Individuals\n\n* **Don't** create top-level comments - those are for employers.\n* Feel free to reply to top-level comments with **on-topic** questions.\n* Reply to the top-level comment that starts with **individuals looking for work**.\n\n# Rules For Employers\n\n* The position must be related to electrical and computer engineering. \n* You must be hiring **directly**. No third-party recruiters.\n* **One** top-level comment per employer. If you have multiple job openings, that's great, but p",
+    "url": "https://reddit.com/r/ECE/comments/1rhwpob/the_rece_monthly_jobs_post/",
+    "published_at": "2026-03-01T13:00:49+00:00",
+    "collected_at": "2026-03-20T07:07:54.971218+00:00",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "7af2e9d95b956ccadbc21a9d6fa32a30",
+    "source": "r/ECE",
+    "source_type": "reddit",
+    "title": "Mod Update: Banning Low Effort Posts &amp; Recruiting Moderators",
+    "summary": "Hi guys - \n\nThere have been a handful of different posts in the last few months specifically asking to address some of the low effort, low quality posts we often see on this subreddit. I think people have gotten overly fixated on the perceived influx of Indian student questions (please giv roadmap, etc.), but there have always been the same type of low-quality posts coming up from other sources:\n\n- Please suggest a capstone project\n- Help me with my homework\n- I hate my professor, recommend me a",
+    "url": "https://reddit.com/r/ECE/comments/1n97k5t/mod_update_banning_low_effort_posts_recruiting/",
+    "published_at": "2025-09-05T14:58:22+00:00",
+    "collected_at": "2026-03-20T07:07:54.971218+00:00",
+    "metadata": {
+      "score": 106,
+      "num_comments": 18,
+      "upvote_ratio": 0.99
+    }
+  },
+  {
+    "id": "d4ce51a7f368fde0e0d750270f9e66bc",
+    "source": "r/ECE",
+    "source_type": "reddit",
+    "title": "I Built a Handheld NES As My First Embedded Project Part 2",
+    "summary": "A while back I posted about my first ever embedded project— a handheld NES emulator running on the ESP32. I didn't expect it to blow up the way it did.\n\n\n\nI just released a full video documenting the whole journey. And since the original post, Anemoia-ESP32 has come a long way. Performance has been significantly improved on my emulator, which now runs at full native 60FPS speed with frame skip, and even up to 51FPS without frame skip. Save states have also been added.\n\n\n\nOn the hardware side, I'",
+    "url": "https://reddit.com/r/ECE/comments/1ryb8n8/i_built_a_handheld_nes_as_my_first_embedded/",
+    "published_at": "2026-03-19T20:21:26+00:00",
+    "collected_at": "2026-03-20T07:07:54.971218+00:00",
+    "metadata": {
+      "score": 64,
+      "num_comments": 3,
+      "upvote_ratio": 0.98
+    }
+  },
+  {
+    "id": "c9bacb28df31fa5f547037416121a829",
+    "source": "r/ECE",
+    "source_type": "reddit",
+    "title": "Physics Folks who came to EE/ECE- What are some common naming conventions that shifted for you?",
+    "summary": "I’m a graduate student in EE in the USA, and have noticed a couple of times getting blank stares from professors when I don’t know the jargon they are using. One example that comes to mind is “Jump Frequency” which I knew as “Attempt Frequency”.\n\nI’m kind of struggling to know which things I already know and just need a paradigm shift on and which things are completely different machines/tools to do the more specialized role. Ideally they’d be learned in their entirety, but realistically there’s",
+    "url": "https://reddit.com/r/ECE/comments/1ry7bji/physics_folks_who_came_to_eeece_what_are_some/",
+    "published_at": "2026-03-19T17:48:09+00:00",
+    "collected_at": "2026-03-20T07:07:54.971218+00:00",
+    "metadata": {
+      "score": 17,
+      "num_comments": 29,
+      "upvote_ratio": 0.95
+    }
+  },
+  {
+    "id": "b4057b1f66eed4e60ebdc4038f0f1135",
+    "source": "r/ECE",
+    "source_type": "reddit",
+    "title": "Nvidia N.Ex.T-2026",
+    "summary": "\nHey everyone,\n\nI am a final year electronics engineering student in India. I've heard that NVIDIA conducts a test called N.Ex.T 2026.  for recruiting hardware engineers, and I want to know more about it.\n\nIf any of you have experience with this exam, please comment down about your strategies for preparing. What topics does the exam typically cover? Are there any specific resources you found particularly helpful in your preparation? Additionally, any advice on how to approach the exam or common ",
+    "url": "https://reddit.com/r/ECE/comments/1ryet3n/nvidia_next2026/",
+    "published_at": "2026-03-19T22:37:35+00:00",
+    "collected_at": "2026-03-20T07:07:54.971218+00:00",
+    "metadata": {
+      "score": 5,
+      "num_comments": 1,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "e7d07120ada3bbf88be48f3f8e55e36f",
+    "source": "r/ECE",
+    "source_type": "reddit",
+    "title": "Power Electronic Converters",
+    "summary": "Hi everyone,\n\nI’m currently a PhD student in Electrical Engineering in the U.S., focusing on hardware design for power electronic converters. I’m planning to graduate next year and am aiming for **Hardware Design Engineer / Senior Design Engineer** roles in R&amp;D.\n\nI’d really appreciate any advice from those working in the industry:\n\n* What knowledge areas are most important to prepare for this kind of role (especially in the U.S.)?\n* What technical or soft skills should I focus on to strength",
+    "url": "https://reddit.com/r/ECE/comments/1ryiu7f/power_electronic_converters/",
+    "published_at": "2026-03-20T01:27:22+00:00",
+    "collected_at": "2026-03-20T07:07:54.971218+00:00",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "41f770cab9f39868550ceaff21dbc35d",
+    "source": "r/ECE",
+    "source_type": "reddit",
+    "title": "Couldn't land an internship as a third year and wanted career tips in Power/Analog circuit deisgn.",
+    "summary": "",
+    "url": "https://reddit.com/r/ECE/comments/1ryemtm/couldnt_land_an_internship_as_a_third_year_and/",
+    "published_at": "2026-03-19T22:30:37+00:00",
+    "collected_at": "2026-03-20T07:07:54.971218+00:00",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "f818bd62f8b5a0f6766182f491ca9356",
+    "source": "r/ECE",
+    "source_type": "reddit",
+    "title": "Undergrad success story",
+    "summary": "I gave up and applied to work at a state park this summer as a ranger. I don’t want to work for a defense contractor. I don’t want to work with AI or large data processing. I’m going to walk in the woods and chill out and fish and stuff idk. ",
+    "url": "https://reddit.com/r/ECE/comments/1rxl021/undergrad_success_story/",
+    "published_at": "2026-03-19T00:07:53+00:00",
+    "collected_at": "2026-03-20T07:07:54.971218+00:00",
+    "metadata": {
+      "score": 57,
+      "num_comments": 5,
+      "upvote_ratio": 0.99
+    }
+  },
+  {
+    "id": "dfabf355531c3d63d63432129dfc2df9",
+    "source": "r/ECE",
+    "source_type": "reddit",
+    "title": "Feeling Lost After Graduation",
+    "summary": "I just wanted to do a little reflection on the past four years of my life, as I've been feeling rather lost recently and I'm seriously questioning if I'm absolutely useless.\n\nI'm a recent electronics engineering undergraduate, 21 years old, living with my parents. I finished my coursework in April last year, but because of financial issues my graduation was delayed until December. I spent those months job hunting, learning skills in non-related fields, and helping out at my parents' business.\n\nM",
+    "url": "https://reddit.com/r/ECE/comments/1rxmvf8/feeling_lost_after_graduation/",
+    "published_at": "2026-03-19T01:26:38+00:00",
+    "collected_at": "2026-03-20T07:07:54.971218+00:00",
+    "metadata": {
+      "score": 43,
+      "num_comments": 10,
+      "upvote_ratio": 0.98
+    }
+  },
+  {
+    "id": "2727eb94fc4f517ade570c35ac5d6d4f",
+    "source": "r/ECE",
+    "source_type": "reddit",
+    "title": "Fall is my final semester for my masters and im trying to work for boeing should i take aerospace classes to help my chances?",
+    "summary": "",
+    "url": "https://reddit.com/r/ECE/comments/1ry8r4k/fall_is_my_final_semester_for_my_masters_and_im/",
+    "published_at": "2026-03-19T18:39:30+00:00",
+    "collected_at": "2026-03-20T07:07:54.971218+00:00",
+    "metadata": {
+      "score": 1,
+      "num_comments": 7,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "6c4ddba9828abefe3d90db98308e3884",
+    "source": "r/QuiverQuantitative",
+    "source_type": "reddit",
+    "title": "Please consider subscribing to our Youtube if you haven't yet. Planning on posting more analysis videos there in the future.",
+    "summary": "",
+    "url": "https://reddit.com/r/QuiverQuantitative/comments/1jag7ze/please_consider_subscribing_to_our_youtube_if_you/",
+    "published_at": "2025-03-13T16:35:05+00:00",
+    "collected_at": "2026-03-20T07:07:56.008912+00:00",
+    "metadata": {
+      "score": 49,
+      "num_comments": 4,
+      "upvote_ratio": 0.97
+    }
+  },
+  {
+    "id": "a58870e48a9057995f1794e9cbaa5d28",
+    "source": "r/QuiverQuantitative",
+    "source_type": "reddit",
+    "title": "JUST IN: Donald Trump Jr. invested in Vulcan Materials just before the company was awarded a massive loan by the Pentagon, per Bloomberg",
+    "summary": "",
+    "url": "https://reddit.com/r/QuiverQuantitative/comments/1ry4z35/just_in_donald_trump_jr_invested_in_vulcan/",
+    "published_at": "2026-03-19T16:22:40+00:00",
+    "collected_at": "2026-03-20T07:07:56.008912+00:00",
+    "metadata": {
+      "score": 1730,
+      "num_comments": 56,
+      "upvote_ratio": 0.99
+    }
+  },
+  {
+    "id": "2f0036a301293a233f27ba7452ff6b4a",
+    "source": "r/QuiverQuantitative",
+    "source_type": "reddit",
+    "title": "5D(Donkeys) chess: US plans to remove sanctions on Iranian oil after removing sanctions on Russia after gas prices get out of control.",
+    "summary": "",
+    "url": "https://reddit.com/r/QuiverQuantitative/comments/1ry64bz/5ddonkeys_chess_us_plans_to_remove_sanctions_on/",
+    "published_at": "2026-03-19T17:04:32+00:00",
+    "collected_at": "2026-03-20T07:07:56.008912+00:00",
+    "metadata": {
+      "score": 529,
+      "num_comments": 19,
+      "upvote_ratio": 0.99
+    }
+  },
+  {
+    "id": "7bcee816d33a9ea8b938be78bdfc9fc6",
+    "source": "r/QuiverQuantitative",
+    "source_type": "reddit",
+    "title": "Democrats walk out in protest over ‘outrageous fake’ Epstein briefing from Pam Bondi",
+    "summary": "",
+    "url": "https://reddit.com/r/QuiverQuantitative/comments/1ry8of8/democrats_walk_out_in_protest_over_outrageous/",
+    "published_at": "2026-03-19T18:36:44+00:00",
+    "collected_at": "2026-03-20T07:07:56.014435+00:00",
+    "metadata": {
+      "score": 205,
+      "num_comments": 3,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "b63d5cd958216e9f5947dc2965d789dc",
+    "source": "r/QuiverQuantitative",
+    "source_type": "reddit",
+    "title": "Trump wanted to illegally fire JPowell and filed a fake lawsuit. Now, due to this JPowell is likely to serve as fed chair beyond the end of his term🤡. Congrats to Donnie for extending JPowell’s term.",
+    "summary": "",
+    "url": "https://reddit.com/r/QuiverQuantitative/comments/1rxgd4f/trump_wanted_to_illegally_fire_jpowell_and_filed/",
+    "published_at": "2026-03-18T21:06:57+00:00",
+    "collected_at": "2026-03-20T07:07:56.014435+00:00",
+    "metadata": {
+      "score": 969,
+      "num_comments": 19,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "435629d3b6b18c508ebab88cd4082575",
+    "source": "r/QuiverQuantitative",
+    "source_type": "reddit",
+    "title": "Senator Jon Ossoff vs. Tulsi Gabbard",
+    "summary": "",
+    "url": "https://reddit.com/r/QuiverQuantitative/comments/1rxdb3j/senator_jon_ossoff_vs_tulsi_gabbard/",
+    "published_at": "2026-03-18T19:16:37+00:00",
+    "collected_at": "2026-03-20T07:07:56.014435+00:00",
+    "metadata": {
+      "score": 1171,
+      "num_comments": 90,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "16f421eea78f1c6d26660a5f0973c382",
+    "source": "r/QuiverQuantitative",
+    "source_type": "reddit",
+    "title": "Republican Senator Rand Paul vs. DHS Secretary nominee Markwayne Mullin",
+    "summary": "",
+    "url": "https://reddit.com/r/QuiverQuantitative/comments/1rx80a3/republican_senator_rand_paul_vs_dhs_secretary/",
+    "published_at": "2026-03-18T16:06:00+00:00",
+    "collected_at": "2026-03-20T07:07:56.014435+00:00",
+    "metadata": {
+      "score": 861,
+      "num_comments": 64,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "6ac6207d06bf0319ea2a351c669ce88e",
+    "source": "r/QuiverQuantitative",
+    "source_type": "reddit",
+    "title": "Trumplflation has arrived! PPI hits 3.4% in February. This was before the US war on Iran and spike in energy prices.",
+    "summary": "",
+    "url": "https://reddit.com/r/QuiverQuantitative/comments/1rx3av2/trumplflation_has_arrived_ppi_hits_34_in_february/",
+    "published_at": "2026-03-18T13:03:18+00:00",
+    "collected_at": "2026-03-20T07:07:56.014435+00:00",
+    "metadata": {
+      "score": 320,
+      "num_comments": 9,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "8fcb7f356d19352fe148b660469c99c5",
+    "source": "r/QuiverQuantitative",
+    "source_type": "reddit",
+    "title": "BREAKING: Trump's top counterterrorism official has resigned over the Iran War.",
+    "summary": "",
+    "url": "https://reddit.com/r/QuiverQuantitative/comments/1rw7zax/breaking_trumps_top_counterterrorism_official_has/",
+    "published_at": "2026-03-17T14:24:42+00:00",
+    "collected_at": "2026-03-20T07:07:56.014435+00:00",
+    "metadata": {
+      "score": 1562,
+      "num_comments": 50,
+      "upvote_ratio": 0.99
+    }
+  },
+  {
+    "id": "d2ead00ec05567ff72cda5e16bf4ef55",
+    "source": "r/QuiverQuantitative",
+    "source_type": "reddit",
+    "title": "BREAKING: Trump admits failure on Iran war, says he was “Shocked” to see that Iran fought back and targeted GCC countries. “Nobody Expected that”",
+    "summary": "",
+    "url": "https://reddit.com/r/QuiverQuantitative/comments/1rw22xs/breaking_trump_admits_failure_on_iran_war_says_he/",
+    "published_at": "2026-03-17T09:49:02+00:00",
+    "collected_at": "2026-03-20T07:07:56.014435+00:00",
+    "metadata": {
+      "score": 1019,
+      "num_comments": 68,
+      "upvote_ratio": 0.99
+    }
+  },
+  {
+    "id": "90e0af159379ce1e7d72a697690b3af9",
+    "source": "r/HedgeFund",
+    "source_type": "reddit",
+    "title": "Caliper Test Following Interview",
+    "summary": "Following my interview, I have been asked to complete a caliper test. Has anyone completed one, and do you have any advice?\n\n“The Caliper is a personality/IQ/abstract reasoning test broadly in line with the role requirements.\n\n \n\nThe Caliper is designed to assess an individual’s personality, behavior, critical thinking and abstract reasoning skills through a series of scenario-based multiple choice questions.”",
+    "url": "https://reddit.com/r/hedgefund/comments/1rw3gkk/caliper_test_following_interview/",
+    "published_at": "2026-03-17T11:06:03+00:00",
+    "collected_at": "2026-03-20T07:07:57.274472+00:00",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "cc9426784987ce6dbeb182bf2c0af6a8",
+    "source": "r/HedgeFund",
+    "source_type": "reddit",
+    "title": "Workplace verbal abuse",
+    "summary": "Wanted to share something that happened (as observed by someone on desk z): \n\nJunior on desk x was doing everything as instructed by his seniors on desk x. \n\nAssociate on desk y (never had any input on junior’s learning so far) didn’t approve of what the seniors on desk x had been telling him to do. Associate publicly starts telling junior what he was doing was dumb and that he doesn’t ‘understand shit about what’s going on’ and that junior x is a ‘fucking retard’ among other things. Meanwhile s",
+    "url": "https://reddit.com/r/hedgefund/comments/1rvqm9y/workplace_verbal_abuse/",
+    "published_at": "2026-03-16T23:50:18+00:00",
+    "collected_at": "2026-03-20T07:07:57.274472+00:00",
+    "metadata": {
+      "score": 3,
+      "num_comments": 7,
+      "upvote_ratio": 0.72
+    }
+  },
+  {
+    "id": "d7536eae2532533fe53ab989a2ca7458",
+    "source": "r/HedgeFund",
+    "source_type": "reddit",
+    "title": "Salary Expectations",
+    "summary": "I interviewed at one of the large multistrat hedge funds for a Business Analyst position. I have around 4-5 YOE.\n\nTowards the end of the interview, the hiring manager asked about salary expectations.\n\nI’ve been working as a data analytics/ bi contractor for the past few years, i mentioned my day rates were around 600-680.\n\nI said I was looking for around £100-120k. Did i underplay my hand?",
+    "url": "https://reddit.com/r/hedgefund/comments/1rvesks/salary_expectations/",
+    "published_at": "2026-03-16T16:45:47+00:00",
+    "collected_at": "2026-03-20T07:07:57.274472+00:00",
+    "metadata": {
+      "score": 3,
+      "num_comments": 6,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "13d317d5788d40dc7c7d9939dd7b25f3",
+    "source": "r/HedgeFund",
+    "source_type": "reddit",
+    "title": "I",
+    "summary": "Tap the below link to register a BTCC account. Register for the new user campaign to get up to 10,055 USDT in rewards. https://btcc.com/invite/Uf2avi7",
+    "url": "https://reddit.com/r/hedgefund/comments/1rvx5jc/i/",
+    "published_at": "2026-03-17T04:47:26+00:00",
+    "collected_at": "2026-03-20T07:07:57.274472+00:00",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "upvote_ratio": 0.22
+    }
+  },
+  {
+    "id": "b282ef8c7590593a3370b09fd7d75109",
+    "source": "r/HedgeFund",
+    "source_type": "reddit",
+    "title": "How much does your PM’s name matter as a junior analyst?",
+    "summary": "At a pod shop, what should I be looking for in a team? What makes a good PM vs a bad one for a junior analyst? Assuming both have strong analyst and no PM track records, how much does bonus they’re expecting, book size, personality, coverage area, location, team size matter?",
+    "url": "https://reddit.com/r/hedgefund/comments/1rulli2/how_much_does_your_pms_name_matter_as_a_junior/",
+    "published_at": "2026-03-15T18:26:35+00:00",
+    "collected_at": "2026-03-20T07:07:57.274472+00:00",
+    "metadata": {
+      "score": 19,
+      "num_comments": 8,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "5cab43cd6114a64d97dbd8b5fe0b973a",
+    "source": "r/HedgeFund",
+    "source_type": "reddit",
+    "title": "Choosing between public equities investing internship vs quant research internship for hedge fund recruiting",
+    "summary": "I’m currently deciding between two internship offers and would really appreciate advice.\n\nOffer 1 is at a [very large sovereign wealth fund](https://www.wallstreetoasis.com/resources/skills/trading-investing/sovereign-wealth-fund-swf) on the active equities/public markets side. The role seems more directly tied to investing and I think it would help develop investor judgment, market intuition, and experience thinking about public equities in a real portfolio context.\n\nOffer 2 is at a very large ",
+    "url": "https://reddit.com/r/hedgefund/comments/1ruldtd/choosing_between_public_equities_investing/",
+    "published_at": "2026-03-15T18:18:30+00:00",
+    "collected_at": "2026-03-20T07:07:57.274472+00:00",
+    "metadata": {
+      "score": 6,
+      "num_comments": 1,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "21386bce0ce4d5b8110d32d56bced987",
+    "source": "r/HedgeFund",
+    "source_type": "reddit",
+    "title": "Choosing between public equities investing internship vs quant research internship for hedge fund recruiting",
+    "summary": "",
+    "url": "https://reddit.com/r/hedgefund/comments/1rule1n/choosing_between_public_equities_investing/",
+    "published_at": "2026-03-15T18:18:45+00:00",
+    "collected_at": "2026-03-20T07:07:57.274472+00:00",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "86a210ac551a98dec0538ba1f90fce63",
+    "source": "r/HedgeFund",
+    "source_type": "reddit",
+    "title": "Trading for business major",
+    "summary": "Any tips on how to get to hf trading with a management degree? I am aiming obviously for non quant roles.\n\nAny tips are appreciated, please state your background in your replies and thanks in advance!",
+    "url": "https://reddit.com/r/hedgefund/comments/1rtum2i/trading_for_business_major/",
+    "published_at": "2026-03-14T20:53:20+00:00",
+    "collected_at": "2026-03-20T07:07:57.274472+00:00",
+    "metadata": {
+      "score": 3,
+      "num_comments": 4,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "5cad69f93c57c6be13478afc9baae6ce",
+    "source": "r/HedgeFund",
+    "source_type": "reddit",
+    "title": "Elite Hedgefund offer (support position)",
+    "summary": "Hi,\n\n  \nI have accepted a role at an elite hedgefund to do application support.\n\nI would highly welcome any advice or guidance to hit the ground running and hopefully thrive in the position.\n\n\n\nI have some experience, but they understand there will be a skill gap.",
+    "url": "https://reddit.com/r/hedgefund/comments/1ru2m3f/elite_hedgefund_offer_support_position/",
+    "published_at": "2026-03-15T02:42:29+00:00",
+    "collected_at": "2026-03-20T07:07:57.274472+00:00",
+    "metadata": {
+      "score": 0,
+      "num_comments": 4,
+      "upvote_ratio": 0.5
+    }
+  },
+  {
+    "id": "c4b1250842797befd4340749dca37345",
+    "source": "r/HedgeFund",
+    "source_type": "reddit",
+    "title": "Having to stay active kills RV strategies",
+    "summary": "",
+    "url": "https://reddit.com/r/hedgefund/comments/1rtiacf/having_to_stay_active_kills_rv_strategies/",
+    "published_at": "2026-03-14T12:34:23+00:00",
+    "collected_at": "2026-03-20T07:07:57.274472+00:00",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "1bda3c9744b327dae91f102e50294746",
+    "source": "r/biotech",
+    "source_type": "reddit",
+    "title": "Vent as hiring manager",
+    "summary": "Start rant \n\nPosition opened today - already 97 applicants. \n\nAt least 75 with NO SKILLS REQUIRED for the role. I’m not sure even 1 of the 97 really fit the role but at least I was able to short list 5 to review again. Hopefully I didn’t miss any worthwhile ones in the deluge. \n\nIt makes it impossible for me to review the CVs when I have to go through so much trash. \n\nStop wasting your time and the time of HR/hiring managers, it just makes it harder for the true candidates to get a fair review. ",
+    "url": "https://reddit.com/r/biotech/comments/1ryls82/vent_as_hiring_manager/",
+    "published_at": "2026-03-20T03:42:48+00:00",
+    "collected_at": "2026-03-20T07:07:58.419382+00:00",
+    "metadata": {
+      "score": 48,
+      "num_comments": 58,
+      "upvote_ratio": 0.7
+    }
+  },
+  {
+    "id": "6392ba8d11b5d05659f2b9189e7132f2",
+    "source": "r/biotech",
+    "source_type": "reddit",
+    "title": "I don't know what came over me. I countered a GOOD offer for more money and effectively lost the position. I don't even know what possessed me to that in this market.",
+    "summary": "I have been unemployed since Nov with absolutely no movement. But I got to interview for a 6 month position because I knew one of the scientists at the company, but other than minor details I really didn't know much about the role. After a very successful introduction and job overview I was left with the understanding that the job was mine if I wanted it. Up until that conversation money had NEVER come up. So when they offered $60 an hour I countered and asked for $75 considering this was a temp",
+    "url": "https://reddit.com/r/biotech/comments/1ry95jt/i_dont_know_what_came_over_me_i_countered_a_good/",
+    "published_at": "2026-03-19T18:53:58+00:00",
+    "collected_at": "2026-03-20T07:07:58.419382+00:00",
+    "metadata": {
+      "score": 184,
+      "num_comments": 100,
+      "upvote_ratio": 0.92
+    }
+  },
+  {
+    "id": "69ffeb4b5ced840dcd6a0c02a5f056e5",
+    "source": "r/biotech",
+    "source_type": "reddit",
+    "title": "I am really tired",
+    "summary": "I have always had a self-motivating personality and I used to love, and take pride in the work I did. Over the course of my PhD, I have attended numerous workshops and stayed on top of all the major wet-lab and bioinformatics skills that are supposedly hot on the market. But as I near the completion of the degree, I have applied to hundreds of jobs (\\~15-20/day), and have not landed a single interview. I have exhausted all the tips, tricks and tweaks to my resume, and seemingly nothing has worke",
+    "url": "https://reddit.com/r/biotech/comments/1rylj80/i_am_really_tired/",
+    "published_at": "2026-03-20T03:30:26+00:00",
+    "collected_at": "2026-03-20T07:07:58.419382+00:00",
+    "metadata": {
+      "score": 14,
+      "num_comments": 9,
+      "upvote_ratio": 0.85
+    }
+  },
+  {
+    "id": "1700a257b7b36e231f1ce0fd99da82a4",
+    "source": "r/biotech",
+    "source_type": "reddit",
+    "title": "1:1s",
+    "summary": "What format have you found to be most effective in 1:1s with your direct manager?\n\nMed affairs role for context.",
+    "url": "https://reddit.com/r/biotech/comments/1rye8m4/11s/",
+    "published_at": "2026-03-19T22:15:06+00:00",
+    "collected_at": "2026-03-20T07:07:58.419382+00:00",
+    "metadata": {
+      "score": 26,
+      "num_comments": 20,
+      "upvote_ratio": 0.86
+    }
+  },
+  {
+    "id": "b0e496bc803e75ddd9ae53ef1f901562",
+    "source": "r/biotech",
+    "source_type": "reddit",
+    "title": "Lack of motivation in biotech",
+    "summary": "I’m trying to get some feedback on how I’ve been feeling lately about my career. For some background, I’m a PhD level senior scientist at a small, clinical-stage biotech with about 30 employees. I’ve been with the company for 3 years and in that time was central to obtaining the company’s first IND approval, which I found super rewarding. \n\nGetting to the point: I feel like I’ve been deserving of a promotion during my time here, but honestly I’m perfectly fine where I am, and the bending over ba",
+    "url": "https://reddit.com/r/biotech/comments/1ryj32g/lack_of_motivation_in_biotech/",
+    "published_at": "2026-03-20T01:38:32+00:00",
+    "collected_at": "2026-03-20T07:07:58.419382+00:00",
+    "metadata": {
+      "score": 14,
+      "num_comments": 9,
+      "upvote_ratio": 0.89
+    }
+  },
+  {
+    "id": "d17c2c9e74dedc50866d1393eccb75c9",
+    "source": "r/biotech",
+    "source_type": "reddit",
+    "title": "\"We arrange our lives so we can work in person as much as possible.\" is this a red flag for a company I'm thinking about applying for?",
+    "summary": "This biotech company had this line at the end of the job description. Is this a red flag, or am I paranoid?",
+    "url": "https://reddit.com/r/biotech/comments/1ryd97h/we_arrange_our_lives_so_we_can_work_in_person_as/",
+    "published_at": "2026-03-19T21:38:06+00:00",
+    "collected_at": "2026-03-20T07:07:58.419382+00:00",
+    "metadata": {
+      "score": 20,
+      "num_comments": 31,
+      "upvote_ratio": 0.82
+    }
+  },
+  {
+    "id": "6df90862436062a4cc40ea3e7e8ec290",
+    "source": "r/biotech",
+    "source_type": "reddit",
+    "title": "Nanoparticle discovery could unlock universal immunotherapy for cancer",
+    "summary": "A new dual-function nanoparticle re-energizes exhausted T cells and clears solid tumors, with effects that spread to untreated tumors elsewhere in the body.",
+    "url": "https://reddit.com/r/biotech/comments/1rygqa6/nanoparticle_discovery_could_unlock_universal/",
+    "published_at": "2026-03-19T23:55:39+00:00",
+    "collected_at": "2026-03-20T07:07:58.419382+00:00",
+    "metadata": {
+      "score": 11,
+      "num_comments": 8,
+      "upvote_ratio": 0.67
+    }
+  },
+  {
+    "id": "af8de035d345affa57877ba68c95ff56",
+    "source": "r/biotech",
+    "source_type": "reddit",
+    "title": "Benefit (?) of Workday Referrals at Merck",
+    "summary": "For context, I did an internship at Merck a couple years ago before my PhD. The work I did during the internship was used by my supervisor at Merck and I got listed as a co-author on paper they submitted \\~2 years ago. I stayed in contact with them as I completed my PhD and we’re on good terms. I’m defending my thesis soon and felt my foot would already be in the door at Merck so I was hoping for the best.\n\nFrom what I know, for a referral, Merck requires a small blurb from the referring party s",
+    "url": "https://reddit.com/r/biotech/comments/1ryfrl6/benefit_of_workday_referrals_at_merck/",
+    "published_at": "2026-03-19T23:15:37+00:00",
+    "collected_at": "2026-03-20T07:07:58.419382+00:00",
+    "metadata": {
+      "score": 12,
+      "num_comments": 10,
+      "upvote_ratio": 0.83
+    }
+  },
+  {
+    "id": "40b1341c52b24b0c46700deb6e549d3b",
+    "source": "r/biotech",
+    "source_type": "reddit",
+    "title": "How to Start Strong in Big Pharma?",
+    "summary": "Hi everyone, I'm very fortunate to have landed a job at a very large pharma company as I'm finishing up my PhD this spring. My background is more in material science so I'm a bit nervous going into big pharma. The role is formulations based.\n\nAny advice on hitting the ground running and making the most of the first year and beyond? Would love to hear from anyone who's made a similar transition!",
+    "url": "https://reddit.com/r/biotech/comments/1rycjk0/how_to_start_strong_in_big_pharma/",
+    "published_at": "2026-03-19T21:11:00+00:00",
+    "collected_at": "2026-03-20T07:07:58.419382+00:00",
+    "metadata": {
+      "score": 13,
+      "num_comments": 9,
+      "upvote_ratio": 0.76
+    }
+  },
+  {
+    "id": "49bfe63a17d7283fb863d8dec7b5942e",
+    "source": "r/biotech",
+    "source_type": "reddit",
+    "title": "Built a patent-published wearable for passive glucose regulation — MVP tested, results are promising — Seeking for hardware/product developers to connect with",
+    "summary": "Hi everyone!\n\nI've been working on a startup focused on a specific problem: helping individuals regulate blood glucose and body metabolism without drugs, injections, or complex dietary tracking.\n\nThe core idea is a non-invasive, wearable-adjacent intervention that targets the body's own metabolic mechanisms — specifically leveraging underutilised musculature that has a disproportionate role in glucose clearance and metabolic rate. The science behind this is well-documented in physiology literatu",
+    "url": "https://reddit.com/r/biotech/comments/1ryobjt/built_a_patentpublished_wearable_for_passive/",
+    "published_at": "2026-03-20T06:00:37+00:00",
+    "collected_at": "2026-03-20T07:07:58.419382+00:00",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "d8fe731b362920f3a8ae1b6b742d1ff8",
+    "source": "r/Biotechplays",
+    "source_type": "reddit",
+    "title": "$DGNX News Alert: Doctolib,  leading European healthcare platform, selects Diginex Limited’s Plan A to turn their carbon management into strategic business value.",
+    "summary": "",
+    "url": "https://reddit.com/r/Biotechplays/comments/1rya6wy/dgnx_news_alert_doctolib_leading_european/",
+    "published_at": "2026-03-19T19:43:34+00:00",
+    "collected_at": "2026-03-20T07:08:00.205132+00:00",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "c9121016d81927eaad6d936bc51a8edc",
+    "source": "r/Biotechplays",
+    "source_type": "reddit",
+    "title": "I built a PDUFA scoring engine 60 live FDA events scored by approval probability",
+    "summary": "",
+    "url": "https://reddit.com/r/Biotechplays/comments/1ry1ohw/i_built_a_pdufa_scoring_engine_60_live_fda_events/",
+    "published_at": "2026-03-19T14:19:42+00:00",
+    "collected_at": "2026-03-20T07:08:00.205132+00:00",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "c852c42730c6a6cb5ecfd30cc144ea8e",
+    "source": "r/Biotechplays",
+    "source_type": "reddit",
+    "title": "XFOR",
+    "summary": "I am new to biotech. This morning I came across this one that seems promising. Already fda approved with major expansion possibilities. This is a drug that helps white blood cell production. As far as I can tell this is the beginning of a run up. Analysts give it a strong buy with 150% upside. \n\nAnyone else? \n\nIm a noob like I said so take that into consideration…\n\nSo far today we are in a steady climb. ",
+    "url": "https://reddit.com/r/Biotechplays/comments/1rwg4pe/xfor/",
+    "published_at": "2026-03-17T19:09:27+00:00",
+    "collected_at": "2026-03-20T07:08:00.205132+00:00",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "68e6da045258242166fb1286e3211a77",
+    "source": "r/Biotechplays",
+    "source_type": "reddit",
+    "title": "👋 Welcome to r/IovanceBiotherapeutic - Introduce Yourself and Read First!",
+    "summary": "",
+    "url": "https://reddit.com/r/Biotechplays/comments/1rvjhn3/welcome_to_riovancebiotherapeutic_introduce/",
+    "published_at": "2026-03-16T19:27:58+00:00",
+    "collected_at": "2026-03-20T07:08:00.205132+00:00",
+    "metadata": {
+      "score": 0,
+      "num_comments": 4,
+      "upvote_ratio": 0.5
+    }
+  },
+  {
+    "id": "559c408be89b1e4934f56fd3dcd5fab5",
+    "source": "r/Biotechplays",
+    "source_type": "reddit",
+    "title": "Good luck to all $NFE holders entering end of March.",
+    "summary": "",
+    "url": "https://reddit.com/r/Biotechplays/comments/1rv1vxc/good_luck_to_all_nfe_holders_entering_end_of_march/",
+    "published_at": "2026-03-16T06:26:32+00:00",
+    "collected_at": "2026-03-20T07:08:00.205132+00:00",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "6c4b69f441e70116d59a1a8fd316687c",
+    "source": "r/Biotechplays",
+    "source_type": "reddit",
+    "title": "The Resurrection of Galantamine: How Alpha Cognition [ACOG: Nasdaq] Is On Course to Unlocking a Multi-Billion Dollar Neuroimmune Platform",
+    "summary": "",
+    "url": "https://reddit.com/r/Biotechplays/comments/1rmnijg/the_resurrection_of_galantamine_how_alpha/",
+    "published_at": "2026-03-06T19:25:21+00:00",
+    "collected_at": "2026-03-20T07:08:00.205132+00:00",
+    "metadata": {
+      "score": 0,
+      "num_comments": 0,
+      "upvote_ratio": 0.5
+    }
+  },
+  {
+    "id": "4e3e3bb275d5d354c382ed77177bdfe1",
+    "source": "r/Biotechplays",
+    "source_type": "reddit",
+    "title": "Opaleye Management Doubles Down — Buys Another $1M of ACOG [Nasdaq] on the Open Market Last Week",
+    "summary": "",
+    "url": "https://reddit.com/r/Biotechplays/comments/1remc7j/opaleye_management_doubles_down_buys_another_1m/",
+    "published_at": "2026-02-25T18:58:58+00:00",
+    "collected_at": "2026-03-20T07:08:00.205132+00:00",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "2023b797e94df658a82dc0bc9f6cc0c7",
+    "source": "r/Biotechplays",
+    "source_type": "reddit",
+    "title": "Long thesis for OCUL ahead of tomorrow's SOL-1 readout",
+    "summary": "",
+    "url": "https://reddit.com/r/Biotechplays/comments/1r6miwy/long_thesis_for_ocul_ahead_of_tomorrows_sol1/",
+    "published_at": "2026-02-16T21:28:05+00:00",
+    "collected_at": "2026-03-20T07:08:00.205132+00:00",
+    "metadata": {
+      "score": 7,
+      "num_comments": 2,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "b447d185e379ab44ee921557716133c7",
+    "source": "r/Biotechplays",
+    "source_type": "reddit",
+    "title": "Adlarity (Donepezil Patch) Discontinued Jan 2026 - Impact Analysis for Alpha Cognition (ACOG) and Alzheimer's Treatment Landscape\"",
+    "summary": "",
+    "url": "https://reddit.com/r/Biotechplays/comments/1r3ldod/adlarity_donepezil_patch_discontinued_jan_2026/",
+    "published_at": "2026-02-13T10:05:42+00:00",
+    "collected_at": "2026-03-20T07:08:00.205496+00:00",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "317328feeedd7f80a1049a1d50d4cb2d",
+    "source": "r/Biotechplays",
+    "source_type": "reddit",
+    "title": "$SLS REGAL's flawed assumptions (Short Thesis) by Aron Markovics",
+    "summary": "",
+    "url": "https://reddit.com/r/Biotechplays/comments/1qzhgh8/sls_regals_flawed_assumptions_short_thesis_by/",
+    "published_at": "2026-02-08T18:59:22+00:00",
+    "collected_at": "2026-03-20T07:08:00.205496+00:00",
+    "metadata": {
+      "score": 2,
+      "num_comments": 7,
+      "upvote_ratio": 0.63
+    }
+  },
+  {
+    "id": "bf98b0c243303207c23f66f95024ee3a",
+    "source": "r/longevity",
+    "source_type": "reddit",
+    "title": "Read Me: Intro, Resources, and Materials",
+    "summary": "With global average life expectancy at 73 years, age-related ill health is the main driver of healthcare costs, loss of independence, and disability in most countries. Although human biology is complex and there are hundreds of age-related pathologies, the biology of aging can be categorized into a much smaller number of categories and potential treatments. Medically intervening in aspects of aging biology has the potential to increase healthy lifespan in humans and ameliorate, prevent, or rever",
+    "url": "https://reddit.com/r/longevity/comments/1q15hs2/read_me_intro_resources_and_materials/",
+    "published_at": "2026-01-01T14:32:02+00:00",
+    "collected_at": "2026-03-20T07:08:01.308733+00:00",
+    "metadata": {
+      "score": 28,
+      "num_comments": 0,
+      "upvote_ratio": 0.98
+    }
+  },
+  {
+    "id": "7aa736b67657161a616c1679002532b3",
+    "source": "r/longevity",
+    "source_type": "reddit",
+    "title": "Lifestyle, Preprint, Miscellaneous Thread",
+    "summary": "Due to requests, this thread is open for linking to and discussing quality content on lifestyle (diet, exercise, etc.). Two free examples are [Christin Glorioso](https://drglorioso.substack.com/) and [Eric Topol](https://erictopol.substack.com/). Peer-reviewed studies on lifestyle are encouraged in this thread as well.\n\nPreprints (drafts of scientific papers before they are peer-reviewed) are also to be included here, but please clarify in your comment that it is a preprint. Miscellaneous user d",
+    "url": "https://reddit.com/r/longevity/comments/1rp3q1h/lifestyle_preprint_miscellaneous_thread/",
+    "published_at": "2026-03-09T15:45:44+00:00",
+    "collected_at": "2026-03-20T07:08:01.308733+00:00",
+    "metadata": {
+      "score": 22,
+      "num_comments": 5,
+      "upvote_ratio": 0.86
+    }
+  },
+  {
+    "id": "905c78a329b7a04fc29864637eec083e",
+    "source": "r/longevity",
+    "source_type": "reddit",
+    "title": "Nevada Regulators Fine Peptide Providers at Anti-Aging Festival Where Two Women Became Critically Ill",
+    "summary": "After receiving peptide injections at RAADFest, two people were taken away in ambulances and intubated to help them keep breathing. The Nevada pharmacy board attempted to obtain samples of the serum from the booth owners but were unable to. Consequently, the pharmacy board couldn't determine if the injections were contaminated or if the two individuals reacted to the peptides themselves. ",
+    "url": "https://reddit.com/r/longevity/comments/1ry5tb3/nevada_regulators_fine_peptide_providers_at/",
+    "published_at": "2026-03-19T16:53:16+00:00",
+    "collected_at": "2026-03-20T07:08:01.308733+00:00",
+    "metadata": {
+      "score": 76,
+      "num_comments": 11,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "178199ee9fa8fc259dc6c81d470aae0f",
+    "source": "r/longevity",
+    "source_type": "reddit",
+    "title": "Origami Therapeutics is harnessing autophagy to eliminate disease-causing proteins in the brain.",
+    "summary": "",
+    "url": "https://reddit.com/r/longevity/comments/1ry7o7y/origami_therapeutics_is_harnessing_autophagy_to/",
+    "published_at": "2026-03-19T18:00:41+00:00",
+    "collected_at": "2026-03-20T07:08:01.308733+00:00",
+    "metadata": {
+      "score": 45,
+      "num_comments": 3,
+      "upvote_ratio": 0.96
+    }
+  },
+  {
+    "id": "c9c97700551b9f46ee3138f0e5b52f20",
+    "source": "r/longevity",
+    "source_type": "reddit",
+    "title": "A newfound blood biomarker may one day predict longevity",
+    "summary": "",
+    "url": "https://reddit.com/r/longevity/comments/1rx76th/a_newfound_blood_biomarker_may_one_day_predict/",
+    "published_at": "2026-03-18T15:35:44+00:00",
+    "collected_at": "2026-03-20T07:08:01.308733+00:00",
+    "metadata": {
+      "score": 40,
+      "num_comments": 5,
+      "upvote_ratio": 0.92
+    }
+  },
+  {
+    "id": "9b6d61308014c88a3840d1eb43adb115",
+    "source": "r/longevity",
+    "source_type": "reddit",
+    "title": "Update from Cyclarity Therapuetics on Pilot Trial in Healthy Participants to Remove 7-Ketocholesterol from the Body",
+    "summary": "The interview starts at about 2:00.\n\nCyclarity's CSO shares unofficial data from their pilot clinical study in Australia in healthy patients. He states that there were no observed adverse health affects across any doses given, and the drug was secreted in urine after capturing 7KC. The company will now start the next phase in older patients with coronary artery disease.",
+    "url": "https://reddit.com/r/longevity/comments/1rwa1py/update_from_cyclarity_therapuetics_on_pilot_trial/",
+    "published_at": "2026-03-17T15:39:36+00:00",
+    "collected_at": "2026-03-20T07:08:01.308733+00:00",
+    "metadata": {
+      "score": 49,
+      "num_comments": 5,
+      "upvote_ratio": 1.0
+    }
+  },
+  {
+    "id": "f7539f5f13dd78a471b66544240f4aa7",
+    "source": "r/longevity",
+    "source_type": "reddit",
+    "title": "Predicting Heart Disease Risk With ApoB, LP(a), and VLDL",
+    "summary": "",
+    "url": "https://reddit.com/r/longevity/comments/1rugm67/predicting_heart_disease_risk_with_apob_lpa_and/",
+    "published_at": "2026-03-15T15:15:17+00:00",
+    "collected_at": "2026-03-20T07:08:01.308733+00:00",
+    "metadata": {
+      "score": 24,
+      "num_comments": 3,
+      "upvote_ratio": 0.88
+    }
+  },
+  {
+    "id": "e22688357ae2f0e9f143a2ce001b5ac1",
+    "source": "r/longevity",
+    "source_type": "reddit",
+    "title": "New Statin Guidelines just published",
+    "summary": "[https://newsroom.heart.org/news/accaha-issue-updated-guideline-for-managing-lipids-cholesterol](https://newsroom.heart.org/news/accaha-issue-updated-guideline-for-managing-lipids-cholesterol)\n\nThere’s a lot of nuance in these but the TLDR is that if you previously were not a candidate for statins, you may very well be now. They added a lot of stuff but in general are now looking at 30y risk, and encourage using lp(a) to inflect risk calculation. Their default calculator doesn’t include that mod",
+    "url": "https://reddit.com/r/longevity/comments/1rtvrxj/new_statin_guidelines_just_published/",
+    "published_at": "2026-03-14T21:40:32+00:00",
+    "collected_at": "2026-03-20T07:08:01.308733+00:00",
+    "metadata": {
+      "score": 207,
+      "num_comments": 67,
+      "upvote_ratio": 0.92
+    }
+  },
+  {
+    "id": "57b53c6a7016fe568a8c7992ec182787",
+    "source": "r/longevity",
+    "source_type": "reddit",
+    "title": "Resource to keep track of ongoing clinical trials aiming for cures -&gt; you can subscribe to 'aging'",
+    "summary": "This site alerts you when a new trial for whatever condition you want comes out. Then you can join it! I have subscribed to 'hair loss' but just also joined 'longevity' and 'aging'",
+    "url": "https://reddit.com/r/longevity/comments/1rtrlgj/resource_to_keep_track_of_ongoing_clinical_trials/",
+    "published_at": "2026-03-14T18:54:59+00:00",
+    "collected_at": "2026-03-20T07:08:01.308733+00:00",
+    "metadata": {
+      "score": 31,
+      "num_comments": 0,
+      "upvote_ratio": 0.91
+    }
+  },
+  {
+    "id": "24a685331b3667259471cfc1a68ad538",
+    "source": "r/longevity",
+    "source_type": "reddit",
+    "title": "Telocyte plans to initiate canine trials of telomerase gene therapy later this year.",
+    "summary": "",
+    "url": "https://reddit.com/r/longevity/comments/1rsiy12/telocyte_plans_to_initiate_canine_trials_of/",
+    "published_at": "2026-03-13T09:45:42+00:00",
+    "collected_at": "2026-03-20T07:08:01.308733+00:00",
+    "metadata": {
+      "score": 140,
+      "num_comments": 12,
+      "upvote_ratio": 0.98
+    }
+  },
+  {
+    "id": "a1b80e3f2b2ee8b412d471371a6abf58",
+    "source": "Yahoo Finance (COPX)",
+    "source_type": "finance",
+    "title": "COPX: $72.38 (-3.40%)",
+    "summary": "COPX 현재가 $72.38, 일간 변동 -3.40%, 거래량 7,025,606 (평균 대비 1.4배)",
+    "url": "https://finance.yahoo.com/quote/COPX",
+    "published_at": "2026-03-20T07:08:03.523994+00:00",
+    "collected_at": "2026-03-20T07:08:03.523994+00:00",
+    "metadata": {
+      "ticker": "COPX",
+      "price": 72.38,
+      "daily_change_pct": -3.4,
+      "volume": 7025606,
+      "avg_volume": 5163268,
+      "volume_ratio": 1.36,
+      "is_spike": false
+    }
+  }
+]

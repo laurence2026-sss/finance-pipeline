@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Intelligence Pipeline</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-left">
+            <div class="logo">
+                <span class="logo-icon">◉</span>
+                <span class="logo-text">INTEL PIPELINE</span>
+            </div>
+            <div class="header-status" id="pipelineStatus">
+                <span class="status-dot offline"></span>
+                <span class="status-text">대기 중</span>
+            </div>
+        </div>
+        <div class="header-right">
+            <div class="meta-chip" id="lastRunChip">
+                <span class="chip-label">마지막 실행</span>
+                <span class="chip-value" id="lastRunTime">—</span>
+            </div>
+            <button class="btn-run" id="btnRun" onclick="triggerPipeline()">
+                <span class="btn-icon">▶</span>
+                파이프라인 실행
+            </button>
+        </div>
+    </header>
+
+    <!-- Stats Bar -->
+    <div class="stats-bar" id="statsBar">
+        <div class="stat-card">
+            <div class="stat-value" id="statRaw">0</div>
+            <div class="stat-label">📡 수집</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value" id="statFiltered">0</div>
+            <div class="stat-label">🔍 필터 통과</div>
+        </div>
+        <div class="stat-card highlight-exclusive">
+            <div class="stat-value" id="statExclusive">0</div>
+            <div class="stat-label">🔥 독점 정보</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value" id="statEarly">0</div>
+            <div class="stat-label">⚡ 초기 반영</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value" id="statReflected">0</div>
+            <div class="stat-label">⚪ 이미 반영</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value" id="statElapsed">—</div>
+            <div class="stat-label">⏱️ 소요 시간</div>
+        </div>
+    </div>
+
+    <!-- Filter Tabs -->
+    <div class="filter-tabs">
+        <button class="tab active" data-filter="all" onclick="filterCards('all', this)">전체</button>
+        <button class="tab" data-filter="exclusive" onclick="filterCards('exclusive', this)">🔥 독점 정보</button>
+        <button class="tab" data-filter="early" onclick="filterCards('early', this)">⚡ 초기 반영</button>
+        <button class="tab" data-filter="reflected" onclick="filterCards('reflected', this)">⚪ 이미 반영</button>
+    </div>
+
+    <!-- Intelligence Feed -->
+    <main class="feed" id="feed">
+        <div class="empty-state" id="emptyState">
+            <div class="empty-icon">◉</div>
+            <h2>파이프라인을 실행하세요</h2>
+            <p>오른쪽 상단의 <strong>파이프라인 실행</strong> 버튼을 클릭하면<br>글로벌 정보 수집이 시작됩니다.</p>
+        </div>
+    </main>
+
+    <!-- Agent Log Panel (Slide-in) -->
+    <div class="log-panel" id="logPanel">
+        <div class="log-header">
+            <h3>에이전트 로그</h3>
+            <button class="log-close" onclick="toggleLog()">✕</button>
+        </div>
+        <div class="log-content" id="logContent">
+            <div class="log-entry">시스템 대기 중...</div>
+        </div>
+    </div>
+
+    <button class="fab-log" onclick="toggleLog()" title="에이전트 로그">
+        <span>📋</span>
+    </button>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_WALKTHROUGH",
+  "summary": "Global Intelligence Pipeline의 구현 완료 보고서입니다. 파이프라인 테스트 결과(RSS 70건, Reddit 50건, Yahoo Finance 4건 수집 → 18건 필터 통과 → 18건 독점 정보 판별), 대시보드 스크린샷, 서버 실행 방법을 포함합니다.",
+  "updatedAt": "2026-03-20T03:14:03.177084Z"
+}

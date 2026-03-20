@@ -1,0 +1,207 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (34,39)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (34,39)<yt-icon  />
+		[2] (34,39)<span  />
+			[3] (34,39)<div  />
+[4] (112,39)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (112,39)<div  />
+		[6] (112,38)<ytd-logo  />
+			[7] (112,39)<yt-icon  />
+				[8] (113,39)<span  />
+					[9] (113,39)<div  />
+KR
+[10] (445,39)<div  />
+	[11] (425,39)<form  />
+		[12] (425,39)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (599,39)<div  />
+		[14] (599,39)<ytd-text-input-assistant  />
+			[15] (599,39)<button class='ytdTextInputAssistantButton' />
+				[16] (599,39)<img  />
+	[17] (626,39)<div  />
+		[18] (626,39)<button aria-label='검색어 삭제' class='ytSearchboxComponentClearButton' />
+			[19] (626,39)<yt-touch-feedback-shape  />
+				[20] (626,39)<div  />
+[21] (671,39)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[22] (671,39)<span  />
+		[23] (671,39)<span  />
+			[24] (671,39)<div  />
+[25] (736,39)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[26] (736,39)<yt-touch-feedback-shape  />
+		[27] (736,39)<div  />
+[28] (814,39)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[29] (814,39)<yt-touch-feedback-shape  />
+		[30] (814,39)<div  />
+[31] (886,39)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[32] (886,38)<yt-icon-badge-shape  />
+		[33] (886,39)<div  />
+			[34] (886,39)<div  />
+				[35] (886,39)<span  />
+					[36] (886,39)<span  />
+						[37] (886,39)<div  />
+[38] (942,39)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[39] (942,39)<yt-img-shadow  />
+		[40] (942,39)<img  />
+[41] (34,136)<a aria-label='홈' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='홈' />
+	[42] (34,123)<yt-icon  />
+		[43] (34,123)<span  />
+			[44] (34,123)<div  />
+	[45] (34,158)<span >홈 />
+[46] (34,239)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[47] (34,227)<yt-icon  />
+		[48] (34,227)<span  />
+			[49] (34,227)<div  />
+	[50] (34,262)<span >Shorts />
+[51] (34,343)<a aria-label='구독' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='구독' />
+	[52] (34,331)<yt-icon  />
+		[53] (34,331)<span  />
+			[54] (34,331)<div  />
+	[55] (34,366)<span >구독 />
+[56] (34,447)<a aria-label='내 페이지' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='내 페이지' />
+	[57] (34,434)<yt-icon  />
+		[58] (34,434)<span  />
+			[59] (34,434)<div  />
+	[60] (34,469)<span >내 페이지 />
+10:43
+[61] (219,185)<div  />
+	[62] (219,185)<div  />
+		[63] (219,190)<div  />
+			[64] (207,172)<h3  />
+				[65] (207,172)<a aria-label='2026년 폭등할 '제2의 엔비디아' 찾았다! 지금 안 사면 평생 후회합니다 (3천조 시장 독점) 10분 43초' class='yt-simple-endpoint style-scope ytd-grid-video-renderer' href='/watch?v=Mh1jBB4Uq7A' id='video-title' title='2026년 폭등할 '제2의 엔비디아' 찾았다! 지금 안 사면 평생 후회합니다 (3천조 시장 독점)'>2026년 폭등할 '제2의 엔비디아' 찾았다! 지금 안 사면 평생 후회합니다 (3천조 시장 독점) />
+			[66] (207,224)<div  />
+				[67] (207,224)<div  />
+					[68] (207,224)<div  />
+						[69] (153,224)<span >조회수 39만회 />
+						[70] (213,224)<span >2개월 전 />
+	[71] (308,155)<ytd-menu-renderer  />
+		[72] (308,155)<yt-icon-button  />
+			[73] (308,155)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[74] (308,155)<yt-icon  />
+					[75] (308,155)<span  />
+						[76] (308,155)<div  />
+13:25
+[77] (423,185)<div  />
+	[78] (423,185)<div  />
+		[79] (423,190)<div  />
+			[80] (412,172)<h3  />
+				[81] (412,172)<a aria-label='엔비디아는 시작일 뿐입니다. AI 위기가 만든 150년 만의 '부의 대이동', 에너지 패권 쥘 '이 기업'에 올인하세요 13분 25초' class='yt-simple-endpoint style-scope ytd-grid-video-renderer' href='/watch?v=Sm0sMcg3VXE' id='video-title' title='엔비디아는 시작일 뿐입니다. AI 위기가 만든 150년 만의 '부의 대이동', 에너지 패권 쥘 '이 기업'에 올인하세요'>엔비디아는 시작일 뿐입니다. AI 위기가 만든 150년 만의 '부의 대이동', 에너지 패권 쥘 '이 기업'에 올인하세요 />
+			[82] (412,224)<div  />
+				[83] (412,224)<div  />
+					[84] (412,224)<div  />
+						[85] (357,224)<span >조회수 30만회 />
+						[86] (418,224)<span >2개월 전 />
+	[87] (512,155)<ytd-menu-renderer  />
+		[88] (512,155)<yt-icon-button  />
+			[89] (512,155)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[90] (512,155)<yt-icon  />
+					[91] (512,155)<span  />
+						[92] (512,155)<div  />
+11:49
+나중에 볼 동영상
+현재 재생목록에 추가
+[93] (628,185)<div  />
+	[94] (628,185)<div  />
+		[95] (628,190)<div  />
+			[96] (616,172)<h3  />
+				[97] (616,172)<a aria-label='엔비디아 다음, 하드웨어는 결국 '소모품'이 됩니다. 영구적인 '독점'을 누릴 AI '절대 포식자'가 옵니다 11분 49초' class='yt-simple-endpoint style-scope ytd-grid-video-renderer' href='/watch?v=OXWgsUv4yeo' id='video-title' title='엔비디아 다음, 하드웨어는 결국 '소모품'이 됩니다. 영구적인 '독점'을 누릴 AI '절대 포식자'가 옵니다'>엔비디아 다음, 하드웨어는 결국 '소모품'이 됩니다. 영구적인 '독점'을 누릴 AI '절대 포식자'가 옵니다 />
+			[98] (616,224)<div  />
+				[99] (616,224)<div  />
+					[100] (616,224)<div  />
+						[101] (561,224)<span >조회수 15만회 />
+						[102] (622,224)<span >1개월 전 />
+	[103] (716,155)<ytd-menu-renderer  />
+		[104] (716,155)<yt-icon-button  />
+			[105] (716,155)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[106] (716,155)<yt-icon  />
+					[107] (716,155)<span  />
+						[108] (716,155)<div  />
+6:52
+[109] (832,185)<div  />
+	[110] (832,185)<div  />
+		[111] (832,190)<div  />
+			[112] (820,172)<h3  />
+				[113] (820,172)<a aria-label='미국 주식 대폭락, 도망칠 '위기'인가? 담을 '기회'인가? (역대급 7조 투매의 진짜 이유) 6분 52초' class='yt-simple-endpoint style-scope ytd-grid-video-renderer' href='/watch?v=2Xs1RokCTA8' id='video-title' title='미국 주식 대폭락, 도망칠 '위기'인가? 담을 '기회'인가? (역대급 7조 투매의 진짜 이유)'>미국 주식 대폭락, 도망칠 '위기'인가? 담을 '기회'인가? (역대급 7조 투매의 진짜 이유) />
+			[114] (820,224)<div  />
+				[115] (820,224)<div  />
+					[116] (820,224)<div  />
+						[117] (766,224)<span >조회수 13만회 />
+						[118] (826,224)<span >1개월 전 />
+	[119] (921,155)<ytd-menu-renderer  />
+		[120] (921,155)<yt-icon-button  />
+			[121] (921,155)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[122] (921,155)<yt-icon  />
+					[123] (921,155)<span  />
+						[124] (921,155)<div  />
+엔비디아는 예고편입니다. 젠슨 황과 구글이 작정하고 ‘매수’ 중인 2,200조 시장의 주인공 (지금이 발목 구간)
+조회수 13만회
+추천
+[125] (287,505)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=OXWgsUv4yeo' id='thumbnail' />
+	[126] (287,639)<yt-image  />
+		[127] (287,505)<img  />
+	[128] (429,618)<ytd-thumbnail-overlay-time-status-renderer  />
+		[129] (431,618)<div  />
+			[130] (431,618)<badge-shape aria-label='11분 49초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[131] (431,618)<div >11:49 />
+[132] (287,696)<div  />
+	[133] (287,696)<div  />
+		[134] (287,701)<div  />
+			[135] (276,683)<h3  />
+				[136] (276,683)<a aria-label='엔비디아 다음, 하드웨어는 결국 '소모품'이 됩니다. 영구적인 '독점'을 누릴 AI '절대 포식자'가 옵니다 11분 49초' class='yt-simple-endpoint style-scope ytd-grid-video-renderer' href='/watch?v=OXWgsUv4yeo' id='video-title' title='엔비디아 다음, 하드웨어는 결국 '소모품'이 됩니다. 영구적인 '독점'을 누릴 AI '절대 포식자'가 옵니다'>엔비디아 다음, 하드웨어는 결국 '소모품'이 됩니다. 영구적인 '독점'을 누릴 AI '절대 포식자'가 옵니다 />
+			[137] (276,735)<div  />
+				[138] (276,735)<div  />
+					[139] (276,735)<div  />
+						[140] (153,735)<span >조회수 15만회 />
+						[141] (213,735)<span >1개월 전 />
+	[142] (445,666)<ytd-menu-renderer  />
+		[143] (445,666)<yt-icon-button  />
+			[144] (445,666)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[145] (445,666)<yt-icon  />
+					[146] (445,666)<span  />
+						[147] (445,666)<div  />
+[148] (629,505)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=1SnBhUDRDa4' id='thumbnail' />
+	[149] (629,639)<yt-image  />
+		[150] (629,505)<img  />
+	[151] (771,618)<ytd-thumbnail-overlay-time-status-renderer  />
+		[152] (772,618)<div  />
+			[153] (772,618)<badge-shape aria-label='11분 55초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[154] (772,618)<div >11:55 />
+[155] (629,696)<div  />
+	[156] (629,696)<div  />
+		[157] (629,701)<div  />
+			[158] (618,683)<h3  />
+				[159] (618,683)<a aria-label='"이 영상 하나로 종결합니다" 2026년 AI 투자 바이블! 당신의 인생을 바꿀 '부의 지도'가 완성됐습니다 11분 55초' class='yt-simple-endpoint style-scope ytd-grid-video-renderer' href='/watch?v=1SnBhUDRDa4' id='video-title' title='"이 영상 하나로 종결합니다" 2026년 AI 투자 바이블! 당신의 인생을 바꿀 '부의 지도'가 완성됐습니다'>"이 영상 하나로 종결합니다" 2026년 AI 투자 바이블! 당신의 인생을 바꿀 '부의 지도'가 완성됐습니다 />
+			[160] (618,735)<div  />
+				[161] (618,735)<div  />
+					[162] (618,735)<div  />
+						[163] (495,735)<span >조회수 11만회 />
+						[164] (555,735)<span >1개월 전 />
+	[165] (787,666)<ytd-menu-renderer  />
+		[166] (787,666)<yt-icon-button  />
+			[167] (787,666)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[168] (787,666)<yt-icon  />
+					[169] (787,666)<span  />
+						[170] (787,666)<div  />
+코스피 5,500 폭등의 비밀과 폭락의 조건. "이 4가지 신호" 뜨면 뒤도 보지 말고 떠나세요.
+[171] (838,735)<span >조회수 3.9만회 />
+[172] (900,735)<span >1개월 전 />
+[173] (932,505)<ytd-button-renderer  />
+	[174] (932,505)<yt-button-shape  />
+		[175] (932,505)<button aria-label='다음' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+			[176] (932,505)<yt-touch-feedback-shape  />
+				[177] (932,505)<div  />
+[178] (145,830)<a class='yt-simple-endpoint style-scope ytd-shelf-renderer' href='/@%EB%89%B4%EC%8A%A42%EB%A7%89/videos?view=0&sort=dd&shelf_id=3' />
+	[179] (145,830)<span >동영상 />
+[180] (219,960)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=SzCC3koiaIc' id='thumbnail' />
+[181] (423,960)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=5QiVDDwXs44' id='thumbnail' />
+[182] (628,960)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=BUZTHvapaJw' id='thumbnail' />
+[183] (832,960)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=ywIwo-SQzrE' id='thumbnail' />
+[184] (932,960)<ytd-button-renderer  />
+	[185] (932,960)<yt-button-shape  />
+		[186] (932,960)<button aria-label='다음' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+			[187] (932,960)<yt-touch-feedback-shape  />
+				[188] (932,960)<div  />
+
+</current_dom>

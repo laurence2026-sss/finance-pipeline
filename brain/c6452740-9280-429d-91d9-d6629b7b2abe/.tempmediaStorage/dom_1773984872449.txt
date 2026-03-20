@@ -1,0 +1,60 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (305,50)<yt-player-overlay-video-details-renderer class='ytPlayerOverlayVideoDetailsRendererHost' role='button' />
+	월가 사모펀드 5조 환매 충격. '가짜 AI 주식' 연쇄 부도 전 반드시 담아야 할 진짜 포식자 (5초 감별법)
+[1] (970,788)<button class='branding-img-container ytp-button' />
+	[2] (970,788)<img  />
+[3] (786,861)<button aria-label='다른 사용자 855명과 함께 이 동영상에 좋아요 표시' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--overlay yt-spec-button-shape-next--size-s yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--override-small-size-icon yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[4] (786,861)<yt-touch-feedback-shape  />
+		[5] (786,861)<div  />
+[6] (824,861)<button aria-label='동영상에 싫어요 표시' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--overlay yt-spec-button-shape-next--size-s yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--override-small-size-icon yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[7] (824,861)<yt-touch-feedback-shape  />
+		[8] (824,861)<div  />
+[9] (870,861)<button aria-label='댓글' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--overlay yt-spec-button-shape-next--size-s yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--override-small-size-icon yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[10] (870,861)<yt-touch-feedback-shape  />
+		[11] (870,861)<div  />
+[12] (916,861)<button aria-label='공유' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--overlay yt-spec-button-shape-next--size-s yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--override-small-size-icon yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[13] (916,861)<yt-touch-feedback-shape  />
+		[14] (916,861)<div  />
+[15] (962,861)<button aria-label='질문하기' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--overlay yt-spec-button-shape-next--size-s yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--override-small-size-icon yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[16] (962,861)<yt-touch-feedback-shape  />
+		[17] (962,861)<div  />
+[18] (500,918)<div  />
+	[19] (500,918)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+		[20] (45,911)<div  />
+		[21] (132,911)<div  />
+		[22] (215,911)<div  />
+		[23] (323,911)<div  />
+		[24] (429,911)<div  />
+		[25] (498,911)<div  />
+		[26] (568,911)<div  />
+		[27] (649,911)<div  />
+		[28] (711,911)<div  />
+		[29] (755,911)<div  />
+		[30] (813,911)<div  />
+		[31] (915,911)<div  />
+		[32] (500,918)<div  />
+		[33] (22,918)<div  />
+			[34] (22,918)<div  />
+[35] (31,961)<button aria-label='일시중지 단축키 k' class='ytp-play-button ytp-button' />
+[36] (80,961)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[37] (158,961)<div  />
+	[38] (158,961)<div  />
+		[39] (158,961)<div aria-label='0 분 7 초/11 분 40 초' class='ytp-time-contents' role='button' />
+			[40] (135,961)<span >0:07 />
+			[41] (155,961)<span >/ />
+			[42] (177,961)<span >11:40 />
+[43] (342,961)<button class='ytp-chapter-title ytp-button' />
+	[44] (332,961)<div >인트로: 월가 사모펀드 5조 환매 충격, '가짜 AI 주식' 연쇄 부도의 서막 />
+	[45] (442,960)<div  />
+[46] (824,961)<button aria-label='자동재생 사용 설정' class='ytp-button ytp-autonav-toggle delhi-fast-follow-autonav-toggle' />
+	[47] (824,961)<div  />
+		[48] (824,961)<div  />
+[49] (870,961)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[50] (870,978)<div  />
+[51] (916,961)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[52] (962,961)<button aria-label='전체화면 종료(f)' class='ytp-fullscreen-button ytp-button' />
+
+</current_dom>

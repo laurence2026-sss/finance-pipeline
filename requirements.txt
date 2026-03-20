@@ -1,0 +1,8 @@
+python-dotenv
+python-telegram-bot
+google-generativeai
+playwright
+pillow
+feedparser
+schedule
+requests

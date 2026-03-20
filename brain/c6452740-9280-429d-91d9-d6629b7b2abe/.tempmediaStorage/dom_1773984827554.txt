@@ -1,0 +1,77 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+KR
+만들기
+홈
+Shorts
+구독
+내 페이지
+뉴스 2막
+@뉴스2막
+•
+구독자 7.02만명
+•
+동영상 31개
+🗺️ 뉴스가 돈이 되는 지도, 펜으로 직접 그려드립니다.
+...더보기
+구독
+홈
+동영상
+팟캐스트
+재생목록
+게시물
+2026년 제2의 엔비디아는 과연
+무엇이 될까? 다들 이게 제일 궁금할
+2026년 폭등할 '제2의 엔비디아' 찾았다! 지금 안 사면 평생 후회합니다 (3천조 시장 독점)
+조회수 394,783회
+2개월 전
+🚀 [AI 2막] 시리즈 한 번에 몰아보기 (재생목록)
+▶
+https://www.youtube.com/playlist?list...
+👇 놓친 핵심 퍼즐 줍기 (관련 영상)
+1편(피지컬 AI):
+https://youtu.be/Mh1jBB4Uq7A
+(현재 영상)
+2편(에너지 인프라):
+https://youtu.be/Sm0sMcg3VXE
+3편(우주/통신):
+https://youtu.be/LW848lT_qqE
+4편(지능의 지배자):
+https://youtu.be/OXWgsUv4yeo
+5편(AI 투자 바이블):
+https://youtu.be/1SnBhUDRDa4
+자세히 알아보기
+뉴스 2막
+[0] (698,136)<button aria-label='닫기' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[1] (698,136)<yt-touch-feedback-shape  />
+		[2] (698,136)<div  />
+[3] (500,528)<div class='style-scope ytd-section-list-renderer' id='contents' scrollable='true' />
+	설명
+	🗺️ 뉴스가 돈이 되는 지도, 펜으로 직접 그려드립니다.
+
+"뉴스는 1막, 돈은 2막.”
+여기는 뉴스 2막, 돈의 흐름을 그려주는 곳입니다.
+
+쏟아지는 뉴스 속에서 단순 정보가 아닌, 자본의 흐름을 읽어냅니다.
+뉴스 2막은 복잡한 경제와 산업의 흐름을 직관적인 지도로 시각화하여
+투자자의 시간을 획기적으로 아껴드리는 인사이트 채널입니다.
+
+[Core Value]
+🔍 Deep Dive (심층 분석)
+산업의 병목과 기회를 꿰뚫어, 뉴스 이면의 진짜 흐름을 분석합니다.
+
+📐 Structure (구조화)
+텍스트보다 명확한 도식(Map)으로 복잡한 이슈를 한눈에 구조화합니다.
+
+🔭 Future (선점)
+변화하는 시대, 부의 이동 경로를 미리 탐색하여 대응 전략을 제시합니다.
+
+감정이 아닌, 냉정한 숫자와 논리로 투자의 확신을 더하겠습니다.
+
+📧 비즈니스 및 제휴 문의: news2act.official@gmail.com
+	추가 정보
+	이메일 주소 보기
+
+</current_dom>

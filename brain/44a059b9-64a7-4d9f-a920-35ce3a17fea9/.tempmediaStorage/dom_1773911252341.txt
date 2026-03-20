@@ -1,0 +1,114 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (101,42)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _a6hd' href='/' role='link' />
+	[1] (101,42)<div  />
+		[2] (101,48)<div  />
+[3] (851,42)<a class='x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x972fbf x10w94by x1qhh985 x14e42zd xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu x18d9i69 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x1lku1pv x1a2a7pz x6s0dn4 xjyslct x1obq294 x5a5i1n xde0f50 x15x8krk x1ejq31n x18oe1m7 x1sy0etr xstzfhl x9f619 x9bdzbf x1ypdohk x1f6kntn xwhw2v2 x10w6t97 xl56j7k x17ydfre xf7dkkf xv54qhq x1n2onr6 x2b8uid xlyipyv x87ps6o x14atkfc x5c86q x18br7mf x1i0vuye x18cabeq x158me93 xk4oym4 x1uugd1q xe81s16 x3nfvp2' href='/accounts/login/?next=%2Fpopular%2Fvibecoding%2F%3Futm_source%3Dexplore_tag&source=desktop_nav' role='link'>Log In />
+[4] (925,42)<a class='x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x1a2a7pz x6s0dn4 xjyslct x1ejq31n x18oe1m7 x1sy0etr xstzfhl x9f619 x1ypdohk x1f6kntn xl56j7k x17ydfre x2b8uid xlyipyv x87ps6o x14atkfc x5c86q x18br7mf x1i0vuye xl0gqc1 xr5sc7 xlal1re x14jxsvd xt0b8zv x1gzmzvf xjbqb8w xr9e8f9 x1e4oeot x1ui04y5 x6en5u8 x972fbf x10w94by x1qhh985 x14e42zd xt7dq6l xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x1n5bzlp x3nfvp2' href='/accounts/emailsignup/' role='link'>Sign Up />
+Vibecoding
+Watch 310K reels about vibecoding from people around the world.
+[5] (500,239)<div class='x1pq812k xvbhtw8 x78zum5 x1q0g3np x1x0gksc xw2csxc x1rohswg xfk6m8 x1qh8feb' scrollable='true' />
+	[6] (500,239)<div class='x1qjc9v5 x78zum5 x1q0g3np x5yr21d xw2csxc x10wlt62 x1n2onr6 x1rohswg xfk6m8' role='presentation' scrollable='true' />
+		[7] (109,239)<a class='x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x1lku1pv x1a2a7pz x6s0dn4 xjyslct x1ejq31n x18oe1m7 x1sy0etr xstzfhl x9f619 x1ypdohk x78zum5 x10w6t97 xl56j7k x17ydfre x1n2onr6 x2b8uid xlyipyv x87ps6o x14atkfc x5c86q x18br7mf x1i0vuye xixcex4 xk4oym4 xl3ioum x9n4tj2 x19g9edo xaur0o6 x124ains x1ojmjj xj6tauk x972fbf x10w94by x1qhh985 x14e42zd x5n08af x1fhwpqd x1s688f xwib8y2 xpdmqnj x1g0dm76 x1y1aw1k' href='/popular/vibecode-meme/?utm_source=topic_pill' role='link'>vibecode meme />
+		[8] (217,239)<a class='x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x1lku1pv x1a2a7pz x6s0dn4 xjyslct x1ejq31n x18oe1m7 x1sy0etr xstzfhl x9f619 x1ypdohk x78zum5 x10w6t97 xl56j7k x17ydfre x1n2onr6 x2b8uid xlyipyv x87ps6o x14atkfc x5c86q x18br7mf x1i0vuye xixcex4 xk4oym4 xl3ioum x9n4tj2 x19g9edo xaur0o6 x124ains x1ojmjj xj6tauk x972fbf x10w94by x1qhh985 x14e42zd x5n08af x1fhwpqd x1s688f xwib8y2 xpdmqnj x1g0dm76 x1y1aw1k' href='/popular/vibecode-app/?utm_source=topic_pill' role='link'>vibecode app />
+		[9] (306,239)<a class='x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x1lku1pv x1a2a7pz x6s0dn4 xjyslct x1ejq31n x18oe1m7 x1sy0etr xstzfhl x9f619 x1ypdohk x78zum5 x10w6t97 xl56j7k x17ydfre x1n2onr6 x2b8uid xlyipyv x87ps6o x14atkfc x5c86q x18br7mf x1i0vuye xixcex4 xk4oym4 xl3ioum x9n4tj2 x19g9edo xaur0o6 x124ains x1ojmjj xj6tauk x972fbf x10w94by x1qhh985 x14e42zd x5n08af x1fhwpqd x1s688f xwib8y2 xpdmqnj x1g0dm76 x1y1aw1k' href='/popular/vibecode/?utm_source=topic_pill' role='link'>vibecode />
+		[10] (386,239)<a class='x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x1lku1pv x1a2a7pz x6s0dn4 xjyslct x1ejq31n x18oe1m7 x1sy0etr xstzfhl x9f619 x1ypdohk x78zum5 x10w6t97 xl56j7k x17ydfre x1n2onr6 x2b8uid xlyipyv x87ps6o x14atkfc x5c86q x18br7mf x1i0vuye xixcex4 xk4oym4 xl3ioum x9n4tj2 x19g9edo xaur0o6 x124ains x1ojmjj xj6tauk x972fbf x10w94by x1qhh985 x14e42zd x5n08af x1fhwpqd x1s688f xwib8y2 xpdmqnj x1g0dm76 x1y1aw1k' href='/popular/vibecoder/?utm_source=topic_pill' role='link'>vibecoder />
+		[11] (482,239)<a class='x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x1lku1pv x1a2a7pz x6s0dn4 xjyslct x1ejq31n x18oe1m7 x1sy0etr xstzfhl x9f619 x1ypdohk x78zum5 x10w6t97 xl56j7k x17ydfre x1n2onr6 x2b8uid xlyipyv x87ps6o x14atkfc x5c86q x18br7mf x1i0vuye xixcex4 xk4oym4 xl3ioum x9n4tj2 x19g9edo xaur0o6 x124ains x1ojmjj xj6tauk x972fbf x10w94by x1qhh985 x14e42zd x5n08af x1fhwpqd x1s688f xwib8y2 xpdmqnj x1g0dm76 x1y1aw1k' href='/popular/vibecode-africa/?utm_source=topic_pill' role='link'>vibecode africa />
+		[12] (662,239)<a class='x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x1lku1pv x1a2a7pz x6s0dn4 xjyslct x1ejq31n x18oe1m7 x1sy0etr xstzfhl x9f619 x1ypdohk x78zum5 x10w6t97 xl56j7k x17ydfre x1n2onr6 x2b8uid xlyipyv x87ps6o x14atkfc x5c86q x18br7mf x1i0vuye xixcex4 xk4oym4 xl3ioum x9n4tj2 x19g9edo xaur0o6 x124ains x1ojmjj xj6tauk x972fbf x10w94by x1qhh985 x14e42zd x5n08af x1fhwpqd x1s688f xwib8y2 xpdmqnj x1g0dm76 x1y1aw1k' href='/popular/vibecoded-social-network-ai-exposed-data/?utm_source=topic_pill' role='link'>vibecoded social network ai exposed data />
+		[13] (885,239)<a class='x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x1lku1pv x1a2a7pz x6s0dn4 xjyslct x1ejq31n x18oe1m7 x1sy0etr xstzfhl x9f619 x1ypdohk x78zum5 x10w6t97 xl56j7k x17ydfre x1n2onr6 x2b8uid xlyipyv x87ps6o x14atkfc x5c86q x18br7mf x1i0vuye xixcex4 xk4oym4 xl3ioum x9n4tj2 x19g9edo xaur0o6 x124ains x1ojmjj xj6tauk x972fbf x10w94by x1qhh985 x14e42zd x5n08af x1fhwpqd x1s688f xwib8y2 xpdmqnj x1g0dm76 x1y1aw1k' href='/popular/vibecode-your-videos-with-replit/?utm_source=topic_pill' role='link'>vibecode your videos with replit />
+		claude code vibecoding
+[14] (167,527)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x78zum5 x6ikm8r x10wlt62 x1n2onr6 _a6hd' href='/reel/DUHmsKkjZw0/' role='link' />
+	[15] (167,527)<div  />
+		[16] (167,306)<div  />
+			[17] (108,306)<div  />
+				[18] (108,306)<object  />
+					[19] (108,306)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _a6hd' href='/byjackprice' role='link' />
+						[20] (108,306)<span  />
+							[21] (108,306)<span >byjackprice />
+			[22] (152,306)<div  />
+		[23] (167,721)<div  />
+			[24] (167,721)<div  />
+				[25] (167,695)<div  />
+					[26] (94,695)<span  />
+						[27] (94,695)<span >338K />
+				[28] (167,736)<span  />
+					[29] (167,736)<span >Everything you need to know about Vibe Coding in 60 seconds. I forgot to add but for payment processors use Stripe for a webapp, and Revenuecat for mobile app. Also join my new Skool community! 
+
+#vibecoding #coding />
+[30] (389,527)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x78zum5 x6ikm8r x10wlt62 x1n2onr6 _a6hd' href='/reel/DTLMH9ok7hT/' role='link' />
+	[31] (389,527)<div  />
+		[32] (389,305)<div  />
+			[33] (343,305)<div  />
+				[34] (343,306)<object  />
+					[35] (343,306)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _a6hd' href='/kaiisvibecoding' role='link' />
+						[36] (343,306)<span  />
+							[37] (343,306)<span >kaiisvibecoding />
+		[38] (389,721)<div  />
+			[39] (389,721)<div  />
+				[40] (389,695)<div  />
+					[41] (311,695)<span  />
+						[42] (311,695)<span >7M />
+				[43] (389,736)<span  />
+					[44] (389,736)<span >Tag a developer that does this #vibecoding #buildinpublic #webapp #codingproject #softwaredeveloper #codingproject #softwaredeveloper #tech #manusai />
+[45] (611,527)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x78zum5 x6ikm8r x10wlt62 x1n2onr6 _a6hd' href='/reel/DVgz5l1j5KG/' role='link' />
+	[46] (611,527)<div  />
+		[47] (611,306)<div  />
+			[48] (557,306)<div  />
+				[49] (557,306)<object  />
+					[50] (557,306)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _a6hd' href='/aleskander.ai' role='link' />
+						[51] (557,306)<span  />
+							[52] (557,306)<span >aleskander.ai />
+			[53] (606,306)<div  />
+		[54] (611,721)<div  />
+			[55] (611,721)<div  />
+				[56] (611,695)<div  />
+					[57] (538,695)<span  />
+						[58] (538,695)<span >130K />
+				[59] (611,736)<span  />
+					[60] (611,736)<span >Bro took vibe coding too seriously lmaooo 🥀🥀 #aiagency #startup #fyp #vibecoding #claude />
+[61] (833,527)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x78zum5 x6ikm8r x10wlt62 x1n2onr6 _a6hd' href='/reel/DVuihjqEXvx/' role='link' />
+	[62] (833,527)<div  />
+		[63] (833,305)<div  />
+			[64] (763,305)<div  />
+				[65] (763,306)<object  />
+					[66] (763,306)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _a6hd' href='/evlynsu' role='link' />
+						[67] (763,306)<span  />
+							[68] (763,306)<span >evlynsu />
+		[69] (833,721)<div  />
+			[70] (833,721)<div  />
+				[71] (833,695)<div  />
+					[72] (761,695)<span  />
+						[73] (761,695)<span >116K />
+				[74] (833,736)<span  />
+					[75] (833,736)<span >The reality behind vibe coding no one talks about.
+
+#ai #vibecoding #generativeai #aitools #webdesign />
+[76] (167,793)<div  />
+	[77] (112,793)<div  />
+		[78] (112,794)<object  />
+			[79] (112,794)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _a6hd' href='/makegizmos' role='link' />
+				[80] (112,794)<span  />
+					[81] (112,794)<span >makegizmos />
+[82] (389,794)<div  />
+	[83] (345,794)<div  />
+		[84] (345,795)<object  />
+			[85] (345,795)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _a6hd' href='/ernestosoftware' role='link' />
+				[86] (345,795)<span  />
+					[87] (345,795)<span >ernestosoftware />
+	[88] (404,794)<div  />
+[89] (611,793)<div  />
+	[90] (567,793)<div  />
+		[91] (567,794)<object  />
+			[92] (567,794)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _a6hd' href='/audreycaprianni' role='link' />
+				[93] (567,794)<span  />
+					[94] (567,794)<span >audreycaprianni />
+[95] (833,793)<div  />
+	[96] (778,793)<div  />
+		[97] (778,794)<object  />
+			[98] (778,794)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _a6hd' href='/jaysonbuildz' role='link' />
+				[99] (778,794)<span  />
+					[100] (778,794)<span >jaysonbuildz />
+
+</current_dom>

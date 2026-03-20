@@ -1,0 +1,92 @@
+# Implementation Plan: Notion-n8n Automation SaaS
+
+## Goal Description
+Build a "Zero-Configuration" SaaS platform where users can subscribe to receive automated financial insights directly into their private Notion workspaces. The system must completely hide the underlying n8n complexity. Users simply "Log in" and "Connect Notion," and the service handles the rest server-side.
+
+## User Review Required
+> [!IMPORTANT]
+> **Centralized Service Architecture**: To hide n8n files from the user, the n8n instance must run on **YOUR server** (the SaaS backend), not the user's computer. The user only interacts with a lightweight Web App to authorize access. Confirm this architectural direction.
+
+## Required Roles ("The Hats")
+
+To build this specific "Black Box" experience, you need to wear these 4 distinct hats:
+
+### 1. 🏗️ The Integration Architect (OAuth Specialist)
+- **Role**: Handling the "Handshake" between your app and the user's Notion.
+- **Task**: Implement **Notion OAuth 2.0**. This is the magic key. Instead of asking users for an "API Key" (which is hard to find), you provide a simple "Connect Notion" button.
+- **Why**: This is the single biggest factor in reducing user friction.
+
+### 2. 🔐 The Security Warden (Database Engineer)
+- **Role**: Guarding the keys.
+- **Task**: Design a Supabase database to securely store User IDs mapped to their specific `Notion Access Tokens`.
+- **Why**: Since n8n runs centrally, it needs to look up *which* token belongs to *which* user to send the right news to the right person.
+
+### 3. ⚙️ The Loop Master (n8n Backend Dev)
+- **Role**: Building the engine that services 100 people at once.
+- **Task**: Convert a "Single User" workflow into a "Multi-Tenant" workflow.
+    - *Before*: Start -> Fetch News -> Send to My Notion.
+    - *After*: Start -> Fetch News -> **Fetch All Active Users from DB -> Loop through Users -> Use Individual Token** -> Send to Their Notion.
+
+### 4. 🎨 The Illusionist (Frontend UX Dev)
+- **Role**: Making the complex look simple.
+- **Task**: Build a clean tailored Next.js dashboard. The user sees "Status: Active", "Last Update: 10 mins ago", and a "Cancel Subscription" button. They never see nodes or JSON lines.
+
+---
+
+## Technical Architecture: The "Magic Box" Flow
+
+### Component Diagram
+
+```mermaid
+graph TD
+    User[End User] -->|1. Clicks 'Connect'| WebApp[Next.js SaaS Portal]
+    WebApp -->|2. OAuth Grant| NotionAPI[Notion API]
+    NotionAPI -->|3. Access Token| Supabase[(Supabase DB)]
+    
+    n8n[n8n Server (Your Backend)] -->|4. Cron Trigger (Every Morning)| n8n
+    n8n -->|5. Fetch News| NewsSource[Bloomberg/Yahoo]
+    n8n -->|6. Get Active Users & Tokens| Supabase
+    n8n -->|7. Loop: Push Data to User's Page| NotionAPI
+    
+    subgraph "Hidden from User"
+    n8n
+    Supabase
+    NewsSource
+    end
+```
+
+### Detailed Implementation Steps
+
+#### [Step 1] The "Front Door" (Web App)
+- **Tech**: Next.js (hosted on Vercel).
+- **Function**:
+    - User signs up (Email/Google).
+    - **"Connect Workspace" Button**: Redirects user to Notion's authorization page.
+    - **Callback**: Receives a `code` from Notion, swaps it for a permanent `access_token`, and saves it to Supabase `users` table.
+
+#### [Step 2] The "Vault" (Database)
+- **Tech**: Supabase (PostgreSQL).
+- **Schema**:
+    - `users`: id, email, subscription_status
+    - `integrations`: user_id, notion_access_token, notion_page_id (target page)
+
+#### [Step 3] The "Engine" (n8n)
+- **Tech**: Self-hosted n8n (or Cloud).
+- **Workflow Logic**:
+    1.  **Trigger**: Schedule (e.g., 7:00 AM daily).
+    2.  **Action**: Scrape/Fetch Market Data (Global context).
+    3.  **Action**: Summarize Data via LLM.
+    4.  **Database Read**: `SELECT * FROM integrations WHERE status = 'active'`.
+    5.  **Loop (Split in Batches)**: For each user:
+        - Set credentials using their specific `notion_access_token`.
+        - Create a new Block/Card in their specific `notion_page_id`.
+    6.  **Error Handling**: If a token fails (user revoked access), mark status as 'error' in DB and alert via Email.
+
+## Verification Plan
+
+### Automated Tests
+- **OAuth Flow**: Verify token exchange works and saves to DB using a dummy account.
+- **n8n Loop**: Mock 5 test users in Supabase and ensure the workflow runs 5 separate Notion create operations successfully.
+
+### Manual Verification
+- **The "Grandma Test"**: Can a non-technical user get the news appearing in their Notion just by clicking buttons on the website, without reading any documentation? 

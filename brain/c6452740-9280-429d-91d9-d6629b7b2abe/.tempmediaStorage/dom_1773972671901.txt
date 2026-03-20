@@ -1,0 +1,134 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+접근성 링크
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (70,73)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwi3saeXs62TAxWwbfUHHdZWCyAQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (344,71)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (562,71)<div  />
+	[3] (561,71)<div aria-label='지우기' class='M2vV3 vOY7J' role='button' />
+		[4] (561,71)<span  />
+	[5] (577,71)<span  />
+[6] (593,71)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (593,71)<span  />
+[8] (619,71)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (645,71)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (675,71)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (670,71)<div  />
+		[12] (670,71)<span  />
+[13] (914,71)<a aria-label='Search Labs' class='gb_B' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (945,71)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (974,71)<a aria-label='Google 계정: ᆞ  
+(kso01033092812@gmail.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dsite:instagram.com%2B%2522corp.theaxis%2522%2Bposts&ec=futura_srp_og_si_72236_p' role='button' />
+필터 및 주제
+[16] (156,156)<a class='XVMlrc C6AK7c' href='/search?q=site:instagram.com+%22corp.theaxis%22+posts&sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n4LAI3_1S-DhWqXgub7Tfcq8Av_lA:1773972671295&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtIhWZBipdokEENQdohs3eIOdR8tBFRl5UjHoE02is7_UdaEMwe_IpJquhazeErB6jqhrXFPKHcn3nHwbvPlK4mwhaFq3qnVhMrqBuXXHokrFteuWnwQVm4UgK5Bj19AXMU8FZrQ&aep=1&ntc=1&sa=X&ved=2ahUKEwi3saeXs62TAxWwbfUHHdZWCyAQ2J8OegQIEBAE' />
+	[17] (156,156)<div  />
+		[18] (156,168)<div  />
+			[19] (156,161)<span >AI 모드 />
+[20] (194,156)<a class='C6AK7c' role='link' />
+	전체
+[21] (230,156)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n4LAI3_1S-DhWqXgub7Tfcq8Av_lA:1773972671295&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtIhWZBipdokEENQdohs3eIOdR8tBFRl5UjHoE02is7_UdaEMwe_IpJquhazeErB6jqhrXFPKHcn3nHwbvPlK4mwhaFq3qnVhMrqBuXXHokrFteuWnwQVm4UgK5Bj19AXMU8FZrQ&q=site:instagram.com+%22corp.theaxis%22+posts&sa=X&ved=2ahUKEwi3saeXs62TAxWwbfUHHdZWCyAQtKgLegQIFRAB' />
+	[22] (230,156)<div  />
+		[23] (230,168)<span >이미지 />
+[24] (267,156)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n4LAI3_1S-DhWqXgub7Tfcq8Av_lA:1773972671295&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtIhWZBipdokEENQdohs3eIOdR8tBFRl5UjHoE02is7_UdaEMwe_IpJquhazeErB6jqhrXFPKHcn3nHwbvPlK4mwhaFq3qnVhMrqBuXXHokrFteuWnwQVm4UgK5Bj19AXMU8FZrQ&q=site:instagram.com+%22corp.theaxis%22+posts&ved=1t:220175&ictx=111' />
+	[25] (267,156)<div  />
+		[26] (267,168)<span >쇼핑 />
+[27] (304,156)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n4LAI3_1S-DhWqXgub7Tfcq8Av_lA:1773972671295&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtIhWZBipdokEENQdohs3eIOdR8tBFRl5UjHoE02is7_UdaEMwe_IpJquhazeErB6jqhrXFPKHcn3nHwbvPlK4mwhaFq3qnVhMrqBuXXHokrFteuWnwQVm4UgK5Bj19AXMU8FZrQ&q=site:instagram.com+%22corp.theaxis%22+posts&sa=X&ved=2ahUKEwi3saeXs62TAxWwbfUHHdZWCyAQtKgLegQIEhAB' />
+	[28] (304,156)<div  />
+		[29] (304,168)<span >동영상 />
+[30] (340,156)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n4LAI3_1S-DhWqXgub7Tfcq8Av_lA:1773972671295&q=site:instagram.com+%22corp.theaxis%22+posts&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtIhWZBipdokEENQdohs3eIOdR8tBFRl5UjHoE02is7_UdaEMwe_IpJquhazeErB6jqhrXFPKHcn3nHwbvPlK4mwhaFq3qnVhMrqBuXXHokrFteuWnwQVm4UgK5Bj19AXMU8FZrQ&sa=X&ved=2ahUKEwi3saeXs62TAxWwbfUHHdZWCyAQ0pQJegQIFBAB' />
+	[31] (340,156)<div  />
+		[32] (340,168)<span >뉴스 />
+[33] (386,156)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n4LAI3_1S-DhWqXgub7Tfcq8Av_lA:1773972671295&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlX4vEYjwla_a-g0kroAFGNtIhWZBipdokEENQdohs3eIOdR8tBFRl5UjHoE02is7_UdaEMwe_IpJquhazeErB6jqhrXFPKHcn3nHwbvPlK4mwhaFq3qnVhMrqBuXXHokrFteuWnwQVm4UgK5Bj19AXMU8FZrQ&q=site:instagram.com+%22corp.theaxis%22+posts&sa=X&ved=2ahUKEwi3saeXs62TAxWwbfUHHdZWCyAQs6gLegQIExAB' />
+	[34] (386,156)<div  />
+		[35] (386,168)<span >짧은 동영상 />
+[36] (443,156)<div class='mTpL7c' role='button' />
+	[37] (443,156)<div  />
+		[38] (443,168)<div  />
+			[39] (437,161)<span >더보기 />
+			[40] (455,161)<span  />
+[41] (491,156)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (491,156)<div  />
+		[43] (491,168)<div  />
+			[44] (485,161)<span >도구 />
+			[45] (499,161)<span  />
+검색결과
+[46] (296,278)<a class='zReHs' href='https://www.instagram.com/p/DV-dswVkw--/' />
+	[47] (296,305)<h3 >아직도 출근길에 이해 안 가는 경제 뉴스랑 씨름하시나요? />
+	[48] (204,256)<div  />
+		[49] (204,256)<div  />
+			[50] (151,256)<span  />
+				[51] (151,256)<div  />
+					[52] (151,256)<img  />
+			[53] (217,256)<div  />
+				[54] (217,244)<div  />
+					[55] (217,244)<span >Instagram · corp.theaxis />
+				[56] (217,270)<div  />
+					[57] (178,270)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>2일 전 />
+[58] (279,268)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[59] (279,268)<span  />
+		[60] (279,270)<span  />
+0 likes, 0 comments -
+corp.theaxis
+on March 16, 2026: "아직도 출근길에 이해 안 가는 경제 뉴스랑 씨름하시나요? 심지어 다 읽어도 뭐가 ...
+누락된 검색어:
+posts
+‎| 필수 포함 항목:
+[61] (300,404)<a href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n4LAI3_1S-DhWqXgub7Tfcq8Av_lA:1773972671295&q=site:instagram.com+%22corp.theaxis%22+%22posts%22&sa=X&ved=2ahUKEwi3saeXs62TAxWwbfUHHdZWCyAQ5t4CegQIHRAB' />
+	[62] (300,404)<span >posts />
+이미지
+[63] (208,698)<div  />
+	[64] (208,698)<div  />
+		[65] (208,698)<div  />
+			[66] (208,698)<div  />
+				[67] (208,664)<div  />
+					[68] (208,664)<div class='kwICDb DfMusf xZGX9 y9pG6d T3Fozb' role='button' />
+						[69] (208,664)<div  />
+							[70] (208,664)<img  />
+				토스증권 on XYZ SEOUL, #돈의심리학 #모건하우절 #토스증권 #성수동 #투자 #주말지식 #주말행사 #xyzseoul
+				Instagram
+				[71] (270,848)<div  />
+					[72] (272,848)<div  />
+						[73] (272,848)<div aria-label='검색결과에 관한 정보' class='mzNRm iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+							[74] (270,848)<span  />
+								[75] (270,848)<span  />
+[76] (354,698)<div  />
+	[77] (354,698)<div  />
+		[78] (354,698)<div  />
+			[79] (354,698)<div  />
+				[80] (354,664)<div  />
+					[81] (354,664)<div class='kwICDb DfMusf xZGX9 y9pG6d T3Fozb' role='button' />
+						[82] (354,664)<div  />
+							[83] (354,664)<img  />
+				육아휴직 사용률
+				Instagram
+				[84] (415,848)<div  />
+					[85] (418,848)<div  />
+						[86] (418,848)<div aria-label='검색결과에 관한 정보' class='mzNRm iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+							[87] (415,848)<span  />
+								[88] (415,848)<span  />
+[89] (500,698)<div  />
+	[90] (500,698)<div  />
+		[91] (500,698)<div  />
+			[92] (500,698)<div  />
+				[93] (500,664)<div  />
+					[94] (500,664)<div class='kwICDb DfMusf xZGX9 y9pG6d T3Fozb' role='button' />
+						[95] (500,664)<div  />
+							[96] (500,664)<img  />
+				육아휴직 사용률
+				Instagram
+				[97] (561,848)<div  />
+					[98] (564,848)<div  />
+						[99] (564,848)<div aria-label='검색결과에 관한 정보' class='mzNRm iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+							[100] (561,848)<span  />
+								[101] (561,848)<span  />
+[102] (354,924)<div class='p8FEIf MmMIvd jRKCUd' role='button' />
+	[103] (354,924)<div  />
+		[104] (348,924)<span  />
+			[105] (345,924)<span >이미지 더보기 />
+		[106] (383,924)<span  />
+
+</current_dom>

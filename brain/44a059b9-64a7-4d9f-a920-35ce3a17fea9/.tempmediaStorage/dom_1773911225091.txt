@@ -1,0 +1,148 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+접근성 링크
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (124,75)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjU24SjzquTAxW038kDHd-MClYQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (419,73)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (633,73)<div  />
+	[3] (630,73)<div aria-label='지우기' class='M2vV3 vOY7J' role='button' />
+		[4] (630,73)<span  />
+	[5] (654,73)<span  />
+[6] (677,73)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (677,73)<span  />
+[8] (716,73)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (754,73)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (798,73)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (792,73)<div  />
+		[12] (792,73)<span  />
+[13] (874,73)<a aria-label='Search Labs' class='gb_B' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (920,73)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (962,73)<a aria-label='Google 계정: ᆞ  
+(kso01033092812@gmail.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DVibe%2BCoding%2BAI%2Binfluencers%2Binstagram%2Btwitter%2Bchannels&ec=futura_srp_og_si_72236_p' role='button' />
+필터 및 주제
+[16] (100,161)<a class='XVMlrc C6AK7c' href='/search?q=Vibe+Coding+AI+influencers+instagram+twitter+channels&sca_esv=87c0228ed7e9c332&sxsrf=ANbL-n43dcHSGrMe1yu17JI5NJl1Tp08ag:1773911224173&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTf11rdGODep1hjYV7VngF90sZzYaGlVa2Dy8ci2F-6J0PXdp8GC47--o5ODq3ctk5NQQGKJiXwGReBOVvj8dM6Z22m-dBnFgwyTQbBWOqBlHuI333aFuZyHa7fKW30SmeTOlKM2Q9DoApW7fq0lGEEIjVSoSg&aep=1&ntc=1&sa=X&ved=2ahUKEwjU24SjzquTAxW038kDHd-MClYQ2J8OegQIDxAE' />
+	[17] (100,161)<div  />
+		[18] (100,173)<div  />
+			[19] (100,166)<span >AI 모드 />
+[20] (156,161)<a class='C6AK7c' role='link' />
+	전체
+[21] (210,161)<a class='C6AK7c' href='/search?sca_esv=87c0228ed7e9c332&sxsrf=ANbL-n43dcHSGrMe1yu17JI5NJl1Tp08ag:1773911224173&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTf11rdGODep1hjYV7VngF90sZzYaGlVa2Dy8ci2F-6J0PXdp8GC47--o5ODq3ctk5NQQGKJiXwGReBOVvj8dM6Z22m-dBnFgwyTQbBWOqBlHuI333aFuZyHa7fKW30SmeTOlKM2Q9DoApW7fq0lGEEIjVSoSg&q=Vibe+Coding+AI+influencers+instagram+twitter+channels&sa=X&ved=2ahUKEwjU24SjzquTAxW038kDHd-MClYQtKgLegQIFhAB' />
+	[22] (210,161)<div  />
+		[23] (210,173)<span >이미지 />
+[24] (270,161)<a class='C6AK7c' href='/search?sca_esv=87c0228ed7e9c332&sxsrf=ANbL-n43dcHSGrMe1yu17JI5NJl1Tp08ag:1773911224173&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTf11rdGODep1hjYV7VngF90sZzYaGlVa2Dy8ci2F-6J0PXdp8GC47--o5ODq3ctk5NQQGKJiXwGReBOVvj8dM6Z22m-dBnFgwyTQbBWOqBlHuI333aFuZyHa7fKW30SmeTOlKM2Q9DoApW7fq0lGEEIjVSoSg&q=Vibe+Coding+AI+influencers+instagram+twitter+channels&sa=X&ved=2ahUKEwjU24SjzquTAxW038kDHd-MClYQtKgLegQIFxAB' />
+	[25] (270,161)<div  />
+		[26] (270,173)<span >동영상 />
+[27] (324,161)<a class='C6AK7c' href='/search?sca_esv=87c0228ed7e9c332&sxsrf=ANbL-n43dcHSGrMe1yu17JI5NJl1Tp08ag:1773911224173&q=Vibe+Coding+AI+influencers+instagram+twitter+channels&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTf11rdGODep1hjYV7VngF90sZzYaGlVa2Dy8ci2F-6J0PXdp8GC47--o5ODq3ctk5NQQGKJiXwGReBOVvj8dM6Z22m-dBnFgwyTQbBWOqBlHuI333aFuZyHa7fKW30SmeTOlKM2Q9DoApW7fq0lGEEIjVSoSg&sa=X&ved=2ahUKEwjU24SjzquTAxW038kDHd-MClYQ0pQJegQIExAB' />
+	[28] (324,161)<div  />
+		[29] (324,173)<span >뉴스 />
+[30] (393,161)<a class='C6AK7c' href='/search?sca_esv=87c0228ed7e9c332&sxsrf=ANbL-n43dcHSGrMe1yu17JI5NJl1Tp08ag:1773911224173&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTf11rdGODep1hjYV7VngF90sZzYaGlVa2Dy8ci2F-6J0PXdp8GC47--o5ODq3ctk5NQQGKJiXwGReBOVvj8dM6Z22m-dBnFgwyTQbBWOqBlHuI333aFuZyHa7fKW30SmeTOlKM2Q9DoApW7fq0lGEEIjVSoSg&q=Vibe+Coding+AI+influencers+instagram+twitter+channels&sa=X&ved=2ahUKEwjU24SjzquTAxW038kDHd-MClYQs6gLegQIEhAB' />
+	[31] (393,161)<div  />
+		[32] (393,173)<span >짧은 동영상 />
+[33] (461,161)<a class='C6AK7c' href='/search?sca_esv=87c0228ed7e9c332&sxsrf=ANbL-n43dcHSGrMe1yu17JI5NJl1Tp08ag:1773911224173&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTf11rdGODep1hjYV7VngF90sZzYaGlVa2Dy8ci2F-6J0PXdp8GC47--o5ODq3ctk5NQQGKJiXwGReBOVvj8dM6Z22m-dBnFgwyTQbBWOqBlHuI333aFuZyHa7fKW30SmeTOlKM2Q9DoApW7fq0lGEEIjVSoSg&q=Vibe+Coding+AI+influencers+instagram+twitter+channels&ved=1t:220175&ictx=111' />
+	[34] (461,161)<div  />
+		[35] (461,173)<span >쇼핑 />
+[36] (523,161)<div class='mTpL7c' role='button' />
+	[37] (523,161)<div  />
+		[38] (523,173)<div  />
+			[39] (515,166)<span >더보기 />
+			[40] (542,166)<span  />
+[41] (595,161)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (595,161)<div  />
+		[43] (595,173)<div  />
+			[44] (586,166)<span >도구 />
+			[45] (607,166)<span  />
+검색결과
+동영상
+[46] (163,262)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[47] (163,262)<span  />
+		[48] (163,263)<span  />
+[49] (473,367)<a class='rIRoqf' href='https://www.instagram.com/reel/DRDalTGksWJ/' />
+	[50] (473,367)<div class='V5XKdd' role='heading' />
+		[51] (473,325)<div  />
+			[52] (428,325)<div  />
+				[53] (428,325)<span >Y'all stay letting the haters on Twitter make you think ... />
+		[54] (473,394)<div  />
+			[55] (473,394)<div  />
+				[56] (473,379)<span  />
+					[57] (271,378)<span >Instagram />
+					[58] (331,378)<span >CatGPT />
+						[59] (305,378)<span >· />
+				[60] (473,410)<div  />
+					[61] (280,409)<span >2025. 11. 14. />
+[62] (380,377)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[63] (380,377)<span  />
+		[64] (380,379)<span  />
+[65] (151,367)<a aria-label='CatGPT님이 Instagram에 게시한 Y'all stay letting the haters on Twitter make you think .... Instagram에서 재생. 1:18' class='rIRoqf' href='https://www.instagram.com/reel/DRDalTGksWJ/' />
+	[66] (151,367)<div  />
+		[67] (151,367)<div  />
+			[68] (106,400)<div  />
+				[69] (106,399)<span >1:18 />
+[70] (473,519)<a class='rIRoqf' href='https://www.instagram.com/reel/DP2BxlDiJUF/' />
+	[71] (473,519)<div class='V5XKdd' role='heading' />
+		[72] (473,477)<div  />
+			[73] (461,477)<div  />
+				[74] (461,477)<span >Vibe Coding WARNING for Devs Vibe coding is rising fast, but ... />
+		[75] (473,546)<div  />
+			[76] (473,546)<div  />
+				[77] (473,531)<span  />
+					[78] (271,530)<span >Instagram />
+					[79] (349,530)<span >David Bombal />
+						[80] (305,530)<span >· />
+				[81] (473,562)<div  />
+					[82] (280,561)<span >2025. 10. 15. />
+[83] (416,529)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[84] (416,529)<span  />
+		[85] (416,531)<span  />
+[86] (151,519)<a aria-label='David Bombal님이 Instagram에 게시한 Vibe Coding WARNING for Devs Vibe coding is rising fast, but .... Instagram에서 재생. 2:34' class='rIRoqf' href='https://www.instagram.com/reel/DP2BxlDiJUF/' />
+	[87] (151,519)<div  />
+		[88] (151,519)<div  />
+			[89] (106,552)<div  />
+				[90] (106,551)<span >2:34 />
+[91] (473,671)<a class='rIRoqf' href='https://www.instagram.com/reel/DR5S6jAiQOj/' />
+	[92] (473,671)<div class='V5XKdd' role='heading' />
+		[93] (473,629)<div  />
+			[94] (383,629)<div  />
+				[95] (383,629)<span >Ep 5 | Covering good, bad, and sus vibes. />
+		[96] (473,698)<div  />
+			[97] (473,698)<div  />
+				[98] (473,683)<span  />
+					[99] (271,682)<span >Instagram />
+					[100] (334,682)<span >Microsoft />
+						[101] (305,682)<span >· />
+				[102] (473,714)<div  />
+					[103] (277,713)<span >2025. 12. 5. />
+[104] (386,681)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[105] (386,681)<span  />
+		[106] (386,683)<span  />
+[107] (151,671)<a aria-label='Microsoft님이 Instagram에 게시한 Ep 5 | Covering good, bad, and sus vibes.. Instagram에서 재생. 1:04' class='rIRoqf' href='https://www.instagram.com/reel/DR5S6jAiQOj/' />
+	[108] (151,671)<div  />
+		[109] (151,671)<div  />
+			[110] (106,704)<div  />
+				[111] (106,703)<span >1:04 />
+[112] (473,781)<div  />
+	[113] (428,781)<div  />
+		[114] (428,781)<span >Comment 'Sabrina' to get FREE AI prompts, courses ... />
+[115] (271,834)<span >Instagram />
+[116] (372,834)<span >Sabrina Ramonov 🍄 />
+	[117] (305,834)<span >· />
+[118] (473,865)<div  />
+	[119] (280,865)<span >2025. 10. 17. />
+[120] (462,833)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[121] (462,833)<span  />
+		[122] (462,834)<span  />
+[123] (151,822)<a aria-label='Sabrina Ramonov 🍄님이 Instagram에 게시한 Comment 'Sabrina' to get FREE AI prompts, courses .... Instagram에서 재생. 0:27' class='rIRoqf' href='https://www.instagram.com/reel/DP60Ej6EwJS/' />
+	[124] (151,822)<div  />
+		[125] (151,822)<div  />
+			[126] (106,855)<div  />
+				[127] (106,855)<span >0:27 />
+[128] (393,932)<div  />
+	[129] (393,932)<a aria-label='모든 동영상 보기' class='jRKCUd' href='/search?sca_esv=87c0228ed7e9c332&udm=7&sxsrf=ANbL-n43dcHSGrMe1yu17JI5NJl1Tp08ag:1773911224173&q=Vibe+Coding+AI+influencers+instagram+twitter+channels&sa=X&ved=2ahUKEwjU24SjzquTAxW038kDHd-MClYQ8ccDKAJ6BAgaEAQ' />
+		[130] (393,932)<div  />
+			[131] (383,932)<span >모두 보기 />
+			[132] (423,932)<span  />
+
+</current_dom>

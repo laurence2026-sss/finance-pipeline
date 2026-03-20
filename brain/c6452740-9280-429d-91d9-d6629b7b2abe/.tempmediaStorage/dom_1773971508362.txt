@@ -1,0 +1,85 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Barebone - AI Investment Agents | STOP satisfying Nvidia ...
+Instagram · barebone.ai
+좋아요 1.1천개 이상  ·  1일 전
+[0] (161,179)<a aria-label='Barebone - AI Investment Agents님이 Instagram에 게시한 Barebone - AI Investment Agents | STOP satisfying Nvidia .... Instagram에서 재생. 2:27' class='rIRoqf' href='https://www.instagram.com/reel/DWBq-NyAgqm/' />
+	[1] (151,182)<div  />
+		[2] (151,182)<div  />
+			[3] (151,182)<div  />
+				[4] (107,215)<div  />
+					[5] (107,214)<span >2:27 />
+1081 likes, 366 comments -
+barebone.ai
+on March 18, 2026: "STOP satisfying Nvidia?! These photonics stocks are exploding and most investors ...
+[6] (221,331)<a class='zReHs' href='https://www.instagram.com/barebone.ai/reels/' />
+	[7] (221,358)<h3 >Barebone - AI Investment Agents />
+	[8] (204,309)<div  />
+		[9] (204,309)<div  />
+			[10] (94,309)<span  />
+				[11] (94,309)<div  />
+					[12] (94,309)<img  />
+			[13] (223,309)<div  />
+				[14] (223,296)<div  />
+					[15] (223,296)<span >Instagram />
+				[16] (223,323)<div  />
+					[17] (223,323)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.instagram.com />
+						[18] (291,322)<span class='ylgVCe ob9lvb' role='text'>› barebone.ai />
+[19] (346,321)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[20] (346,321)<span  />
+		[21] (346,323)<span  />
+32K followers · 109 following · 96 posts · @
+barebone.ai
+: “   Helping Investors 10x Efficiency with AI Agents Day 1: Top 100 Apple App Store Day 60: ...
+[22] (341,537)<a class='zReHs' href='https://www.instagram.com/reel/DV8c0axoAR0/' />
+	[23] (341,563)<h3 >Barebone - AI Investment Agents | The next trillion dollar AI ... />
+	[24] (171,515)<div  />
+		[25] (171,515)<div  />
+			[26] (94,515)<span  />
+				[27] (94,515)<div  />
+					[28] (94,515)<img  />
+			[29] (190,515)<div  />
+				[30] (190,502)<div  />
+					[31] (190,502)<span >Instagram · barebone.ai />
+				[32] (190,529)<div  />
+					[33] (187,529)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 2.6천개 이상  ·  3일 전 />
+[34] (280,528)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[35] (280,528)<span  />
+		[36] (280,529)<span  />
+[37] (161,656)<a aria-label='Barebone - AI Investment Agents님이 Instagram에 게시한 Barebone - AI Investment Agents | The next trillion dollar AI .... Instagram에서 재생. 1:19' class='rIRoqf' href='https://www.instagram.com/reel/DV8c0axoAR0/' />
+	[38] (151,659)<div  />
+		[39] (151,659)<div  />
+			[40] (151,659)<div  />
+				[41] (107,692)<div  />
+					[42] (107,691)<span >1:19 />
+2515 likes, 1320 comments -
+barebone.ai
+on March 16, 2026: "The next trillion dollar AI wave will satisfy those who prepared Most ...
+[43] (339,808)<a class='zReHs' href='https://www.instagram.com/reel/DV_BqROj9kL/' />
+	[44] (339,834)<h3 >Barebone - AI Investment Agents | Photonics: the usage of ... />
+	[45] (171,786)<div  />
+		[46] (171,786)<div  />
+			[47] (94,786)<span  />
+				[48] (94,786)<div  />
+					[49] (94,786)<img  />
+			[50] (190,786)<div  />
+				[51] (190,773)<div  />
+					[52] (190,773)<span >Instagram · barebone.ai />
+				[53] (190,800)<div  />
+					[54] (183,800)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 740개 이상  ·  2일 전 />
+[55] (280,799)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[56] (280,799)<span  />
+		[57] (280,800)<span  />
+[58] (161,927)<a aria-label='Barebone - AI Investment Agents님이 Instagram에 게시한 Barebone - AI Investment Agents | Photonics: the usage of .... Instagram에서 재생. 1:56' class='rIRoqf' href='https://www.instagram.com/reel/DV_BqROj9kL/' />
+	[59] (151,930)<div  />
+		[60] (151,930)<div  />
+			[61] (151,930)<div  />
+				[62] (107,963)<div  />
+					[63] (107,962)<span >1:56 />
+740 likes, 451 comments -
+barebone.ai
+on March 17, 2026: "Photonics: the usage of light to move data across data centers.
+
+</current_dom>

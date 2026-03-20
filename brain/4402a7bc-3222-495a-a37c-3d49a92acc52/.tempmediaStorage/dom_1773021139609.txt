@@ -1,0 +1,187 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (35,40)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (35,40)<yt-icon  />
+[2] (113,40)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[3] (113,40)<div  />
+		[4] (113,38)<ytd-logo  />
+			[5] (113,40)<yt-icon  />
+KR
+[6] (445,40)<div  />
+	[7] (436,40)<form  />
+		[8] (436,40)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[9] (620,40)<div  />
+		[10] (620,40)<ytd-text-input-assistant  />
+			[11] (620,40)<button class='ytdTextInputAssistantButton' />
+				[12] (620,40)<img  />
+[13] (669,40)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[14] (669,40)<span  />
+[15] (734,40)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[16] (734,40)<yt-touch-feedback-shape  />
+		[17] (734,40)<div  />
+[18] (813,40)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[19] (813,40)<yt-touch-feedback-shape  />
+		[20] (813,40)<div  />
+[21] (885,40)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[22] (885,38)<yt-icon-badge-shape  />
+		[23] (885,40)<div  />
+			[24] (885,40)<div  />
+				[25] (885,40)<span  />
+[26] (941,40)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[27] (941,40)<yt-img-shadow  />
+		[28] (941,40)<img  />
+[29] (35,137)<a aria-label='홈' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='홈' />
+	[30] (35,124)<yt-icon  />
+	[31] (35,160)<span >홈 />
+[32] (35,242)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[33] (35,229)<yt-icon  />
+	[34] (35,264)<span >Shorts />
+[35] (35,346)<a aria-label='구독' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='구독' />
+	[36] (35,333)<yt-icon  />
+	[37] (35,369)<span >구독 />
+[38] (35,451)<a aria-label='내 페이지' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='내 페이지' />
+	[39] (35,438)<yt-icon  />
+	[40] (35,473)<span >내 페이지 />
+[41] (245,127)<yt-image  />
+40:12
+[42] (245,186)<div  />
+	[43] (245,186)<div  />
+		[44] (234,177)<h3  />
+			[45] (234,177)<a aria-label='The AI stack behind 20M+ views (Full Breakdown) 40분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=0b8qQx3FaLE&pp=0gcJCa4KAYcqIYzv' id='video-title-link' title='The AI stack behind 20M+ views (Full Breakdown)' />
+				[46] (234,177)<yt-formatted-string >The AI stack behind 20M+ views (Full Breakdown) />
+		[47] (234,227)<ytd-video-meta-block  />
+			[48] (234,227)<div  />
+				[49] (234,227)<div  />
+					[50] (152,227)<span >조회수 1.4만회 />
+					[51] (209,227)<span >2일 전 />
+[52] (520,127)<yt-image  />
+25:36
+[53] (520,186)<div  />
+	[54] (520,186)<div  />
+		[55] (508,177)<h3  />
+			[56] (508,177)<a aria-label='SaaS is minting millionaires again (here's how) 25분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=9T1yWEq5kP0' id='video-title-link' title='SaaS is minting millionaires again (here's how)' />
+				[57] (508,177)<yt-formatted-string >SaaS is minting millionaires again (here's how) />
+		[58] (508,227)<ytd-video-meta-block  />
+			[59] (508,227)<div  />
+				[60] (508,227)<div  />
+					[61] (426,227)<span >조회수 5.6만회 />
+					[62] (483,227)<span >4일 전 />
+[63] (794,127)<yt-image  />
+54:07
+[64] (794,186)<div  />
+	[65] (794,186)<div  />
+		[66] (782,177)<h3  />
+			[67] (782,177)<a aria-label='Claude Code & MCPs built my $145K marketing machine 54분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=RB_M2mKiOcY' id='video-title-link' title='Claude Code & MCPs built my $145K marketing machine' />
+				[68] (782,177)<yt-formatted-string >Claude Code & MCPs built my $145K marketing machine />
+		[69] (782,227)<ytd-video-meta-block  />
+			[70] (782,227)<div  />
+				[71] (782,227)<div  />
+					[72] (700,227)<span >조회수 5.7만회 />
+					[73] (758,227)<span >6일 전 />
+[74] (245,392)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=l-J8RodcM_A' id='thumbnail' />
+	[75] (245,493)<yt-image  />
+		[76] (245,392)<img  />
+	[77] (347,473)<ytd-thumbnail-overlay-time-status-renderer  />
+		[78] (349,473)<div  />
+			[79] (349,473)<badge-shape aria-label='37분 56초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[80] (349,473)<div >37:56 />
+[81] (245,538)<div  />
+	[82] (216,538)<div  />
+		[83] (205,530)<h3  />
+			[84] (205,530)<a aria-label='What is Perplexity Computer? 37분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=l-J8RodcM_A' id='video-title-link' title='What is Perplexity Computer?' />
+				[85] (205,530)<yt-formatted-string >What is Perplexity Computer? />
+		[86] (205,565)<ytd-video-meta-block  />
+			[87] (205,565)<div  />
+				[88] (205,565)<div  />
+					[89] (152,565)<span >조회수 7.1만회 />
+					[90] (212,565)<span >10일 전 />
+[91] (520,392)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=6MBq1paspVU' id='thumbnail' />
+	[92] (520,493)<yt-image  />
+		[93] (520,392)<img  />
+	[94] (621,473)<ytd-thumbnail-overlay-time-status-renderer  />
+		[95] (623,473)<div  />
+			[96] (623,473)<badge-shape aria-label='58분 57초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[97] (623,473)<div >58:57 />
+[98] (520,552)<div  />
+	[99] (520,552)<div  />
+		[100] (508,544)<h3  />
+			[101] (508,544)<a aria-label='How I Use Obsidian + Claude Code to Run My Life 58분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=6MBq1paspVU' id='video-title-link' title='How I Use Obsidian + Claude Code to Run My Life' />
+				[102] (508,544)<yt-formatted-string >How I Use Obsidian + Claude Code to Run My Life />
+		[103] (508,593)<ytd-video-meta-block  />
+			[104] (508,593)<div  />
+				[105] (508,593)<div  />
+					[106] (425,593)<span >조회수 13만회 />
+					[107] (483,593)<span >13일 전 />
+[108] (794,392)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=i13XK-uUOLQ' id='thumbnail' />
+	[109] (794,493)<yt-image  />
+		[110] (794,392)<img  />
+	[111] (895,473)<ytd-thumbnail-overlay-time-status-renderer  />
+		[112] (897,473)<div  />
+			[113] (897,473)<badge-shape aria-label='52분 4초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[114] (897,473)<div >52:04 />
+[115] (794,538)<div  />
+	[116] (758,538)<div  />
+		[117] (746,530)<h3  />
+			[118] (746,530)<a aria-label='Making $$$ with OpenClaw 52분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=i13XK-uUOLQ' id='video-title-link' title='Making $$$ with OpenClaw' />
+				[119] (746,530)<yt-formatted-string >Making $$$ with OpenClaw />
+		[120] (746,565)<ytd-video-meta-block  />
+			[121] (746,565)<div  />
+				[122] (746,565)<div  />
+					[123] (699,565)<span >조회수 15만회 />
+					[124] (754,565)<span >2주 전 />
+[125] (245,758)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=I_wbc5ND79o' id='thumbnail' />
+	[126] (245,860)<yt-image  />
+		[127] (245,758)<img  />
+	[128] (347,840)<ytd-thumbnail-overlay-time-status-renderer  />
+		[129] (349,840)<div  />
+			[130] (349,840)<badge-shape aria-label='55분 41초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[131] (349,840)<div >55:41 />
+[132] (245,919)<div  />
+	[133] (245,919)<div  />
+		[134] (234,910)<h3  />
+			[135] (234,910)<a aria-label='Claude Code built me a $273/Day online directory 55분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=I_wbc5ND79o' id='video-title-link' title='Claude Code built me a $273/Day online directory' />
+				[136] (234,910)<yt-formatted-string >Claude Code built me a $273/Day online directory />
+		[137] (234,960)<ytd-video-meta-block  />
+			[138] (234,960)<div  />
+				[139] (234,960)<div  />
+					[140] (150,960)<span >조회수 12만회 />
+					[141] (206,960)<span >2주 전 />
+[142] (520,758)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=9OnN4O4uapI' id='thumbnail' />
+	[143] (520,860)<yt-image  />
+		[144] (520,758)<img  />
+	[145] (621,840)<ytd-thumbnail-overlay-time-status-renderer  />
+		[146] (623,840)<div  />
+			[147] (623,840)<badge-shape aria-label='54분 12초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[148] (623,840)<div >54:12 />
+[149] (520,919)<div  />
+	[150] (520,919)<div  />
+		[151] (508,910)<h3  />
+			[152] (508,910)<a aria-label='Stop Shipping AI Slop. Design with Weavy AI, Claude etc. 54분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=9OnN4O4uapI' id='video-title-link' title='Stop Shipping AI Slop. Design with Weavy AI, Claude etc.' />
+				[153] (508,910)<yt-formatted-string >Stop Shipping AI Slop. Design with Weavy AI, Claude etc. />
+		[154] (508,960)<ytd-video-meta-block  />
+			[155] (508,960)<div  />
+				[156] (508,960)<div  />
+					[157] (425,960)<span >조회수 11만회 />
+					[158] (480,960)<span >3주 전 />
+[159] (794,758)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=b1mjQIiH7r4' id='thumbnail' />
+	[160] (794,860)<yt-image  />
+		[161] (794,758)<img  />
+	[162] (895,840)<ytd-thumbnail-overlay-time-status-renderer  />
+		[163] (897,840)<div  />
+			[164] (897,840)<badge-shape aria-label='44분 46초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[165] (897,840)<div >44:46 />
+[166] (794,919)<div  />
+	[167] (794,919)<div  />
+		[168] (782,910)<h3  />
+			[169] (782,910)<a aria-label='Claude Code Built My $450K Marketing Campaign 44분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=b1mjQIiH7r4' id='video-title-link' title='Claude Code Built My $450K Marketing Campaign' />
+				[170] (782,910)<yt-formatted-string >Claude Code Built My $450K Marketing Campaign />
+		[171] (782,960)<ytd-video-meta-block  />
+			[172] (782,960)<div  />
+				[173] (782,960)<div  />
+					[174] (700,960)<span >조회수 7.5만회 />
+					[175] (758,960)<span >3주 전 />
+
+</current_dom>

@@ -1,0 +1,44 @@
+# 🚀 Business Model 4: The "Notion Investment SaaS" (No-Code Architecture)
+
+## 🛑 The Problem
+"좋은 기능인 건 알겠는데, 설치하기 귀찮아서 안 써요."
+n8n 워크플로우를 주면 일반인 99%는 포기합니다. **"고객은 결과만 받고 싶지, 과정(설치)을 알고 싶어 하지 않습니다."**
+따라서, 고객이 코카콜라 자판기를 집에 설치하게 만드는 게 아니라, 우리가 자판기를 운영하고 콜라만 배달해줘야 합니다.
+
+## 💼 Product Concept (The "Invisible" App)
+**웹사이트 접속 -> [노션 연결] 클릭 -> 끝.**
+*   **User Flow**:
+    1.  랜딩 페이지(Web)에서 "3초 만에 내 노션에 주식 비서 고용하기" 버튼 클릭.
+    2.  노션 로그인 & 페이지 접근 권한 허용 (OAuth).
+    3.  (선택) 관리하고 싶은 종목 티커(Ticker) 입력 (예: TSLA, SOXL).
+    4.  **다음 날 아침부터 내 노션 페이지에 'AI 리포트'가 자동으로 꽂힘.**
+
+## 🛠️ Technical Architecture (Server-Side)
+고객 PC가 아닌 **우리의 클라우드 서버**에서 모든 일이 일어납니다.
+
+### 1. The "Connection" Layer (Frontend + Auth)
+*   **Tech**: Next.js (Vercel Hosting) + Supabase (DB).
+*   **Function**:
+    *   Notion OAuth 2.0 구현.
+    *   고객의 `Access Token`과 `Page ID`를 암호화하여 DB에 저장.
+
+### 2. The "Brain" Layer (Backend Workflow)
+*   **Tech**: Hosted n8n (Self-hosted on Railway/AWS) or Python Script.
+*   **Workflow (Daily Cron Job)**:
+    1.  DB에서 모든 유저 리스트 조회.
+    2.  For each user:
+        *   유저가 설정한 관심 종목 리스트 가져오기.
+        *   Alpha Vantage API로 현재가/지표 조회.
+        *   Gemini 1.5 Pro로 "시장 상황 요약 & 코멘트" 생성.
+        *   **Notion API (`client.pages.create`)**를 호출하여 유저의 노션 페이지에 블록 추가.
+
+## 💰 Business Feasibility
+*   **구독료**: 월 9,900원.
+*   **비용 구조**:
+    *   서버 비용: 사용자 100명까지는 월 5천 원($5) 미만.
+    *   API 비용: Alpha Vantage 유료 티어($49/mo) 필요할 수 있음 (사용자 증가 시).
+*   **마진**: 사용자 10명만 모아도 손익분기점(BEP) 돌파.
+
+## ⚠️ Critical Challenges
+1.  **Quota Limit**: 노션 API의 초당 요청 제한(Rate Limit) 주의. (사용자가 많아지면 큐(Queue) 시스템 필요)
+2.  **Data Privacy**: 남의 노션에 접근하는 권한이므로 보안(Encryption) 필수.

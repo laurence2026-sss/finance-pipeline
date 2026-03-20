@@ -1,0 +1,283 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (34,39)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (34,39)<yt-icon  />
+		[2] (34,39)<span  />
+			[3] (34,39)<div  />
+[4] (112,39)<a aria-label='YouTube 홈' class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='케이팝 팬 커뮤니티를 만나 보세요' />
+	[5] (112,39)<ytd-yoodle-renderer  />
+		[6] (112,39)<picture  />
+			[7] (112,38)<img  />
+[8] (445,39)<div  />
+	[9] (436,39)<form  />
+		[10] (436,39)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[11] (622,39)<div  />
+		[12] (622,39)<ytd-text-input-assistant  />
+			[13] (622,39)<button class='ytdTextInputAssistantButton' />
+				[14] (622,39)<img  />
+[15] (671,39)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[16] (671,39)<span  />
+		[17] (671,39)<span  />
+			[18] (671,39)<div  />
+[19] (736,39)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[20] (736,39)<yt-touch-feedback-shape  />
+		[21] (736,39)<div  />
+[22] (814,39)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[23] (814,39)<yt-touch-feedback-shape  />
+		[24] (814,39)<div  />
+[25] (886,39)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[26] (886,38)<yt-icon-badge-shape  />
+		[27] (886,39)<div  />
+			[28] (886,39)<div  />
+				[29] (886,39)<span  />
+					[30] (886,39)<span  />
+						[31] (886,39)<div  />
+[32] (942,39)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[33] (942,39)<yt-img-shadow  />
+		[34] (942,39)<img  />
+[35] (204,480)<div  />
+	[36] (65,480)<img  />
+	[37] (174,480)<div  />
+		[38] (174,480)<div  />
+			[39] (168,469)<div >이석증으로 인해 핑도는 일상이 반복된다면 />
+			[40] (168,508)<div >bodypixel.co.kr />
+	[41] (313,480)<button aria-label='사이트 방문 This link opens in new tab' class='ytp-ad-button-vm ytp-ad-component--clickable ytp-ad-button-vm--style-filled-white ytp-ad-button-vm--size-default' id='ad-button:7' role='link' />
+		[42] (313,480)<span >사이트 방문 />
+스폰서
+[43] (80,557)<button aria-label='내 광고 센터' class='ytp-ad-button ytp-ad-button-link ytp-ad-clickable ytp-ad-hover-text-button--clean-player' id='button:d' />
+	[44] (80,557)<span  />
+1/2
+bodypixel.co.kr
+[45] (553,476)<button class='ytp-skip-ad-button' id='skip-button:2'>건너뛰기 />
+	건너뛰기
+[46] (451,560)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[47] (451,577)<div  />
+[48] (497,560)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[49] (543,560)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[50] (588,560)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+월가 사모펀드 5조 환매 충격. '가짜 AI 주식' 연쇄 부도 전 반드시 담아야 할 진짜 포식자 (5초 감별법)
+[51] (40,736)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@%EB%89%B4%EC%8A%A42%EB%A7%89' />
+	[52] (34,734)<yt-img-shadow  />
+		[53] (34,734)<img  />
+[54] (93,723)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@%EB%89%B4%EC%8A%A42%EB%A7%89'>뉴스 2막 />
+구독자 7.02만명
+[55] (197,736)<button aria-label='뉴스 2막을(를) 구독합니다.' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	구독
+	[56] (197,736)<yt-touch-feedback-shape  />
+		[57] (197,736)<div  />
+[58] (301,736)<button aria-label='다른 사용자 855명과 함께 이 동영상에 좋아요 표시' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--segmented-start yt-spec-button-shape-next--enable-backdrop-filter-experiment'>855 />
+	855
+	[59] (301,736)<yt-touch-feedback-shape  />
+		[60] (301,736)<div  />
+[61] (364,736)<button aria-label='동영상에 싫어요 표시' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--segmented-end yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[62] (364,736)<yt-touch-feedback-shape  />
+		[63] (364,736)<div  />
+[64] (435,736)<button aria-label='공유' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>공유 />
+	공유
+	[65] (435,736)<yt-touch-feedback-shape  />
+		[66] (435,736)<div  />
+[67] (533,736)<button aria-label='질문하기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>질문하기 />
+	질문하기
+	[68] (533,736)<yt-touch-feedback-shape  />
+		[69] (533,736)<div  />
+[70] (609,736)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[71] (609,736)<yt-touch-feedback-shape  />
+		[72] (609,736)<div  />
+[73] (321,855)<div  />
+	[74] (321,855)<div  />
+		[75] (321,813)<ytd-watch-info-text  />
+			[76] (321,813)<div  />
+				[77] (199,813)<yt-formatted-string  />
+					[78] (69,813)<span >조회수 3.9만회 />
+					[79] (114,813)<span  />
+					[80] (135,813)<span >2일 전 />
+					[81] (156,813)<span  />
+					[82] (266,813)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/playlist?list=PLnGd94go5-8t1H0WzVCzA2qwInFSAVqvb'>🚀 뉴스 2막 | AI가 쏘아올린 부의 지도 />
+		[83] (321,869)<ytd-text-inline-expander  />
+			[84] (321,869)<div >… />
+				"회사 이름에 AI 딱지 붙었다고 무조건 우상향할 줄 아십니까? 착각하지 마십시오."
+
+지금 월가 1등 사모펀드에서 5조 원 규모의 역대급 환매 사태가 터졌습니다. 단순한 고금리 때문이
+				[85] (561,897)<span  />
+				…
+			[86] (587,897)<tp-yt-paper-button class='button style-scope ytd-text-inline-expander' id='expand' role='button'>...더보기 />
+댓글
+106
+개
+[87] (179,977)<tp-yt-paper-menu-button class='style-scope yt-dropdown-menu' role='group' />
+	[88] (179,977)<div  />
+		[89] (179,977)<tp-yt-paper-button aria-label='댓글 정렬' class='dropdown-trigger style-scope yt-dropdown-menu' id='label' role='button' />
+			[90] (148,977)<yt-icon  />
+				[91] (148,977)<span  />
+					[92] (148,977)<div  />
+			[93] (194,977)<div >정렬 기준 />
+[94] (806,202)<top-banner-image-text-icon-buttoned-layout-view-model  />
+	[95] (806,136)<div  />
+		[96] (806,136)<ad-image-view-model  />
+			[97] (806,136)<div  />
+				[98] (806,136)<img  />
+	[99] (806,241)<div  />
+		[100] (734,241)<div  />
+			[101] (734,241)<ad-avatar-lockup-view-model  />
+				[102] (675,223)<div  />
+					[103] (675,223)<ad-avatar-view-model  />
+						[104] (675,223)<yt-avatar-shape  />
+							[105] (675,223)<div aria-label='대부분이 모르는 건강 정보' class='yt-spec-avatar-shape yt-spec-avatar-shape__button yt-spec-avatar-shape__button--button-medium yt-spec-avatar-shape__button--tappable' role='button' />
+								[106] (675,223)<div  />
+									[107] (675,223)<div  />
+										[108] (675,223)<img  />
+				[109] (757,241)<div  />
+					[110] (757,229)<span class='yt-core-attributed-string ytwAdAvatarLockupViewModelHostTextsStyleCompactHeadlineWidthUnlocked yt-core-attributed-string--white-space-pre-wrap' role='text'>이석증으로 인해 핑도는 일상이 반복된다면 />
+					[111] (757,272)<div  />
+						[112] (725,272)<ad-badge-view-model  />
+							[113] (725,272)<badge-shape  />
+								[114] (720,272)<div >스폰서 />
+						[115] (778,272)<ad-details-line-view-model  />
+							[116] (778,272)<span class='yt-core-attributed-string ytwAdDetailsLineViewModelHostTextStyleStandard yt-core-attributed-string--white-space-pre-wrap' role='text'>bodypixel.co.kr />
+		[117] (872,223)<ad-button-view-model  />
+			[118] (872,223)<a aria-label='사이트 방문' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CD0FWSdy8afv4D9zr7OsPg4mv4AOfl5LvhQHXm_eQ_xSwkB8QASAAYJvb6ISgKYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAG_x8-KPqkCJ1Podiz4Bj6oAwTIAwqqBPUDT9Awys0-RL1_xEiQNIbQz16O115zA2Cg7AbXftUDpTox--ts-k7MmU-4LaFDxpfQ4b545LPaJVpDERmBwdD5PhF1aXr-b1zuP58Gjuua9DC4Q5UPrdDkzoVhTDxjiU89OGAoJQxHbqzAd1Sth0m5Rj1YT7tfrwT-doxNKtwMLZQu00XbX1PErA114_36mVPDeT2ff3YTnFaNCSpXf0Iazc36cS_rBUAJRI1JkBzWL5qzMbQsMreQnhgR0fjizCC1DiUpz-evH27gIdNTxrlkWfQBAg2mPVH3ljXCpz9ekJl3EIRAjVayXuFY-3AiBdkxsx1pUZbO793AFnHFc4k8f2MGtTD10ZMcLybeh8Xet-9goMQJzfZPvjzVDgsrYbVt0cZw_9Gw7L7mNsfsmP_bZq5RO6zZvHUnPcT5F6U0fYPL6X8omZQ1lXSG0j61pE8TXcmp0yd9UehZZV5MJdQehTNjlXNMozvwdsT59svWxeCTDdbwrBxGKZoqG4UDXQZs6zrOhJGxrQWF1sF9fBKGvzjJP4bRrkFgPdREkYqo34SCkk6uap6db-AmneiImQDQGX7gVVyDjTtgEW3PIBI2CNx5yVL8aH-Kf3aN0eZDzRrWdqtdCBhy26N_hsFOFHlaaOWEQbQMPToGqF2r2a3skFlgfM4SiAWx9MX1VqAGoQGAB7__n-oYiAcBkAcCqAfywLECqAfytLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHgcOxAqgH-L-xAqgHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHndexAqgH9JmxAqgH-L-xAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC3B5T2ktQ1ZpNDZBqAgBsAgM0gg3CIDAgMAEEAIYWjIIgYaAjoCAgAg6EYrQgICAgASAwICAgMCAgAIqSNmg0jVQFFiQqLPC4K2TA_IIH2NhLXl0LWhvc3QtcHViLTY4MzU5MDAzOTk2ODYyODKaCSNodHRwczovL2JvZHlwaXhlbC5jby5rci9zdXJsL1AvMzI0L7EJeXVWoU_ZiQnICRjICY8ByAnCAZgLAaELr8Re0u41Wl26C2YIARABGAQgASgBMBBAAUgBYABoAHACiAEAmAEBogE2CiEIASABKAEwAdq4BBUyEzoRCg8oMEi-xdquvgyYGQG4IAEYACAAWAFgAHAB0AEBqAIFwAIC2AEBgAIBiAIFugMFdml0cGXQCxKiDAwqCgoI1tqxAujCsQLSDAQIARAB2gwmCgsQsOLprPjy8dTeARICAQMaDRix9MX1ViCLqoL_wAVAAUoCEB-aDQESqg0CS1LIDQHSDdABaHR0cHM6Ly9ib2R5cGl4ZWwuY28ua3Ivc3VybC9QLzMyNC8_Y2FmZV9ta3Q9dWVfZG1faXNlb18xMjA4XzA5MWEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzMzMxOTYxMzkzJndicmFpZD1Da1VLQ1Fqd3ZlN05CaEQ0QVJJMEFQNmZCUDBtS1E1eDQ2WFV1eC1PQkozc2I3S0tIclJDemktd3VOTktrVWU0M2lEU3Fyd2pnLXVVb0xUNkFtd0lLSnEzQ0JvQzNMMLgT____________AYgUAbAUAcAVyYCAQNAVAdgVAZAWAZgWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakX_2niW6ex_iq6FwoQASgAMAE4AUgB0BgB8BgBgBkDwhkCCAE&ase=2&gclid=Cj0KCQjwve7NBhC-ARIsALZy9HXsLCX-7THV3m_V6KCxXovsYsX80_eDEoawojay4qz0r7_-C4roMyAaAriuEALw_wcB&num=1&cid=CAESpAHg9tUEUYJdFC5SVE2K04X95WAbAWXSEB4zRXOhT985tFdF9IzYW6cN-LsyJE7hUDvAGIlObS5p6rcgGbnZfG8zOKR6ogETV4MV10BADOTqInLSpMWPOqm_rA_zdNsgoA7DE7-qnUFBkqFeHfB6BqAlcCagJ2aDWSmraBHOkx1hqzVxfSqXYuL-KZ6bmawdSPSTIjx5ADiIeCJVDsQM1smaLFGsPw&ad_cpn=%5BAD_CPN%5D&sig=AOD64_3iLw1insx87xYUyLT1i2WIFFCpEQ&label=video_click_to_advertiser_site&ctype=110&ms=%5BCLICK_MS%5D&adclksrc=%5BCLICK_SOURCE%5D' />
+				사이트 방문
+				[119] (872,223)<yt-touch-feedback-shape  />
+					[120] (872,223)<div  />
+		[121] (945,241)<div  />
+			[122] (945,223)<button-view-model  />
+				[123] (945,223)<button aria-label='내 광고 센터' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+					[124] (945,223)<yt-touch-feedback-shape  />
+						[125] (945,223)<div  />
+[126] (666,342)<button class='ytChipShapeButtonReset' role='tab' />
+	[127] (666,342)<div >모두 />
+		모두
+		[128] (666,342)<yt-touch-feedback-shape  />
+			[129] (666,342)<div  />
+[130] (721,342)<button class='ytChipShapeButtonReset' role='tab' />
+	[131] (721,342)<div >추천 />
+		추천
+		[132] (721,342)<yt-touch-feedback-shape  />
+			[133] (721,342)<div  />
+[134] (828,342)<button class='ytChipShapeButtonReset' role='tab' />
+	[135] (828,342)<div >최근에 업로드된 동영상 />
+		최근에 업로드된 동영상
+		[136] (828,342)<yt-touch-feedback-shape  />
+			[137] (828,342)<div  />
+감상한 동영상
+[138] (947,349)<button aria-label='다음' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[139] (947,349)<yt-touch-feedback-shape  />
+		[140] (947,349)<div  />
+[141] (722,497)<div  />
+	[142] (722,497)<ad-image-view-model  />
+		[143] (722,497)<div  />
+			[144] (722,497)<img  />
+[145] (890,445)<feed-ad-metadata-view-model  />
+	[146] (890,445)<div  />
+		[147] (879,407)<span  />
+			[148] (870,407)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+				[149] (870,407)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CjTPySdy8adSUEYegs8IPtODPyQvRw_TohQHQ1JmXmhWwkB8QASAAYJvb6ISgKYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGuqKmDQ6kC73_PrG1msz6oAwTIAwqqBMcDT9DacX21le3tl5EK1H6a7tz0LCWoPkKTZG1brPqFclUV3xNYdTnEec71TCEdk1TXd4eWwwCEW4RGq7ioAFv36rFXWaWgKtA44mP5J8yYGD-4ckZ9qUJ6K4na41IsATC2i6-nkFib7iLjMHiJteLJIDFi8xuYVfPk8bjqi8NfeyVW5c0CSfi9Dh4-VoS3V3lBh4BZKtrAKXEJcjRkme1l2sTmYaSAl04I0BI-38nt4ha3tWsgSD81Vxbm_UBCeGCVG7Tw8TSBKiGHwMljnTAw_FSKOIJ7Xe1hiC66rb0aRMcFjlFmlGhEOKxFmeQVknczsu5HtRq7V71mZz2jqx9sa2JhqWNsxHTCYaCSrZSCTl0bvkZI8Z_2tyBwro8sbqa0GaAeTMbFdEZjVPmoV-qnU-5G_fLzfvkZtZwEZMTg93zqaDUNi1WzXrQom9giCnuqTqMj5MA2lkzyYbVe9F6CbHOZSIt-24s8MDeNmVkFUvwPZyJZ5rPRv0I5Cb_Ey3j8RpUAYEy4C4lWCiaQnrVZL0NU6kumCrJlbBWatjS3eAm9h9VbqaI7EsWpsxQ7cV3ZkWThv40cru2pEVU4OOKxjCgBVNNKMoqIBazWxYxYkgUKCBNoAnjerZmFHqAGboAHruD54h2IBwGQBwKoB_LAsQKoB_K0sQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB4HDsQKoB_i_sQKoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB53XsQKoB_SZsQKoB_i_sQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECsAgM0gg3CIDAgMAEEAIYWjIIgYaAjoCAgAg6EYrQgICAgASAwICAgMCAgAIqSNmg0jVQFFiYzLTC4K2TA_IIH2NhLXl0LWhvc3QtcHViLTY4MzU5MDAzOTk2ODYyODKaCRxodHRwczovL2FwaWRldnNjcmlwdC5kaWdpdGFssQm20Kvj7r4h0cgJAMgJigKYCwGhC6_EXtLuNVpdugtgCAEQBRgEIAgoATAaQAFIAFABWAFgAGgAcAGIAQCYAQGiASwKIQgBIAEoATAB2rgEFTITOhEKDygwSL7F2q6-DJgZAbggAdABAagCBcACAtgBAYACAYgCBboDBXZpdHBl0AsSogwMKgoKCOjCsQLW2rEC0gwECAEQAdoMJgoLENCcxIn_wuaOxAESAgEDGg0YrNbFjFggqcvszNgFQAFKAhAfmg0BEqoNAktSyA0B0g3aAWh0dHBzOi8vYXBpZGV2c2NyaXB0LmRpZ2l0YWw_dXRtX2NvbnRlbnQ9SlAyLUxJTktfTEcyJmNpZD1kdHYyMjFqYS9kdHYyNDRqYSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM2NDg2Mjc1MDAmd2JyYWlkPUNrVUtDUWp3dmU3TkJoRDRBUkkwQVA2ZkJQMThJTUJiTDhaeExKZmdhZlhQZzdfaXlmbVFuV3k5NmxTNWRrUlpGR214Vk1kSXNhX0dxMXlSdXMxbU1YS1A0aG9DXzdzuBP___________8BiBQCsBQBwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRcxv6H2nduE2LoXChABKAAwATgBSAHQGAHwGAGAGQPCGQIIAQ&ase=2&gclid=Cj0KCQjwve7NBhC-ARIsALZy9HWagpvIvJMGCvwOv_SZDnUKaOtfvkM1W7lodeuIbUX4NGHcFdkJb4AaAt4DEALw_wcB&num=1&cid=CAESpAHg9pxKBKbBbrnhPzC88mXOOhBqCxBZDR31onqTz6avryW3tBvDIbLERUc5B_F3SS0neMYfkd-v4_oe4FRRlLCsBXqnemfOh1qVz6ZTMNvqmxTj8keYF3Jg2rGWmq_YHiIwLKhC7MXozH8glM68Hw20oMfaGeQtrzlqIYRYM-0V_xp91im4HzVhcWFR4gVHu3HqEkmRBOhBGzWNurf_D1soOcfJcQ&sig=AOD64_2_k2fsRpDALWukg9Gd7jfUBuzXNQ&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>Download Pro Tools Free />
+		[150] (879,460)<span  />
+			[151] (874,460)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+				[152] (874,460)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CjTPySdy8adSUEYegs8IPtODPyQvRw_TohQHQ1JmXmhWwkB8QASAAYJvb6ISgKYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGuqKmDQ6kC73_PrG1msz6oAwTIAwqqBMcDT9DacX21le3tl5EK1H6a7tz0LCWoPkKTZG1brPqFclUV3xNYdTnEec71TCEdk1TXd4eWwwCEW4RGq7ioAFv36rFXWaWgKtA44mP5J8yYGD-4ckZ9qUJ6K4na41IsATC2i6-nkFib7iLjMHiJteLJIDFi8xuYVfPk8bjqi8NfeyVW5c0CSfi9Dh4-VoS3V3lBh4BZKtrAKXEJcjRkme1l2sTmYaSAl04I0BI-38nt4ha3tWsgSD81Vxbm_UBCeGCVG7Tw8TSBKiGHwMljnTAw_FSKOIJ7Xe1hiC66rb0aRMcFjlFmlGhEOKxFmeQVknczsu5HtRq7V71mZz2jqx9sa2JhqWNsxHTCYaCSrZSCTl0bvkZI8Z_2tyBwro8sbqa0GaAeTMbFdEZjVPmoV-qnU-5G_fLzfvkZtZwEZMTg93zqaDUNi1WzXrQom9giCnuqTqMj5MA2lkzyYbVe9F6CbHOZSIt-24s8MDeNmVkFUvwPZyJZ5rPRv0I5Cb_Ey3j8RpUAYEy4C4lWCiaQnrVZL0NU6kumCrJlbBWatjS3eAm9h9VbqaI7EsWpsxQ7cV3ZkWThv40cru2pEVU4OOKxjCgBVNNKMoqIBazWxYxYkgUKCBNoAnjerZmFHqAGboAHruD54h2IBwGQBwKoB_LAsQKoB_K0sQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB4HDsQKoB_i_sQKoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB53XsQKoB_SZsQKoB_i_sQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECsAgM0gg3CIDAgMAEEAIYWjIIgYaAjoCAgAg6EYrQgICAgASAwICAgMCAgAIqSNmg0jVQFFiYzLTC4K2TA_IIH2NhLXl0LWhvc3QtcHViLTY4MzU5MDAzOTk2ODYyODKaCRxodHRwczovL2FwaWRldnNjcmlwdC5kaWdpdGFssQm20Kvj7r4h0cgJAMgJigKYCwGhC6_EXtLuNVpdugtgCAEQBRgEIAgoATAaQAFIAFABWAFgAGgAcAGIAQCYAQGiASwKIQgBIAEoATAB2rgEFTITOhEKDygwSL7F2q6-DJgZAbggAdABAagCBcACAtgBAYACAYgCBboDBXZpdHBl0AsSogwMKgoKCOjCsQLW2rEC0gwECAEQAdoMJgoLENCcxIn_wuaOxAESAgEDGg0YrNbFjFggqcvszNgFQAFKAhAfmg0BEqoNAktSyA0B0g3aAWh0dHBzOi8vYXBpZGV2c2NyaXB0LmRpZ2l0YWw_dXRtX2NvbnRlbnQ9SlAyLUxJTktfTEcyJmNpZD1kdHYyMjFqYS9kdHYyNDRqYSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM2NDg2Mjc1MDAmd2JyYWlkPUNrVUtDUWp3dmU3TkJoRDRBUkkwQVA2ZkJQMThJTUJiTDhaeExKZmdhZlhQZzdfaXlmbVFuV3k5NmxTNWRrUlpGR214Vk1kSXNhX0dxMXlSdXMxbU1YS1A0aG9DXzdzuBP___________8BiBQCsBQBwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRcxv6H2nduE2LoXChABKAAwATgBSAHQGAHwGAGAGQPCGQIIAQ&ase=2&gclid=Cj0KCQjwve7NBhC-ARIsALZy9HWagpvIvJMGCvwOv_SZDnUKaOtfvkM1W7lodeuIbUX4NGHcFdkJb4AaAt4DEALw_wcB&num=1&cid=CAESpAHg9pxKBKbBbrnhPzC88mXOOhBqCxBZDR31onqTz6avryW3tBvDIbLERUc5B_F3SS0neMYfkd-v4_oe4FRRlLCsBXqnemfOh1qVz6ZTMNvqmxTj8keYF3Jg2rGWmq_YHiIwLKhC7MXozH8glM68Hw20oMfaGeQtrzlqIYRYM-0V_xp91im4HzVhcWFR4gVHu3HqEkmRBOhBGzWNurf_D1soOcfJcQ&sig=AOD64_2_k2fsRpDALWukg9Gd7jfUBuzXNQ&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>Grab the Desktop Suite — Free for 12 Months />
+		[153] (879,498)<div  />
+			[154] (831,498)<ad-badge-view-model  />
+				[155] (831,498)<badge-shape  />
+					[156] (826,498)<div >스폰서 />
+			[157] (900,498)<ad-details-line-view-model  />
+				[158] (900,498)<span class='yt-core-attributed-string ytwAdDetailsLineViewModelHostTextStyleStandard yt-core-attributed-string--white-space-pre-wrap' role='text'>apidevscript.digital />
+	[159] (963,396)<div  />
+		[160] (963,396)<button-view-model  />
+			[161] (963,396)<button aria-label='내 광고 센터' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+				[162] (963,396)<yt-touch-feedback-shape  />
+					[163] (963,396)<div  />
+[164] (870,589)<a aria-label='사이트 방문하기' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CjTPySdy8adSUEYegs8IPtODPyQvRw_TohQHQ1JmXmhWwkB8QASAAYJvb6ISgKYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGuqKmDQ6kC73_PrG1msz6oAwTIAwqqBMcDT9DacX21le3tl5EK1H6a7tz0LCWoPkKTZG1brPqFclUV3xNYdTnEec71TCEdk1TXd4eWwwCEW4RGq7ioAFv36rFXWaWgKtA44mP5J8yYGD-4ckZ9qUJ6K4na41IsATC2i6-nkFib7iLjMHiJteLJIDFi8xuYVfPk8bjqi8NfeyVW5c0CSfi9Dh4-VoS3V3lBh4BZKtrAKXEJcjRkme1l2sTmYaSAl04I0BI-38nt4ha3tWsgSD81Vxbm_UBCeGCVG7Tw8TSBKiGHwMljnTAw_FSKOIJ7Xe1hiC66rb0aRMcFjlFmlGhEOKxFmeQVknczsu5HtRq7V71mZz2jqx9sa2JhqWNsxHTCYaCSrZSCTl0bvkZI8Z_2tyBwro8sbqa0GaAeTMbFdEZjVPmoV-qnU-5G_fLzfvkZtZwEZMTg93zqaDUNi1WzXrQom9giCnuqTqMj5MA2lkzyYbVe9F6CbHOZSIt-24s8MDeNmVkFUvwPZyJZ5rPRv0I5Cb_Ey3j8RpUAYEy4C4lWCiaQnrVZL0NU6kumCrJlbBWatjS3eAm9h9VbqaI7EsWpsxQ7cV3ZkWThv40cru2pEVU4OOKxjCgBVNNKMoqIBazWxYxYkgUKCBNoAnjerZmFHqAGboAHruD54h2IBwGQBwKoB_LAsQKoB_K0sQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB8nasQKoB6ngsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB4HDsQKoB_i_sQKoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB53XsQKoB_SZsQKoB_i_sQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECsAgM0gg3CIDAgMAEEAIYWjIIgYaAjoCAgAg6EYrQgICAgASAwICAgMCAgAIqSNmg0jVQFFiYzLTC4K2TA_IIH2NhLXl0LWhvc3QtcHViLTY4MzU5MDAzOTk2ODYyODKaCRxodHRwczovL2FwaWRldnNjcmlwdC5kaWdpdGFssQm20Kvj7r4h0cgJAMgJigKYCwGhC6_EXtLuNVpdugtgCAEQBRgEIAgoATAaQAFIAFABWAFgAGgAcAGIAQCYAQGiASwKIQgBIAEoATAB2rgEFTITOhEKDygwSL7F2q6-DJgZAbggAdABAagCBcACAtgBAYACAYgCBboDBXZpdHBl0AsSogwMKgoKCOjCsQLW2rEC0gwECAEQAdoMJgoLENCcxIn_wuaOxAESAgEDGg0YrNbFjFggqcvszNgFQAFKAhAfmg0BEqoNAktSyA0B0g3aAWh0dHBzOi8vYXBpZGV2c2NyaXB0LmRpZ2l0YWw_dXRtX2NvbnRlbnQ9SlAyLUxJTktfTEcyJmNpZD1kdHYyMjFqYS9kdHYyNDRqYSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM2NDg2Mjc1MDAmd2JyYWlkPUNrVUtDUWp3dmU3TkJoRDRBUkkwQVA2ZkJQMThJTUJiTDhaeExKZmdhZlhQZzdfaXlmbVFuV3k5NmxTNWRrUlpGR214Vk1kSXNhX0dxMXlSdXMxbU1YS1A0aG9DXzdzuBP___________8BiBQCsBQBwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBqRcxv6H2nduE2LoXChABKAAwATgBSAHQGAHwGAGAGQPCGQIIAQ&ase=2&gclid=Cj0KCQjwve7NBhC-ARIsALZy9HWagpvIvJMGCvwOv_SZDnUKaOtfvkM1W7lodeuIbUX4NGHcFdkJb4AaAt4DEALw_wcB&num=1&cid=CAESpAHg9pxKBKbBbrnhPzC88mXOOhBqCxBZDR31onqTz6avryW3tBvDIbLERUc5B_F3SS0neMYfkd-v4_oe4FRRlLCsBXqnemfOh1qVz6ZTMNvqmxTj8keYF3Jg2rGWmq_YHiIwLKhC7MXozH8glM68Hw20oMfaGeQtrzlqIYRYM-0V_xp91im4HzVhcWFR4gVHu3HqEkmRBOhBGzWNurf_D1soOcfJcQ&sig=AOD64_2_k2fsRpDALWukg9Gd7jfUBuzXNQ&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D' />
+	사이트 방문하기
+	[165] (870,589)<yt-touch-feedback-shape  />
+		[166] (870,589)<div  />
+[167] (806,695)<div  />
+	[168] (726,695)<a class='yt-lockup-view-model__content-image' href='/watch?v=C9aQKsL2NVM&pp=ugUEEgJrbw%3D%3D' />
+		[169] (722,692)<yt-thumbnail-view-model  />
+			[170] (722,692)<div  />
+				[171] (722,692)<img  />
+			[172] (722,741)<yt-thumbnail-bottom-overlay-view-model  />
+				[173] (780,741)<div  />
+					[174] (780,738)<yt-thumbnail-badge-view-model  />
+						[175] (780,738)<badge-shape  />
+							[176] (780,738)<div >12:21 />
+	[177] (890,695)<div  />
+		[178] (890,695)<yt-lockup-metadata-view-model  />
+			[179] (890,695)<div  />
+				[180] (890,653)<h3  />
+					[181] (890,653)<a aria-label='나만 안 해 바이브 코딩... FOMO 극복을 위해 준비한 영상 / 오그랲 / 바디오머그 12분 21초' class='yt-lockup-metadata-view-model__title' href='/watch?v=C9aQKsL2NVM&pp=ugUEEgJrbw%3D%3D' />
+						[182] (879,681)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>나만 안 해 바이브 코딩... FOMO 극복을 위해 준비한 영상 / 오그랲 / 바디오머그 />
+				[183] (890,723)<div  />
+					[184] (890,725)<yt-content-metadata-view-model  />
+						[185] (890,697)<div  />
+							[186] (878,697)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>비디오머그 - VIDEOMUG />
+								[187] (938,697)<span  />
+									[188] (940,697)<span  />
+										[189] (940,698)<span class='ytIconWrapperHost yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center' role='img' />
+											[190] (940,698)<span  />
+												[191] (940,698)<div  />
+						[192] (890,725)<div  />
+							[193] (846,725)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>조회수 4.7만회 />
+							[194] (887,725)<span >• />
+							[195] (907,725)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>1일 전 />
+						[196] (890,753)<div  />
+							[197] (836,753)<div  />
+								[198] (836,753)<yt-badge-view-model  />
+									[199] (836,753)<badge-shape  />
+										[200] (836,753)<div >새 동영상 />
+			[201] (963,642)<div  />
+				[202] (963,642)<button-view-model  />
+					[203] (963,642)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[204] (963,642)<yt-touch-feedback-shape  />
+							[205] (963,642)<div  />
+[206] (806,843)<div  />
+	[207] (726,843)<a class='yt-lockup-view-model__content-image' href='/watch?v=OAaChcb2QZQ&pp=0gcJCcUKAYcqIYzv' />
+		[208] (722,843)<yt-thumbnail-view-model  />
+			[209] (722,843)<div  />
+				[210] (722,843)<img  />
+			[211] (722,892)<yt-thumbnail-bottom-overlay-view-model  />
+				[212] (780,892)<div  />
+					[213] (780,889)<yt-thumbnail-badge-view-model  />
+						[214] (780,889)<badge-shape  />
+							[215] (780,889)<div >46:17 />
+	[216] (890,843)<div  />
+		[217] (890,833)<yt-lockup-metadata-view-model  />
+			[218] (890,833)<div  />
+				[219] (890,805)<h3  />
+					[220] (890,805)<a aria-label='AI 특이점은 이미 시작됐다, 살아남는 인간이 되는 방법 (김대식X송길영)ㅣ10분토론 /14F 46분' class='yt-lockup-metadata-view-model__title' href='/watch?v=OAaChcb2QZQ&pp=0gcJCcUKAYcqIYzv' />
+						[221] (880,833)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>AI 특이점은 이미 시작됐다, 살아남는 인간이 되는 방법 (김대식X송길영)ㅣ10분토론 /14F />
+				[222] (890,861)<div  />
+					[223] (890,862)<yt-content-metadata-view-model  />
+						[224] (890,848)<div  />
+							[225] (842,848)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>14F 일사에프 />
+						[226] (890,876)<div  />
+							[227] (844,876)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>조회수 97만회 />
+							[228] (884,876)<span >• />
+							[229] (910,876)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>8개월 전 />
+			[230] (963,793)<div  />
+				[231] (963,793)<button-view-model  />
+					[232] (963,793)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[233] (963,793)<yt-touch-feedback-shape  />
+							[234] (963,793)<div  />
+[235] (806,990)<div  />
+	[236] (726,990)<a class='yt-lockup-view-model__content-image' href='/watch?v=u2wobMjRjcw' />
+		[237] (722,986)<yt-thumbnail-view-model  />
+			[238] (722,986)<div  />
+				[239] (722,986)<img  />
+	[240] (890,990)<div  />
+		[241] (890,990)<yt-lockup-metadata-view-model  />
+			[242] (890,990)<div  />
+				[243] (890,948)<h3  />
+					[244] (890,948)<a aria-label='[뉴스하이킥] "개미 보호 안 하면 국장 망합니다" 각도기의 대통령 향한 직언! - 곽상준, MBC 260318 방송 18분' class='yt-lockup-metadata-view-model__title' href='/watch?v=u2wobMjRjcw' />
+						[245] (877,990)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>[뉴스하이킥] "개미 보호 안 하면 국장 망합니다" 각도기의 대통령 향한 직언! - 곽상준, MBC 260318 방송 />
+				[246] (890,992)<div  />
+					[247] (851,992)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>MBC 라디오 시사 />
+			[248] (963,937)<div  />
+				[249] (963,937)<button-view-model  />
+					[250] (963,937)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[251] (963,937)<yt-touch-feedback-shape  />
+							[252] (963,937)<div  />
+
+</current_dom>

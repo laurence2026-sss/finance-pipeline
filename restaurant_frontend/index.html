@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PickEat - 내 주변 맛집 큐레이터</title>
+    <!-- 모던 웹 폰트 (Pretendard) -->
+    <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css" />
+    <!-- 아이콘 폰트 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- 헤더 영역 -->
+        <header class="header">
+            <h1 class="logo">Pick<span>Eat</span></h1>
+            <div class="user-info">
+                <div class="location"><i class="fas fa-map-marker-alt"></i> <span id="current-location">현재 위치 찾는 중...</span></div>
+                <div class="time"><i class="far fa-clock"></i> <span id="current-time">00:00</span></div>
+            </div>
+        </header>
+
+        <main>
+            <!-- 필터 및 검색 영역 -->
+            <section class="search-section glass-panel">
+                <div class="distance-filter">
+                    <label for="distance-slider">최대 거리: <span id="distance-value">1.0</span>km</label>
+                    <input type="range" id="distance-slider" min="0.1" max="5.0" step="0.1" value="1.0">
+                </div>
+
+                <div class="category-filter">
+                    <h3>어떤 음식이 땡기시나요?</h3>
+                    <div class="main-categories" id="main-categories">
+                        <!-- JS에서 .action-chip 태그들 동적 생성됨 -->
+                    </div>
+                </div>
+
+                <!-- 하위 카테고리 (메인 선택 시 나타남) -->
+                <div class="sub-category-filter" id="sub-category-container" style="display: none;">
+                    <h4>상세 메뉴 선택 (중복 가능)</h4>
+                    <div class="sub-categories" id="sub-categories">
+                        <!-- JS에서 .action-chip 동적 생성됨 -->
+                    </div>
+                </div>
+
+                <div class="action-buttons">
+                    <button id="btn-search" class="btn-primary">
+                        <i class="fas fa-search"></i> 맛집 찾기
+                    </button>
+                    <button id="btn-random" class="btn-secondary">
+                        <i class="fas fa-dice"></i> 랜덤 픽!
+                    </button>
+                </div>
+            </section>
+
+            <!-- 랜덤 픽 애니메이션 오버레이 -->
+            <div id="random-loader" class="random-loader hidden">
+                <div class="dice-container">
+                    <i class="fas fa-dice fa-spin"></i>
+                    <p>운명의 맛집을 고르는 중...</p>
+                </div>
+            </div>
+
+            <!-- 결과 리스트 영역 -->
+            <section class="results-section">
+                <div class="results-header">
+                    <h2 id="results-title">주변 1km 추천 맛집</h2>
+                    <span class="results-count" id="results-count">0곳 찾음</span>
+                </div>
+                <div class="restaurant-list" id="restaurant-list">
+                    <!-- 결과 카드가 여기에 생성됨 -->
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

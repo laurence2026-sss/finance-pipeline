@@ -1,0 +1,135 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+접근성 링크
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (125,74)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiVn4mLr62TAxWRma8BHaxzKCAQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (419,73)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (633,73)<div  />
+	[3] (631,73)<div aria-label='지우기' class='M2vV3 vOY7J' role='button' />
+		[4] (631,73)<span  />
+	[5] (654,73)<span  />
+[6] (677,73)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (677,73)<span  />
+[8] (716,73)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (754,73)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (798,73)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (792,73)<div  />
+		[12] (792,73)<span  />
+[13] (874,73)<a aria-label='Search Labs' class='gb_B' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (920,73)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (962,73)<a aria-label='Google 계정: ᆞ  
+(kso01033092812@gmail.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dsite:instagram.com%2Bbarebone%2Bai&ec=futura_srp_og_si_72236_p' role='button' />
+필터 및 주제
+[16] (101,160)<a class='XVMlrc C6AK7c' href='/search?q=site:instagram.com+barebone+ai&sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n6GI7-Y_jc2KGJEuZtAw16b1UR_GA:1773971571893&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx2cisM8dJ5CqhSByovZsXS6uLScAbViTFPZgFIAe6BmdufRAhUvWvKPxigoHm_0wTEeZqCC8X2dpaXp3R-VuOuAbOMdVQ&aep=1&ntc=1&sa=X&ved=2ahUKEwiVn4mLr62TAxWRma8BHaxzKCAQ2J8OegQIEhAE' />
+	[17] (101,160)<div  />
+		[18] (101,172)<div  />
+			[19] (101,165)<span >AI 모드 />
+[20] (157,160)<a class='C6AK7c' role='link' />
+	전체
+[21] (211,160)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n6GI7-Y_jc2KGJEuZtAw16b1UR_GA:1773971571893&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx2cisM8dJ5CqhSByovZsXS6uLScAbViTFPZgFIAe6BmdufRAhUvWvKPxigoHm_0wTEeZqCC8X2dpaXp3R-VuOuAbOMdVQ&q=site:instagram.com+barebone+ai&sa=X&ved=2ahUKEwiVn4mLr62TAxWRma8BHaxzKCAQtKgLegQIGBAB' />
+	[22] (211,160)<div  />
+		[23] (211,172)<span >이미지 />
+[24] (265,160)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n6GI7-Y_jc2KGJEuZtAw16b1UR_GA:1773971571893&q=site:instagram.com+barebone+ai&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx2cisM8dJ5CqhSByovZsXS6uLScAbViTFPZgFIAe6BmdufRAhUvWvKPxigoHm_0wTEeZqCC8X2dpaXp3R-VuOuAbOMdVQ&sa=X&ved=2ahUKEwiVn4mLr62TAxWRma8BHaxzKCAQ0pQJegQIFxAB' />
+	[25] (265,160)<div  />
+		[26] (265,172)<span >뉴스 />
+[27] (318,160)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n6GI7-Y_jc2KGJEuZtAw16b1UR_GA:1773971571893&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx2cisM8dJ5CqhSByovZsXS6uLScAbViTFPZgFIAe6BmdufRAhUvWvKPxigoHm_0wTEeZqCC8X2dpaXp3R-VuOuAbOMdVQ&q=site:instagram.com+barebone+ai&sa=X&ved=2ahUKEwiVn4mLr62TAxWRma8BHaxzKCAQtKgLegQIFhAB' />
+	[28] (318,160)<div  />
+		[29] (318,172)<span >동영상 />
+[30] (372,160)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n6GI7-Y_jc2KGJEuZtAw16b1UR_GA:1773971571893&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx2cisM8dJ5CqhSByovZsXS6uLScAbViTFPZgFIAe6BmdufRAhUvWvKPxigoHm_0wTEeZqCC8X2dpaXp3R-VuOuAbOMdVQ&q=site:instagram.com+barebone+ai&ved=1t:220175&ictx=111' />
+	[31] (372,160)<div  />
+		[32] (372,172)<span >쇼핑 />
+[33] (440,160)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n6GI7-Y_jc2KGJEuZtAw16b1UR_GA:1773971571893&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx2cisM8dJ5CqhSByovZsXS6uLScAbViTFPZgFIAe6BmdufRAhUvWvKPxigoHm_0wTEeZqCC8X2dpaXp3R-VuOuAbOMdVQ&q=site:instagram.com+barebone+ai&sa=X&ved=2ahUKEwiVn4mLr62TAxWRma8BHaxzKCAQs6gLegQIFBAB' />
+	[34] (440,160)<div  />
+		[35] (440,172)<span >짧은 동영상 />
+[36] (523,160)<div class='mTpL7c' role='button' />
+	[37] (523,160)<div  />
+		[38] (523,172)<div  />
+			[39] (514,165)<span >더보기 />
+			[40] (542,165)<span  />
+[41] (594,160)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (594,160)<div  />
+		[43] (594,172)<div  />
+			[44] (586,165)<span >도구 />
+			[45] (607,165)<span  />
+검색결과
+[46] (240,285)<a class='zReHs' href='https://www.instagram.com/barebone.ai/' />
+	[47] (240,312)<h3 >AI Investment Agents (@barebone.ai) />
+	[48] (171,263)<div  />
+		[49] (171,263)<div  />
+			[50] (94,263)<span  />
+				[51] (94,263)<div  />
+					[52] (94,263)<img  />
+			[53] (190,263)<div  />
+				[54] (190,250)<div  />
+					[55] (190,250)<span >Instagram · barebone.ai />
+				[56] (190,277)<div  />
+					[57] (167,277)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>팔로어 5.9만명 이상 />
+[58] (280,275)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[59] (280,275)<span  />
+		[60] (280,277)<span  />
+Not a trading algo.
+Barebone is an AI research terminal, designed for investors
+. It distills the analytical frameworks Wall Street analysts deploy, and have ...
+[61] (661,312)<a href='https://www.instagram.com/barebone.ai/' />
+	[62] (661,312)<div  />
+		[63] (661,312)<img  />
+[64] (352,491)<a class='zReHs' href='https://www.instagram.com/reel/DWETdfljfKH/' />
+	[65] (352,517)<h3 >Barebone - AI Investment Agents | Jensen Huang just told the ... />
+	[66] (172,469)<div  />
+		[67] (172,469)<div  />
+			[68] (94,469)<span  />
+				[69] (94,469)<div  />
+					[70] (94,469)<img  />
+			[71] (191,469)<div  />
+				[72] (191,456)<div  />
+					[73] (191,456)<span >Instagram · barebone.ai />
+				[74] (191,483)<div  />
+					[75] (191,483)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 360개 이상  ·  11시간 전 />
+[76] (284,481)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[77] (284,481)<span  />
+		[78] (284,483)<span  />
+[79] (161,610)<a aria-label='Barebone - AI Investment Agents님이 Instagram에 게시한 Barebone - AI Investment Agents | Jensen Huang just told the .... Instagram에서 재생. 1:46' class='rIRoqf' href='https://www.instagram.com/reel/DWETdfljfKH/' />
+	[80] (151,613)<div  />
+		[81] (151,613)<div  />
+			[82] (151,613)<div  />
+				[83] (107,646)<div  />
+					[84] (107,645)<span >1:46 />
+138 likes, 26 comments -
+barebone
+.
+ai
+on March 19, 2026: "Jensen Huang just told the world where
+AI
+money is going next. Every year at GTC, ...
+[85] (337,762)<a class='zReHs' href='https://www.instagram.com/reel/DWBq-NyAgqm/' />
+	[86] (337,788)<h3 >Barebone - AI Investment Agents | STOP satisfying Nvidia ... />
+	[87] (171,740)<div  />
+		[88] (171,740)<div  />
+			[89] (94,740)<span  />
+				[90] (94,740)<div  />
+					[91] (94,740)<img  />
+			[92] (190,740)<div  />
+				[93] (190,727)<div  />
+					[94] (190,727)<span >Instagram · barebone.ai />
+				[95] (190,754)<div  />
+					[96] (187,754)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 1.1천개 이상  ·  1일 전 />
+[97] (280,753)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[98] (280,753)<span  />
+		[99] (280,754)<span  />
+[100] (161,881)<a aria-label='Barebone - AI Investment Agents님이 Instagram에 게시한 Barebone - AI Investment Agents | STOP satisfying Nvidia .... Instagram에서 재생. 2:27' class='rIRoqf' href='https://www.instagram.com/reel/DWBq-NyAgqm/' />
+	[101] (151,884)<div  />
+		[102] (151,884)<div  />
+			[103] (151,884)<div  />
+				[104] (107,917)<div  />
+					[105] (107,916)<span >2:27 />
+1081 likes, 366 comments -
+barebone
+.
+ai
+on March 18, 2026: "STOP satisfying Nvidia?! These photonics stocks are exploding and most investors ...
+
+</current_dom>

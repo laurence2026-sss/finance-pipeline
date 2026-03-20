@@ -1,0 +1,136 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+접근성 링크
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (125,74)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjn2r30q62TAxVzla8BHYbdCFcQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (419,73)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (633,73)<div  />
+	[3] (631,73)<div aria-label='지우기' class='M2vV3 vOY7J' role='button' />
+		[4] (631,73)<span  />
+	[5] (654,73)<span  />
+[6] (677,73)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (677,73)<span  />
+[8] (716,73)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (754,73)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (798,73)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (792,73)<div  />
+		[12] (792,73)<span  />
+[13] (874,73)<a aria-label='Search Labs' class='gb_B' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (920,73)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (962,73)<a aria-label='Google 계정: ᆞ  
+(kso01033092812@gmail.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DUnusual%2BWhales%2Bpricing%2Bfeatures%2Binstagram%2Baesthetic&ec=futura_srp_og_si_72236_p' role='button' />
+필터 및 주제
+[16] (101,160)<a class='XVMlrc C6AK7c' href='/search?q=Unusual+Whales+pricing+features+instagram+aesthetic&sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n6L2F3DH5NkUTkKmFWC6v2L9Hr3kw:1773970719211&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJQmjx3QqlytUUWmsvqOi0gWBlUJN4g0Lu7rgcY-8kCPhZgLGUBpSadDHn4tdUyl2t4gKlMmluk6N4dZv11X5Pw3KJYtiZibKh2uA2Wg0sFDWQStAyyDQWugHgaoybjs1gxPYwUQ&aep=1&ntc=1&sa=X&ved=2ahUKEwjn2r30q62TAxVzla8BHYbdCFcQ2J8OegQIERAE' />
+	[17] (101,160)<div  />
+		[18] (101,172)<div  />
+			[19] (101,165)<span >AI 모드 />
+[20] (157,160)<a class='C6AK7c' role='link' />
+	전체
+[21] (211,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n6L2F3DH5NkUTkKmFWC6v2L9Hr3kw:1773970719211&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJQmjx3QqlytUUWmsvqOi0gWBlUJN4g0Lu7rgcY-8kCPhZgLGUBpSadDHn4tdUyl2t4gKlMmluk6N4dZv11X5Pw3KJYtiZibKh2uA2Wg0sFDWQStAyyDQWugHgaoybjs1gxPYwUQ&q=Unusual+Whales+pricing+features+instagram+aesthetic&sa=X&ved=2ahUKEwjn2r30q62TAxVzla8BHYbdCFcQtKgLegQIFxAB' />
+	[22] (211,160)<div  />
+		[23] (211,172)<span >이미지 />
+[24] (285,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n6L2F3DH5NkUTkKmFWC6v2L9Hr3kw:1773970719211&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJQmjx3QqlytUUWmsvqOi0gWBlUJN4g0Lu7rgcY-8kCPhZgLGUBpSadDHn4tdUyl2t4gKlMmluk6N4dZv11X5Pw3KJYtiZibKh2uA2Wg0sFDWQStAyyDQWugHgaoybjs1gxPYwUQ&q=Unusual+Whales+pricing+features+instagram+aesthetic&sa=X&ved=2ahUKEwjn2r30q62TAxVzla8BHYbdCFcQs6gLegQIFhAB' />
+	[25] (285,160)<div  />
+		[26] (285,172)<span >짧은 동영상 />
+[27] (353,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n6L2F3DH5NkUTkKmFWC6v2L9Hr3kw:1773970719211&q=Unusual+Whales+pricing+features+instagram+aesthetic&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJQmjx3QqlytUUWmsvqOi0gWBlUJN4g0Lu7rgcY-8kCPhZgLGUBpSadDHn4tdUyl2t4gKlMmluk6N4dZv11X5Pw3KJYtiZibKh2uA2Wg0sFDWQStAyyDQWugHgaoybjs1gxPYwUQ&sa=X&ved=2ahUKEwjn2r30q62TAxVzla8BHYbdCFcQ0pQJegQIFRAB' />
+	[28] (353,160)<div  />
+		[29] (353,172)<span >뉴스 />
+[30] (407,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n6L2F3DH5NkUTkKmFWC6v2L9Hr3kw:1773970719211&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJQmjx3QqlytUUWmsvqOi0gWBlUJN4g0Lu7rgcY-8kCPhZgLGUBpSadDHn4tdUyl2t4gKlMmluk6N4dZv11X5Pw3KJYtiZibKh2uA2Wg0sFDWQStAyyDQWugHgaoybjs1gxPYwUQ&q=Unusual+Whales+pricing+features+instagram+aesthetic&sa=X&ved=2ahUKEwjn2r30q62TAxVzla8BHYbdCFcQtKgLegQIFBAB' />
+	[31] (407,160)<div  />
+		[32] (407,172)<span >동영상 />
+[33] (461,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n6L2F3DH5NkUTkKmFWC6v2L9Hr3kw:1773970719211&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJQmjx3QqlytUUWmsvqOi0gWBlUJN4g0Lu7rgcY-8kCPhZgLGUBpSadDHn4tdUyl2t4gKlMmluk6N4dZv11X5Pw3KJYtiZibKh2uA2Wg0sFDWQStAyyDQWugHgaoybjs1gxPYwUQ&q=Unusual+Whales+pricing+features+instagram+aesthetic&ved=1t:220175&ictx=111' />
+	[34] (461,160)<div  />
+		[35] (461,172)<span >쇼핑 />
+[36] (523,160)<div class='mTpL7c' role='button' />
+	[37] (523,160)<div  />
+		[38] (523,172)<div  />
+			[39] (514,165)<span >더보기 />
+			[40] (542,165)<span  />
+[41] (594,160)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (594,160)<div  />
+		[43] (594,172)<div  />
+			[44] (586,165)<span >도구 />
+			[45] (607,165)<span  />
+검색결과
+[46] (285,285)<a class='zReHs' href='https://unusualwhales.com/lp/unusual-whales-pricing' />
+	[47] (285,311)<h3 >Unusual Whales Pricing | Plans for Every Trader />
+	[48] (231,263)<div  />
+		[49] (231,263)<div  />
+			[50] (94,263)<span  />
+				[51] (94,263)<div  />
+					[52] (94,263)<img  />
+			[53] (250,263)<div  />
+				[54] (250,250)<div  />
+					[55] (250,250)<span >Unusual Whales />
+				[56] (250,277)<div  />
+					[57] (250,277)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://unusualwhales.com />
+						[58] (318,276)<span class='ylgVCe ob9lvb' role='text'>› unusual-whales-pricing />
+[59] (401,275)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[60] (401,275)<span  />
+		[61] (401,277)<span  />
+Unusual Whales offers
+tiered pricing starting at $50/month
+for basic access to real-time options flow, dark pool tracking, and congressional trading alerts.
+4.8
+(247)
+·
+US$50.00 · ‎금융
+누락된 검색어:
+instagram
+‎
+aesthetic
+[62] (329,552)<a class='zReHs' href='https://unusualwhales.com/pricing' />
+	[63] (329,578)<h3 >Plans & Pricing | Options Flow, Discord Bot, Portfolios, API />
+	[64] (189,530)<div  />
+		[65] (189,530)<div  />
+			[66] (94,530)<span  />
+				[67] (94,530)<div  />
+					[68] (94,530)<img  />
+			[69] (208,530)<div  />
+				[70] (208,517)<div  />
+					[71] (208,517)<span >Unusual Whales />
+				[72] (208,544)<div  />
+					[73] (208,544)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://unusualwhales.com />
+						[74] (276,543)<span class='ylgVCe ob9lvb' role='text'>› pricing />
+[75] (317,542)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[76] (317,542)<span  />
+		[77] (317,544)<span  />
+Compare
+Unusual Whales subscription plans and pricing
+. Find the right plan for options flow data, Discord bot, portfolio tracking, API access, and more.
+누락된 검색어:
+features
+‎
+instagram
+‎
+aesthetic
+[78] (248,788)<a class='zReHs' href='https://www.instagram.com/unusualwhales/' />
+	[79] (248,815)<h3 >Unusual Whales 🐳 (@unusualwhales) />
+	[80] (180,766)<div  />
+		[81] (180,766)<div  />
+			[82] (94,766)<span  />
+				[83] (94,766)<div  />
+					[84] (94,766)<img  />
+			[85] (199,766)<div  />
+				[86] (199,753)<div  />
+					[87] (199,753)<span >Instagram · unusualwhales />
+				[88] (199,780)<div  />
+					[89] (170,780)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>팔로어 56.6만명 이상 />
+[90] (298,779)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[91] (298,779)<span  />
+		[92] (298,780)<span  />
+It's the
+Unusual Whales
+MCP Server. It plugs directly into any AI assistant and gives it live, structured market data on demand. It even includes prediction ...
+누락된 검색어:
+features
+‎
+aesthetic
+[93] (264,990)<div  />
+	[94] (264,990)<span >Unusual Whales />
+
+</current_dom>

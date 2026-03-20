@@ -1,0 +1,23 @@
+# Task List: Money Morning PWA (Cost-Optimized)
+
+- [x] **Phase 0: Agent Team Assembly** <!-- id: 15 -->
+    - [x] Create specialized SKILL.md for each of the 6 roles <!-- id: 16 -->
+    - [x] Define Development Workflow in .agent/workflows <!-- id: 17 -->
+- [/] **Phase 1: Architecture Design** <!-- id: 0 -->
+    - [x] Define System Roles & Skills ("The Hats") <!-- id: 1 -->
+    - [x] Design PWA + n8n Architecture <!-- id: 2 -->
+    - [ ] User Review & Approval of Cost-Optimized Plan <!-- id: 3 -->
+- [ ] **Week 1: Infrastructure & PWA Setup** <!-- id: 40 -->
+    - [ ] Setup Oracle Cloud Always Free VPS for n8n <!-- id: 41 -->
+    - [ ] Initialize Next.js PWA with Supabase Auth (Free Tier) <!-- id: 42 -->
+    - [ ] Implement Bottom Navigation (3 Tabs) UI <!-- id: 43 -->
+- [ ] **Week 2: Data Pipelines (Tabs 1 & 3)** <!-- id: 44 -->
+    - [ ] Build 'Morning Brief' Workflow using Groq (Llama 3.3) <!-- id: 45 -->
+    - [ ] Build 'Market Indicators' Crawler (Fear/Greed, 10Y Yield) <!-- id: 46 -->
+    - [ ] Build 'Guru Portfolio' Scraper (DATAROMA Source) <!-- id: 47 -->
+- [ ] **Week 3: Report Engine (Tab 2)** <!-- id: 48 -->
+    - [ ] Integrate Claude API (On-Demand) for Deep Dives <!-- id: 49 -->
+    - [ ] Implement Stock Search & Financial Data UI <!-- id: 50 -->
+- [ ] **Week 4: Launch Prep** <!-- id: 51 -->
+    - [ ] Final UI Polish & Dark Mode <!-- id: 52 -->
+    - [ ] Marketing Assets (Reels) <!-- id: 53 -->

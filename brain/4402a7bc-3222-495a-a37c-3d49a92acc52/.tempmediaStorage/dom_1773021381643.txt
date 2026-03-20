@@ -1,0 +1,44 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (919,45)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products' role='button' />
+[1] (965,45)<a aria-label='Google 계정: ᆞ  
+(kso01033092812@gmail.com)' class='gb_B gb_0a gb_1' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://notebooklm.google.com/&ec=GBRAmgU' role='button' />
+[2] (37,45)<a aria-label='NotebookLM 홈페이지' class='logo-link' href='/' />
+	[3] (37,45)<labs-tailwind-logo  />
+		[4] (37,45)<img  />
+[5] (182,45)<input class='title-input mat-title-large ng-untouched ng-valid ng-dirty' />
+[6] (652,45)<button aria-label='노트북 만들기' class='mdc-button mat-mdc-button-base create-notebook-button mdc-button--unelevated mat-mdc-unelevated-button mat-unthemed ng-star-inserted'>add />
+	add
+	노트북 만들기
+[7] (745,45)<button class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger extendable-button mat-tonal-button mat-unthemed'>trending_up />
+	trending_up
+[8] (792,45)<button aria-label='노트북 공유' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger extendable-button mat-tonal-button mat-unthemed'>share />
+	share
+[9] (838,45)<button aria-label='설정' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger extendable-button mat-tonal-button mat-unthemed'>settings />
+	settings
+PRO
+[10] (163,124)<div class='mdc-tab mat-mdc-tab mat-focus-indicator ng-star-inserted' id='mat-tab-group-0-label-0' role='tab' />
+	[11] (163,124)<span  />
+		[12] (163,124)<span >출처 />
+[13] (488,124)<div class='mdc-tab mat-mdc-tab mat-focus-indicator mdc-tab--active mdc-tab-indicator--active ng-star-inserted' id='mat-tab-group-0-label-1' role='tab' />
+	[14] (488,124)<span  />
+		[15] (488,124)<span >채팅 />
+[16] (825,124)<div class='mdc-tab mat-mdc-tab mat-focus-indicator ng-star-inserted' id='mat-tab-group-0-label-2' role='tab' />
+	[17] (825,124)<span  />
+		[18] (825,124)<span >스튜디오 />
+[19] (948,185)<button aria-label='노트북 구성' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger configure-settings-button label-medium-button ng-tns-c1831107495-0 mat-unthemed ng-star-inserted' />
+	[20] (948,184)<mat-icon class='mat-icon notranslate google-symbols mat-icon-no-color' role='img'>tune />
+[21] (983,185)<button aria-label='채팅 옵션' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger mat-mdc-tooltip-trigger label-medium-button ng-tns-c1831107495-0 mat-unthemed ng-star-inserted' />
+	[22] (983,184)<mat-icon class='mat-icon notranslate google-symbols mat-icon-no-color' role='img'>more_vert />
+[23] (500,490)<button aria-label='업로드 소스 대화상자 열기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger upload-icon-button mat-unthemed' />
+	[24] (500,490)<mat-icon class='mat-icon notranslate upload-icon google-symbols mat-icon-no-color' role='img'>upload />
+시작하려면 소스 추가
+[25] (500,625)<button class='mdc-button mat-mdc-button-base upload-button mdc-button--outlined mat-mdc-outlined-button mat-primary'>소스 업로드 />
+	소스 업로드
+소스 0개
+arrow_forward
+NotebookLM이 부정확한 정보를 표시할 수 있으므로 대답을 다시 한번 확인하세요.
+
+</current_dom>

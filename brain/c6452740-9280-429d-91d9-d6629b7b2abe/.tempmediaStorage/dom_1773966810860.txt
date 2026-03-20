@@ -1,0 +1,39 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (102,42)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _a6hd' href='/' role='link' />
+		[2] (102,42)<div  />
+			[3] (102,48)<div  />
+	[4] (850,42)<a class='x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x972fbf x10w94by x1qhh985 x14e42zd xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu x18d9i69 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x1lku1pv x1a2a7pz x6s0dn4 xjyslct x1obq294 x5a5i1n xde0f50 x15x8krk x1ejq31n x18oe1m7 x1sy0etr xstzfhl x9f619 x9bdzbf x1ypdohk x1f6kntn xwhw2v2 x10w6t97 xl56j7k x17ydfre xf7dkkf xv54qhq x1n2onr6 x2b8uid xlyipyv x87ps6o x14atkfc x5c86q x18br7mf x1i0vuye x18cabeq x158me93 xk4oym4 x1uugd1q xe81s16 x3nfvp2' href='/accounts/login/?next=%2Fmckaywrigley%2F&source=desktop_nav' role='link'>Log In />
+	[5] (924,42)<a class='x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x1a2a7pz x6s0dn4 xjyslct x1ejq31n x18oe1m7 x1sy0etr xstzfhl x9f619 x1ypdohk x1f6kntn xl56j7k x17ydfre x2b8uid xlyipyv x87ps6o x14atkfc x5c86q x18br7mf x1i0vuye xl0gqc1 xr5sc7 xlal1re x14jxsvd xt0b8zv x1gzmzvf xjbqb8w xr9e8f9 x1e4oeot x1ui04y5 x6en5u8 x972fbf x10w94by x1qhh985 x14e42zd xt7dq6l xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x1n5bzlp x3nfvp2' href='/accounts/emailsignup/' role='link'>Sign Up />
+	[6] (320,233)<div class='x1i10hfl xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1fmog5m xu25z0z x140muxe xo1y3bh x1q0g3np x87ps6o x1lku1pv x1a2a7pz x6s0dn4 xmper1u x1lliihq x1okw0bk xl56j7k x1n2onr6 xpvyfi4' role='button' />
+	mckaywrigley
+	[7] (572,149)<div class='x1i10hfl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x6s0dn4 xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x1ypdohk x78zum5 xl56j7k x1y1aw1k xf159sx xwib8y2 xmzvs34 x1epzrsm x4gyw5p x1jplu5e x1o7uuvo x14snt5h' role='button' />
+		[8] (572,149)<div  />
+	Mckay Wrigley
+	[9] (441,233)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x5n08af x9n4tj2 _a6hd' href='#' role='link' />
+		[10] (441,233)<span >post />
+			[11] (424,233)<span  />
+				[12] (424,233)<span >1 />
+	[13] (527,233)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x5n08af x9n4tj2 _a6hd' href='#' role='link' />
+		[14] (527,233)<span >followers />
+			[15] (494,233)<span  />
+				[16] (494,233)<span >4,617 />
+	[17] (630,233)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x5n08af x9n4tj2 _a6hd' href='#' role='link' />
+		[18] (630,233)<span >following />
+			[19] (597,233)<span  />
+				[20] (597,233)<span >0 />
+	founder, takeoff ai.
+	the pursuit of excellence is next to godliness.
+	love everyone and be happy.
+	[21] (406,433)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 xstzfhl x972fbf x10w94by x14e42zd x9f619 x1ypdohk x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu x18d9i69 x16tdsg8 xggy1nq x1a2a7pz x6s0dn4 x78zum5 x1q0g3np xl56j7k x1hl2dhg x1lku1pv x1c4vz4f xn3w4p2 x106a9eq x1xnnf8n x1q0q8m5 xlxy82 x1iwc013 _a6hd' href='/mckaywrigley/' role='link' />
+		[22] (406,431)<div  />
+	[23] (594,433)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 xstzfhl x972fbf x10w94by x14e42zd x9f619 x1ypdohk x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu x18d9i69 x16tdsg8 xggy1nq x1a2a7pz x6s0dn4 x78zum5 x1q0g3np xl56j7k x1hl2dhg x1lku1pv x1c4vz4f xn3w4p2 x106a9eq x1xnnf8n x16stqrj x1q0q8m5 xlxy82 _a6hd' href='#' role='link' />
+		[24] (594,431)<div  />
+	[25] (201,756)<a class='x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _a6hd' href='/mckaywrigley/p/CsiN8F8udnj/' role='link' />
+		[26] (201,756)<div  />
+			[27] (201,756)<div  />
+
+</current_dom>

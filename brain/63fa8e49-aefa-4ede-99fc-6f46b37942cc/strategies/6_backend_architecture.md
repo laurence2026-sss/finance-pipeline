@@ -1,0 +1,70 @@
+# 🏗️ Deep Dive: Backend & Data Architecture
+
+## 1. 🏭 Infrastructure (The Factory)
+우리는 **"Serverless + Self-Hosted"** 하이브리드 전략을 취합니다. 비용은 최소화하되, 데이터 통제권은 100% 우리가 가집니다.
+
+### **Tech Stack**
+*   **Database**: **Supabase** (PostgreSQL 기반, 무료 티어 충분).
+*   **Workflow Engine**: **n8n Self-Hosted** (Docker over AWS Lightsail or Railway).
+    *   *Why Self-Hosted?* 클라우드 버전은 비싸고(워크플로우 실행 횟수 제한), 우리는 유저 1명당 매일 수십 번 실행해야 하므로 무제한 실행이 가능한 자가 설치가 필수입니다.
+*   **API Gateway (Optional)**: **Supabase Edge Functions** (복잡한 로직이나 보안이 필요한 경우 n8n 앞단에 배치).
+
+---
+
+## 2. 🗄️ Database Schema (The Ledger)
+고객의 노션 데이터(포트폴리오)는 **절대로 우리 DB에 영구 저장하지 않습니다.** (Stateless Principle).
+우리는 오직 **"누가(Who) 어디에(Where) 연결했는지"** 만 기억합니다.
+
+### **Table: `users` (고객 명부)**
+*   `id` (UUID, PK): 고객 고유번호.
+*   `email`: 이메일 (로그인용).
+*   `notion_bot_id` (Text): 봇 연동 ID.
+*   `notion_access_token` (Text, **Encrypted**): 노션 대문 열쇠. (가장 중요!)
+*   `notion_page_id` (Text): 연동된 대시보드 페이지 ID.
+*   `subscription_status` (Enum): `active`, `past_due`, `cancelled`.
+*   `last_sync_at` (Timestamp): 마지막 동기화 시간.
+
+### **Table: `analysis_cache` (분석 임시 저장소)**
+*   `ticker` (Text, PK): 종목 코드 (예: TSLA).
+*   `report_content` (Text): AI가 쓴 분석 리포트 원문.
+*   `created_at` (Timestamp): 생성 시간. (24시간 지나면 덮어씌움).
+*   *Note: 개인의 자산 정보는 여기에 절대 들어가지 않음.*
+
+---
+
+## 3. 🧠 Portfolio Analysis Logic (The Black Box)
+고객의 가장 민감한 **"얼마 있냐(Total Assets)"** 데이터는 **휘발성 메모리(RAM)**에서만 처리하고 즉시 폐기합니다.
+
+### **Step-by-Step Workflow**
+1.  **Read (수집)**:
+    *   n8n이 유저의 노션 `Portfolio` DB를 읽습니다.
+    *   데이터: `[{name: '삼성전자', qty: 100, price: 70000}, {name: 'TSLA', ...}]`
+2.  **Calculate (메모리 내 연산)**:
+    *   서버 메모리 상에서 총액 계산: `(100*70000) + ... = 1억 원`.
+    *   **비중 변환 (Anonymization)**:
+        *   "삼성전자: 7,000만 원" -> **"Samsung Elec: 70%"**
+        *   "현금: 3,000만 원" -> **"Cash: 30%"**
+    *   *원천 데이터(수량, 금액)는 여기서 변수 초기화(Drop).*
+3.  **Analyze (AI 전송)**:
+    *   Gemini에게 **"비중 데이터(%)"** 만 전송.
+    *   Prompt: "이 사람은 반도체 비중이 70%다. 리스크 헤지 조언해줘."
+4.  **Write (피드백)**:
+    *   Gemini의 답변을 노션에 전송.
+    *   **모든 로그 삭제.** (DB에 남는 건 '분석 완료했다'는 로그뿐).
+
+---
+
+## 4. 🛠️ Required Tools (Toolkit)
+이 시스템을 구축하기 위해 당장 설치/가입해야 할 도구들입니다.
+
+1.  **Supabase**: 프로젝트 생성 (무료).
+2.  **Notion Developers**: `Public Integration` 생성 (Client ID, Secret 발급).
+3.  **Alpha Vantage / Yahoo Finance**: API Key 발급 (주가 데이터용).
+4.  **Google Gemini API**: API Key 발급 (AI 두뇌).
+5.  **Railway / AWS**: n8n 도커 이미지 올릴 서버.
+
+---
+
+## 5. 🛡️ Security Check
+*   **Encryption**: `notion_access_token`은 DB 저장 시 반드시 암호화(AES-256) 처리.
+*   **Rate Limiting**: 노션 API는 초당 3회 요청 제한. n8n `Split In Batches` 노드로 1초에 1명씩만 처리하도록 속도 조절.

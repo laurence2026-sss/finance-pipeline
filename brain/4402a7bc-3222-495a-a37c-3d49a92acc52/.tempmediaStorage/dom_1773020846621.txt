@@ -1,0 +1,191 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (35,40)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (35,40)<yt-icon  />
+		[2] (35,40)<span  />
+			[3] (35,40)<div  />
+[4] (113,40)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (113,40)<div  />
+		[6] (113,38)<ytd-logo  />
+			[7] (113,40)<yt-icon  />
+				[8] (114,40)<span  />
+					[9] (114,40)<div  />
+KR
+[10] (445,40)<div  />
+	[11] (436,40)<form  />
+		[12] (436,40)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (620,40)<div  />
+		[14] (620,40)<ytd-text-input-assistant  />
+			[15] (620,40)<button class='ytdTextInputAssistantButton' />
+				[16] (620,40)<img  />
+[17] (669,40)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (669,40)<span  />
+		[19] (669,40)<span  />
+			[20] (669,40)<div  />
+[21] (734,40)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (734,40)<yt-touch-feedback-shape  />
+		[23] (734,40)<div  />
+[24] (813,40)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[25] (813,40)<yt-touch-feedback-shape  />
+		[26] (813,40)<div  />
+[27] (885,40)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (885,38)<yt-icon-badge-shape  />
+		[29] (885,40)<div  />
+			[30] (885,40)<div  />
+				[31] (885,40)<span  />
+[32] (941,40)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[33] (941,40)<yt-img-shadow  />
+		[34] (941,40)<img  />
+[35] (35,137)<a aria-label='홈' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='홈' />
+	[36] (35,124)<yt-icon  />
+	[37] (35,160)<span >홈 />
+[38] (35,242)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[39] (35,229)<yt-icon  />
+	[40] (35,264)<span >Shorts />
+[41] (35,346)<a aria-label='구독' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='구독' />
+	[42] (35,333)<yt-icon  />
+	[43] (35,369)<span >구독 />
+[44] (35,451)<a aria-label='내 페이지' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='내 페이지' />
+	[45] (35,438)<yt-icon  />
+	[46] (35,473)<span >내 페이지 />
+9:36
+I’ve been called crazy before…
+[47] (206,141)<ytd-video-meta-block  />
+	[48] (206,141)<div  />
+		[49] (206,141)<div  />
+			[50] (152,141)<span >조회수 9.4천회 />
+			[51] (212,141)<span >11일 전 />
+14:38
+[52] (520,128)<div  />
+	[53] (520,128)<div  />
+		OpenClaw Will Never Actually Run Your Business… Try This Instead.
+		[54] (508,169)<ytd-video-meta-block  />
+			[55] (508,169)<div  />
+				[56] (508,169)<div  />
+					[57] (426,169)<span >조회수 1.7만회 />
+					[58] (486,169)<span >13일 전 />
+22:19
+[59] (794,128)<div  />
+	[60] (794,128)<div  />
+		The Easiest Software Business to Start in 2026
+		[61] (782,169)<ytd-video-meta-block  />
+			[62] (782,169)<div  />
+				[63] (782,169)<div  />
+					[64] (700,169)<span >조회수 9.6만회 />
+					[65] (761,169)<span >13일 전 />
+[66] (245,334)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=O_VBdNrX0PM' id='thumbnail' />
+	[67] (245,436)<yt-image  />
+		[68] (245,334)<img  />
+	[69] (347,416)<ytd-thumbnail-overlay-time-status-renderer  />
+		[70] (349,416)<div  />
+			[71] (349,416)<badge-shape aria-label='16분 30초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[72] (349,416)<div >16:30 />
+[73] (245,495)<div  />
+	[74] (245,495)<div  />
+		[75] (234,487)<h3  />
+			[76] (234,487)<a aria-label='My Plan to Automate 70% of my Business w/ Claude Code (in 30 Days) 16분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=O_VBdNrX0PM' id='video-title-link' title='My Plan to Automate 70% of my Business w/ Claude Code (in 30 Days)' />
+				[77] (234,487)<yt-formatted-string >My Plan to Automate 70% of my Business w/ Claude Code (in 30 Days) />
+		[78] (234,536)<ytd-video-meta-block  />
+			[79] (234,536)<div  />
+				[80] (234,536)<div  />
+					[81] (152,536)<span >조회수 3.7만회 />
+					[82] (212,536)<span >13일 전 />
+[83] (520,334)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=GyCNs5AymRw' id='thumbnail' />
+	[84] (520,436)<yt-image  />
+		[85] (520,334)<img  />
+	[86] (624,416)<ytd-thumbnail-overlay-time-status-renderer  />
+		[87] (626,416)<div  />
+			[88] (626,416)<badge-shape aria-label='9분 2초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[89] (626,416)<div >9:02 />
+[90] (520,495)<div  />
+	[91] (520,495)<div  />
+		[92] (508,487)<h3  />
+			[93] (508,487)<a aria-label='AGI Is Here. It’s Real. And It Changes Everything — Here’s My Plan 9분 2초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=GyCNs5AymRw' id='video-title-link' title='AGI Is Here. It’s Real. And It Changes Everything — Here’s My Plan' />
+				[94] (508,487)<yt-formatted-string >AGI Is Here. It’s Real. And It Changes Everything — Here’s My Plan />
+		[95] (508,536)<ytd-video-meta-block  />
+			[96] (508,536)<div  />
+				[97] (508,536)<div  />
+					[98] (426,536)<span >조회수 7.1만회 />
+					[99] (483,536)<span >2주 전 />
+[100] (794,334)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=8JLyq_-3n58' id='thumbnail' />
+	[101] (794,436)<yt-image  />
+		[102] (794,334)<img  />
+	[103] (895,416)<ytd-thumbnail-overlay-time-status-renderer  />
+		[104] (897,416)<div  />
+			[105] (897,416)<badge-shape aria-label='19분 1초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[106] (897,416)<div >19:01 />
+[107] (794,508)<div  />
+	[108] (794,508)<div  />
+		[109] (782,487)<h3  />
+			[110] (782,487)<a aria-label='3 years into the AI Agency model. Where it’s all going… 19분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=8JLyq_-3n58' id='video-title-link' title='3 years into the AI Agency model. Where it’s all going…' />
+				[111] (782,487)<yt-formatted-string >3 years into the AI Agency model. Where it’s all going… />
+		[112] (782,549)<ytd-video-meta-block  />
+			[113] (782,549)<div  />
+				[114] (782,536)<div  />
+					[115] (758,536)<div  />
+						[116] (758,536)<yt-text-view-model  />
+							[117] (758,536)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text' />
+								[118] (758,536)<span >Liam Ottley
+및 Liam Ottley VLOGs />
+									[119] (733,536)<span  />
+										[120] (733,536)<span  />
+											[121] (733,537)<span class='ytIconWrapperHost yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center' role='img' />
+				[122] (782,561)<div  />
+					[123] (700,561)<span >조회수 1.4만회 />
+					[124] (758,561)<span >2주 전 />
+[125] (245,726)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=qNtDxuLfFE8' id='thumbnail' />
+	[126] (245,828)<yt-image  />
+		[127] (245,726)<img  />
+	[128] (347,808)<ytd-thumbnail-overlay-time-status-renderer  />
+		[129] (349,808)<div  />
+			[130] (349,808)<badge-shape aria-label='11분 56초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[131] (349,808)<div >11:56 />
+[132] (245,887)<div  />
+	[133] (245,887)<div  />
+		[134] (234,878)<h3  />
+			[135] (234,878)<a aria-label='AI Just Had It’s iPhone Moment...(Here's How to WIN) 11분 56초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=qNtDxuLfFE8' id='video-title-link' title='AI Just Had It’s iPhone Moment...(Here's How to WIN)' />
+				[136] (234,878)<yt-formatted-string >AI Just Had It’s iPhone Moment...(Here's How to WIN) />
+		[137] (234,928)<ytd-video-meta-block  />
+			[138] (234,928)<div  />
+				[139] (234,928)<div  />
+					[140] (152,928)<span >조회수 1.4만회 />
+					[141] (209,928)<span >3주 전 />
+[142] (520,726)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=2bsfQThGXxc' id='thumbnail' />
+	[143] (520,828)<yt-image  />
+		[144] (520,726)<img  />
+	[145] (621,808)<ytd-thumbnail-overlay-time-status-renderer  />
+		[146] (623,808)<div  />
+			[147] (623,808)<badge-shape aria-label='41분 46초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[148] (623,808)<div >41:46 />
+[149] (520,887)<div  />
+	[150] (520,887)<div  />
+		[151] (508,878)<h3  />
+			[152] (508,878)<a aria-label='How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner’s Guide 41분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=2bsfQThGXxc' id='video-title-link' title='How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner’s Guide' />
+				[153] (508,878)<yt-formatted-string >How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner’s Guide />
+		[154] (508,928)<ytd-video-meta-block  />
+			[155] (508,928)<div  />
+				[156] (508,928)<div  />
+					[157] (426,928)<span >조회수 7.6만회 />
+					[158] (483,928)<span >3주 전 />
+[159] (794,726)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=RXBjzT8gQ2g' id='thumbnail' />
+	[160] (794,828)<yt-image  />
+		[161] (794,726)<img  />
+	[162] (895,808)<ytd-thumbnail-overlay-time-status-renderer  />
+		[163] (897,808)<div  />
+			[164] (897,808)<badge-shape aria-label='13분 3초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[165] (897,808)<div >13:03 />
+[166] (794,887)<div  />
+	[167] (794,887)<div  />
+		[168] (782,878)<h3  />
+			[169] (782,878)<a aria-label='My Honest Thoughts on the OpenClaw Hype… 13분 3초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=RXBjzT8gQ2g' id='video-title-link' title='My Honest Thoughts on the OpenClaw Hype…' />
+				[170] (782,878)<yt-formatted-string >My Honest Thoughts on the OpenClaw Hype… />
+		[171] (782,928)<ytd-video-meta-block  />
+			[172] (782,928)<div  />
+				[173] (782,928)<div  />
+					[174] (700,928)<span >조회수 2.9만회 />
+					[175] (763,928)<span >1개월 전 />
+
+</current_dom>

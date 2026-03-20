@@ -1,0 +1,264 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (35,40)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (35,40)<yt-icon  />
+		[2] (35,40)<span  />
+			[3] (35,40)<div  />
+[4] (113,40)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (113,40)<div  />
+		[6] (113,38)<ytd-logo  />
+			[7] (113,40)<yt-icon  />
+				[8] (114,40)<span  />
+					[9] (114,40)<div  />
+KR
+[10] (445,40)<div  />
+	[11] (436,40)<form  />
+		[12] (436,40)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (620,40)<div  />
+		[14] (620,40)<ytd-text-input-assistant  />
+			[15] (620,40)<button class='ytdTextInputAssistantButton' />
+				[16] (620,40)<img  />
+[17] (669,40)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (669,40)<span  />
+		[19] (669,40)<span  />
+			[20] (669,40)<div  />
+[21] (734,40)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (734,40)<yt-touch-feedback-shape  />
+		[23] (734,40)<div  />
+[24] (813,40)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[25] (813,40)<yt-touch-feedback-shape  />
+		[26] (813,40)<div  />
+[27] (885,40)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (885,38)<yt-icon-badge-shape  />
+		[29] (885,40)<div  />
+			[30] (885,40)<div  />
+				[31] (885,40)<span  />
+					[32] (885,40)<span  />
+						[33] (885,40)<div  />
+			[34] (895,31)<div >1 />
+[35] (941,40)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[36] (941,40)<yt-img-shadow  />
+		[37] (941,40)<img  />
+[38] (35,137)<a aria-label='홈' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='홈' />
+	[39] (35,124)<yt-icon  />
+		[40] (35,124)<span  />
+			[41] (35,124)<div  />
+	[42] (35,160)<span >홈 />
+[43] (35,242)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[44] (35,229)<yt-icon  />
+		[45] (35,229)<span  />
+			[46] (35,229)<div  />
+	[47] (35,264)<span >Shorts />
+[48] (35,346)<a aria-label='구독' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='구독' />
+	[49] (35,333)<yt-icon  />
+		[50] (35,333)<span  />
+			[51] (35,333)<div  />
+	[52] (35,369)<span >구독 />
+[53] (35,451)<a aria-label='내 페이지' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='내 페이지' />
+	[54] (35,438)<yt-icon  />
+		[55] (35,438)<span  />
+			[56] (35,438)<div  />
+	[57] (35,473)<span >내 페이지 />
+[58] (245,158)<yt-image  />
+[59] (350,138)<ytd-thumbnail-overlay-time-status-renderer  />
+	[60] (352,138)<div  />
+		[61] (352,138)<badge-shape aria-label='8분 51초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+			[62] (352,138)<div >8:51 />
+[63] (245,217)<div  />
+	[64] (245,217)<div  />
+		[65] (234,208)<h3  />
+			[66] (234,208)<a aria-label='It's Official: AI Makes You Worse At Stuff 8분 51초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=iqfA2vfbKUY' id='video-title-link' title='It's Official: AI Makes You Worse At Stuff' />
+				[67] (234,208)<yt-formatted-string >It's Official: AI Makes You Worse At Stuff />
+		[68] (234,258)<ytd-video-meta-block  />
+			[69] (234,258)<div  />
+				[70] (234,258)<div  />
+					[71] (152,258)<span >조회수 8.7천회 />
+					[72] (214,258)<span >1개월 전 />
+	[73] (367,197)<ytd-menu-renderer  />
+		[74] (367,197)<yt-icon-button  />
+			[75] (367,197)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[76] (367,197)<yt-icon  />
+					[77] (367,197)<span  />
+						[78] (367,197)<div  />
+[79] (520,158)<yt-image  />
+[80] (621,138)<ytd-thumbnail-overlay-time-status-renderer  />
+	[81] (623,138)<div  />
+		[82] (623,138)<badge-shape aria-label='10분 25초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+			[83] (623,138)<div >10:25 />
+[84] (520,203)<div  />
+	[85] (474,203)<div  />
+		[86] (462,194)<h3  />
+			[87] (462,194)<a aria-label='It Got Worse (Clawdbot) 10분 25초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=rPAKq2oQVBs' id='video-title-link' title='It Got Worse (Clawdbot)' />
+				[88] (462,194)<yt-formatted-string >It Got Worse (Clawdbot) />
+		[89] (462,229)<ytd-video-meta-block  />
+			[90] (462,229)<div  />
+				[91] (462,229)<div  />
+					[92] (426,229)<span >조회수 6.4만회 />
+					[93] (488,229)<span >1개월 전 />
+	[94] (641,197)<ytd-menu-renderer  />
+		[95] (641,197)<yt-icon-button  />
+			[96] (641,197)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[97] (641,197)<yt-icon  />
+					[98] (641,197)<span  />
+						[99] (641,197)<div  />
+[100] (794,158)<yt-image  />
+[101] (899,138)<ytd-thumbnail-overlay-time-status-renderer  />
+	[102] (901,138)<div  />
+		[103] (901,138)<badge-shape aria-label='8분 31초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+			[104] (901,138)<div >8:31 />
+[105] (794,203)<div  />
+	[106] (752,203)<div  />
+		[107] (740,194)<h3  />
+			[108] (740,194)<a aria-label='Clawdbot Sucks, Actually 8분 31초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=esXXuejofgk' id='video-title-link' title='Clawdbot Sucks, Actually' />
+				[109] (740,194)<yt-formatted-string >Clawdbot Sucks, Actually />
+		[110] (740,229)<ytd-video-meta-block  />
+			[111] (740,229)<div  />
+				[112] (740,229)<div  />
+					[113] (699,229)<span >조회수 18만회 />
+					[114] (760,229)<span >1개월 전 />
+	[115] (916,197)<ytd-menu-renderer  />
+		[116] (916,197)<yt-icon-button  />
+			[117] (916,197)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[118] (916,197)<yt-icon  />
+					[119] (916,197)<span  />
+						[120] (916,197)<div  />
+[121] (245,423)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=O1ICQworLVc' id='thumbnail' />
+	[122] (245,524)<yt-image  />
+		[123] (245,423)<img  />
+	[124] (347,504)<ytd-thumbnail-overlay-time-status-renderer  />
+		[125] (349,504)<div  />
+			[126] (349,504)<badge-shape aria-label='22분 32초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[127] (349,504)<div >22:32 />
+[128] (245,583)<div  />
+	[129] (245,583)<div  />
+		[130] (234,575)<h3  />
+			[131] (234,575)<a aria-label='I Gave Claude Code My Whole Genome (And It's Amazing) 22분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=O1ICQworLVc' id='video-title-link' title='I Gave Claude Code My Whole Genome (And It's Amazing)' />
+				[132] (234,575)<yt-formatted-string >I Gave Claude Code My Whole Genome (And It's Amazing) />
+		[133] (234,624)<ytd-video-meta-block  />
+			[134] (234,624)<div  />
+				[135] (234,624)<div  />
+					[136] (152,624)<span >조회수 4.7만회 />
+					[137] (214,624)<span >1개월 전 />
+	[138] (367,563)<ytd-menu-renderer  />
+		[139] (367,563)<yt-icon-button  />
+			[140] (367,563)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[141] (367,563)<yt-icon  />
+					[142] (367,563)<span  />
+						[143] (367,563)<div  />
+[144] (520,423)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=MxyRjL7NG18' id='thumbnail' />
+	[145] (520,524)<yt-image  />
+		[146] (520,423)<img  />
+	[147] (616,504)<ytd-thumbnail-overlay-time-status-renderer  />
+		[148] (618,504)<div  />
+			[149] (618,504)<badge-shape aria-label='5시간 41분 40초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[150] (618,504)<div >5:41:40 />
+[151] (520,583)<div  />
+	[152] (520,583)<div  />
+		[153] (508,575)<h3  />
+			[154] (508,575)<a aria-label='AGENTIC WORKFLOWS 6 HOUR COURSE: Beginner to Pro (2026) 5시간 41분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=MxyRjL7NG18' id='video-title-link' title='AGENTIC WORKFLOWS 6 HOUR COURSE: Beginner to Pro (2026)' />
+				[155] (508,575)<yt-formatted-string >AGENTIC WORKFLOWS 6 HOUR COURSE: Beginner to Pro (2026) />
+		[156] (508,624)<ytd-video-meta-block  />
+			[157] (508,624)<div  />
+				[158] (508,624)<div  />
+					[159] (425,624)<span >조회수 19만회 />
+					[160] (485,624)<span >2개월 전 />
+	[161] (641,563)<ytd-menu-renderer  />
+		[162] (641,563)<yt-icon-button  />
+			[163] (641,563)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[164] (641,563)<yt-icon  />
+					[165] (641,563)<span  />
+						[166] (641,563)<div  />
+[167] (794,423)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=S3kdxriOESk' id='thumbnail' />
+	[168] (794,524)<yt-image  />
+		[169] (794,423)<img  />
+	[170] (895,504)<ytd-thumbnail-overlay-time-status-renderer  />
+		[171] (897,504)<div  />
+			[172] (897,504)<badge-shape aria-label='23분 17초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[173] (897,504)<div >23:17 />
+[174] (794,583)<div  />
+	[175] (794,583)<div  />
+		[176] (782,575)<h3  />
+			[177] (782,575)<a aria-label='f*ck it. Here's how I automated my youtube channel in 24 mins (I show everything) 23분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=S3kdxriOESk' id='video-title-link' title='f*ck it. Here's how I automated my youtube channel in 24 mins (I show everything)' />
+				[178] (782,575)<yt-formatted-string >f*ck it. Here's how I automated my youtube channel in 24 mins (I show everything) />
+		[179] (782,624)<ytd-video-meta-block  />
+			[180] (782,624)<div  />
+				[181] (782,624)<div  />
+					[182] (700,624)<span >조회수 3.4만회 />
+					[183] (763,624)<span >3개월 전 />
+	[184] (916,563)<ytd-menu-renderer  />
+		[185] (916,563)<yt-icon-button  />
+			[186] (916,563)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[187] (916,563)<yt-icon  />
+					[188] (916,563)<span  />
+						[189] (916,563)<div  />
+[190] (245,789)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=hwTz4s_IqgE' id='thumbnail' />
+	[191] (245,891)<yt-image  />
+		[192] (245,789)<img  />
+	[193] (347,871)<ytd-thumbnail-overlay-time-status-renderer  />
+		[194] (349,871)<div  />
+			[195] (349,871)<badge-shape aria-label='21분 52초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[196] (349,871)<div >21:52 />
+[197] (245,950)<div  />
+	[198] (245,950)<div  />
+		[199] (234,941)<h3  />
+			[200] (234,941)<a aria-label='How to Host Agentic Workflows in the Cloud (3 BEST WAYS) 21분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=hwTz4s_IqgE' id='video-title-link' title='How to Host Agentic Workflows in the Cloud (3 BEST WAYS)' />
+				[201] (234,941)<yt-formatted-string >How to Host Agentic Workflows in the Cloud (3 BEST WAYS) />
+		[202] (234,991)<ytd-video-meta-block  />
+			[203] (234,991)<div  />
+				[204] (234,991)<div  />
+					[205] (152,991)<span >조회수 1.4만회 />
+					[206] (214,991)<span >3개월 전 />
+	[207] (367,930)<ytd-menu-renderer  />
+		[208] (367,930)<yt-icon-button  />
+			[209] (367,930)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[210] (367,930)<yt-icon  />
+					[211] (367,930)<span  />
+						[212] (367,930)<div  />
+[213] (520,789)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=LLe2ghr6Oug' id='thumbnail' />
+	[214] (520,891)<yt-image  />
+		[215] (520,789)<img  />
+	[216] (621,871)<ytd-thumbnail-overlay-time-status-renderer  />
+		[217] (623,871)<div  />
+			[218] (623,871)<badge-shape aria-label='20분 4초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[219] (623,871)<div >20:04 />
+[220] (520,950)<div  />
+	[221] (520,950)<div  />
+		[222] (508,941)<h3  />
+			[223] (508,941)<a aria-label='OpenAI just exposed the future of AI. Here's everything you need to know... 20분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=LLe2ghr6Oug' id='video-title-link' title='OpenAI just exposed the future of AI. Here's everything you need to know...' />
+				[224] (508,941)<yt-formatted-string >OpenAI just exposed the future of AI. Here's everything you need to know... />
+		조회수 5.1만회
+		3개월 전
+	[225] (641,930)<ytd-menu-renderer  />
+		[226] (641,930)<yt-icon-button  />
+			[227] (641,930)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[228] (641,930)<yt-icon  />
+					[229] (641,930)<span  />
+						[230] (641,930)<div  />
+[231] (794,789)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=Uj-1we7Rew4' id='thumbnail' />
+	[232] (794,891)<yt-image  />
+		[233] (794,789)<img  />
+	[234] (895,871)<ytd-thumbnail-overlay-time-status-renderer  />
+		[235] (897,871)<div  />
+			[236] (897,871)<badge-shape aria-label='40분 23초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[237] (897,871)<div >40:23 />
+[238] (794,950)<div  />
+	[239] (794,950)<div  />
+		[240] (782,941)<h3  />
+			[241] (782,941)<a aria-label='building a service business the LAZY way (Agentic Workflows) 40분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=Uj-1we7Rew4' id='video-title-link' title='building a service business the LAZY way (Agentic Workflows)' />
+				[242] (782,941)<yt-formatted-string >building a service business the LAZY way (Agentic Workflows) />
+		[243] (782,991)<ytd-video-meta-block  />
+			[244] (782,991)<div  />
+				[245] (782,991)<div  />
+					[246] (700,991)<span >조회수 2.5만회 />
+					[247] (763,991)<span >3개월 전 />
+	[248] (916,930)<ytd-menu-renderer  />
+		[249] (916,930)<yt-icon-button  />
+			[250] (916,930)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[251] (916,930)<yt-icon  />
+					[252] (916,930)<span  />
+						[253] (916,930)<div  />
+
+</current_dom>

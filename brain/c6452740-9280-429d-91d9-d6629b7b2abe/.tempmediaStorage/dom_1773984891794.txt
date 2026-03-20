@@ -1,0 +1,38 @@
+[0] (500,261)<button aria-label='동영상 숨기기' class='ytp-fullscreen-grid-expand-button ytp-button' title='동영상 더보기(v)' />
+[1] (500,659)<div class='ytp-fullscreen-grid-main-content' scrollable='true' />
+	[2] (177,517)<a aria-label='나만 안 해 바이브 코딩... FOMO 극복을 위해 준비한 영상 / 오그랲 / 바디오머그 12분 21초' class='ytp-modern-videowall-still ytp-suggestion-set' href='https://www.youtube.com/watch?v=C9aQKsL2NVM' />
+		[3] (177,444)<div  />
+			[4] (305,548)<span >12:21 />
+		[5] (177,639)<span  />
+			[6] (177,639)<span  />
+				[7] (177,639)<span  />
+					[8] (177,610)<span >나만 안 해 바이브 코딩... FOMO 극복을 위해 준비한 영상 / 오그랲 / 바디오머그 />
+					[9] (177,656)<span >비디오머그 - VIDEOMUG />
+					[10] (177,682)<span >조회수 4.7만회 • 1일 전 />
+	[11] (500,517)<a aria-label='AI 특이점은 이미 시작됐다, 살아남는 인간이 되는 방법 (김대식X송길영)ㅣ10분토론 /14F 46분' class='ytp-modern-videowall-still ytp-suggestion-set' href='https://www.youtube.com/watch?v=OAaChcb2QZQ' />
+		[12] (500,444)<div  />
+			[13] (629,548)<span >46:17 />
+		[14] (500,639)<span  />
+			[15] (500,639)<span  />
+				[16] (500,639)<span  />
+					[17] (500,610)<span >AI 특이점은 이미 시작됐다, 살아남는 인간이 되는 방법 (김대식X송길영)ㅣ10분토론 /14F />
+					[18] (500,656)<span >14F 일사에프 />
+					[19] (500,682)<span >조회수 97만회 • 8개월 전 />
+	[20] (823,517)<a aria-label='[뉴스하이킥] "개미 보호 안 하면 국장 망합니다" 각도기의 대통령 향한 직언! - 곽상준, MBC 260318 방송 18분' class='ytp-modern-videowall-still ytp-suggestion-set' href='https://www.youtube.com/watch?v=u2wobMjRjcw' />
+		[21] (823,444)<div  />
+			[22] (952,548)<span >18:15 />
+		[23] (823,639)<span  />
+			[24] (823,639)<span  />
+				[25] (823,639)<span  />
+					[26] (823,610)<span >[뉴스하이킥] "개미 보호 안 하면 국장 망합니다" 각도기의 대통령 향한 직언! - 곽상준, MBC 260318 방송 />
+					[27] (823,656)<span >MBC 라디오 시사 />
+					[28] (823,682)<span >조회수 13만회 • 1일 전 />
+	[29] (177,940)<a aria-label='미국의 중앙은행은 왜 연방준비'제도'일까? | 연준, 연방준비제도, 미국사 14분 18초' class='ytp-modern-videowall-still ytp-suggestion-set' href='https://www.youtube.com/watch?v=ZZvv4MUrWXg' />
+		[30] (177,867)<div  />
+			[31] (305,971)<span >14:18 />
+	[32] (500,940)<a aria-label='연금저축, IRP, ISA만 있으면 저축 계좌 필요없다고? ㄷㄷ💰ㅣ타이머 / 14F 22분' class='ytp-modern-videowall-still ytp-suggestion-set' href='https://www.youtube.com/watch?v=EohbxcEnCYw' />
+		[33] (500,867)<div  />
+			[34] (629,971)<span >22:28 />
+	[35] (823,940)<a aria-label='가장 기본적인 투자방법 19분' class='ytp-modern-videowall-still ytp-suggestion-set' href='https://www.youtube.com/watch?v=5lHHAxyXI_g' />
+		[36] (823,867)<div  />
+			[37] (952,971)<span >19:17 />

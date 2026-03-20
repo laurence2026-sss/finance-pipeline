@@ -1,0 +1,89 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (919,45)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products' role='button' />
+[1] (965,45)<a aria-label='Google 계정: ᆞ  
+(kso01033092812@gmail.com)' class='gb_B gb_0a gb_1' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://notebooklm.google.com/&ec=GBRAmgU' role='button' />
+[2] (110,45)<a aria-label='NotebookLM 홈페이지' class='logo-link' href='/' />
+	[3] (110,45)<labs-tailwind-logo  />
+		[4] (110,45)<img  />
+[5] (806,45)<button aria-label='설정' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger extendable-button mat-tonal-button extendable-button-extended mat-unthemed'>settings />
+	settings
+	설정
+PRO
+[6] (500,545)<div class='welcome-page-container welcome-page-container-featured-projects-enabled-tab-view' scrollable='true' />
+	[7] (404,241)<button class='mat-button-toggle-button mat-focus-indicator' id='mat-button-toggle-0-button' role='radio' />
+		[8] (404,241)<span  />
+	[9] (474,241)<button class='mat-button-toggle-button mat-focus-indicator' id='mat-button-toggle-1-button' role='radio' />
+		[10] (474,241)<span  />
+	[11] (565,241)<button class='mat-button-toggle-button mat-focus-indicator' id='mat-button-toggle-2-button' role='radio' />
+		[12] (565,241)<span  />
+			[13] (565,241)<div  />
+	[14] (341,142)<button aria-label='그리드로 보기' class='mat-button-toggle-button mat-focus-indicator' id='mat-button-toggle-3-button' role='radio' />
+		[15] (324,142)<div  />
+			[16] (324,144)<mat-pseudo-checkbox  />
+		[17] (356,142)<span  />
+			[18] (356,144)<mat-icon class='mat-icon notranslate google-symbols mat-icon-no-color' role='img'>grid_view />
+	[19] (402,142)<button aria-label='목록 보기' class='mat-button-toggle-button mat-focus-indicator' id='mat-button-toggle-4-button' role='radio' />
+		[20] (402,142)<span  />
+			[21] (402,144)<mat-icon class='mat-icon notranslate google-symbols mat-icon-no-color' role='img'>view_headline />
+	[22] (492,143)<button class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger project-filter-button mat-mdc-button mat-unthemed' />
+		최신 항목
+		arrow_drop_down
+	[23] (621,141)<button aria-label='새 노트 만들기' class='mdc-button mat-mdc-button-base create-new-button mdc-button--unelevated mat-mdc-unelevated-button mat-unthemed'>add />
+		add
+		새로 만들기
+	추천 노트북
+	[24] (193,525)<mat-card class='mat-mdc-card mdc-card mat-ripple project-button-card featured-project-card' role='group' />
+		[25] (301,629)<div  />
+			[26] (301,625)<mat-icon aria-label='이 프로젝트는 공개되어 있으며 링크가 있는 모든 사용자가 볼 수 있습니다.' class='mat-icon notranslate mat-mdc-tooltip-trigger google-symbols mat-icon-no-color' id='project-505ee4b1-ad05-4673-a06b-1ec106c2b940-sharing-status' role='img'>public />
+		[27] (193,577)<div  />
+			[28] (193,493)<div  />
+				[29] (87,493)<img  />
+				[30] (157,493)<div >Techno Sapiens />
+			[31] (193,559)<div  />
+				[32] (193,559)<span >디지털 시대의 자녀 양육에 관한 조언 />
+			[33] (193,644)<div  />
+				[34] (105,632)<span >2025. 5. 6. />
+				[35] (142,632)<span >· />
+				[36] (174,632)<span >소스 21개 />
+	[37] (494,525)<mat-card class='mat-mdc-card mdc-card mat-ripple project-button-card featured-project-card' role='group' />
+		[38] (603,629)<div  />
+			[39] (603,625)<mat-icon aria-label='이 프로젝트는 공개되어 있으며 링크가 있는 모든 사용자가 볼 수 있습니다.' class='mat-icon notranslate mat-mdc-tooltip-trigger google-symbols mat-icon-no-color' id='project-24d50377-8c14-4851-bcc2-b2d67b039041-sharing-status' role='img'>public />
+		[40] (494,577)<div  />
+			[41] (494,493)<div  />
+				[42] (389,493)<img  />
+				[43] (463,493)<div >Google Research />
+			[44] (494,559)<div  />
+				[45] (494,559)<span >눈으로 전반적인 건강 상태를 알 수 있을까요? />
+			[46] (494,644)<div  />
+				[47] (405,632)<span >2025. 7. 3. />
+				[48] (441,632)<span >· />
+				[49] (474,632)<span >소스 14개 />
+	[50] (796,525)<mat-card class='mat-mdc-card mdc-card mat-ripple project-button-card featured-project-card' role='group' />
+		[51] (904,629)<div  />
+			[52] (904,625)<mat-icon aria-label='이 프로젝트는 공개되어 있으며 링크가 있는 모든 사용자가 볼 수 있습니다.' class='mat-icon notranslate mat-mdc-tooltip-trigger google-symbols mat-icon-no-color' id='project-a09e40ad-d41f-43af-a3ca-5fc82bd459e5-sharing-status' role='img'>public />
+		[53] (796,577)<div  />
+			[54] (796,493)<div  />
+				[55] (690,493)<img  />
+				[56] (764,493)<div >Google Research />
+			[57] (796,559)<div  />
+				[58] (796,559)<span >과학자들이 내 유전체에 무엇이 포함되어 있는지 어떻게 알 수 있을까요? />
+			[59] (796,644)<div  />
+				[60] (710,632)<span >2025. 7. 10. />
+				[61] (749,632)<span >· />
+				[62] (783,632)<span >소스 36개 />
+	[63] (883,734)<button aria-label='추천 노트북 모두 보기' class='mdc-button mat-mdc-button-base see-all-button mdc-button--outlined mat-mdc-outlined-button mat-unthemed'>chevron_right />
+		모두 보기
+		chevron_right
+	최근 노트북
+	add
+	📔
+	more_vert
+	[64] (699,955)<div >📈 />
+	[65] (895,982)<project-action-button  />
+		[66] (895,950)<button aria-label='프로젝트 작업 메뉴' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger project-button-more mat-mdc-button mat-unthemed'>more_vert />
+			more_vert
+
+</current_dom>

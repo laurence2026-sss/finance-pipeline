@@ -1,0 +1,59 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+◉
+INTEL PIPELINE
+18건 감시 중
+마지막 실행
+오후 12:10:20
+[0] (932,49)<button class='btn-run' id='btnRun'>파이프라인 실행 />
+	[1] (901,49)<span >▶ />
+Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI
+The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.
+[2] (501,112)<div  />
+	[3] (826,112)<span >검색: "Jeff" (0건) />
+[4] (500,289)<div class='intel-card exclusive' />
+	[5] (501,214)<div  />
+		[6] (231,214)<div  />
+			[7] (175,214)<span >🔥 독점 정보 />
+			[8] (222,214)<span >7점 />
+			[9] (278,214)<span >r/wallstreetbets />
+		[10] (815,214)<span >3월 19일 오후 08:34 />
+	[11] (501,259)<div >European gas futures jump 35% after Iran attacks Qatar LNG plant raising global energy supply concerns />
+	[12] (501,314)<div >Source: [https://www.cnbctv18.com/market/europe-gas-prices-surge-up-to-35-pc-as-west-asia-tensions-hit-lng-supply-ws-l-19871591.htm](https://www.cnbctv18.com/market/europe-gas-prices-surge-up-to-35-pc />
+	[13] (501,370)<div  />
+		[14] (826,370)<span >검색: "급등" (0건) />
+[15] (500,548)<div class='intel-card exclusive' />
+	[16] (501,472)<div  />
+		[17] (217,472)<div  />
+			[18] (175,472)<span >🔥 독점 정보 />
+			[19] (222,472)<span >7점 />
+			[20] (263,472)<span >r/stocks />
+		[21] (815,472)<span >3월 20일 오전 06:41 />
+	[22] (501,518)<div >Planet Labs surges to new AH after earnings? Perhaps the underlooked space stock? />
+	[23] (501,573)<div >While everyone was chasing the $RKLB and $ASTS pumps, **Planet Labs ($PL)** just dropped a monster Q4 report and the market is finally waking up. Stock is ripping in the premarket and hitting new All- />
+	[24] (501,628)<div  />
+		[25] (826,628)<span >검색: "급등" (0건) />
+[26] (500,807)<div class='intel-card exclusive' />
+	[27] (501,731)<div  />
+		[28] (221,731)<div  />
+			[29] (175,731)<span >🔥 독점 정보 />
+			[30] (222,731)<span >7점 />
+			[31] (268,731)<span >r/investing />
+		[32] (815,731)<span >3월 20일 오전 01:15 />
+	[33] (501,776)<div >Just in: Trump says Fed chair must cut rates immediately />
+	[34] (501,831)<div >I'm watching Trump live from Whitehouse presser with Japanese delegation and he's criticizing current Fed chair and asking him to "lower rates immediately" calling him "incompetent and stubborn". 
+
+I />
+	[35] (501,887)<div  />
+		[36] (799,887)<span >검색: "연준 OR 연방준비제도" (0건) />
+[37] (234,990)<div  />
+	[38] (175,990)<span >🔥 독점 정보 />
+	[39] (222,990)<span >7점 />
+	[40] (281,990)<span >r/CryptoCurrency />
+[41] (815,990)<span >3월 20일 오전 05:50 />
+[42] (969,934)<button class='fab-log' title='에이전트 로그' />
+	[43] (969,934)<span >📋 />
+
+</current_dom>

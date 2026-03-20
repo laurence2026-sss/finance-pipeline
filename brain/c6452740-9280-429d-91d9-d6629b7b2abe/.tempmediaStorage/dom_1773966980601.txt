@@ -1,0 +1,181 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+접근성 링크
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (125,74)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiMxu3Kna2TAxUdk68BHXrdJlcQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (419,73)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (633,73)<div  />
+	[3] (631,73)<div aria-label='지우기' class='M2vV3 vOY7J' role='button' />
+		[4] (631,73)<span  />
+	[5] (654,73)<span  />
+[6] (677,73)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (677,73)<span  />
+[8] (716,73)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (754,73)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (798,73)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (792,73)<div  />
+		[12] (792,73)<span  />
+[13] (874,73)<a aria-label='Search Labs' class='gb_B' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (920,73)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (962,73)<a aria-label='Google 계정: ᆞ  
+(kso01033092812@gmail.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DPietro%2BSchirano%2BInstagram%2Bprofile&ec=futura_srp_og_si_72236_p' role='button' />
+필터 및 주제
+[16] (101,160)<a class='XVMlrc C6AK7c' href='/search?q=Pietro+Schirano+Instagram+profile&sca_esv=4f31c1751e6f8c43&sxsrf=ANbL-n41aLogooVYkfUwV-lNcvmvQ6HhsQ:1773966873819&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTf11rdGODep1hjYV7VngF90iRfoKFoNV193gunAY5doENCEzhzHTAwBIK7uA_u7vWEPlSr2SNmvolDNY_BBTeC5a_VNbQUhGitQNtnOX1ZEZVe5iCML48JohpujnTYUreb8T0DRU1U5y-DNg1BBVMghmIfI7w&aep=1&ntc=1&sa=X&ved=2ahUKEwiMxu3Kna2TAxUdk68BHXrdJlcQ2J8OegQIDhAE&cshid=1773966980242306' />
+	[17] (101,160)<div  />
+		[18] (101,172)<div  />
+			[19] (101,165)<span >AI 모드 />
+[20] (157,160)<a class='C6AK7c' role='link' />
+	전체
+[21] (211,160)<a class='C6AK7c' href='/search?sca_esv=4f31c1751e6f8c43&sxsrf=ANbL-n41aLogooVYkfUwV-lNcvmvQ6HhsQ:1773966873819&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTf11rdGODep1hjYV7VngF90iRfoKFoNV193gunAY5doENCEzhzHTAwBIK7uA_u7vWEPlSr2SNmvolDNY_BBTeC5a_VNbQUhGitQNtnOX1ZEZVe5iCML48JohpujnTYUreb8T0DRU1U5y-DNg1BBVMghmIfI7w&q=Pietro+Schirano+Instagram+profile&sa=X&ved=2ahUKEwiMxu3Kna2TAxUdk68BHXrdJlcQtKgLegQIFBAB&cshid=1773966980242306' />
+	[22] (211,160)<div  />
+		[23] (211,172)<span >이미지 />
+[24] (271,160)<a class='C6AK7c' href='/search?sca_esv=4f31c1751e6f8c43&sxsrf=ANbL-n41aLogooVYkfUwV-lNcvmvQ6HhsQ:1773966873819&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTf11rdGODep1hjYV7VngF90iRfoKFoNV193gunAY5doENCEzhzHTAwBIK7uA_u7vWEPlSr2SNmvolDNY_BBTeC5a_VNbQUhGitQNtnOX1ZEZVe5iCML48JohpujnTYUreb8T0DRU1U5y-DNg1BBVMghmIfI7w&q=Pietro+Schirano+Instagram+profile&sa=X&ved=2ahUKEwiMxu3Kna2TAxUdk68BHXrdJlcQtKgLegQIExAB&cshid=1773966980242306' />
+	[25] (271,160)<div  />
+		[26] (271,172)<span >동영상 />
+[27] (325,160)<a class='C6AK7c' href='/search?sca_esv=4f31c1751e6f8c43&sxsrf=ANbL-n41aLogooVYkfUwV-lNcvmvQ6HhsQ:1773966873819&q=Pietro+Schirano+Instagram+profile&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTf11rdGODep1hjYV7VngF90iRfoKFoNV193gunAY5doENCEzhzHTAwBIK7uA_u7vWEPlSr2SNmvolDNY_BBTeC5a_VNbQUhGitQNtnOX1ZEZVe5iCML48JohpujnTYUreb8T0DRU1U5y-DNg1BBVMghmIfI7w&sa=X&ved=2ahUKEwiMxu3Kna2TAxUdk68BHXrdJlcQ0pQJegQIEhAB&cshid=1773966980242306' />
+	[28] (325,160)<div  />
+		[29] (325,172)<span >뉴스 />
+[30] (372,160)<a class='C6AK7c' href='/search?sca_esv=4f31c1751e6f8c43&sxsrf=ANbL-n41aLogooVYkfUwV-lNcvmvQ6HhsQ:1773966873819&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTf11rdGODep1hjYV7VngF90iRfoKFoNV193gunAY5doENCEzhzHTAwBIK7uA_u7vWEPlSr2SNmvolDNY_BBTeC5a_VNbQUhGitQNtnOX1ZEZVe5iCML48JohpujnTYUreb8T0DRU1U5y-DNg1BBVMghmIfI7w&q=Pietro+Schirano+Instagram+profile&ved=1t:220175&ictx=111&cshid=1773966980242306' />
+	[31] (372,160)<div  />
+		[32] (372,172)<span >쇼핑 />
+[33] (440,160)<a class='C6AK7c' href='/search?sca_esv=4f31c1751e6f8c43&sxsrf=ANbL-n41aLogooVYkfUwV-lNcvmvQ6HhsQ:1773966873819&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTf11rdGODep1hjYV7VngF90iRfoKFoNV193gunAY5doENCEzhzHTAwBIK7uA_u7vWEPlSr2SNmvolDNY_BBTeC5a_VNbQUhGitQNtnOX1ZEZVe5iCML48JohpujnTYUreb8T0DRU1U5y-DNg1BBVMghmIfI7w&q=Pietro+Schirano+Instagram+profile&sa=X&ved=2ahUKEwiMxu3Kna2TAxUdk68BHXrdJlcQs6gLegQIEBAB&cshid=1773966980242306' />
+	[34] (440,160)<div  />
+		[35] (440,172)<span >짧은 동영상 />
+[36] (523,160)<div class='mTpL7c' role='button' />
+	[37] (523,160)<div  />
+		[38] (523,172)<div  />
+			[39] (514,165)<span >더보기 />
+			[40] (542,165)<span  />
+[41] (594,160)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (594,160)<div  />
+		[43] (594,172)<div  />
+			[44] (586,165)<span >도구 />
+			[45] (607,165)<span  />
+검색결과
+[46] (205,285)<a class='zReHs' href='https://www.instagram.com/skirano/' />
+	[47] (205,312)<h3 >Pietro Schirano 🇮🇹 (@skirano) />
+	[48] (157,263)<div  />
+		[49] (157,263)<div  />
+			[50] (94,263)<span  />
+				[51] (94,263)<div  />
+					[52] (94,263)<img  />
+			[53] (176,263)<div  />
+				[54] (176,250)<div  />
+					[55] (176,250)<span >Instagram · skirano />
+				[56] (176,277)<div  />
+					[57] (167,277)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>팔로어 3.6천명 이상 />
+[58] (253,275)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[59] (253,275)<span  />
+		[60] (253,277)<span  />
+3.6K+ followers
+· 1.3K+ following · 27 posts · @skirano: “CEO at @magicpath.ai Before Anthropic • Brex • Uber • Facebook You probably used something I made.
+Pietro Schirano의 최신 게시물
+[61] (178,674)<a class='WlydOe jyAf5b' href='https://www.instagram.com/p/DVLnve3gM5Z/' />
+	[62] (178,674)<div  />
+		[63] (178,631)<div  />
+			[64] (178,553)<div class='eAaXgc WZaQJf aKoISd' role='heading'>A first trip to Japan for the books, showing the world the magic of @magicpath.ai />
+		[65] (157,769)<div  />
+			[66] (136,769)<span >좋아요 200개 이상 />
+			[67] (186,769)<span >· />
+			[68] (207,769)<span >3주 전 />
+		[69] (178,812)<div  />
+			[70] (161,812)<div  />
+				[71] (161,812)<div  />
+					[72] (161,812)<atx-attribution  />
+						[73] (161,812)<div  />
+							[74] (102,812)<div  />
+								[75] (102,812)<div  />
+									[76] (102,812)<div  />
+										[77] (102,812)<img  />
+							[78] (173,812)<div  />
+								[79] (173,803)<div >skirano />
+								[80] (173,823)<div >Instagram />
+[81] (256,823)<div  />
+	[82] (256,823)<div  />
+		[83] (256,823)<div  />
+			[84] (256,823)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc APQRre' role='button' />
+				[85] (256,810)<span  />
+					[86] (256,812)<span  />
+[87] (393,674)<a class='WlydOe jyAf5b' href='https://www.instagram.com/p/DSVej5tgZrt/' />
+	[88] (393,674)<div  />
+		[89] (393,631)<div  />
+			[90] (393,578)<div class='eAaXgc WZaQJf aKoISd' role='heading'>When we launched @magicpath.ai six months ago, our goal was simple: change how people design and collaborate with AI.
+
+Today, hundreds of thousands of customers use MagicPath to design, build, and ship experiences faster than ever before.
+
+I’m incredibly proud of this milestone, and even more excited for everything we’re launching next year. />
+		[91] (390,769)<div  />
+			[92] (351,769)<span >좋아요 190개 이상 />
+			[93] (401,769)<span >· />
+			[94] (439,769)<span >2025. 12. 16. />
+		[95] (393,812)<div  />
+			[96] (375,812)<div  />
+				[97] (375,812)<div  />
+					[98] (375,812)<atx-attribution  />
+						[99] (375,812)<div  />
+							[100] (316,812)<div  />
+								[101] (316,812)<div  />
+									[102] (316,812)<div  />
+										[103] (316,812)<img  />
+							[104] (388,812)<div  />
+								[105] (388,803)<div >skirano />
+								[106] (388,823)<div >Instagram />
+[107] (470,823)<div  />
+	[108] (470,823)<div  />
+		[109] (470,823)<div  />
+			[110] (470,823)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc APQRre' role='button' />
+				[111] (470,810)<span  />
+					[112] (470,812)<span  />
+[113] (607,674)<a class='WlydOe jyAf5b' href='https://www.instagram.com/reel/DNgGCK5xvzI/' />
+	[114] (607,674)<div  />
+		[115] (607,631)<div  />
+			[116] (607,553)<div class='eAaXgc WZaQJf aKoISd' role='heading'>When @openai asked me to be part of the GPT-5 launch video, it felt like a full-circle moment.
+
+GPT-4 changed my life, and I’m grateful I had the chance to give back this time.
+
+Proud to have played a small part in GPT history.
+
+We got to talk about design in the age of AI and @magicpath.ai />
+		[117] (607,769)<div  />
+			[118] (566,769)<span >좋아요 200개 이상 />
+			[119] (616,769)<span >· />
+			[120] (653,769)<span >2025. 8. 18. />
+		[121] (607,812)<div  />
+			[122] (590,812)<div  />
+				[123] (590,812)<div  />
+					[124] (590,812)<div  />
+						[125] (531,812)<div  />
+							[126] (531,812)<div  />
+								[127] (531,812)<div  />
+									[128] (531,812)<img  />
+						[129] (602,812)<div  />
+							[130] (602,803)<div >skirano />
+							[131] (602,823)<div >Instagram />
+[132] (685,823)<div  />
+	[133] (685,823)<div  />
+		[134] (685,823)<div  />
+			[135] (685,823)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc APQRre' role='button' />
+				[136] (685,810)<span  />
+					[137] (685,812)<span  />
+[138] (205,960)<a class='zReHs' href='https://www.instagram.com/skirano/reels/' />
+	[139] (205,988)<h3 >Pietro Schirano 🇮🇹 (@skirano) />
+	[140] (192,938)<div  />
+		[141] (192,938)<div  />
+			[142] (94,938)<span  />
+				[143] (94,938)<div  />
+					[144] (94,938)<img  />
+			[145] (211,938)<div  />
+				[146] (211,925)<div  />
+					[147] (211,925)<span >Instagram />
+				[148] (211,952)<div  />
+					[149] (211,952)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.instagram.com />
+						[150] (279,951)<span class='ylgVCe ob9lvb' role='text'>› skirano />
+[151] (323,951)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[152] (323,951)<span  />
+		[153] (323,952)<span  />
+
+</current_dom>

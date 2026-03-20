@@ -1,0 +1,219 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (34,39)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (34,39)<yt-icon  />
+		[2] (34,39)<span  />
+			[3] (34,39)<div  />
+[4] (112,39)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (112,39)<div  />
+		[6] (112,38)<ytd-logo  />
+			[7] (112,39)<yt-icon  />
+				[8] (113,39)<span  />
+					[9] (113,39)<div  />
+KR
+[10] (445,39)<div  />
+	[11] (425,39)<form  />
+		[12] (425,39)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (599,39)<div  />
+		[14] (599,39)<ytd-text-input-assistant  />
+			[15] (599,39)<button class='ytdTextInputAssistantButton' />
+				[16] (599,39)<img  />
+	[17] (626,39)<div  />
+		[18] (626,39)<button aria-label='검색어 삭제' class='ytSearchboxComponentClearButton' />
+			[19] (626,39)<yt-touch-feedback-shape  />
+				[20] (626,39)<div  />
+[21] (671,39)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[22] (671,39)<span  />
+		[23] (671,39)<span  />
+			[24] (671,39)<div  />
+[25] (736,39)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[26] (736,39)<yt-touch-feedback-shape  />
+		[27] (736,39)<div  />
+[28] (814,39)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[29] (814,39)<yt-touch-feedback-shape  />
+		[30] (814,39)<div  />
+[31] (886,39)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[32] (886,38)<yt-icon-badge-shape  />
+		[33] (886,39)<div  />
+			[34] (886,39)<div  />
+				[35] (886,39)<span  />
+					[36] (886,39)<span  />
+						[37] (886,39)<div  />
+[38] (942,39)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[39] (942,39)<yt-img-shadow  />
+		[40] (942,39)<img  />
+[41] (34,136)<a aria-label='홈' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='홈' />
+	[42] (34,123)<yt-icon  />
+		[43] (34,123)<span  />
+			[44] (34,123)<div  />
+	[45] (34,158)<span >홈 />
+[46] (34,239)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[47] (34,227)<yt-icon  />
+		[48] (34,227)<span  />
+			[49] (34,227)<div  />
+	[50] (34,262)<span >Shorts />
+[51] (34,343)<a aria-label='구독' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='구독' />
+	[52] (34,331)<yt-icon  />
+		[53] (34,331)<span  />
+			[54] (34,331)<div  />
+	[55] (34,366)<span >구독 />
+[56] (34,447)<a aria-label='내 페이지' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='내 페이지' />
+	[57] (34,434)<yt-icon  />
+		[58] (34,434)<span  />
+			[59] (34,434)<div  />
+	[60] (34,469)<span >내 페이지 />
+[61] (527,7452)<ytd-search class='style-scope ytd-page-manager' role='main' scrollable='true' />
+	[62] (115,116)<button class='ytChipShapeButtonReset' role='tab' />
+		[63] (115,116)<div >전체 />
+			전체
+			[64] (115,116)<yt-touch-feedback-shape  />
+				[65] (115,116)<div  />
+	[66] (178,116)<button class='ytChipShapeButtonReset' role='tab' />
+		[67] (178,116)<div >Shorts />
+			Shorts
+			[68] (178,116)<yt-touch-feedback-shape  />
+				[69] (178,116)<div  />
+	[70] (247,116)<button class='ytChipShapeButtonReset' role='tab' />
+		[71] (247,116)<div >동영상 />
+			동영상
+			[72] (247,116)<yt-touch-feedback-shape  />
+				[73] (247,116)<div  />
+	[74] (334,116)<button class='ytChipShapeButtonReset' role='tab' />
+		[75] (334,116)<div >시청하지 않음 />
+			시청하지 않음
+			[76] (334,116)<yt-touch-feedback-shape  />
+				[77] (334,116)<div  />
+	[78] (442,116)<button class='ytChipShapeButtonReset' role='tab' />
+		[79] (442,116)<div >감상한 동영상 />
+			감상한 동영상
+			[80] (442,116)<yt-touch-feedback-shape  />
+				[81] (442,116)<div  />
+	[82] (576,116)<button class='ytChipShapeButtonReset' role='tab' />
+		[83] (576,116)<div >최근에 업로드된 동영상 />
+			최근에 업로드된 동영상
+			[84] (576,116)<yt-touch-feedback-shape  />
+				[85] (576,116)<div  />
+	[86] (690,116)<button class='ytChipShapeButtonReset' role='tab' />
+		[87] (690,116)<div >라이브 />
+			라이브
+			[88] (690,116)<yt-touch-feedback-shape  />
+				[89] (690,116)<div  />
+	[90] (924,118)<button aria-label='검색 필터' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-trailing yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+		필터
+		[91] (924,118)<yt-touch-feedback-shape  />
+			[92] (924,118)<div  />
+	[93] (306,252)<a class='channel-link yt-simple-endpoint style-scope ytd-channel-renderer' href='/@%EB%89%B4%EC%8A%A42%EB%A7%89' />
+		[94] (306,252)<div  />
+			[95] (306,252)<yt-img-shadow  />
+				[96] (306,252)<img  />
+	[97] (721,252)<a class='channel-link yt-simple-endpoint style-scope ytd-channel-renderer' href='/@%EB%89%B4%EC%8A%A42%EB%A7%89' id='main-link' />
+		[98] (721,252)<div  />
+			[99] (566,195)<ytd-channel-name  />
+				[100] (566,195)<div  />
+					[101] (566,195)<div  />
+						[102] (566,195)<yt-formatted-string >뉴스 2막 />
+			[103] (714,237)<div  />
+				[104] (559,236)<yt-formatted-string >@뉴스2막 />
+				[105] (589,236)<span >• />
+				[106] (634,236)<span >구독자 7.02만명 />
+			[107] (714,280)<yt-formatted-string  />
+				[108] (545,267)<span >뉴스 />
+				[109] (665,267)<span >가 돈이 되는 지도, 펜으로 직접 그려드립니다. " />
+				[110] (785,267)<span >뉴스 />
+				[111] (825,267)<span >는 1막, 돈은 />
+				[112] (864,267)<span >2막 />
+				[113] (713,280)<span >.” 여기는 />
+				[114] (579,292)<span >뉴스 2막 />
+				[115] (705,292)<span >, 돈의 흐름을 그려주는 곳입니다. 쏟아지는 ... />
+	[116] (935,241)<button aria-label='뉴스 2막을(를) 구독합니다.' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+		구독
+		[117] (935,241)<yt-touch-feedback-shape  />
+			[118] (935,241)<div  />
+	뉴스 2막의 최신 동영상
+	[119] (306,653)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=SzCC3koiaIc&pp=ygUL64m07IqkIDLrp4k%3D' id='thumbnail' />
+		[120] (306,824)<yt-image  />
+			[121] (306,653)<img  />
+		[122] (492,804)<ytd-thumbnail-overlay-time-status-renderer  />
+			[123] (494,804)<div  />
+				[124] (494,804)<badge-shape aria-label='11분 41초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+					[125] (494,804)<div >11:41 />
+	[126] (749,640)<div  />
+		[127] (749,526)<div  />
+			[128] (749,514)<div  />
+				[129] (726,514)<h3  />
+					[130] (726,514)<a aria-label='월가 사모펀드 5조 환매 충격. '가짜 AI 주식' 연쇄 부도 전 반드시 담아야 할 진짜 포식자 (5초 감별법) 11분 41초' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=SzCC3koiaIc&pp=ygUL64m07IqkIDLrp4k%3D' id='video-title' title='월가 사모펀드 5조 환매 충격. '가짜 AI 주식' 연쇄 부도 전 반드시 담아야 할 진짜 포식자 (5초 감별법)' />
+						[131] (722,513)<yt-formatted-string >월가 사모펀드 5조 환매 충격. '가짜 AI 주식' 연쇄 부도 전 반드시 담아야 할 진짜 포식자 (5초 감별법) />
+				[132] (944,494)<div  />
+					[133] (944,490)<ytd-menu-renderer  />
+						[134] (944,490)<yt-icon-button  />
+							[135] (944,490)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+								[136] (944,490)<yt-icon  />
+									[137] (944,490)<span  />
+										[138] (944,490)<div  />
+			[139] (749,563)<ytd-video-meta-block  />
+				[140] (749,563)<div  />
+					[141] (592,563)<div  />
+						[142] (571,563)<span >조회수 3.9만회 />
+						[143] (627,563)<span >2일 전 />
+		[144] (749,611)<div  />
+			[145] (550,611)<a aria-label='뉴스 2막 채널로 이동' class='style-scope ytd-video-renderer' href='/@%EB%89%B4%EC%8A%A42%EB%A7%89' id='channel-thumbnail' />
+				[146] (546,609)<yt-img-shadow  />
+					[147] (546,609)<img  />
+			[148] (586,611)<ytd-channel-name  />
+				[149] (586,611)<div  />
+					[150] (586,611)<div  />
+						[151] (586,610)<yt-formatted-string  />
+							[152] (586,611)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@%EB%89%B4%EC%8A%A42%EB%A7%89'>뉴스 2막 />
+		[153] (749,659)<div  />
+			[154] (849,658)<yt-formatted-string >"회사 이름에 AI 딱지 붙었다고 무조건 우상향할 줄 아십니까? 착각하지 마십시오." 지금 월가 1등 사모펀드에서 5조 원 규모의 역대급 ... />
+		[155] (749,695)<ytd-badge-supported-renderer  />
+			[156] (561,695)<div  />
+				[157] (561,695)<badge-shape aria-label='새 동영상' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--typography' role='img' />
+					[158] (561,695)<div >새 동영상 />
+			[159] (602,695)<div  />
+				[160] (602,695)<badge-shape aria-label='4K' class='yt-badge-shape yt-badge-shape--default yt-badge-shape--typography' role='img' />
+					[161] (602,695)<div >4K />
+		[162] (749,761)<div  />
+			[163] (749,761)<ytd-expandable-metadata-renderer  />
+				[164] (749,761)<div  />
+					[165] (730,761)<div  />
+						[166] (567,761)<div  />
+							[167] (567,761)<yt-img-shadow  />
+								[168] (567,761)<img  />
+						[169] (622,761)<div  />
+							[170] (622,761)<yt-formatted-string  />
+								[171] (616,761)<span >챕터 />
+								[172] (634,761)<span >12 />
+						[173] (784,761)<div class='style-scope ytd-expandable-metadata-renderer' id='collapsed-title' role='button'>인트로: 월가 사모펀드 5조 환매 충격, '가짜 AI 주식' 연쇄 부도의 서막 | 소프트웨어 제국의 몰락: 인간을 완벽하게 대체하는 AI와 과금 모델의 처참한 붕괴 | 거시적 관점: 사모신용 펀드의 돈줄 마름, 시장을 덮칠 진짜 공포의 실체 | 하수들의 무덤: 닷컴 버블의 재림, 실체 없이 기생하는 껍데기 AI 래퍼(Wrapper)의 한계 | 진짜 포식자의 조건: 살벌한 거품 속에서 살아남을 '자체 AI 모델'과 '독점 데이터' | 생존 질문 1: 구글도 훔칠 수 없는 '폐쇄형 특수망'의 지배자들 (팔란티어, 크라우드스트라이크) | 생존 질문 2: 방구석 AI를 뛰어넘는 진짜 '오프라인 물리 데이터'의 장벽 (삼사라, 템퍼스 AI) | 생존 질문 3: 남의 두뇌를 빌린 세입자 vs 고객을 가둔 '플랫폼 지배자' (스노우플레이크, 데이터브릭스) | 실전 행동 지침: 찌라시에 속지 않고 단 5초 만에 가짜 AI를 걸러내는 법 | 1대 치명적 뇌관: 매출 총이익률 60% 붕괴, 영마진 늪에 빠진 구조적 파산 신호 | 2대 치명적 뇌관: 기형적인 판관비 역전 현상, 코어 기술 없이 마케팅으로 연명하는 적색경보 | 결론: 역사적 버블 지표(CAPE)의 경고, 껍데기를 탈출해 하드웨어로 향하는 거대 자본의 대이동 />
+							인트로: 월가 사모펀드 5조 환매 충격, '가짜 AI 주식' 연쇄 부도의 서막 | 소프트웨어 제국의 몰락: 인간을 완벽하게 대체하는 AI와 과금 모델의 처참한 붕괴 | 거시적 관점: 사모신용 펀드의 돈줄 마름, 시장을 덮칠 진짜 공포의 실체 | 하수들의 무덤: 닷컴 버블의 재림, 실체 없이 기생하는 껍데기 AI 래퍼(Wrapper)의 한계 | 진짜 포식자의 조건: 살벌한 거품 속에서 살아남을 '자체 AI 모델'과 '독점 데이터' | 생존 질문 1: 구글도 훔칠 수 없는 '폐쇄형 특수망'의 지배자들 (팔란티어, 크라우드스트라이크) | 생존 질문 2: 방구석 AI를 뛰어넘는 진짜 '오프라인 물리 데이터'의 장벽 (삼사라, 템퍼스 AI) | 생존 질문 3: 남의 두뇌를 빌린 세입자 vs 고객을 가둔 '플랫폼 지배자' (스노우플레이크, 데이터브릭스) | 실전 행동 지침: 찌라시에 속지 않고 단 5초 만에 가짜 AI를 걸러내는 법 | 1대 치명적 뇌관: 매출 총이익률 60% 붕괴, 영마진 늪에 빠진 구조적 파산 신호 | 2대 치명적 뇌관: 기형적인 판관비 역전 현상, 코어 기술 없이 마케팅으로 연명하는 적색경보 | 결론: 역사적 버블 지표(CAPE)의 경고, 껍데기를 탈출해 하드웨어로 향하는 거대 자본의 대이동
+					[174] (940,761)<div  />
+						[175] (940,761)<div  />
+							[176] (940,761)<ytd-button-renderer  />
+								[177] (940,761)<yt-button-shape  />
+									[178] (940,761)<button aria-label='더보기' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+										[179] (940,761)<yt-touch-feedback-shape  />
+											[180] (940,761)<div  />
+	[181] (749,901)<div  />
+		[182] (749,888)<div  />
+			[183] (726,888)<h3  />
+				[184] (726,888)<a aria-label='29억 주사 한 방에 '빅파마 패닉'. 1000조 제약업계 붕괴시킬 "다음 텐배거" (이곳에 돈 몰립니다) 16분' class='yt-simple-endpoint style-scope ytd-video-renderer' href='/watch?v=5QiVDDwXs44&pp=ygUL64m07IqkIDLrp4k%3D' id='video-title' title='29억 주사 한 방에 '빅파마 패닉'. 1000조 제약업계 붕괴시킬 "다음 텐배거" (이곳에 돈 몰립니다)' />
+					[185] (721,887)<yt-formatted-string >29억 주사 한 방에 '빅파마 패닉'. 1000조 제약업계 붕괴시킬 "다음 텐배거" (이곳에 돈 몰립니다) />
+			[186] (944,869)<div  />
+				[187] (944,864)<ytd-menu-renderer  />
+					[188] (944,864)<yt-icon-button  />
+						[189] (944,864)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+							[190] (944,864)<yt-icon  />
+								[191] (944,864)<span  />
+									[192] (944,864)<div  />
+		[193] (749,937)<ytd-video-meta-block  />
+			[194] (749,937)<div  />
+				[195] (592,937)<div  />
+					[196] (571,937)<span >조회수 2.2만회 />
+					[197] (627,937)<span >6일 전 />
+	[198] (749,985)<div  />
+		뉴스 2막
+
+</current_dom>

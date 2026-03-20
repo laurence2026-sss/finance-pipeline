@@ -1,0 +1,139 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+접근성 링크
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (125,74)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwj5y9ziq62TAxUlZfUHHZfnILwQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (419,73)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (633,73)<div  />
+	[3] (631,73)<div aria-label='지우기' class='M2vV3 vOY7J' role='button' />
+		[4] (631,73)<span  />
+	[5] (654,73)<span  />
+[6] (677,73)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (677,73)<span  />
+[8] (716,73)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (754,73)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (798,73)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (792,73)<div  />
+		[12] (792,73)<span  />
+[13] (874,73)<a aria-label='Search Labs' class='gb_B' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (920,73)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (962,73)<a aria-label='Google 계정: ᆞ  
+(kso01033092812@gmail.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Daesthetic%2Bstock%2Bcrypto%2Banalysis%2Btools%2Bpopular%2Bon%2Binstagram%2Breels&ec=futura_srp_og_si_72236_p' role='button' />
+필터 및 주제
+[16] (101,160)<a class='XVMlrc C6AK7c' href='/search?q=aesthetic+stock+crypto+analysis+tools+popular+on+instagram+reels&sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n6xGL8yMOWFLkNaVDjvaVSri2YuYA:1773970681969&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJEwThxPy_XPAW9UhUkYruzYOxLLIdl9c8_rn7T09oJX15W6vxtSJSZ0WfOI0u3xALu6jvYM761CAz6MyLX0aCH05_t4kTCqpCZ82i4TIjqYWIKWxMomyt_unvZEpZSEluW-VcAw&aep=1&ntc=1&sa=X&ved=2ahUKEwj5y9ziq62TAxUlZfUHHZfnILwQ2J8OegQIEhAE' />
+	[17] (101,160)<div  />
+		[18] (101,172)<div  />
+			[19] (101,165)<span >AI 모드 />
+[20] (157,160)<a class='C6AK7c' role='link' />
+	전체
+[21] (211,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n6xGL8yMOWFLkNaVDjvaVSri2YuYA:1773970681969&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJEwThxPy_XPAW9UhUkYruzYOxLLIdl9c8_rn7T09oJX15W6vxtSJSZ0WfOI0u3xALu6jvYM761CAz6MyLX0aCH05_t4kTCqpCZ82i4TIjqYWIKWxMomyt_unvZEpZSEluW-VcAw&q=aesthetic+stock+crypto+analysis+tools+popular+on+instagram+reels&sa=X&ved=2ahUKEwj5y9ziq62TAxUlZfUHHZfnILwQtKgLegQIGBAB' />
+	[22] (211,160)<div  />
+		[23] (211,172)<span >이미지 />
+[24] (285,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n6xGL8yMOWFLkNaVDjvaVSri2YuYA:1773970681969&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJEwThxPy_XPAW9UhUkYruzYOxLLIdl9c8_rn7T09oJX15W6vxtSJSZ0WfOI0u3xALu6jvYM761CAz6MyLX0aCH05_t4kTCqpCZ82i4TIjqYWIKWxMomyt_unvZEpZSEluW-VcAw&q=aesthetic+stock+crypto+analysis+tools+popular+on+instagram+reels&sa=X&ved=2ahUKEwj5y9ziq62TAxUlZfUHHZfnILwQs6gLegQIFxAB' />
+	[25] (285,160)<div  />
+		[26] (285,172)<span >짧은 동영상 />
+[27] (359,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n6xGL8yMOWFLkNaVDjvaVSri2YuYA:1773970681969&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJEwThxPy_XPAW9UhUkYruzYOxLLIdl9c8_rn7T09oJX15W6vxtSJSZ0WfOI0u3xALu6jvYM761CAz6MyLX0aCH05_t4kTCqpCZ82i4TIjqYWIKWxMomyt_unvZEpZSEluW-VcAw&q=aesthetic+stock+crypto+analysis+tools+popular+on+instagram+reels&sa=X&ved=2ahUKEwj5y9ziq62TAxUlZfUHHZfnILwQtKgLegQIFhAB' />
+	[28] (359,160)<div  />
+		[29] (359,172)<span >동영상 />
+[30] (413,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n6xGL8yMOWFLkNaVDjvaVSri2YuYA:1773970681969&q=aesthetic+stock+crypto+analysis+tools+popular+on+instagram+reels&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJEwThxPy_XPAW9UhUkYruzYOxLLIdl9c8_rn7T09oJX15W6vxtSJSZ0WfOI0u3xALu6jvYM761CAz6MyLX0aCH05_t4kTCqpCZ82i4TIjqYWIKWxMomyt_unvZEpZSEluW-VcAw&sa=X&ved=2ahUKEwj5y9ziq62TAxUlZfUHHZfnILwQ0pQJegQIFRAB' />
+	[31] (413,160)<div  />
+		[32] (413,172)<span >뉴스 />
+[33] (461,160)<a class='C6AK7c' href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n6xGL8yMOWFLkNaVDjvaVSri2YuYA:1773970681969&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohCTvFufuuNt6CnY-RXzcTKgOatfWjvfi0GLAoeDdEFEJEwThxPy_XPAW9UhUkYruzYOxLLIdl9c8_rn7T09oJX15W6vxtSJSZ0WfOI0u3xALu6jvYM761CAz6MyLX0aCH05_t4kTCqpCZ82i4TIjqYWIKWxMomyt_unvZEpZSEluW-VcAw&q=aesthetic+stock+crypto+analysis+tools+popular+on+instagram+reels&ved=1t:220175&ictx=111' />
+	[34] (461,160)<div  />
+		[35] (461,172)<span >쇼핑 />
+[36] (523,160)<div class='mTpL7c' role='button' />
+	[37] (523,160)<div  />
+		[38] (523,172)<div  />
+			[39] (514,165)<span >더보기 />
+			[40] (542,165)<span  />
+[41] (594,160)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (594,160)<div  />
+		[43] (594,172)<div  />
+			[44] (586,165)<span >도구 />
+			[45] (607,165)<span  />
+검색결과
+[46] (358,284)<a class='zReHs' href='https://www.instagram.com/reel/DNqJMSqTzk9/' />
+	[47] (358,311)<h3 >3 AI tools I use for my Content Agency and my Stock Research ... />
+	[48] (186,263)<div  />
+		[49] (186,263)<div  />
+			[50] (94,263)<span  />
+				[51] (94,263)<div  />
+					[52] (94,263)<img  />
+			[53] (205,263)<div  />
+				[54] (205,250)<div  />
+					[55] (205,250)<span >Instagram · shashank_udupa />
+				[56] (205,277)<div  />
+					[57] (189,277)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 620개 이상  ·  6개월 전 />
+[58] (312,275)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[59] (312,275)<span  />
+		[60] (312,277)<span  />
+[61] (161,404)<a aria-label='Shashank Udupa님이 Instagram에 게시한 3 AI tools I use for my Content Agency and my Stock Research .... Instagram에서 재생. 0:38' class='rIRoqf' href='https://www.instagram.com/reel/DNqJMSqTzk9/' />
+	[62] (151,407)<div  />
+		[63] (151,407)<div  />
+			[64] (151,407)<div  />
+				[65] (107,440)<div  />
+					[66] (107,439)<span >0:38 />
+And number three which is my favourite is Gama because we use Gamma to make stun presentations that we actually give it to our clients. Any more ...
+누락된 검색어:
+aesthetic
+‎
+crypto
+[67] (322,598)<a class='zReHs' href='https://www.instagram.com/reel/DSwurofjsYN/' />
+	[68] (322,625)<h3 >Here is the Complete Video Dashboard UI Most crypto ... />
+	[69] (177,576)<div  />
+		[70] (177,576)<div  />
+			[71] (94,576)<span  />
+				[72] (94,576)<div  />
+					[73] (94,576)<img  />
+			[74] (196,576)<div  />
+				[75] (196,563)<div  />
+					[76] (196,563)<span >Instagram · carvingdezine />
+				[77] (196,590)<div  />
+					[78] (170,590)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 7개  ·  2개월 전 />
+[79] (292,588)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[80] (292,588)<span  />
+		[81] (292,590)<span  />
+In this video, I walk through
+Quantyx
+, a high-performance crypto trading dashboard designed for advanced and high-frequency trading workflows.
+누락된 검색어:
+reels
+‎| 필수 포함 항목:
+[82] (309,728)<a href='/search?sca_esv=c6fba780d92d48b7&sxsrf=ANbL-n6xGL8yMOWFLkNaVDjvaVSri2YuYA:1773970681969&q=aesthetic+stock+crypto+analysis+tools+popular+on+instagram+%22reels%22&sa=X&ved=2ahUKEwj5y9ziq62TAxUlZfUHHZfnILwQ5t4CegQIHhAB' />
+	[83] (309,728)<span >reels />
+[84] (339,835)<a class='zReHs' href='https://www.instagram.com/reel/DL8PHlDxslU/' />
+	[85] (339,861)<h3 >Chase AI on Instagram: "Comment “stock” for the template ... />
+	[86] (170,813)<div  />
+		[87] (170,813)<div  />
+			[88] (94,813)<span  />
+				[89] (94,813)<div  />
+					[90] (94,813)<img  />
+			[91] (189,813)<div  />
+				[92] (189,800)<div  />
+					[93] (189,800)<span >Instagram · chase.h.ai />
+				[94] (189,827)<div  />
+					[95] (189,827)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 320개 이상  ·  8개월 전 />
+[96] (278,826)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[97] (278,826)<span  />
+		[98] (278,827)<span  />
+[99] (161,954)<a aria-label='Chase AI님이 Instagram에 게시한 Chase AI on Instagram: "Comment “stock” for the template .... Instagram에서 재생. 0:28' class='rIRoqf' href='https://www.instagram.com/reel/DL8PHlDxslU/' />
+	[100] (151,957)<div  />
+		[101] (151,957)<div  />
+			[102] (151,957)<div  />
+				[103] (107,990)<div  />
+					[104] (107,989)<span >0:28 />
+...
+analysis
+to
+analyze stocks
+and
+crypto
+... Chat Model ਨੱਨ Simple Memory
+Stock Tool
+Tavily query: search Executed by ...
+
+</current_dom>

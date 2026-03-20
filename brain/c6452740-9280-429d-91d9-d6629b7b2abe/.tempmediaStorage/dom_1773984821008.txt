@@ -1,0 +1,100 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (34,39)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (34,39)<yt-icon  />
+[2] (112,39)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[3] (112,39)<div  />
+		[4] (112,38)<ytd-logo  />
+			[5] (112,39)<yt-icon  />
+KR
+[6] (445,39)<div  />
+	[7] (436,39)<form  />
+		[8] (436,39)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[9] (622,39)<div  />
+		[10] (622,39)<ytd-text-input-assistant  />
+			[11] (622,39)<button class='ytdTextInputAssistantButton' />
+				[12] (622,39)<img  />
+[13] (671,39)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[14] (671,39)<span  />
+[15] (736,39)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[16] (736,39)<yt-touch-feedback-shape  />
+		[17] (736,39)<div  />
+[18] (814,39)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[19] (814,39)<yt-touch-feedback-shape  />
+		[20] (814,39)<div  />
+[21] (886,39)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[22] (886,38)<yt-icon-badge-shape  />
+		[23] (886,39)<div  />
+			[24] (886,39)<div  />
+				[25] (886,39)<span  />
+[26] (942,39)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[27] (942,39)<yt-img-shadow  />
+		[28] (942,39)<img  />
+[29] (34,136)<a aria-label='홈' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='홈' />
+	[30] (34,123)<yt-icon  />
+	[31] (34,158)<span >홈 />
+[32] (34,239)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[33] (34,227)<yt-icon  />
+	[34] (34,262)<span >Shorts />
+[35] (34,343)<a aria-label='구독' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='구독' />
+	[36] (34,331)<yt-icon  />
+	[37] (34,366)<span >구독 />
+[38] (34,447)<a aria-label='내 페이지' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='내 페이지' />
+	[39] (34,434)<yt-icon  />
+	[40] (34,469)<span >내 페이지 />
+뉴스 2막
+@뉴스2막
+•
+구독자 7.02만명
+•
+동영상 31개
+[41] (573,426)<yt-description-preview-view-model  />
+	[42] (573,426)<truncated-text  />
+		[43] (573,426)<truncated-text-content  />
+			[44] (435,426)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>🗺️ 뉴스가 돈이 되는 지도, 펜으로 직접 그려드립니다. />
+		[45] (608,426)<button aria-label='설명: 🗺️ 뉴스가 돈이 되는 지도, 펜으로 직접 그... 탭하여 자세히 알아보세요.' class='yt-truncated-text__absolute-button' />
+			[46] (608,426)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text' />
+				[47] (608,426)<span >...더보기 />
+[48] (314,482)<button aria-label='뉴스 2막을(를) 구독합니다.' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--disable-text-ellipsis yt-spec-button-shape-next--enable-backdrop-filter-experiment'>구독 />
+	구독
+	[49] (314,482)<yt-touch-feedback-shape  />
+		[50] (314,482)<div  />
+[51] (141,557)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[52] (141,557)<div >홈 />
+[53] (210,557)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[54] (210,557)<div >동영상 />
+[55] (284,557)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[56] (284,557)<div >팟캐스트 />
+[57] (363,557)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[58] (363,557)<div >재생목록 />
+[59] (437,557)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[60] (437,557)<div >게시물 />
+[61] (577,557)<yt-tab-shape  />
+	[62] (502,557)<button aria-label='검색' class='style-scope yt-icon-button' id='button' />
+		[63] (502,557)<yt-icon  />
+[64] (738,639)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/watch?v=Mh1jBB4Uq7A'>2026년 폭등할 '제2의 엔비디아' 찾았다! 지금 안 사면 평생 후회합니다 (3천조 시장 독점) />
+조회수 394,783회
+2개월 전
+🚀 [AI 2막] 시리즈 한 번에 몰아보기 (재생목록)
+▶
+[65] (681,765)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/playlist?list=PLnGd94go5-8t4R66YLtxCqxzZmbdK8erB'>https://www.youtube.com/playlist?list... />
+👇 놓친 핵심 퍼즐 줍기 (관련 영상)
+1편(피지컬 AI):
+[66] (728,849)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/watch?v=Mh1jBB4Uq7A'>https://youtu.be/Mh1jBB4Uq7A />
+(현재 영상)
+2편(에너지 인프라):
+[67] (755,877)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/watch?v=Sm0sMcg3VXE'>https://youtu.be/Sm0sMcg3VXE />
+3편(우주/통신):
+[68] (727,905)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/watch?v=LW848lT_qqE'>https://youtu.be/LW848lT_qqE />
+4편(지능의 지배자):
+https://youtu.be/OXWgsUv4yeo
+5편(AI 투자 바이블):
+https://youtu.be/1SnBhUDRDa4
+[69] (585,933)<tp-yt-paper-button class='style-scope ytd-expander' id='more' role='button' />
+	[70] (585,934)<yt-formatted-string  />
+		[71] (585,935)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/watch?v=Mh1jBB4Uq7A'>자세히 알아보기 />
+
+</current_dom>

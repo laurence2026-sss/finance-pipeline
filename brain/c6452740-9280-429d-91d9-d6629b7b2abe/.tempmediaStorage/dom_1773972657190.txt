@@ -1,0 +1,85 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+1:46
+[0] (319,121)<a class='zReHs' href='https://www.instagram.com/reel/DV8c0axoAR0/' />
+	[1] (319,147)<h3 >Barebone - AI Investment Agents | The next trillion dollar AI ... />
+	[2] (203,100)<div  />
+		[3] (203,100)<div  />
+			[4] (151,100)<span  />
+				[5] (151,100)<div  />
+					[6] (151,100)<img  />
+			[7] (216,100)<div  />
+				Instagram · barebone.ai
+				[8] (216,114)<div  />
+					[9] (214,114)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 2.6천개 이상  ·  3일 전 />
+[10] (278,112)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[11] (278,112)<span  />
+		[12] (278,114)<span  />
+[13] (197,238)<a aria-label='Barebone - AI Investment Agents님이 Instagram에 게시한 Barebone - AI Investment Agents | The next trillion dollar AI .... Instagram에서 재생. 1:19' class='rIRoqf' href='https://www.instagram.com/reel/DV8c0axoAR0/' />
+	[14] (190,240)<div  />
+		[15] (190,240)<div  />
+			[16] (190,240)<div  />
+				[17] (160,273)<div  />
+					[18] (160,273)<span >1:19 />
+2515 likes, 1320 comments -
+barebone.ai
+on March 16, 2026: "The next trillion dollar AI wave will satisfy those who prepared Most ...
+[19] (318,386)<a class='zReHs' href='https://www.instagram.com/reel/DV_BqROj9kL/' />
+	[20] (318,412)<h3 >Barebone - AI Investment Agents | Photonics: the usage of ... />
+	[21] (203,364)<div  />
+		[22] (203,364)<div  />
+			[23] (151,364)<span  />
+				[24] (151,364)<div  />
+					[25] (151,364)<img  />
+			[26] (216,364)<div  />
+				[27] (216,352)<div  />
+					[28] (216,352)<span >Instagram · barebone.ai />
+				[29] (216,378)<div  />
+					[30] (212,378)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 740개 이상  ·  2일 전 />
+[31] (278,377)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[32] (278,377)<span  />
+		[33] (278,378)<span  />
+[34] (197,502)<a aria-label='Barebone - AI Investment Agents님이 Instagram에 게시한 Barebone - AI Investment Agents | Photonics: the usage of .... Instagram에서 재생. 1:56' class='rIRoqf' href='https://www.instagram.com/reel/DV_BqROj9kL/' />
+	[35] (190,505)<div  />
+		[36] (190,505)<div  />
+			[37] (190,505)<div  />
+				[38] (160,537)<div  />
+					[39] (160,537)<span >1:56 />
+740 likes, 451 comments -
+barebone.ai
+on March 17, 2026: "Photonics: the usage of light to move data across data centers.
+누락된 검색어:
+reels
+‎| 필수 포함 항목:
+[40] (297,587)<a href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n7ZX1dpF8w4MbHFc8awmFO5fQbhGA:1773972649973&q=site:instagram.com+%22barebone.ai%22+%22reels%22&sa=X&ved=2ahUKEwiCh5KNs62TAxVldvUHHQZkCSwQ5t4CegQICBAR' />
+	[41] (297,587)<span >reels />
+[42] (316,691)<a class='zReHs' href='https://www.instagram.com/reel/DVGMQYRjKRk/' />
+	[43] (316,717)<h3 >Barebone - AI Investment Agents | 🇰🇷 The world is running ... />
+	[44] (203,670)<div  />
+		[45] (203,670)<div  />
+			[46] (151,670)<span  />
+				[47] (151,670)<div  />
+					[48] (151,670)<img  />
+			[49] (216,670)<div  />
+				[50] (216,658)<div  />
+					[51] (216,658)<span >Instagram · barebone.ai />
+				[52] (216,684)<div  />
+					[53] (212,684)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 960개 이상  ·  3주 전 />
+[54] (278,682)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[55] (278,682)<span  />
+		[56] (278,684)<span  />
+[57] (197,808)<a aria-label='Barebone - AI Investment Agents님이 Instagram에 게시한 Barebone - AI Investment Agents | 🇰🇷 The world is running .... Instagram에서 재생. 1:24' class='rIRoqf' href='https://www.instagram.com/reel/DVGMQYRjKRk/' />
+	[58] (190,810)<div  />
+		[59] (190,810)<div  />
+			[60] (190,810)<div  />
+				[61] (160,842)<div  />
+					[62] (160,842)<span >1:24 />
+963 likes, 12 comments -
+barebone.ai
+on February 23, 2026: "     The world is running out of memory chips. Two Korean companies make almost ...
+짧은 동영상
+[63] (354,1160)<div class='RyIFgf' scrollable='true' />
+
+</current_dom>

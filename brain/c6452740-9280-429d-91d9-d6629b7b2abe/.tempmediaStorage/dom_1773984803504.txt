@@ -1,0 +1,251 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (34,39)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (34,39)<yt-icon  />
+		[2] (34,39)<span  />
+			[3] (34,39)<div  />
+[4] (112,39)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (112,39)<div  />
+		[6] (112,38)<ytd-logo  />
+			[7] (112,39)<yt-icon  />
+				[8] (113,39)<span  />
+					[9] (113,39)<div  />
+KR
+[10] (445,39)<div  />
+	[11] (436,39)<form  />
+		[12] (436,39)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (622,39)<div  />
+		[14] (622,39)<ytd-text-input-assistant  />
+			[15] (622,39)<button class='ytdTextInputAssistantButton' />
+				[16] (622,39)<img  />
+[17] (671,39)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (671,39)<span  />
+		[19] (671,39)<span  />
+			[20] (671,39)<div  />
+[21] (736,39)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (736,39)<yt-touch-feedback-shape  />
+		[23] (736,39)<div  />
+[24] (814,39)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[25] (814,39)<yt-touch-feedback-shape  />
+		[26] (814,39)<div  />
+[27] (886,39)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (886,38)<yt-icon-badge-shape  />
+		[29] (886,39)<div  />
+			[30] (886,39)<div  />
+				[31] (886,39)<span  />
+					[32] (886,39)<span  />
+						[33] (886,39)<div  />
+[34] (942,39)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[35] (942,39)<yt-img-shadow  />
+		[36] (942,39)<img  />
+[37] (34,136)<a aria-label='홈' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='홈' />
+	[38] (34,123)<yt-icon  />
+		[39] (34,123)<span  />
+			[40] (34,123)<div  />
+	[41] (34,158)<span >홈 />
+[42] (34,239)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[43] (34,227)<yt-icon  />
+		[44] (34,227)<span  />
+			[45] (34,227)<div  />
+	[46] (34,262)<span >Shorts />
+[47] (34,343)<a aria-label='구독' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='구독' />
+	[48] (34,331)<yt-icon  />
+		[49] (34,331)<span  />
+			[50] (34,331)<div  />
+	[51] (34,366)<span >구독 />
+[52] (34,447)<a aria-label='내 페이지' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='내 페이지' />
+	[53] (34,434)<yt-icon  />
+		[54] (34,434)<span  />
+			[55] (34,434)<div  />
+	[56] (34,469)<span >내 페이지 />
+12:15
+[57] (247,200)<div  />
+	[58] (247,200)<div  />
+		[59] (236,192)<h3  />
+			[60] (236,192)<a aria-label='[이란 전쟁] "V자 반등에 속지 마십시오" 세력이 조용히 갈아탄 4대 방공호 & 절대 생존 3원칙 12분 15초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=ywIwo-SQzrE' id='video-title-link' title='[이란 전쟁] "V자 반등에 속지 마십시오" 세력이 조용히 갈아탄 4대 방공호 & 절대 생존 3원칙' />
+				[61] (236,192)<yt-formatted-string >[이란 전쟁] "V자 반등에 속지 마십시오" 세력이 조용히 갈아탄 4대 방공호 & 절대 생존 3원칙 />
+		[62] (236,241)<ytd-video-meta-block  />
+			[63] (236,241)<div  />
+				[64] (236,241)<div  />
+					[65] (154,241)<span >조회수 2.8만회 />
+					[66] (211,241)<span >2주 전 />
+	[67] (368,181)<ytd-menu-renderer  />
+		[68] (368,181)<yt-icon-button  />
+			[69] (368,181)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[70] (368,181)<yt-icon  />
+					[71] (368,181)<span  />
+						[72] (368,181)<div  />
+8:30
+[73] (520,200)<div  />
+	[74] (520,200)<div  />
+		[75] (508,192)<h3  />
+			[76] (508,192)<a aria-label='[이란 전쟁] 미국은 버텼는데 한국장만 피바다 된 진짜 이유. "이 4가지 신호 뜨면 당장 도망치세요." 8분 30초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=g62xaptw80Q' id='video-title-link' title='[이란 전쟁] 미국은 버텼는데 한국장만 피바다 된 진짜 이유. "이 4가지 신호 뜨면 당장 도망치세요."' />
+				[77] (508,192)<yt-formatted-string >[이란 전쟁] 미국은 버텼는데 한국장만 피바다 된 진짜 이유. "이 4가지 신호 뜨면 당장 도망치세요." />
+		[78] (508,241)<ytd-video-meta-block  />
+			[79] (508,241)<div  />
+				[80] (508,241)<div  />
+					[81] (427,241)<span >조회수 5.3만회 />
+					[82] (483,241)<span >2주 전 />
+	[83] (641,181)<ytd-menu-renderer  />
+		[84] (641,181)<yt-icon-button  />
+			[85] (641,181)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[86] (641,181)<yt-icon  />
+					[87] (641,181)<span  />
+						[88] (641,181)<div  />
+9:23
+[89] (792,200)<div  />
+	[90] (792,200)<div  />
+		[91] (781,192)<h3  />
+			[92] (781,192)<a aria-label='이란 하메네이 사망, 호르무즈 사실상 봉쇄! '전쟁 폭락장' 내 주식 어떻게 대응할까? 9분 23초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=L3mQSwvKXAs' id='video-title-link' title='이란 하메네이 사망, 호르무즈 사실상 봉쇄! '전쟁 폭락장' 내 주식 어떻게 대응할까?' />
+				[93] (781,192)<yt-formatted-string >이란 하메네이 사망, 호르무즈 사실상 봉쇄! '전쟁 폭락장' 내 주식 어떻게 대응할까? />
+		[94] (781,241)<ytd-video-meta-block  />
+			[95] (781,241)<div  />
+				[96] (781,241)<div  />
+					[97] (699,241)<span >조회수 9.9만회 />
+					[98] (756,241)<span >2주 전 />
+	[99] (913,181)<ytd-menu-renderer  />
+		[100] (913,181)<yt-icon-button  />
+			[101] (913,181)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[102] (913,181)<yt-icon  />
+					[103] (913,181)<span  />
+						[104] (913,181)<div  />
+[105] (247,404)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=Hc0Gk6kkUzM' id='thumbnail' />
+	[106] (247,505)<yt-image  />
+		[107] (247,404)<img  />
+	[108] (348,485)<ytd-thumbnail-overlay-time-status-renderer  />
+		[109] (350,485)<div  />
+			[110] (350,485)<badge-shape aria-label='17분 3초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[111] (350,485)<div >17:03 />
+[112] (247,564)<div  />
+	[113] (247,564)<div  />
+		[114] (236,555)<h3  />
+			[115] (236,555)<a aria-label='"베조스와 올트먼이 베팅한 3000조 역노화 시장, '제2의 엔비디아'는 이 기업입니다." 17분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=Hc0Gk6kkUzM' id='video-title-link' title='"베조스와 올트먼이 베팅한 3000조 역노화 시장, '제2의 엔비디아'는 이 기업입니다."' />
+				[116] (236,555)<yt-formatted-string >"베조스와 올트먼이 베팅한 3000조 역노화 시장, '제2의 엔비디아'는 이 기업입니다." />
+		[117] (236,604)<ytd-video-meta-block  />
+			[118] (236,604)<div  />
+				[119] (236,604)<div  />
+					[120] (154,604)<span >조회수 3.4만회 />
+					[121] (211,604)<span >3주 전 />
+	[122] (368,544)<ytd-menu-renderer  />
+		[123] (368,544)<yt-icon-button  />
+			[124] (368,544)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[125] (368,544)<yt-icon  />
+					[126] (368,544)<span  />
+						[127] (368,544)<div  />
+[128] (520,404)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=P8oCgEZxG-0' id='thumbnail' />
+	[129] (520,505)<yt-image  />
+		[130] (520,404)<img  />
+	[131] (620,485)<ytd-thumbnail-overlay-time-status-renderer  />
+		[132] (622,485)<div  />
+			[133] (622,485)<badge-shape aria-label='10분 27초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[134] (622,485)<div >10:27 />
+[135] (520,564)<div  />
+	[136] (520,564)<div  />
+		[137] (508,555)<h3  />
+			[138] (508,555)<a aria-label='트럼프 상호관세 위법 판결의 함정! 개미들 환호할 때 터질 '진짜 카드'와 3가지 대피 신호 10분 27초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=P8oCgEZxG-0' id='video-title-link' title='트럼프 상호관세 위법 판결의 함정! 개미들 환호할 때 터질 '진짜 카드'와 3가지 대피 신호' />
+				[139] (508,555)<yt-formatted-string >트럼프 상호관세 위법 판결의 함정! 개미들 환호할 때 터질 '진짜 카드'와 3가지 대피 신호 />
+		[140] (508,604)<ytd-video-meta-block  />
+			[141] (508,604)<div  />
+				[142] (508,604)<div  />
+					[143] (427,604)<span >조회수 2.1만회 />
+					[144] (483,604)<span >3주 전 />
+	[145] (641,544)<ytd-menu-renderer  />
+		[146] (641,544)<yt-icon-button  />
+			[147] (641,544)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[148] (641,544)<yt-icon  />
+					[149] (641,544)<span  />
+						[150] (641,544)<div  />
+[151] (792,404)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=Z1uCybZxy0U&pp=0gcJCcUKAYcqIYzv' id='thumbnail' />
+	[152] (792,505)<yt-image  />
+		[153] (792,404)<img  />
+	[154] (893,485)<ytd-thumbnail-overlay-time-status-renderer  />
+		[155] (895,485)<div  />
+			[156] (895,485)<badge-shape aria-label='13분 20초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[157] (895,485)<div >13:20 />
+[158] (792,564)<div  />
+	[159] (792,564)<div  />
+		[160] (781,555)<h3  />
+			[161] (781,555)<a aria-label='코스피 5,500 폭등의 비밀과 폭락의 조건. "이 4가지 신호" 뜨면 뒤도 보지 말고 떠나세요. 13분 20초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=Z1uCybZxy0U&pp=0gcJCcUKAYcqIYzv' id='video-title-link' title='코스피 5,500 폭등의 비밀과 폭락의 조건. "이 4가지 신호" 뜨면 뒤도 보지 말고 떠나세요.' />
+				[162] (781,555)<yt-formatted-string >코스피 5,500 폭등의 비밀과 폭락의 조건. "이 4가지 신호" 뜨면 뒤도 보지 말고 떠나세요. />
+		[163] (781,604)<ytd-video-meta-block  />
+			[164] (781,604)<div  />
+				[165] (781,604)<div  />
+					[166] (699,604)<span >조회수 3.9만회 />
+					[167] (761,604)<span >1개월 전 />
+	[168] (913,544)<ytd-menu-renderer  />
+		[169] (913,544)<yt-icon-button  />
+			[170] (913,544)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[171] (913,544)<yt-icon  />
+					[172] (913,544)<span  />
+						[173] (913,544)<div  />
+[174] (247,768)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=lzdI0CxqkkA' id='thumbnail' />
+	[175] (247,869)<yt-image  />
+		[176] (247,768)<img  />
+	[177] (348,849)<ytd-thumbnail-overlay-time-status-renderer  />
+		[178] (350,849)<div  />
+			[179] (350,849)<badge-shape aria-label='42분 33초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[180] (350,849)<div >42:33 />
+[181] (247,927)<div  />
+	[182] (247,927)<div  />
+		[183] (236,919)<h3  />
+			[184] (236,919)<a aria-label='"엔비디아 놓쳤다면 무조건 보세요. 2026년 AI 부의 기회, 이 영상 하나로 종결합니다 (통합본)" 42분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=lzdI0CxqkkA' id='video-title-link' title='"엔비디아 놓쳤다면 무조건 보세요. 2026년 AI 부의 기회, 이 영상 하나로 종결합니다 (통합본)"' />
+				[185] (236,919)<yt-formatted-string >"엔비디아 놓쳤다면 무조건 보세요. 2026년 AI 부의 기회, 이 영상 하나로 종결합니다 (통합본)" />
+		[186] (236,968)<ytd-video-meta-block  />
+			[187] (236,968)<div  />
+				[188] (236,968)<div  />
+					[189] (154,968)<span >조회수 4.1만회 />
+					[190] (216,968)<span >1개월 전 />
+	[191] (368,907)<ytd-menu-renderer  />
+		[192] (368,907)<yt-icon-button  />
+			[193] (368,907)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[194] (368,907)<yt-icon  />
+					[195] (368,907)<span  />
+						[196] (368,907)<div  />
+[197] (520,768)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=pwPIcMkZn1E&pp=0gcJCcUKAYcqIYzv' id='thumbnail' />
+	[198] (520,869)<yt-image  />
+		[199] (520,768)<img  />
+	[200] (620,849)<ytd-thumbnail-overlay-time-status-renderer  />
+		[201] (622,849)<div  />
+			[202] (622,849)<badge-shape aria-label='10분 57초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[203] (622,849)<div >10:57 />
+[204] (520,927)<div  />
+	[205] (520,927)<div  />
+		[206] (508,919)<h3  />
+			[207] (508,919)<a aria-label='치매를 해결한 유일한 '배송 기업' 찾았습니다. 1,000조 시장의 '통행세'를 독점할 기업 10분 57초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=pwPIcMkZn1E&pp=0gcJCcUKAYcqIYzv' id='video-title-link' title='치매를 해결한 유일한 '배송 기업' 찾았습니다. 1,000조 시장의 '통행세'를 독점할 기업' />
+				[208] (508,919)<yt-formatted-string >치매를 해결한 유일한 '배송 기업' 찾았습니다. 1,000조 시장의 '통행세'를 독점할 기업 />
+		조회수 2.7만회
+		1개월 전
+	[209] (641,907)<ytd-menu-renderer  />
+		[210] (641,907)<yt-icon-button  />
+			[211] (641,907)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[212] (641,907)<yt-icon  />
+					[213] (641,907)<span  />
+						[214] (641,907)<div  />
+[215] (792,768)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=DOPiY6zsR0M' id='thumbnail' />
+	[216] (792,869)<yt-image  />
+		[217] (792,768)<img  />
+	[218] (893,849)<ytd-thumbnail-overlay-time-status-renderer  />
+		[219] (895,849)<div  />
+			[220] (895,849)<badge-shape aria-label='13분 1초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[221] (895,849)<div >13:01 />
+[222] (792,927)<div  />
+	[223] (792,927)<div  />
+		[224] (781,919)<h3  />
+			[225] (781,919)<a aria-label='“엔비디아 다음, M7의 마지막 주인은 여깁니다” 넷플릭스보다 무서운 ‘바이오 구독’ 13분 1초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=DOPiY6zsR0M' id='video-title-link' title='“엔비디아 다음, M7의 마지막 주인은 여깁니다” 넷플릭스보다 무서운 ‘바이오 구독’' />
+				[226] (781,919)<yt-formatted-string >“엔비디아 다음, M7의 마지막 주인은 여깁니다” 넷플릭스보다 무서운 ‘바이오 구독’ />
+		[227] (781,968)<ytd-video-meta-block  />
+			[228] (781,968)<div  />
+				[229] (781,968)<div  />
+					[230] (694,968)<span >조회수 7만회 />
+					[231] (752,968)<span >1개월 전 />
+	[232] (913,907)<ytd-menu-renderer  />
+		[233] (913,907)<yt-icon-button  />
+			[234] (913,907)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[235] (913,907)<yt-icon  />
+					[236] (913,907)<span  />
+						[237] (913,907)<div  />
+
+</current_dom>

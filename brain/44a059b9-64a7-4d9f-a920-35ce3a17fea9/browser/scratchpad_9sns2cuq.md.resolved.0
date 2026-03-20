@@ -1,0 +1,11 @@
+# Instagram Login Check Task
+
+## Plan
+1. [ ] Navigate to `https://www.instagram.com`.
+2. [ ] Check if the user is already logged in or if the login screen is displayed.
+3. [ ] Take a screenshot and capture the state.
+4. [ ] Report findings to the user.
+5. [ ] Finish the task.
+
+## Progress
+- [ ] Task started.

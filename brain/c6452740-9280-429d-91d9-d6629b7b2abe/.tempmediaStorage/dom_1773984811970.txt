@@ -1,0 +1,214 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (34,39)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (34,39)<yt-icon  />
+		[2] (34,39)<span  />
+			[3] (34,39)<div  />
+[4] (112,39)<a aria-label='YouTube 홈' class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/?bp=wgUCEAE%3D' id='logo' title='케이팝 팬 커뮤니티를 만나 보세요' />
+	[5] (112,39)<ytd-yoodle-renderer  />
+		[6] (112,39)<picture  />
+			[7] (112,38)<img  />
+[8] (445,39)<div  />
+	[9] (436,39)<form  />
+		[10] (436,39)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[11] (622,39)<div  />
+		[12] (622,39)<ytd-text-input-assistant  />
+			[13] (622,39)<button class='ytdTextInputAssistantButton' />
+				[14] (622,39)<img  />
+[15] (671,39)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[16] (671,39)<span  />
+		[17] (671,39)<span  />
+			[18] (671,39)<div  />
+[19] (736,39)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[20] (736,39)<yt-touch-feedback-shape  />
+		[21] (736,39)<div  />
+[22] (814,39)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[23] (814,39)<yt-touch-feedback-shape  />
+		[24] (814,39)<div  />
+[25] (886,39)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[26] (886,38)<yt-icon-badge-shape  />
+		[27] (886,39)<div  />
+			[28] (886,39)<div  />
+				[29] (886,39)<span  />
+					[30] (886,39)<span  />
+						[31] (886,39)<div  />
+[32] (942,39)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[33] (942,39)<yt-img-shadow  />
+		[34] (942,39)<img  />
+[35] (34,136)<a aria-label='홈' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='홈' />
+	[36] (34,123)<yt-icon  />
+		[37] (34,123)<span  />
+			[38] (34,123)<div  />
+	[39] (34,158)<span >홈 />
+[40] (34,239)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[41] (34,227)<yt-icon  />
+		[42] (34,227)<span  />
+			[43] (34,227)<div  />
+	[44] (34,262)<span >Shorts />
+[45] (34,343)<a aria-label='구독' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='구독' />
+	[46] (34,331)<yt-icon  />
+		[47] (34,331)<span  />
+			[48] (34,331)<div  />
+	[49] (34,366)<span >구독 />
+[50] (34,447)<a aria-label='내 페이지' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='내 페이지' />
+	[51] (34,434)<yt-icon  />
+		[52] (34,434)<span  />
+			[53] (34,434)<div  />
+	[54] (34,469)<span >내 페이지 />
+[55] (115,118)<button class='ytChipShapeButtonReset' role='tab' />
+	[56] (115,118)<div >전체 />
+		전체
+		[57] (115,118)<yt-touch-feedback-shape  />
+			[58] (115,118)<div  />
+[59] (174,118)<button class='ytChipShapeButtonReset' role='tab' />
+	[60] (174,118)<div >게임 />
+		게임
+		[61] (174,118)<yt-touch-feedback-shape  />
+			[62] (174,118)<div  />
+[63] (233,118)<button class='ytChipShapeButtonReset' role='tab' />
+	[64] (233,118)<div >음악 />
+		음악
+		[65] (233,118)<yt-touch-feedback-shape  />
+			[66] (233,118)<div  />
+[67] (292,118)<button class='ytChipShapeButtonReset' role='tab' />
+	[68] (292,118)<div >뉴스 />
+		뉴스
+		[69] (292,118)<yt-touch-feedback-shape  />
+			[70] (292,118)<div  />
+[71] (351,118)<button class='ytChipShapeButtonReset' role='tab' />
+	[72] (351,118)<div >믹스 />
+		믹스
+		[73] (351,118)<yt-touch-feedback-shape  />
+			[74] (351,118)<div  />
+[75] (423,118)<button class='ytChipShapeButtonReset' role='tab' />
+	[76] (423,118)<div >팟캐스트 />
+		팟캐스트
+		[77] (423,118)<yt-touch-feedback-shape  />
+			[78] (423,118)<div  />
+[79] (500,118)<button class='ytChipShapeButtonReset' role='tab' />
+	[80] (500,118)<div >라이브 />
+		라이브
+		[81] (500,118)<yt-touch-feedback-shape  />
+			[82] (500,118)<div  />
+[83] (565,118)<button class='ytChipShapeButtonReset' role='tab' />
+	[84] (565,118)<div >힙합 />
+		힙합
+		[85] (565,118)<yt-touch-feedback-shape  />
+			[86] (565,118)<div  />
+[87] (649,118)<button class='ytChipShapeButtonReset' role='tab' />
+	[88] (649,118)<div >마인크래프트 />
+		마인크래프트
+		[89] (649,118)<yt-touch-feedback-shape  />
+			[90] (649,118)<div  />
+[91] (732,118)<button class='ytChipShapeButtonReset' role='tab' />
+	[92] (732,118)<div >수학 />
+		수학
+		[93] (732,118)<yt-touch-feedback-shape  />
+			[94] (732,118)<div  />
+[95] (805,118)<button class='ytChipShapeButtonReset' role='tab' />
+	[96] (805,118)<div >만화 영화 />
+		만화 영화
+		[97] (805,118)<yt-touch-feedback-shape  />
+			[98] (805,118)<div  />
+[99] (878,118)<button class='ytChipShapeButtonReset' role='tab' />
+	[100] (878,118)<div >축구 />
+		축구
+		[101] (878,118)<yt-touch-feedback-shape  />
+			[102] (878,118)<div  />
+최근에 업로드된 동영상
+[103] (959,118)<button aria-label='다음' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[104] (959,118)<yt-touch-feedback-shape  />
+		[105] (959,118)<div  />
+[106] (306,641)<div  />
+	[107] (306,608)<feed-ad-metadata-view-model  />
+		[108] (109,608)<div  />
+			[109] (109,585)<ad-avatar-view-model  />
+				[110] (109,585)<yt-avatar-shape  />
+					[111] (109,585)<div aria-label='Google' class='yt-spec-avatar-shape yt-spec-avatar-shape__button yt-spec-avatar-shape__button--button-medium yt-spec-avatar-shape__button--tappable' role='button' />
+						[112] (109,585)<div  />
+							[113] (109,585)<div  />
+								[114] (109,585)<img  />
+		[115] (329,608)<div  />
+			[116] (317,591)<div  />
+				[117] (316,590)<span  />
+					[118] (316,590)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+						[119] (316,590)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CT4sCIty8aejJMYO5r7wPu8OMgQaD55X5hQGjwMCmvxVkEAEgAGCb2-iEoCmCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB9OmL_gKoAwTIAwqqBNcBT9CxUqnW17q7K3yyQQBjQVGaPGAPeyys5PYxb8E6d4SWgLS8r3kxVvRo-dI0dfyyY6Hzn8Y50OZFM707wKxFWOk0cOxh7cMnTXf7OnHC7PIMGrIJFn_lGwM_FQU5ufISL37QPp3CdmiKWGVcRxTK_TH8ULoL5WJ8KshzwX-FHz1V2-tm09BH47yXB3rLrGAr8xZntP3UMgsGqeYoccD030SOeqNCXK8nOvDimFg5PpsLt5sbt0I_h7_uVubdAIdCWOoVArleCevJUTvr76YjECmTAYhUNgaIBeKipP5WkgUKCBNoAXibg5GCAaAGoQGAB_SV9IEBiAcBkAcCqAfywLECqAfytLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAeBw7ECqAf4v7ECqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAed17ECqAf0mbECqAf4v7ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKoB8LIsQKSCAtqYk9nekxZYURYTagIAbAIDNIINwiAwIDABBACGFoyCIGGgI6AgIAIOhGK0ICAgIAEgMCAgIDAgIACKkjZoNI1UBRYkNGIsOCtkwOaCRlodHRwczovL29uZS5nb29nbGUuY29tL2FpsQlw6AAwKWu7v8gJF8gJjwHICcIBugtiCAIQBRgEIAcoATAZQAFIAFABWGRgAGgAcAGIAQCYAQGiASwKIQgBIAEoATAB2rgEFTITOhEKDygwSL7F2q6-DJgZAbggAdABAagCBcACAtgBBoACAYgCBboDB3ZpdHBlcmLQCxLgCwGiDFQgASoKCgjW2rEC6MKxAkgBYhAKDmNvbS5nb29nbGUub25laisKKWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnN1YnNjcmlwdGlvbnMucmVkeAGIAQHSDAQIARAB2gwmCgsQoPmtlKTh_vj8ARICAQMaDRjioqT-ViCok9eQxgVAAUoCEB-aDQESqg0CS1LIDQHSDfcFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvc2VhcmNoYWRzL2xpbmsvY2xpY2s_bGlkPTU4NzAwMDA4OTg2OTA4NzcxJmRzX2FfY2lkPTI3MjkwODY5OSZkc19hX2NhaWQ9MjMzNTAyODQ2NDImZHNfYV9hZ2lkPTE5MDYyNDE1NjA3MiZkc19hX2ZpaWQ9JmRzX2FfbGlkPSZkc19hX2V4dGlkPSYmZHNfZV9hZGlkPTgwMDI4MDgxMzU5OSZkc19lX21hdGNodHlwZT0mZHNfZV9kZXZpY2U9YyZkc19lX25ldHdvcms9JiZkc191cmxfdj0yJmRzX2Rlc3RfdXJsPWh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9ONTI5NS41MDg3ODEzREVNQU5ER0VOL0IzNDcxMjg3My40NDIwNzA1MDA7ZGNfdHJrX2FpZD02MzU2Njg4OTk7ZGNfdHJrX2NpZD0yNDY0ODQyODM7ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07Z2Rwcj0ke0dEUFJ9O2dkcHJfY29uc2VudD0ke0dEUFJfQ09OU0VOVF83NTV9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTs_aHR0cHM6Ly9vbmUuZ29vZ2xlLmNvbS9haT91dG1fc291cmNlPWcxJnV0bV9tZWRpdW09cGFpZF9tZWRpYSZ1dG1fY2FtcGFpZ249ZGdfYWlwbGFucyZzYz1FZ1FJQVJBQiZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjMzNTAyODQ2NDImd2JyYWlkPUNrVUtDUWp3dmU3TkJoRDRBUkkwQVA2ZkJQMFZiRFd1T3J2NTdrZ1p4M19OQ2h5QmJjQnI4SUxiWVJqQVJVRlhXWlJNSUpDYTZJNVRXNlM1VjhFcVBuSWVkUm9DcmFNuBP___________8BiBQEsBQCwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBuhcKEAEoADABOAFIAdAYAfAYAYAZA8IZAggB&ase=2&gclid=Cj0KCQjwve7NBhC-ARIsALZy9HUbvgXQ2Vlg-lbxFlv5j8gvsq39WQoxc2RG3eAK3m0raLOpp67J3eYaAisVEALw_wcB&num=1&cid=CAESpAHg9gHUdvRHDknoJ8sBm1CCgPpyWcQn6BJZVs-XpQwWXACRwLFRxZPOEBRLo5hGQ_qbvgbcD-0sMYbDJLNjMBh7qG0QNB3GW1yvlXb7bApBaKjm4Sy2B4mzlEWqqkorWNtDzIdtQwdZNesHQeBWelMCHWYQg8N_idFp7SVMexDSM53FyeQzKJM0n84_McEILtC21gLHDg44i0JHZv9gNfec3gCalg&ad_cpn=%5BCPN%5D&sig=AOD64_1zZQ6r7mGkZ1Btbum0X4UReXOhAw&ctype=110&video_id=jbOgzLYaDXM&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>Gemini에서 고품질 동영상을 만들어 보세요. 전문적인 기술 지식이 필요하지 않습니다 />
+			[120] (317,641)<div  />
+				[121] (162,641)<ad-badge-view-model  />
+					[122] (162,641)<badge-shape  />
+						[123] (156,641)<div >스폰서 />
+				[124] (221,641)<ad-details-line-view-model  />
+					[125] (221,641)<span class='yt-core-attributed-string ytwAdDetailsLineViewModelHostTextStyleStandardBrowse yt-core-attributed-string--white-space-pre-wrap' role='text'>Google One />
+		[126] (512,577)<div  />
+			[127] (512,577)<button-view-model  />
+				[128] (512,577)<button aria-label='내 광고 센터' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+					[129] (512,577)<yt-touch-feedback-shape  />
+						[130] (512,577)<div  />
+	[131] (306,689)<lockup-attachments-view-model  />
+		[132] (306,697)<div  />
+			[133] (306,697)<ad-button-group-view-model  />
+				[134] (198,697)<div  />
+					[135] (198,697)<ad-button-view-model  />
+						[136] (198,697)<a aria-label='시청' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='/watch?v=jbOgzLYaDXM' />
+							시청
+							[137] (198,697)<yt-touch-feedback-shape  />
+								[138] (198,697)<div  />
+				[139] (414,697)<div  />
+					[140] (414,697)<ad-button-view-model  />
+						[141] (414,697)<a aria-label='가입' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CT4sCIty8aejJMYO5r7wPu8OMgQaD55X5hQGjwMCmvxVkEAEgAGCb2-iEoCmCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaAB9OmL_gKoAwTIAwqqBNcBT9CxUqnW17q7K3yyQQBjQVGaPGAPeyys5PYxb8E6d4SWgLS8r3kxVvRo-dI0dfyyY6Hzn8Y50OZFM707wKxFWOk0cOxh7cMnTXf7OnHC7PIMGrIJFn_lGwM_FQU5ufISL37QPp3CdmiKWGVcRxTK_TH8ULoL5WJ8KshzwX-FHz1V2-tm09BH47yXB3rLrGAr8xZntP3UMgsGqeYoccD030SOeqNCXK8nOvDimFg5PpsLt5sbt0I_h7_uVubdAIdCWOoVArleCevJUTvr76YjECmTAYhUNgaIBeKipP5WkgUKCBNoAXibg5GCAaAGoQGAB_SV9IEBiAcBkAcCqAfywLECqAfytLECqAe4xLECqAfhtrECqAelz7ECqAfnnbECqAfonbECqAfvtbECqAfwtbECqAf507ECqAfJ2rECqAep4LECqAeECKgHptSxAqgHqNIbqAe2B6gHsdwbqAeBw7ECqAf4v7ECqAewm7ECqAeusbECqAfmvLECqAfKurECqAf9srECqAf3uLECqAf4uLECqAfIz7ECqAfJz7ECqAfNx7ECqAfx0bECqAf81bECqAf71bECqAeM1rECqAeL1rECqAed17ECqAf0mbECqAf4v7ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKoB8LIsQKSCAtqYk9nekxZYURYTagIAbAIDNIINwiAwIDABBACGFoyCIGGgI6AgIAIOhGK0ICAgIAEgMCAgIDAgIACKkjZoNI1UBRYkNGIsOCtkwOaCRlodHRwczovL29uZS5nb29nbGUuY29tL2FpsQlw6AAwKWu7v8gJF8gJjwHICcIBugtiCAIQBRgEIAcoATAZQAFIAFABWGRgAGgAcAGIAQCYAQGiASwKIQgBIAEoATAB2rgEFTITOhEKDygwSL7F2q6-DJgZAbggAdABAagCBcACAtgBBoACAYgCBboDB3ZpdHBlcmLQCxLgCwGiDFQgASoKCgjW2rEC6MKxAkgBYhAKDmNvbS5nb29nbGUub25laisKKWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnN1YnNjcmlwdGlvbnMucmVkeAGIAQHSDAQIARAB2gwmCgsQoPmtlKTh_vj8ARICAQMaDRjioqT-ViCok9eQxgVAAUoCEB-aDQESqg0CS1LIDQHSDfcFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvc2VhcmNoYWRzL2xpbmsvY2xpY2s_bGlkPTU4NzAwMDA4OTg2OTA4NzcxJmRzX2FfY2lkPTI3MjkwODY5OSZkc19hX2NhaWQ9MjMzNTAyODQ2NDImZHNfYV9hZ2lkPTE5MDYyNDE1NjA3MiZkc19hX2ZpaWQ9JmRzX2FfbGlkPSZkc19hX2V4dGlkPSYmZHNfZV9hZGlkPTgwMDI4MDgxMzU5OSZkc19lX21hdGNodHlwZT0mZHNfZV9kZXZpY2U9YyZkc19lX25ldHdvcms9JiZkc191cmxfdj0yJmRzX2Rlc3RfdXJsPWh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9ONTI5NS41MDg3ODEzREVNQU5ER0VOL0IzNDcxMjg3My40NDIwNzA1MDA7ZGNfdHJrX2FpZD02MzU2Njg4OTk7ZGNfdHJrX2NpZD0yNDY0ODQyODM7ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07Z2Rwcj0ke0dEUFJ9O2dkcHJfY29uc2VudD0ke0dEUFJfQ09OU0VOVF83NTV9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTs_aHR0cHM6Ly9vbmUuZ29vZ2xlLmNvbS9haT91dG1fc291cmNlPWcxJnV0bV9tZWRpdW09cGFpZF9tZWRpYSZ1dG1fY2FtcGFpZ249ZGdfYWlwbGFucyZzYz1FZ1FJQVJBQiZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjMzNTAyODQ2NDImd2JyYWlkPUNrVUtDUWp3dmU3TkJoRDRBUkkwQVA2ZkJQMFZiRFd1T3J2NTdrZ1p4M19OQ2h5QmJjQnI4SUxiWVJqQVJVRlhXWlJNSUpDYTZJNVRXNlM1VjhFcVBuSWVkUm9DcmFNuBP___________8BiBQEsBQCwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxYIAxgBIAEoATABOAFAAUgBUAFYAWACoBcBuhcKEAEoADABOAFIAdAYAfAYAYAZA8IZAggB&ase=2&gclid=Cj0KCQjwve7NBhC-ARIsALZy9HUbvgXQ2Vlg-lbxFlv5j8gvsq39WQoxc2RG3eAK3m0raLOpp67J3eYaAisVEALw_wcB&num=1&cid=CAESpAHg9gHUdvRHDknoJ8sBm1CCgPpyWcQn6BJZVs-XpQwWXACRwLFRxZPOEBRLo5hGQ_qbvgbcD-0sMYbDJLNjMBh7qG0QNB3GW1yvlXb7bApBaKjm4Sy2B4mzlEWqqkorWNtDzIdtQwdZNesHQeBWelMCHWYQg8N_idFp7SVMexDSM53FyeQzKJM0n84_McEILtC21gLHDg44i0JHZv9gNfec3gCalg&ad_cpn=%5BCPN%5D&sig=AOD64_1zZQ6r7mGkZ1Btbum0X4UReXOhAw&ctype=110&video_id=jbOgzLYaDXM&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D' />
+							가입
+							[142] (414,697)<yt-touch-feedback-shape  />
+								[143] (414,697)<div  />
+[144] (749,437)<div  />
+	[145] (749,375)<a class='yt-lockup-view-model__content-image' href='/watch?v=RLBgy4wwJEU&pp=0gcJCcUKAYcqIYzv' />
+		[146] (749,367)<yt-thumbnail-view-model  />
+			[147] (749,367)<div  />
+				[148] (749,367)<img  />
+			[149] (749,524)<yt-thumbnail-bottom-overlay-view-model  />
+				[150] (939,524)<div  />
+					[151] (937,518)<yt-thumbnail-badge-view-model  />
+						[152] (937,518)<badge-shape  />
+							[153] (937,518)<div >17:37 />
+	[154] (749,622)<div  />
+		[155] (749,622)<yt-lockup-metadata-view-model  />
+			[156] (552,622)<div  />
+				[157] (552,585)<yt-decorated-avatar-view-model  />
+					[158] (552,585)<yt-avatar-shape  />
+						[159] (552,585)<div aria-label='보물섬 채널로 이동' class='yt-spec-avatar-shape yt-spec-avatar-shape__button yt-spec-avatar-shape__button--button-medium yt-spec-avatar-shape__button--tappable' role='button' />
+							[160] (552,585)<div  />
+								[161] (552,585)<div  />
+									[162] (552,585)<div  />
+			[163] (772,622)<div  />
+				[164] (772,591)<h3  />
+					[165] (772,591)<a aria-label='평생 선비처럼 살던 친구가 갑자기 쌩 양아치가 됐을 때 찐친들 반응 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 17분' class='yt-lockup-metadata-view-model__title' href='/watch?v=RLBgy4wwJEU&pp=0gcJCcUKAYcqIYzv' />
+						[166] (759,590)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>평생 선비처럼 살던 친구가 갑자기 쌩 양아치가 됐을 때 찐친들 반응 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ />
+				[167] (772,653)<div  />
+					[168] (772,654)<yt-content-metadata-view-model  />
+						[169] (772,639)<div  />
+							[170] (608,639)<span  />
+								[171] (608,639)<span  />
+									[172] (608,639)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='/@bomulsum_g'>보물섬 />
+										[173] (626,639)<span  />
+											[174] (628,639)<span  />
+												[175] (628,641)<span class='ytIconWrapperHost yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center' role='img' />
+													[176] (628,641)<span  />
+														[177] (628,641)<div  />
+						[178] (772,669)<div  />
+							[179] (624,669)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>조회수 142만회 />
+							[180] (674,669)<span >• />
+							[181] (697,669)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>5일 전 />
+			[182] (955,577)<div  />
+				[183] (955,577)<button-view-model  />
+					[184] (955,577)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[185] (955,577)<yt-touch-feedback-shape  />
+							[186] (955,577)<div  />
+Shorts
+[187] (944,796)<button aria-label='Shorts 동영상 - 작업 더보기' class='style-scope yt-icon-button' id='button' />
+	[188] (944,796)<yt-icon  />
+		[189] (944,796)<span  />
+			[190] (944,796)<div  />
+
+</current_dom>

@@ -1,0 +1,248 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (35,40)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (35,40)<yt-icon  />
+		[2] (35,40)<span  />
+			[3] (35,40)<div  />
+[4] (113,40)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (113,40)<div  />
+		[6] (113,38)<ytd-logo  />
+			[7] (113,40)<yt-icon  />
+				[8] (114,40)<span  />
+					[9] (114,40)<div  />
+KR
+[10] (445,40)<div  />
+	[11] (436,40)<form  />
+		[12] (436,40)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (620,40)<div  />
+		[14] (620,40)<ytd-text-input-assistant  />
+			[15] (620,40)<button class='ytdTextInputAssistantButton' />
+				[16] (620,40)<img  />
+[17] (669,40)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (669,40)<span  />
+		[19] (669,40)<span  />
+			[20] (669,40)<div  />
+[21] (734,40)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (734,40)<yt-touch-feedback-shape  />
+		[23] (734,40)<div  />
+[24] (813,40)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[25] (813,40)<yt-touch-feedback-shape  />
+		[26] (813,40)<div  />
+[27] (885,40)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (885,38)<yt-icon-badge-shape  />
+		[29] (885,40)<div  />
+			[30] (885,40)<div  />
+				[31] (885,40)<span  />
+					[32] (885,40)<span  />
+						[33] (885,40)<div  />
+			[34] (895,31)<div >1 />
+[35] (941,40)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[36] (941,40)<yt-img-shadow  />
+		[37] (941,40)<img  />
+[38] (35,137)<a aria-label='홈' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='홈' />
+	[39] (35,124)<yt-icon  />
+		[40] (35,124)<span  />
+			[41] (35,124)<div  />
+	[42] (35,160)<span >홈 />
+[43] (35,242)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[44] (35,229)<yt-icon  />
+		[45] (35,229)<span  />
+			[46] (35,229)<div  />
+	[47] (35,264)<span >Shorts />
+[48] (35,346)<a aria-label='구독' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='구독' />
+	[49] (35,333)<yt-icon  />
+		[50] (35,333)<span  />
+			[51] (35,333)<div  />
+	[52] (35,369)<span >구독 />
+[53] (35,451)<a aria-label='내 페이지' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='내 페이지' />
+	[54] (35,438)<yt-icon  />
+		[55] (35,438)<span  />
+			[56] (35,438)<div  />
+	[57] (35,473)<span >내 페이지 />
+[58] (245,188)<yt-image  />
+[59] (350,168)<ytd-thumbnail-overlay-time-status-renderer  />
+	[60] (352,168)<div  />
+		[61] (352,168)<badge-shape aria-label='9분 51초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+			[62] (352,168)<div >9:51 />
+[63] (245,247)<div  />
+	[64] (245,247)<div  />
+		[65] (234,239)<h3  />
+			[66] (234,239)<a aria-label='Gemini 3.1 Pro + Antigravity Destroys Every Site Designer 9분 51초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=czLrUyA_Bh4' id='video-title-link' title='Gemini 3.1 Pro + Antigravity Destroys Every Site Designer' />
+				[67] (234,239)<yt-formatted-string >Gemini 3.1 Pro + Antigravity Destroys Every Site Designer />
+		[68] (234,288)<ytd-video-meta-block  />
+			[69] (234,288)<div  />
+				[70] (234,288)<div  />
+					[71] (150,288)<span >조회수 19만회 />
+					[72] (206,288)<span >2주 전 />
+	[73] (367,227)<ytd-menu-renderer  />
+		[74] (367,227)<yt-icon-button  />
+			[75] (367,227)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[76] (367,227)<yt-icon  />
+					[77] (367,227)<span  />
+						[78] (367,227)<div  />
+[79] (520,188)<yt-image  />
+[80] (616,168)<ytd-thumbnail-overlay-time-status-renderer  />
+	[81] (618,168)<div  />
+		[82] (618,168)<badge-shape aria-label='4시간 10분 43초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+			[83] (618,168)<div >4:10:43 />
+[84] (520,247)<div  />
+	[85] (520,247)<div  />
+		[86] (508,239)<h3  />
+			[87] (508,239)<a aria-label='CLAUDE CODE FULL COURSE 4 HOURS: Build & Sell (2026) 4시간 10분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=QoQBzR1NIqI' id='video-title-link' title='CLAUDE CODE FULL COURSE 4 HOURS: Build & Sell (2026)' />
+				[88] (508,239)<yt-formatted-string >CLAUDE CODE FULL COURSE 4 HOURS: Build & Sell (2026) />
+		[89] (508,288)<ytd-video-meta-block  />
+			[90] (508,288)<div  />
+				[91] (508,288)<div  />
+					[92] (425,288)<span >조회수 54만회 />
+					[93] (480,288)<span >3주 전 />
+	[94] (641,227)<ytd-menu-renderer  />
+		[95] (641,227)<yt-icon-button  />
+			[96] (641,227)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[97] (641,227)<yt-icon  />
+					[98] (641,227)<span  />
+						[99] (641,227)<div  />
+[100] (794,188)<yt-image  />
+[101] (895,168)<ytd-thumbnail-overlay-time-status-renderer  />
+	[102] (897,168)<div  />
+		[103] (897,168)<badge-shape aria-label='11분 22초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+			[104] (897,168)<div >11:22 />
+[105] (794,233)<div  />
+	[106] (783,233)<div  />
+		[107] (771,225)<h3  />
+			[108] (771,225)<a aria-label='Opus-4.6 Just Did Something Crazy 11분 22초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=W6VockLeov4' id='video-title-link' title='Opus-4.6 Just Did Something Crazy' />
+				[109] (771,225)<yt-formatted-string >Opus-4.6 Just Did Something Crazy />
+		[110] (771,260)<ytd-video-meta-block  />
+			[111] (771,260)<div  />
+				[112] (771,260)<div  />
+					[113] (696,260)<span >조회수 3만회 />
+					[114] (753,260)<span >1개월 전 />
+	[115] (916,227)<ytd-menu-renderer  />
+		[116] (916,227)<yt-icon-button  />
+			[117] (916,227)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[118] (916,227)<yt-icon  />
+					[119] (916,227)<span  />
+						[120] (916,227)<div  />
+[121] (245,453)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=Z6bKoFVZG7A' id='thumbnail' />
+	[122] (245,555)<yt-image  />
+		[123] (245,453)<img  />
+	[124] (347,535)<ytd-thumbnail-overlay-time-status-renderer  />
+		[125] (349,535)<div  />
+			[126] (349,535)<badge-shape aria-label='11분 23초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[127] (349,535)<div >11:23 />
+[128] (245,600)<div  />
+	[129] (243,600)<div  />
+		[130] (231,591)<h3  />
+			[131] (231,591)<a aria-label='Advice for working in a post-AGI world 11분 23초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=Z6bKoFVZG7A' id='video-title-link' title='Advice for working in a post-AGI world' />
+				[132] (231,591)<yt-formatted-string >Advice for working in a post-AGI world />
+		[133] (231,626)<ytd-video-meta-block  />
+			[134] (231,626)<div  />
+				[135] (231,626)<div  />
+					[136] (152,626)<span >조회수 1.6만회 />
+					[137] (214,626)<span >1개월 전 />
+	[138] (367,594)<ytd-menu-renderer  />
+		[139] (367,594)<yt-icon-button  />
+			[140] (367,594)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[141] (367,594)<yt-icon  />
+					[142] (367,594)<span  />
+						[143] (367,594)<div  />
+[144] (520,453)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=nTWe3P7hjxs' id='thumbnail' />
+	[145] (520,555)<yt-image  />
+		[146] (520,453)<img  />
+	[147] (621,535)<ytd-thumbnail-overlay-time-status-renderer  />
+		[148] (623,535)<div  />
+			[149] (623,535)<badge-shape aria-label='19분 42초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[150] (623,535)<div >19:42 />
+[151] (520,614)<div  />
+	[152] (520,614)<div  />
+		[153] (508,605)<h3  />
+			[154] (508,605)<a aria-label='US Lost 108K Jobs in Jan 2026, Most Gone Forever (AI) 19분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=nTWe3P7hjxs' id='video-title-link' title='US Lost 108K Jobs in Jan 2026, Most Gone Forever (AI)' />
+				[155] (508,605)<yt-formatted-string >US Lost 108K Jobs in Jan 2026, Most Gone Forever (AI) />
+		[156] (508,655)<ytd-video-meta-block  />
+			[157] (508,655)<div  />
+				[158] (508,655)<div  />
+					[159] (426,655)<span >조회수 2.9만회 />
+					[160] (488,655)<span >1개월 전 />
+	[161] (641,594)<ytd-menu-renderer  />
+		[162] (641,594)<yt-icon-button  />
+			[163] (641,594)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[164] (641,594)<yt-icon  />
+					[165] (641,594)<span  />
+						[166] (641,594)<div  />
+[167] (794,453)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=5rNu19PfgFg' id='thumbnail' />
+	[168] (794,555)<yt-image  />
+		[169] (794,453)<img  />
+	[170] (895,535)<ytd-thumbnail-overlay-time-status-renderer  />
+		[171] (897,535)<div  />
+			[172] (897,535)<badge-shape aria-label='10분 28초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[173] (897,535)<div >10:28 />
+[174] (794,614)<div  />
+	[175] (794,614)<div  />
+		[176] (782,605)<h3  />
+			[177] (782,605)<a aria-label='how to transition from ai automation to agentic workflows 10분 28초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=5rNu19PfgFg' id='video-title-link' title='how to transition from ai automation to agentic workflows' />
+				[178] (782,605)<yt-formatted-string >how to transition from ai automation to agentic workflows />
+		[179] (782,655)<ytd-video-meta-block  />
+			[180] (782,655)<div  />
+				[181] (782,655)<div  />
+					[182] (700,655)<span >조회수 3.6만회 />
+					[183] (763,655)<span >1개월 전 />
+	[184] (916,594)<ytd-menu-renderer  />
+		[185] (916,594)<yt-icon-button  />
+			[186] (916,594)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[187] (916,594)<yt-icon  />
+					[188] (916,594)<span  />
+						[189] (916,594)<div  />
+[190] (245,820)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=4pAt0DP-x50' id='thumbnail' />
+	[191] (245,921)<yt-image  />
+		[192] (245,820)<img  />
+	[193] (347,901)<ytd-thumbnail-overlay-time-status-renderer  />
+		[194] (349,901)<div  />
+			[195] (349,901)<badge-shape aria-label='16분 12초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[196] (349,901)<div >16:12 />
+[197] (245,980)<div  />
+	[198] (245,980)<div  />
+		[199] (234,972)<h3  />
+			[200] (234,972)<a aria-label='how to stay economically valuable from 2026-2029 16분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=4pAt0DP-x50' id='video-title-link' title='how to stay economically valuable from 2026-2029' />
+				[201] (234,972)<yt-formatted-string >how to stay economically valuable from 2026-2029 />
+	[202] (367,960)<ytd-menu-renderer  />
+		[203] (367,960)<yt-icon-button  />
+			[204] (367,960)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[205] (367,960)<yt-icon  />
+					[206] (367,960)<span  />
+						[207] (367,960)<div  />
+[208] (520,820)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=fM5LcS7VeL0' id='thumbnail' />
+	[209] (520,921)<yt-image  />
+		[210] (520,820)<img  />
+	[211] (624,901)<ytd-thumbnail-overlay-time-status-renderer  />
+		[212] (626,901)<div  />
+			[213] (626,901)<badge-shape aria-label='8분 46초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[214] (626,901)<div >8:46 />
+They Tried To Pay Me To Promote This Dumpster Fire
+[215] (641,960)<ytd-menu-renderer  />
+	[216] (641,960)<yt-icon-button  />
+		[217] (641,960)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+			[218] (641,960)<yt-icon  />
+				[219] (641,960)<span  />
+					[220] (641,960)<div  />
+[221] (794,820)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=zbCxi7CjiF0' id='thumbnail' />
+	[222] (794,921)<yt-image  />
+		[223] (794,820)<img  />
+	[224] (895,901)<ytd-thumbnail-overlay-time-status-renderer  />
+		[225] (897,901)<div  />
+			[226] (897,901)<badge-shape aria-label='20분 20초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[227] (897,901)<div >20:20 />
+[228] (794,980)<div  />
+	[229] (794,980)<div  />
+		[230] (782,972)<h3  />
+			[231] (782,972)<a aria-label='"I built Claude Code. Here are my ten hacks" (masterclass) 20분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=zbCxi7CjiF0' id='video-title-link' title='"I built Claude Code. Here are my ten hacks" (masterclass)' />
+				[232] (782,972)<yt-formatted-string >"I built Claude Code. Here are my ten hacks" (masterclass) />
+	[233] (916,960)<ytd-menu-renderer  />
+		[234] (916,960)<yt-icon-button  />
+			[235] (916,960)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[236] (916,960)<yt-icon  />
+					[237] (916,960)<span  />
+						[238] (916,960)<div  />
+
+</current_dom>

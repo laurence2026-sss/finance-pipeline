@@ -1,0 +1,180 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (35,40)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (35,40)<yt-icon  />
+		[2] (35,40)<span  />
+			[3] (35,40)<div  />
+[4] (113,40)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (113,40)<div  />
+		[6] (113,38)<ytd-logo  />
+			[7] (113,40)<yt-icon  />
+				[8] (114,40)<span  />
+					[9] (114,40)<div  />
+KR
+[10] (445,40)<div  />
+	[11] (436,40)<form  />
+		[12] (436,40)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (620,40)<div  />
+		[14] (620,40)<ytd-text-input-assistant  />
+			[15] (620,40)<button class='ytdTextInputAssistantButton' />
+				[16] (620,40)<img  />
+[17] (669,40)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (669,40)<span  />
+		[19] (669,40)<span  />
+			[20] (669,40)<div  />
+[21] (734,40)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (734,40)<yt-touch-feedback-shape  />
+		[23] (734,40)<div  />
+[24] (813,40)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[25] (813,40)<yt-touch-feedback-shape  />
+		[26] (813,40)<div  />
+[27] (885,40)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (885,38)<yt-icon-badge-shape  />
+		[29] (885,40)<div  />
+			[30] (885,40)<div  />
+				[31] (885,40)<span  />
+[32] (941,40)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[33] (941,40)<yt-img-shadow  />
+		[34] (941,40)<img  />
+[35] (35,137)<a aria-label='홈' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='홈' />
+	[36] (35,124)<yt-icon  />
+	[37] (35,160)<span >홈 />
+[38] (35,242)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[39] (35,229)<yt-icon  />
+	[40] (35,264)<span >Shorts />
+[41] (35,346)<a aria-label='구독' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='구독' />
+	[42] (35,333)<yt-icon  />
+	[43] (35,369)<span >구독 />
+[44] (35,451)<a aria-label='내 페이지' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='내 페이지' />
+	[45] (35,438)<yt-icon  />
+	[46] (35,473)<span >내 페이지 />
+37:56
+What is Perplexity Computer?
+[47] (205,141)<ytd-video-meta-block  />
+	[48] (205,141)<div  />
+		[49] (205,141)<div  />
+			[50] (152,141)<span >조회수 7.1만회 />
+			[51] (212,141)<span >10일 전 />
+58:57
+[52] (520,128)<div  />
+	[53] (520,128)<div  />
+		How I Use Obsidian + Claude Code to Run My Life
+		[54] (508,169)<ytd-video-meta-block  />
+			[55] (508,169)<div  />
+				[56] (508,169)<div  />
+					[57] (425,169)<span >조회수 13만회 />
+					[58] (483,169)<span >13일 전 />
+52:04
+Making $$$ with OpenClaw
+[59] (746,141)<ytd-video-meta-block  />
+	[60] (746,141)<div  />
+		[61] (746,141)<div  />
+			[62] (699,141)<span >조회수 15만회 />
+			[63] (754,141)<span >2주 전 />
+[64] (245,334)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=I_wbc5ND79o' id='thumbnail' />
+	[65] (245,436)<yt-image  />
+		[66] (245,334)<img  />
+	[67] (347,416)<ytd-thumbnail-overlay-time-status-renderer  />
+		[68] (349,416)<div  />
+			[69] (349,416)<badge-shape aria-label='55분 41초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[70] (349,416)<div >55:41 />
+[71] (245,495)<div  />
+	[72] (245,495)<div  />
+		[73] (234,487)<h3  />
+			[74] (234,487)<a aria-label='Claude Code built me a $273/Day online directory 55분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=I_wbc5ND79o' id='video-title-link' title='Claude Code built me a $273/Day online directory' />
+				[75] (234,487)<yt-formatted-string >Claude Code built me a $273/Day online directory />
+		[76] (234,536)<ytd-video-meta-block  />
+			[77] (234,536)<div  />
+				[78] (234,536)<div  />
+					[79] (150,536)<span >조회수 12만회 />
+					[80] (206,536)<span >2주 전 />
+[81] (520,334)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=9OnN4O4uapI' id='thumbnail' />
+	[82] (520,436)<yt-image  />
+		[83] (520,334)<img  />
+	[84] (621,416)<ytd-thumbnail-overlay-time-status-renderer  />
+		[85] (623,416)<div  />
+			[86] (623,416)<badge-shape aria-label='54분 12초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[87] (623,416)<div >54:12 />
+[88] (520,495)<div  />
+	[89] (520,495)<div  />
+		[90] (508,487)<h3  />
+			[91] (508,487)<a aria-label='Stop Shipping AI Slop. Design with Weavy AI, Claude etc. 54분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=9OnN4O4uapI' id='video-title-link' title='Stop Shipping AI Slop. Design with Weavy AI, Claude etc.' />
+				[92] (508,487)<yt-formatted-string >Stop Shipping AI Slop. Design with Weavy AI, Claude etc. />
+		[93] (508,536)<ytd-video-meta-block  />
+			[94] (508,536)<div  />
+				[95] (508,536)<div  />
+					[96] (425,536)<span >조회수 11만회 />
+					[97] (480,536)<span >3주 전 />
+[98] (794,334)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=b1mjQIiH7r4' id='thumbnail' />
+	[99] (794,436)<yt-image  />
+		[100] (794,334)<img  />
+	[101] (895,416)<ytd-thumbnail-overlay-time-status-renderer  />
+		[102] (897,416)<div  />
+			[103] (897,416)<badge-shape aria-label='44분 46초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[104] (897,416)<div >44:46 />
+[105] (794,495)<div  />
+	[106] (794,495)<div  />
+		[107] (782,487)<h3  />
+			[108] (782,487)<a aria-label='Claude Code Built My $450K Marketing Campaign 44분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=b1mjQIiH7r4' id='video-title-link' title='Claude Code Built My $450K Marketing Campaign' />
+				[109] (782,487)<yt-formatted-string >Claude Code Built My $450K Marketing Campaign />
+		[110] (782,536)<ytd-video-meta-block  />
+			[111] (782,536)<div  />
+				[112] (782,536)<div  />
+					[113] (700,536)<span >조회수 7.5만회 />
+					[114] (758,536)<span >3주 전 />
+[115] (245,701)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=fVUlrpaWNxg' id='thumbnail' />
+	[116] (245,803)<yt-image  />
+		[117] (245,701)<img  />
+	[118] (347,782)<ytd-thumbnail-overlay-time-status-renderer  />
+		[119] (349,782)<div  />
+			[120] (349,782)<badge-shape aria-label='58분 42초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[121] (349,782)<div >58:42 />
+[122] (245,862)<div  />
+	[123] (245,862)<div  />
+		[124] (234,853)<h3  />
+			[125] (234,853)<a aria-label='AI marketing Masterclass: From beginner to expert in 60 minutes 58분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=fVUlrpaWNxg' id='video-title-link' title='AI marketing Masterclass: From beginner to expert in 60 minutes' />
+				[126] (234,853)<yt-formatted-string >AI marketing Masterclass: From beginner to expert in 60 minutes />
+		[127] (234,902)<ytd-video-meta-block  />
+			[128] (234,902)<div  />
+				[129] (234,902)<div  />
+					[130] (152,902)<span >조회수 6.5만회 />
+					[131] (209,902)<span >3주 전 />
+[132] (520,701)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=gmSnQPzoYHA' id='thumbnail' />
+	[133] (520,803)<yt-image  />
+		[134] (520,701)<img  />
+	[135] (621,782)<ytd-thumbnail-overlay-time-status-renderer  />
+		[136] (623,782)<div  />
+			[137] (623,782)<badge-shape aria-label='48분 55초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[138] (623,782)<div >48:55 />
+[139] (520,847)<div  />
+	[140] (506,847)<div  />
+		[141] (494,839)<h3  />
+			[142] (494,839)<a aria-label='Claude Opus 4.6 vs GPT-5.3 Codex 48분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=gmSnQPzoYHA' id='video-title-link' title='Claude Opus 4.6 vs GPT-5.3 Codex' />
+				[143] (494,839)<yt-formatted-string >Claude Opus 4.6 vs GPT-5.3 Codex />
+		[144] (494,874)<ytd-video-meta-block  />
+			[145] (494,874)<div  />
+				[146] (494,874)<div  />
+					[147] (421,874)<span >조회수 5만회 />
+					[148] (479,874)<span >1개월 전 />
+[149] (794,701)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=71ES9jzqa0Q' id='thumbnail' />
+	[150] (794,803)<yt-image  />
+		[151] (794,701)<img  />
+	[152] (895,782)<ytd-thumbnail-overlay-time-status-renderer  />
+		[153] (897,782)<div  />
+			[154] (897,782)<badge-shape aria-label='25분 22초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[155] (897,782)<div >25:22 />
+[156] (794,862)<div  />
+	[157] (794,862)<div  />
+		[158] (782,853)<h3  />
+			[159] (782,853)<a aria-label='The Claude Code Skill My Smartest Friends Use 25분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=71ES9jzqa0Q' id='video-title-link' title='The Claude Code Skill My Smartest Friends Use' />
+				[160] (782,853)<yt-formatted-string >The Claude Code Skill My Smartest Friends Use />
+		[161] (782,902)<ytd-video-meta-block  />
+			[162] (782,902)<div  />
+				[163] (782,902)<div  />
+					[164] (700,902)<span >조회수 3.4만회 />
+					[165] (763,902)<span >1개월 전 />
+
+</current_dom>

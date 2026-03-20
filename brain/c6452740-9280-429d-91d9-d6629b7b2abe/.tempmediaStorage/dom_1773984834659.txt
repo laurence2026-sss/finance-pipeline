@@ -1,0 +1,87 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (34,39)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (34,39)<yt-icon  />
+[2] (112,39)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[3] (112,39)<div  />
+		[4] (112,38)<ytd-logo  />
+			[5] (112,39)<yt-icon  />
+KR
+[6] (445,39)<div  />
+	[7] (436,39)<form  />
+		[8] (436,39)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[9] (622,39)<div  />
+		[10] (622,39)<ytd-text-input-assistant  />
+			[11] (622,39)<button class='ytdTextInputAssistantButton' />
+				[12] (622,39)<img  />
+[13] (671,39)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[14] (671,39)<span  />
+[15] (736,39)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[16] (736,39)<yt-touch-feedback-shape  />
+		[17] (736,39)<div  />
+[18] (814,39)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[19] (814,39)<yt-touch-feedback-shape  />
+		[20] (814,39)<div  />
+[21] (886,39)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[22] (886,38)<yt-icon-badge-shape  />
+		[23] (886,39)<div  />
+			[24] (886,39)<div  />
+				[25] (886,39)<span  />
+[26] (942,39)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[27] (942,39)<yt-img-shadow  />
+		[28] (942,39)<img  />
+뉴스 2막
+@뉴스2막
+•
+구독자 7.02만명
+•
+동영상 31개
+[29] (573,504)<yt-description-preview-view-model  />
+	[30] (573,504)<truncated-text  />
+		[31] (573,504)<truncated-text-content  />
+			[32] (435,504)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>🗺️ 뉴스가 돈이 되는 지도, 펜으로 직접 그려드립니다. />
+		[33] (608,504)<button aria-label='설명: 🗺️ 뉴스가 돈이 되는 지도, 펜으로 직접 그... 탭하여 자세히 알아보세요.' class='yt-truncated-text__absolute-button' />
+			[34] (608,504)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text' />
+				[35] (608,504)<span >...더보기 />
+[36] (314,560)<button aria-label='뉴스 2막을(를) 구독합니다.' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--disable-text-ellipsis yt-spec-button-shape-next--enable-backdrop-filter-experiment'>구독 />
+	구독
+	[37] (314,560)<yt-touch-feedback-shape  />
+		[38] (314,560)<div  />
+[39] (141,636)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[40] (141,636)<div >홈 />
+[41] (210,636)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[42] (210,636)<div >동영상 />
+[43] (284,636)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[44] (284,636)<div >팟캐스트 />
+[45] (363,636)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[46] (363,636)<div >재생목록 />
+[47] (437,636)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[48] (437,636)<div >게시물 />
+[49] (577,636)<yt-tab-shape  />
+	[50] (502,636)<button aria-label='검색' class='style-scope yt-icon-button' id='button' />
+		[51] (502,636)<yt-icon  />
+[52] (156,714)<button aria-label='최신순' class='ytChipShapeButtonReset' role='tab' />
+	[53] (156,714)<div >최신순 />
+		최신순
+		[54] (156,714)<yt-touch-feedback-shape  />
+			[55] (156,714)<div  />
+[56] (223,714)<button aria-label='인기순' class='ytChipShapeButtonReset' role='tab' />
+	[57] (223,714)<div >인기순 />
+		인기순
+		[58] (223,714)<yt-touch-feedback-shape  />
+			[59] (223,714)<div  />
+[60] (291,714)<button aria-label='날짜순' class='ytChipShapeButtonReset' role='tab' />
+	[61] (291,714)<div >날짜순 />
+		날짜순
+		[62] (291,714)<yt-touch-feedback-shape  />
+			[63] (291,714)<div  />
+[64] (247,876)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=SzCC3koiaIc&pp=0gcJCcUKAYcqIYzv' id='thumbnail' />
+	[65] (247,977)<yt-image  />
+[66] (520,876)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=5QiVDDwXs44' id='thumbnail' />
+[67] (792,876)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=BUZTHvapaJw' id='thumbnail' />
+	[68] (792,977)<yt-image  />
+
+</current_dom>

@@ -1,0 +1,97 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (35,40)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (35,40)<yt-icon  />
+[2] (113,40)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[3] (113,40)<div  />
+		[4] (113,38)<ytd-logo  />
+			[5] (113,40)<yt-icon  />
+KR
+[6] (445,40)<div  />
+	[7] (436,40)<form  />
+		[8] (436,40)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[9] (620,40)<div  />
+		[10] (620,40)<ytd-text-input-assistant  />
+			[11] (620,40)<button class='ytdTextInputAssistantButton' />
+				[12] (620,40)<img  />
+[13] (669,40)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[14] (669,40)<span  />
+[15] (734,40)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[16] (734,40)<yt-touch-feedback-shape  />
+		[17] (734,40)<div  />
+[18] (813,40)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[19] (813,40)<yt-touch-feedback-shape  />
+		[20] (813,40)<div  />
+[21] (885,40)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[22] (885,38)<yt-icon-badge-shape  />
+		[23] (885,40)<div  />
+			[24] (885,40)<div  />
+				[25] (885,40)<span  />
+[26] (941,40)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[27] (941,40)<yt-img-shadow  />
+		[28] (941,40)<img  />
+Liam Ottley
+@LiamOttley
+•
+구독자 74.4만명
+•
+동영상 242개
+[29] (573,429)<yt-description-preview-view-model  />
+	[30] (573,429)<truncated-text  />
+		[31] (573,429)<truncated-text-content >I’m an AI entrepreneur from New Zealand. In 2023 I created the 'AI Automation Agency' or 'AAA' model based on my learnings at my own agency Morningside AI. />
+			I’m an AI entrepreneur from New Zealand. In 2023 I created the 'AI Automation Agency' or 'AAA' model based on my learnings at my own agency Morningside AI.
+		[32] (838,429)<button aria-label='설명: I’m an AI entrepreneur from New Zealand. In 2023 I created... 탭하여 자세히 알아보세요.' class='yt-truncated-text__absolute-button' />
+			[33] (838,429)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text' />
+				[34] (838,429)<span >...더보기 />
+[35] (329,475)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.youtube.com/redirect?event=channel_header&redir_token=QUFFLUhqa2tYTHJBWEJEay1YRTlMUzl3NnR2c2IwZXdiQXxBQ3Jtc0tsXzV4X1FySmpfWWtFMzBZSnpIUGtFbHlQWmdYcGROaWtpX1VxWC1neTRjMlc3SXpKeVoxMXBWUVNVcTltX1VPelBhMEJ2YnRrcFpHZnhEWUl6QTN1Umo5eEFWRFQ4REtNaXJzVzRwZE9QNGQwdklMMA&q=https%3A%2F%2Fwww.morningside.ai'>morningside.ai />
+[36] (410,475)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='javascript:void(0);' role='button'>외 링크 6개 />
+[37] (313,531)<button aria-label='Liam Ottley을(를) 구독합니다.' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--disable-text-ellipsis yt-spec-button-shape-next--enable-backdrop-filter-experiment'>구독 />
+	구독
+	[38] (313,531)<yt-touch-feedback-shape  />
+		[39] (313,531)<div  />
+[40] (139,607)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[41] (139,607)<div >홈 />
+[42] (208,607)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[43] (208,607)<div >동영상 />
+[44] (277,607)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[45] (277,607)<div >Shorts />
+[46] (352,607)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[47] (352,607)<div >팟캐스트 />
+[48] (431,607)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[49] (431,607)<div >재생목록 />
+[50] (506,607)<yt-tab-shape class='yt-tab-shape yt-tab-shape--host-clickable' role='tab' />
+	[51] (506,607)<div >게시물 />
+[52] (647,607)<yt-tab-shape  />
+	[53] (571,607)<button aria-label='검색' class='style-scope yt-icon-button' id='button' />
+		[54] (571,607)<yt-icon  />
+[55] (154,709)<button aria-label='최신순' class='ytChipShapeButtonReset' role='tab' />
+	[56] (154,709)<div >최신순 />
+		최신순
+		[57] (154,709)<yt-touch-feedback-shape  />
+			[58] (154,709)<div  />
+[59] (222,709)<button aria-label='인기순' class='ytChipShapeButtonReset' role='tab' />
+	[60] (222,709)<div >인기순 />
+		인기순
+		[61] (222,709)<yt-touch-feedback-shape  />
+			[62] (222,709)<div  />
+[63] (289,709)<button aria-label='날짜순' class='ytChipShapeButtonReset' role='tab' />
+	[64] (289,709)<div >날짜순 />
+		날짜순
+		[65] (289,709)<yt-touch-feedback-shape  />
+			[66] (289,709)<div  />
+[67] (245,873)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=DXcVT07bQ6g' id='thumbnail' />
+	[68] (245,974)<yt-image  />
+		[69] (245,873)<img  />
+What Is an AI Operating System? (And Why Every Business Will Need One)
+[70] (520,873)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=oC1h922cDoY' id='thumbnail' />
+	[71] (520,873)<img  />
+The Biggest Shift in Business Since the Internet Just Happened
+[72] (794,873)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=_He58Zi8NQg' id='thumbnail' />
+	[73] (794,974)<yt-image  />
+		[74] (794,873)<img  />
+Your Phone Can Now Run Your Entire Business. Here's How It Runs Mine.
+
+</current_dom>

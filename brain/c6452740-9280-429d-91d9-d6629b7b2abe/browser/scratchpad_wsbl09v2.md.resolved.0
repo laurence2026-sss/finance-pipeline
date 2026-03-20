@@ -1,0 +1,8 @@
+# Intelligence Dashboard Verification
+
+- [ ] Open `http://localhost:8899` in the browser
+- [ ] Verify the dashboard UI is loaded (dark-mode)
+- [ ] Capture a screenshot of the dashboard
+- [ ] Record stats bar values
+- [ ] Count and record number of intelligence cards
+- [ ] Report final summary

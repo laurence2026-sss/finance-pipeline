@@ -1,0 +1,20 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to Content
+[0] (91,60)<a class='inline-block px-2 -mx-2 pt-2 pb-1.5 -my-2 text-inherit' href='/' />
+[1] (306,62)<a class='hidden lg:block py-0.5 px-2 transition duration-300 rounded-full hover:bg-black/10 font-medium focus:bg-black/10 h-min' href='/ai'>Trade with AI />
+[2] (396,62)<a class='hidden lg:block py-0.5 px-2 transition duration-300 rounded-full hover:bg-black/10 font-medium focus:bg-black/10 h-min' href='/options'>Options />
+[3] (503,62)<a class='hidden lg:block py-0.5 px-2 transition duration-300 rounded-full hover:bg-black/10 font-medium focus:bg-black/10 h-min navigation-item' href='/business'>Business Accounts />
+[4] (619,62)<a class='hidden lg:block py-0.5 px-2 transition duration-300 rounded-full hover:bg-black/10 font-medium focus:bg-black/10 h-min' href='/retirement'>Retirement />
+[5] (700,62)<a class='hidden lg:block py-0.5 px-2 transition duration-300 rounded-full hover:bg-black/10 font-medium focus:bg-black/10 h-min' href='/pricing'>Pricing />
+[6] (791,62)<button id='radix-:Rp6:-trigger-radix-:Rp6p6:' />
+	[7] (791,62)<span >Resources />
+[8] (878,62)<a class='hidden lg:block py-0.5 px-2 transition duration-300 rounded-full hover:bg-black/10 font-medium focus:bg-black/10 h-min' href='https://app.composer.trade/login'>Login />
+[9] (947,62)<a class='py-0.5 px-2 transition duration-300 rounded-full font-semibold hover:bg-green-mid hidden lg:block  text-white bg-black' href='https://app.composer.trade/register'>Sign Up />
+Meet
+Composer
+Build trading algorithms with AI, backtest them, then execute—all in one platform. No coding skills required.
+
+</current_dom>

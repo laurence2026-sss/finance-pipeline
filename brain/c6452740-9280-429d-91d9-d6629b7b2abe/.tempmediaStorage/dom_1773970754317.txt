@@ -1,0 +1,118 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+접근성 링크
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (125,74)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwian-D_q62TAxUuGhAIHbYgBO8QPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (419,73)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (633,73)<div  />
+	[3] (631,73)<div aria-label='지우기' class='M2vV3 vOY7J' role='button' />
+		[4] (631,73)<span  />
+	[5] (654,73)<span  />
+[6] (677,73)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (677,73)<span  />
+[8] (716,73)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (754,73)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (798,73)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (792,73)<div  />
+		[12] (792,73)<span  />
+[13] (874,73)<a aria-label='Search Labs' class='gb_B' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (920,73)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (962,73)<a aria-label='Google 계정: ᆞ  
+(kso01033092812@gmail.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25EB%258D%2594%25EB%25A6%25AC%25EC%25B9%2598%2B%25EB%258F%2584%25EB%25B0%258B%2B%25ED%2586%25A0%25EC%258A%25A4%25EC%25A6%259D%25EA%25B6%258C%2B%25EA%25B3%2584%25EC%25A2%258C%2B%25ED%258A%25B8%25EB%259E%2598%25EC%25BB%25A4%2B%25EB%2594%2594%25EC%259E%2590%25EC%259D%25B8%2B%25ED%258F%2589%25EA%25B0%2580&ec=futura_srp_og_si_72236_p' role='button' />
+필터 및 주제
+[16] (101,160)<a class='XVMlrc C6AK7c' href='/search?q=%EB%8D%94%EB%A6%AC%EC%B9%98+%EB%8F%84%EB%B0%8B+%ED%86%A0%EC%8A%A4%EC%A6%9D%EA%B6%8C+%EA%B3%84%EC%A2%8C+%ED%8A%B8%EB%9E%98%EC%BB%A4+%EB%94%94%EC%9E%90%EC%9D%B8+%ED%8F%89%EA%B0%80&sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n6JXZPMkiKV6lHOwx-aA8Q-7CKYMA:1773970742846&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TSkzal0C9J3r_1Cip52Wtc-ksCXZ3qAqLvqoGxMR1xHHTuhRgwUcGlRe_YwyRE284Gg2PLRMK8YOlVq5sKQdnqBB1hHO0tSXq5Jdbjw61gWxLRoc5VgIIS6jcyx9p5lwPrU5eq1egvLtavLV5Soc8vhhOKT4g&aep=1&ntc=1&sa=X&ved=2ahUKEwian-D_q62TAxUuGhAIHbYgBO8Q2J8OegQIEhAE' />
+	[17] (101,160)<div  />
+		[18] (101,172)<div  />
+			[19] (101,165)<span >AI 모드 />
+[20] (157,160)<a class='C6AK7c' role='link' />
+	전체
+[21] (211,160)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n6JXZPMkiKV6lHOwx-aA8Q-7CKYMA:1773970742846&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TSkzal0C9J3r_1Cip52Wtc-ksCXZ3qAqLvqoGxMR1xHHTuhRgwUcGlRe_YwyRE284Gg2PLRMK8YOlVq5sKQdnqBB1hHO0tSXq5Jdbjw61gWxLRoc5VgIIS6jcyx9p5lwPrU5eq1egvLtavLV5Soc8vhhOKT4g&q=%EB%8D%94%EB%A6%AC%EC%B9%98+%EB%8F%84%EB%B0%8B+%ED%86%A0%EC%8A%A4%EC%A6%9D%EA%B6%8C+%EA%B3%84%EC%A2%8C+%ED%8A%B8%EB%9E%98%EC%BB%A4+%EB%94%94%EC%9E%90%EC%9D%B8+%ED%8F%89%EA%B0%80&sa=X&ved=2ahUKEwian-D_q62TAxUuGhAIHbYgBO8QtKgLegQIGBAB' />
+	[22] (211,160)<div  />
+		[23] (211,172)<span >이미지 />
+[24] (265,160)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n6JXZPMkiKV6lHOwx-aA8Q-7CKYMA:1773970742846&q=%EB%8D%94%EB%A6%AC%EC%B9%98+%EB%8F%84%EB%B0%8B+%ED%86%A0%EC%8A%A4%EC%A6%9D%EA%B6%8C+%EA%B3%84%EC%A2%8C+%ED%8A%B8%EB%9E%98%EC%BB%A4+%EB%94%94%EC%9E%90%EC%9D%B8+%ED%8F%89%EA%B0%80&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TSkzal0C9J3r_1Cip52Wtc-ksCXZ3qAqLvqoGxMR1xHHTuhRgwUcGlRe_YwyRE284Gg2PLRMK8YOlVq5sKQdnqBB1hHO0tSXq5Jdbjw61gWxLRoc5VgIIS6jcyx9p5lwPrU5eq1egvLtavLV5Soc8vhhOKT4g&sa=X&ved=2ahUKEwian-D_q62TAxUuGhAIHbYgBO8Q0pQJegQIFxAB' />
+	[25] (265,160)<div  />
+		[26] (265,172)<span >뉴스 />
+[27] (312,160)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n6JXZPMkiKV6lHOwx-aA8Q-7CKYMA:1773970742846&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TSkzal0C9J3r_1Cip52Wtc-ksCXZ3qAqLvqoGxMR1xHHTuhRgwUcGlRe_YwyRE284Gg2PLRMK8YOlVq5sKQdnqBB1hHO0tSXq5Jdbjw61gWxLRoc5VgIIS6jcyx9p5lwPrU5eq1egvLtavLV5Soc8vhhOKT4g&q=%EB%8D%94%EB%A6%AC%EC%B9%98+%EB%8F%84%EB%B0%8B+%ED%86%A0%EC%8A%A4%EC%A6%9D%EA%B6%8C+%EA%B3%84%EC%A2%8C+%ED%8A%B8%EB%9E%98%EC%BB%A4+%EB%94%94%EC%9E%90%EC%9D%B8+%ED%8F%89%EA%B0%80&ved=1t:220175&ictx=111' />
+	[28] (312,160)<div  />
+		[29] (312,172)<span >쇼핑 />
+[30] (366,160)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n6JXZPMkiKV6lHOwx-aA8Q-7CKYMA:1773970742846&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TSkzal0C9J3r_1Cip52Wtc-ksCXZ3qAqLvqoGxMR1xHHTuhRgwUcGlRe_YwyRE284Gg2PLRMK8YOlVq5sKQdnqBB1hHO0tSXq5Jdbjw61gWxLRoc5VgIIS6jcyx9p5lwPrU5eq1egvLtavLV5Soc8vhhOKT4g&q=%EB%8D%94%EB%A6%AC%EC%B9%98+%EB%8F%84%EB%B0%8B+%ED%86%A0%EC%8A%A4%EC%A6%9D%EA%B6%8C+%EA%B3%84%EC%A2%8C+%ED%8A%B8%EB%9E%98%EC%BB%A4+%EB%94%94%EC%9E%90%EC%9D%B8+%ED%8F%89%EA%B0%80&sa=X&ved=2ahUKEwian-D_q62TAxUuGhAIHbYgBO8QtKgLegQIFhAB' />
+	[31] (366,160)<div  />
+		[32] (366,172)<span >동영상 />
+[33] (440,160)<a class='C6AK7c' href='/search?sca_esv=84b4ab2849dc3d2a&sxsrf=ANbL-n6JXZPMkiKV6lHOwx-aA8Q-7CKYMA:1773970742846&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TSkzal0C9J3r_1Cip52Wtc-ksCXZ3qAqLvqoGxMR1xHHTuhRgwUcGlRe_YwyRE284Gg2PLRMK8YOlVq5sKQdnqBB1hHO0tSXq5Jdbjw61gWxLRoc5VgIIS6jcyx9p5lwPrU5eq1egvLtavLV5Soc8vhhOKT4g&q=%EB%8D%94%EB%A6%AC%EC%B9%98+%EB%8F%84%EB%B0%8B+%ED%86%A0%EC%8A%A4%EC%A6%9D%EA%B6%8C+%EA%B3%84%EC%A2%8C+%ED%8A%B8%EB%9E%98%EC%BB%A4+%EB%94%94%EC%9E%90%EC%9D%B8+%ED%8F%89%EA%B0%80&sa=X&ved=2ahUKEwian-D_q62TAxUuGhAIHbYgBO8Qs6gLegQIFBAB' />
+	[34] (440,160)<div  />
+		[35] (440,172)<span >짧은 동영상 />
+[36] (523,160)<div class='mTpL7c' role='button' />
+	[37] (523,160)<div  />
+		[38] (523,172)<div  />
+			[39] (514,165)<span >더보기 />
+			[40] (542,165)<span  />
+[41] (594,160)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (594,160)<div  />
+		[43] (594,172)<div  />
+			[44] (586,165)<span >도구 />
+			[45] (607,165)<span  />
+검색결과
+AI 개요
+AI 개요
+[46] (911,259)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+. 토스증권의 간결한 UI와 달리 더리치는 자산 배분 비중을 도넛 차트 등으로 직관적으로 보여주며, 사용자들이 투자 전략(VOO, QQQ, SCHD 등)을 한눈에 파악하기 좋게 설계되어 있습니다.
+[47] (240,448)<button aria-label='더리치 외 2개 - 관련 링크 보기' class='rBl3me IWyTpf pjvauc' />
+	더리치
+	+2
+주요 디자인 평가
+시각화 (차트 및 그래프):
+투자 포트폴리오를 자산군별, 종목별로 원형 차트(도넛)로 분류하여 보여주며, 직관성이 매우 뛰어납니다.
+배당 중심 디자인:
+배당률, 배당금 추이 등을 시각적으로 강조하여 배당 투자자들에게 유용한 데이터를 제공합니다.
+계좌 정리 효율성:
+토스증권의 기본 계좌 정보(국내/해외 주식)를 포트폴리오 관리 화면으로 가져와, 투자자가 목표하는 자산 배분 비율(예: 1그룹 30% 등)을 쉽게 확인할 수 있게 디자인되었습니다.
+더리치
++3
+단점/개선사항
+토스증권의 '간편함'에 익숙한 사용자에게는 더리치의 상세한 정보가 다소 복잡하게 느껴질 수 있으며, 연동된 데이터의 실시간 반영 속도가 토스증권 앱 자체보다 느릴 수 있습니다.
+더리치
+결론적으로
+자산 현황의 시각적 파악과 배당 정보 분석
+이 목적이라면 매우 우수한 디자인입니다.
+[48] (768,395)<a aria-label='더리치 - 주식, 배당주, 투자 정보, 포트폴리오 관리. 새 탭에서 열립니다.' class='NDNGvf' href='https://www.therich.io/community/articles/636bb505e079c40033b88b7b#:~:text=%EC%95%84%EC%A7%81%2020%EB%8C%80%20%EC%B4%88%EB%85%84%EC%83%9D%EC%9D%B4%EB%9D%BC%20%EA%B8%88%EC%95%A1%EB%8F%84%20%EB%B3%84%EB%A1%9C%20%EC%97%86%EA%B3%A0%20%EC%82%AC%EA%B3%A0%EC%8B%B6%EC%9D%80,%EB%95%8C%20BRK.B(%EB%B2%84%ED%81%AC%EC%85%94B)%2CAAPL(%EC%95%A0%ED%94%8C)%2CKDP(%EB%8B%A5%ED%84%B0%20%ED%8E%98%ED%8D%BC)%2CKO(%EC%BD%94%EC%B9%B4%EC%BD%9C%EB%9D%BC)%2CMCD(%EB%A7%A5%EB%8F%84%EB%82%A0%EB%93%9C)%2C%20AMD%20%EC%A1%B0%EA%B8%88%EC%94%A9%20%EB%8B%B4%EC%95%84%EB%B3%BC%20%EC%83%9D%EA%B0%81%EC%9E%85%EB%8B%88%EB%8B%A4.' />
+더리치 - 주식, 배당주, 투자 정보, 포트폴리오 관리
+2022. 11. 9. —
+아직 20대 초년생이라 금액도 별로 없고 사고싶은 것들 위주로 담았다보니 정리가 잘 안되어있네요 앞으로의 주...
+더리치
+[49] (704,459)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-N6W8abzTKNi5wPAPgIbnkAc_22' role='button' />
+토스증권 계좌 포트폴리오
+시가 배당률 · PG4.6% · LOW4.4% · ADP4.1% · UNP3.7% · WM3.5% · CNI...
+더리치
+평범한 직장인 아빠
+1 그룹: 목표 투자비율 30% - VOO: 미국 S&P 500 - QQQ: 미국 나스닥 - SCHD: 미국...
+더리치
+모두 표시
+[50] (500,713)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[51] (383,713)<div  />
+		[52] (383,713)<div >더보기 />
+			더보기
+			[53] (405,713)<span  />
+[54] (183,874)<a class='zReHs' href='https://www.therich.io/portfolio/4qldqq9p7yh' />
+	[55] (183,905)<h3 >토스증권 계좌 포트폴리오 />
+	[56] (179,855)<div  />
+		[57] (179,855)<div  />
+			[58] (94,855)<span  />
+				[59] (94,855)<div  />
+					[60] (94,855)<img  />
+			[61] (198,855)<div  />
+				[62] (198,843)<div  />
+					[63] (198,843)<span >더리치 />
+				[64] (198,869)<div  />
+					[65] (198,869)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.therich.io />
+						[66] (253,869)<span class='ylgVCe ob9lvb' role='text'>› portfolio />
+[67] (299,868)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[68] (299,868)<span  />
+		[69] (299,869)<span  />
+예상 배당금 (단위: USD) · ETF 28.09% · 금융 13.54% · IT 8.98% · 채권 8.44% · 소재 7.01% · 헬스케어 6.98% · 운송·물류 6.85% · 첨단 기술 5.88% ...
+US$6,261.57
+
+</current_dom>

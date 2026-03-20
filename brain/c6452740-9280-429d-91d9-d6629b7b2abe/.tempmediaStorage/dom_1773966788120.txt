@@ -1,0 +1,125 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+접근성 링크
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (125,74)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwic9N6hna2TAxVXla8BHXK_JhEQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (419,73)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (633,73)<div  />
+	[3] (631,73)<div aria-label='지우기' class='M2vV3 vOY7J' role='button' />
+		[4] (631,73)<span  />
+	[5] (654,73)<span  />
+[6] (677,73)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (677,73)<span  />
+[8] (716,73)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (754,73)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (798,73)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (792,73)<div  />
+		[12] (792,73)<span  />
+[13] (874,73)<a aria-label='Search Labs' class='gb_B' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (920,73)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (962,73)<a aria-label='Google 계정: ᆞ  
+(kso01033092812@gmail.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DMcKay%2BWrigley%2BInstagram&ec=futura_srp_og_si_72236_p' role='button' />
+필터 및 주제
+[16] (101,160)<a class='XVMlrc C6AK7c' href='/search?q=McKay+Wrigley+Instagram&sca_esv=4f31c1751e6f8c43&sxsrf=ANbL-n7qn94XxyVZnszZN_C9Pt061i7T7A:1773966787596&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx1e6v8Nuc-VKV9D7LGbsLM9_kxDdlDr9L2FDJ82tPPoDvw1C4_-4umANYdrP0m4QOQHHm-ZajXN7xSbNDkImLeRGezxCxWNCOZMlB60X9hW92_vYBs&aep=1&ntc=1&sa=X&ved=2ahUKEwic9N6hna2TAxVXla8BHXK_JhEQ2J8OegQIFBAE' />
+	[17] (101,160)<div  />
+		[18] (101,172)<div  />
+			[19] (101,165)<span >AI 모드 />
+[20] (157,160)<a class='C6AK7c' role='link' />
+	전체
+[21] (211,160)<a class='C6AK7c' href='/search?sca_esv=4f31c1751e6f8c43&sxsrf=ANbL-n7qn94XxyVZnszZN_C9Pt061i7T7A:1773966787596&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx1e6v8Nuc-VKV9D7LGbsLM9_kxDdlDr9L2FDJ82tPPoDvw1C4_-4umANYdrP0m4QOQHHm-ZajXN7xSbNDkImLeRGezxCxWNCOZMlB60X9hW92_vYBs&q=McKay+Wrigley+Instagram&sa=X&ved=2ahUKEwic9N6hna2TAxVXla8BHXK_JhEQtKgLegQIGhAB' />
+	[22] (211,160)<div  />
+		[23] (211,172)<span >이미지 />
+[24] (265,160)<a class='C6AK7c' href='/search?sca_esv=4f31c1751e6f8c43&sxsrf=ANbL-n7qn94XxyVZnszZN_C9Pt061i7T7A:1773966787596&q=McKay+Wrigley+Instagram&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx1e6v8Nuc-VKV9D7LGbsLM9_kxDdlDr9L2FDJ82tPPoDvw1C4_-4umANYdrP0m4QOQHHm-ZajXN7xSbNDkImLeRGezxCxWNCOZMlB60X9hW92_vYBs&sa=X&ved=2ahUKEwic9N6hna2TAxVXla8BHXK_JhEQ0pQJegQIGRAB' />
+	[25] (265,160)<div  />
+		[26] (265,172)<span >뉴스 />
+[27] (318,160)<a class='C6AK7c' href='/search?sca_esv=4f31c1751e6f8c43&sxsrf=ANbL-n7qn94XxyVZnszZN_C9Pt061i7T7A:1773966787596&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx1e6v8Nuc-VKV9D7LGbsLM9_kxDdlDr9L2FDJ82tPPoDvw1C4_-4umANYdrP0m4QOQHHm-ZajXN7xSbNDkImLeRGezxCxWNCOZMlB60X9hW92_vYBs&q=McKay+Wrigley+Instagram&sa=X&ved=2ahUKEwic9N6hna2TAxVXla8BHXK_JhEQtKgLegQIGBAB' />
+	[28] (318,160)<div  />
+		[29] (318,172)<span >동영상 />
+[30] (372,160)<a class='C6AK7c' href='/search?sca_esv=4f31c1751e6f8c43&sxsrf=ANbL-n7qn94XxyVZnszZN_C9Pt061i7T7A:1773966787596&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx1e6v8Nuc-VKV9D7LGbsLM9_kxDdlDr9L2FDJ82tPPoDvw1C4_-4umANYdrP0m4QOQHHm-ZajXN7xSbNDkImLeRGezxCxWNCOZMlB60X9hW92_vYBs&q=McKay+Wrigley+Instagram&ved=1t:220175&ictx=111' />
+	[31] (372,160)<div  />
+		[32] (372,172)<span >쇼핑 />
+[33] (440,160)<a class='C6AK7c' href='/search?sca_esv=4f31c1751e6f8c43&sxsrf=ANbL-n7qn94XxyVZnszZN_C9Pt061i7T7A:1773966787596&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLWwHcKw2mrqB-3V3yFL2TTYq3GCge8mkuiumZjkau2auwZS2bbhrBWSlWsm7BLVcwSrj_rW8DixYimLhJXvYx1e6v8Nuc-VKV9D7LGbsLM9_kxDdlDr9L2FDJ82tPPoDvw1C4_-4umANYdrP0m4QOQHHm-ZajXN7xSbNDkImLeRGezxCxWNCOZMlB60X9hW92_vYBs&q=McKay+Wrigley+Instagram&sa=X&ved=2ahUKEwic9N6hna2TAxVXla8BHXK_JhEQs6gLegQIFhAB' />
+	[34] (440,160)<div  />
+		[35] (440,172)<span >짧은 동영상 />
+[36] (523,160)<div class='mTpL7c' role='button' />
+	[37] (523,160)<div  />
+		[38] (523,172)<div  />
+			[39] (514,165)<span >더보기 />
+			[40] (542,165)<span  />
+[41] (594,160)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (594,160)<div  />
+		[43] (594,172)<div  />
+			[44] (586,165)<span >도구 />
+			[45] (607,165)<span  />
+도움말:
+[46] (220,254)<a href='/search?q=McKay+Wrigley+Instagram&sca_esv=4f31c1751e6f8c43&sxsrf=ANbL-n7qn94XxyVZnszZN_C9Pt061i7T7A:1773966787596&lr=lang_ko&sa=X&ved=2ahUKEwic9N6hna2TAxVXla8BHXK_JhEQuAF6BAgMEAE'>결과를
+로 표시합니다 />
+	[47] (199,254)<em >한국어 />
+. 언어별 필터링에 대해서도
+[48] (544,254)<a href='https://support.google.com/websearch/?p=language_search_results&hl=ko'>자세히 알아보세요 />
+.
+검색결과
+[49] (219,362)<a class='zReHs' href='https://www.instagram.com/mckaywrigley/' />
+	[50] (219,389)<h3 >Mckay Wrigley (@mckaywrigley) />
+	[51] (175,340)<div  />
+		[52] (175,340)<div  />
+			[53] (94,340)<span  />
+				[54] (94,340)<div  />
+					[55] (94,340)<img  />
+			[56] (194,340)<div  />
+				[57] (194,327)<div  />
+					[58] (194,327)<span >Instagram · mckaywrigley />
+				[59] (194,354)<div  />
+					[60] (167,354)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>팔로어 4.6천명 이상 />
+[61] (290,353)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[62] (290,353)<span  />
+		[63] (290,354)<span  />
+4.6K+ followers · 0 following · 1 posts · @mckaywrigley: “founder, takeoff ai. the pursuit of excellence is next to godliness. love everyone and be happy.”
+[64] (339,567)<a class='zReHs' href='https://www.instagram.com/p/Cr1dH5St5DY/' />
+	[65] (339,594)<h3 >A developer named McKay Wrigley has hacked his iPhone ... />
+	[66] (189,545)<div  />
+		[67] (189,545)<div  />
+			[68] (94,545)<span  />
+				[69] (94,545)<div  />
+					[70] (94,545)<img  />
+			[71] (208,545)<div  />
+				[72] (208,532)<div  />
+					[73] (208,532)<span >Instagram · activeprogrammer />
+				[74] (208,559)<div  />
+					[75] (183,559)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 290개 이상  ·  2년 전 />
+[76] (318,558)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[77] (318,558)<span  />
+		[78] (318,559)<span  />
+A developer named
+McKay Wrigley
+has hacked his iPhone to create an AI assistant that can see using the phone's camera and ChatGPT!
+[79] (357,772)<a class='zReHs' href='https://www.instagram.com/reel/CyNMAnxyRRU/' />
+	[80] (357,799)<h3 >So this guy (McKay Wrigley) just used ChatGPT Vision to write ... />
+	[81] (203,750)<div  />
+		[82] (203,750)<div  />
+			[83] (94,750)<span  />
+				[84] (94,750)<div  />
+					[85] (94,750)<img  />
+			[86] (222,750)<div  />
+				[87] (222,738)<div  />
+					[88] (222,738)<span >Instagram · adamstewartmarketing />
+				[89] (222,764)<div  />
+					[90] (187,764)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>좋아요 2.2천개 이상  ·  2년 전 />
+[91] (345,763)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[92] (345,763)<span  />
+		[93] (345,764)<span  />
+[94] (161,892)<a aria-label='Adam Stewart님이 Instagram에 게시한 So this guy (McKay Wrigley) just used ChatGPT Vision to write .... Instagram에서 재생. 0:26' class='rIRoqf' href='https://www.instagram.com/reel/CyNMAnxyRRU/' />
+	[95] (151,894)<div  />
+		[96] (151,894)<div  />
+			[97] (151,894)<div  />
+				[98] (107,927)<div  />
+					[99] (107,927)<span >0:26 />
+2161 likes, 28 comments - adamstewartmarketing on October 9, 2023: "So this guy (
+McKay Wrigley
+) just used ChatGPT Vision to write code from ...
+
+</current_dom>

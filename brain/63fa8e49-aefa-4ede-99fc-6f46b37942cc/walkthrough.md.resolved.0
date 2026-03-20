@@ -1,0 +1,33 @@
+# NotebookLM Business Model Walkthrough
+
+We have successfully established a "Brain" for your 1-person business, populated with 3 concrete strategies.
+
+## 🧠 Connected Brain
+*   **Notebook Name**: Antigravity Business Models
+*   **URL**: [Open Notebook](https://notebooklm.google.com/notebook/7b7f1c32-d395-45ff-8d14-367a6d5e71e3)
+*   **Status**: ✅ Connected & Indexed
+
+## 📂 Models Created
+
+### 1. 📉 Stock Investment Dashboard (User Request)
+*   **Concept**: AI that filters "Noise" and only alerts on "Risk Signals" for your portfolio.
+*   **Stack**: Notion + n8n + Alpha Vantage + Gemini.
+*   **Killer Feature**: "3 Reasons to Sell Today" (Daily AI Report).
+*   **Marketing Strategy**: "Gerrymander" - Target niche shareholder communities with hyper-specific data.
+
+### 2. ✍️ Content Repurposing Engine
+*   **Concept**: Video -> Blog/SNS/Linkedin content in 1 click.
+*   **Stack**: YouTube API + Gemini + Notion.
+*   **Target**: Creators burned out by "uploading work".
+
+### 3. 🏢 Niche Competitor Monitor
+*   **Concept**: Hidden spy for local business owners (Price/Review tracking).
+*   **Stack**: Puppeteer Scraper + n8n + KakaoTalk.
+*   **Target**: Franchise owners, Study Cafes, Gyms.
+
+## 🛠️ How to Use
+You can now ask me (Antigravity) questions like:
+> "주식 모델의 마케팅 전략을 실행하기 위한 구체적인 블로그 글 초안 써줘"
+> "콘텐츠 엔진을 n8n으로 구현하려면 첫 번째 노드는 뭘 써야 해?"
+
+I will query your NotebookLM to give answers based on the strict strategies we defined.

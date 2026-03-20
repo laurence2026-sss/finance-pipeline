@@ -1,0 +1,190 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (35,40)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (35,40)<yt-icon  />
+		[2] (35,40)<span  />
+			[3] (35,40)<div  />
+[4] (113,40)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (113,40)<div  />
+		[6] (113,38)<ytd-logo  />
+			[7] (113,40)<yt-icon  />
+				[8] (114,40)<span  />
+					[9] (114,40)<div  />
+KR
+[10] (445,40)<div  />
+	[11] (436,40)<form  />
+		[12] (436,40)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (620,40)<div  />
+		[14] (620,40)<ytd-text-input-assistant  />
+			[15] (620,40)<button class='ytdTextInputAssistantButton' />
+				[16] (620,40)<img  />
+[17] (669,40)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (669,40)<span  />
+		[19] (669,40)<span  />
+			[20] (669,40)<div  />
+[21] (734,40)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (734,40)<yt-touch-feedback-shape  />
+		[23] (734,40)<div  />
+[24] (813,40)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[25] (813,40)<yt-touch-feedback-shape  />
+		[26] (813,40)<div  />
+[27] (885,40)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (885,38)<yt-icon-badge-shape  />
+		[29] (885,40)<div  />
+			[30] (885,40)<div  />
+				[31] (885,40)<span  />
+[32] (941,40)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[33] (941,40)<yt-img-shadow  />
+		[34] (941,40)<img  />
+[35] (35,137)<a aria-label='홈' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/' id='endpoint' title='홈' />
+	[36] (35,124)<yt-icon  />
+	[37] (35,160)<span >홈 />
+[38] (35,242)<a aria-label='Shorts' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/shorts/' id='endpoint' title='Shorts' />
+	[39] (35,229)<yt-icon  />
+	[40] (35,264)<span >Shorts />
+[41] (35,346)<a aria-label='구독' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' title='구독' />
+	[42] (35,333)<yt-icon  />
+	[43] (35,369)<span >구독 />
+[44] (35,451)<a aria-label='내 페이지' class='yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer' href='/feed/you' id='endpoint' title='내 페이지' />
+	[45] (35,438)<yt-icon  />
+	[46] (35,473)<span >내 페이지 />
+11:56
+[47] (245,181)<div  />
+	[48] (245,181)<div  />
+		[49] (234,172)<h3  />
+			[50] (234,172)<a aria-label='AI Just Had It’s iPhone Moment...(Here's How to WIN) 11분 56초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=qNtDxuLfFE8' id='video-title-link' title='AI Just Had It’s iPhone Moment...(Here's How to WIN)' />
+				[51] (234,172)<yt-formatted-string >AI Just Had It’s iPhone Moment...(Here's How to WIN) />
+		[52] (234,222)<ytd-video-meta-block  />
+			[53] (234,222)<div  />
+				[54] (234,222)<div  />
+					[55] (152,222)<span >조회수 1.4만회 />
+					[56] (209,222)<span >3주 전 />
+41:46
+[57] (520,181)<div  />
+	[58] (520,181)<div  />
+		[59] (508,172)<h3  />
+			[60] (508,172)<a aria-label='How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner’s Guide 41분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=2bsfQThGXxc' id='video-title-link' title='How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner’s Guide' />
+				[61] (508,172)<yt-formatted-string >How to Automate Your Life & Work w/ Claude Code: Ultimate Beginner’s Guide />
+		[62] (508,222)<ytd-video-meta-block  />
+			[63] (508,222)<div  />
+				[64] (508,222)<div  />
+					[65] (426,222)<span >조회수 7.6만회 />
+					[66] (483,222)<span >3주 전 />
+13:03
+[67] (794,181)<div  />
+	[68] (794,181)<div  />
+		[69] (782,172)<h3  />
+			[70] (782,172)<a aria-label='My Honest Thoughts on the OpenClaw Hype… 13분 3초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=RXBjzT8gQ2g' id='video-title-link' title='My Honest Thoughts on the OpenClaw Hype…' />
+				[71] (782,172)<yt-formatted-string >My Honest Thoughts on the OpenClaw Hype… />
+		[72] (782,222)<ytd-video-meta-block  />
+			[73] (782,222)<div  />
+				[74] (782,222)<div  />
+					[75] (700,222)<span >조회수 2.9만회 />
+					[76] (763,222)<span >1개월 전 />
+[77] (245,387)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=HiC1J8a9V1I&pp=0gcJCa4KAYcqIYzv' id='thumbnail' />
+	[78] (245,488)<yt-image  />
+		[79] (245,387)<img  />
+	[80] (347,468)<ytd-thumbnail-overlay-time-status-renderer  />
+		[81] (349,468)<div  />
+			[82] (349,468)<badge-shape aria-label='46분 30초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[83] (349,468)<div >46:30 />
+[84] (245,547)<div  />
+	[85] (245,547)<div  />
+		[86] (234,539)<h3  />
+			[87] (234,539)<a aria-label='How to Scale Your AI Agency (Forward Deployed Engineer Model Breakdown) 46분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=HiC1J8a9V1I&pp=0gcJCa4KAYcqIYzv' id='video-title-link' title='How to Scale Your AI Agency (Forward Deployed Engineer Model Breakdown)' />
+				[88] (234,539)<yt-formatted-string >How to Scale Your AI Agency (Forward Deployed Engineer Model Breakdown) />
+		[89] (234,588)<ytd-video-meta-block  />
+			[90] (234,588)<div  />
+				[91] (234,588)<div  />
+					[92] (152,588)<span >조회수 1.2만회 />
+					[93] (214,588)<span >1개월 전 />
+[94] (520,387)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=CSULpfABy0I' id='thumbnail' />
+	[95] (520,488)<yt-image  />
+		[96] (520,387)<img  />
+	[97] (624,468)<ytd-thumbnail-overlay-time-status-renderer  />
+		[98] (626,468)<div  />
+			[99] (626,468)<badge-shape aria-label='8분 14초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[100] (626,468)<div >8:14 />
+[101] (520,547)<div  />
+	[102] (520,547)<div  />
+		[103] (508,539)<h3  />
+			[104] (508,539)<a aria-label='Every AI Business Model Explained in 8 Minutes (Start from Home) 8분 14초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=CSULpfABy0I' id='video-title-link' title='Every AI Business Model Explained in 8 Minutes (Start from Home)' />
+				[105] (508,539)<yt-formatted-string >Every AI Business Model Explained in 8 Minutes (Start from Home) />
+		[106] (508,588)<ytd-video-meta-block  />
+			[107] (508,588)<div  />
+				[108] (508,588)<div  />
+					[109] (426,588)<span >조회수 3.9만회 />
+					[110] (488,588)<span >1개월 전 />
+[111] (794,387)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=XC5oeZnMvcg' id='thumbnail' />
+	[112] (794,488)<yt-image  />
+		[113] (794,387)<img  />
+	[114] (895,468)<ytd-thumbnail-overlay-time-status-renderer  />
+		[115] (897,468)<div  />
+			[116] (897,468)<badge-shape aria-label='36분 49초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[117] (897,468)<div >36:49 />
+[118] (794,547)<div  />
+	[119] (794,547)<div  />
+		[120] (782,539)<h3  />
+			[121] (782,539)<a aria-label='ClawdBot is INSANE. Here’s 3 Ways to Make Money With It 36분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=XC5oeZnMvcg' id='video-title-link' title='ClawdBot is INSANE. Here’s 3 Ways to Make Money With It' />
+				[122] (782,539)<yt-formatted-string >ClawdBot is INSANE. Here’s 3 Ways to Make Money With It />
+		[123] (782,588)<ytd-video-meta-block  />
+			[124] (782,588)<div  />
+				[125] (782,588)<div  />
+					[126] (699,588)<span >조회수 19만회 />
+					[127] (760,588)<span >1개월 전 />
+[128] (245,753)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=Tt-hpp87pd0' id='thumbnail' />
+	[129] (245,855)<yt-image  />
+		[130] (245,753)<img  />
+	[131] (347,835)<ytd-thumbnail-overlay-time-status-renderer  />
+		[132] (349,835)<div  />
+			[133] (349,835)<badge-shape aria-label='25분 37초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[134] (349,835)<div >25:37 />
+[135] (245,914)<div  />
+	[136] (245,914)<div  />
+		[137] (234,905)<h3  />
+			[138] (234,905)<a aria-label='Did Claude Just Replace Video Editors? (Remotion Breakdown) 25분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=Tt-hpp87pd0' id='video-title-link' title='Did Claude Just Replace Video Editors? (Remotion Breakdown)' />
+				[139] (234,905)<yt-formatted-string >Did Claude Just Replace Video Editors? (Remotion Breakdown) />
+		[140] (234,955)<ytd-video-meta-block  />
+			[141] (234,955)<div  />
+				[142] (234,955)<div  />
+					[143] (152,955)<span >조회수 5.5만회 />
+					[144] (214,955)<span >1개월 전 />
+[145] (520,753)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=oB7gia1kC_g' id='thumbnail' />
+	[146] (520,855)<yt-image  />
+		[147] (520,753)<img  />
+	[148] (621,835)<ytd-thumbnail-overlay-time-status-renderer  />
+		[149] (623,835)<div  />
+			[150] (623,835)<badge-shape aria-label='18분' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[151] (623,835)<div >18:00 />
+[152] (520,914)<div  />
+	[153] (520,914)<div  />
+		[154] (508,905)<h3  />
+			[155] (508,905)<a aria-label='From Zero to Your First AI Voice Agent in 18 Minutes (No Coding) 18분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=oB7gia1kC_g' id='video-title-link' title='From Zero to Your First AI Voice Agent in 18 Minutes (No Coding)' />
+				[156] (508,905)<yt-formatted-string >From Zero to Your First AI Voice Agent in 18 Minutes (No Coding) />
+		[157] (508,955)<ytd-video-meta-block  />
+			[158] (508,955)<div  />
+				[159] (508,955)<div  />
+					[160] (426,955)<span >조회수 7.2만회 />
+					[161] (488,955)<span >1개월 전 />
+[162] (794,753)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=3iR3kHxCwfo' id='thumbnail' />
+	[163] (794,855)<yt-image  />
+		[164] (794,753)<img  />
+	[165] (895,835)<ytd-thumbnail-overlay-time-status-renderer  />
+		[166] (897,835)<div  />
+			[167] (897,835)<badge-shape aria-label='59분 39초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[168] (897,835)<div >59:39 />
+[169] (794,914)<div  />
+	[170] (794,914)<div  />
+		[171] (782,905)<h3  />
+			[172] (782,905)<a aria-label='How to Turn LinkedIn into a Personal Brand Lead Magnet with AI 59분' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=3iR3kHxCwfo' id='video-title-link' title='How to Turn LinkedIn into a Personal Brand Lead Magnet with AI' />
+				[173] (782,905)<yt-formatted-string >How to Turn LinkedIn into a Personal Brand Lead Magnet with AI />
+		[174] (782,955)<ytd-video-meta-block  />
+			[175] (782,955)<div  />
+				[176] (782,955)<div  />
+					[177] (700,955)<span >조회수 3.6만회 />
+					[178] (763,955)<span >1개월 전 />
+
+</current_dom>

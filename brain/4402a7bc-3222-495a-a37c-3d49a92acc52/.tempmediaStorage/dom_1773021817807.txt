@@ -1,0 +1,166 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (919,45)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products' role='button' />
+[1] (965,45)<a aria-label='Google 계정: ᆞ  
+(kso01033092812@gmail.com)' class='gb_B gb_0a gb_1' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://notebooklm.google.com/&ec=GBRAmgU' role='button' />
+[2] (37,45)<a aria-label='NotebookLM 홈페이지' class='logo-link' href='/' />
+	[3] (37,45)<labs-tailwind-logo  />
+		[4] (37,45)<img  />
+[5] (136,45)<input class='title-input mat-title-large ng-dirty ng-valid ng-touched' />
+[6] (652,45)<button aria-label='노트북 만들기' class='mdc-button mat-mdc-button-base create-notebook-button mdc-button--unelevated mat-mdc-unelevated-button mat-unthemed ng-star-inserted'>add />
+	add
+	노트북 만들기
+[7] (745,45)<button class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger extendable-button mat-tonal-button mat-unthemed'>trending_up />
+	trending_up
+[8] (792,45)<button aria-label='노트북 공유' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger extendable-button mat-tonal-button mat-unthemed'>share />
+	share
+[9] (838,45)<button aria-label='설정' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger extendable-button mat-tonal-button mat-unthemed'>settings />
+	settings
+PRO
+[10] (163,124)<div class='mdc-tab mat-mdc-tab mat-focus-indicator ng-star-inserted mdc-tab--active mdc-tab-indicator--active' id='mat-tab-group-0-label-0' role='tab' />
+	[11] (163,124)<span  />
+		[12] (163,124)<span >출처 />
+[13] (488,124)<div class='mdc-tab mat-mdc-tab mat-focus-indicator ng-star-inserted' id='mat-tab-group-0-label-1' role='tab' />
+	[14] (488,124)<span  />
+		[15] (488,124)<span >채팅 />
+[16] (825,124)<div class='mdc-tab mat-mdc-tab mat-focus-indicator ng-star-inserted' id='mat-tab-group-0-label-2' role='tab' />
+	[17] (825,124)<span  />
+		[18] (825,124)<span >스튜디오 />
+[19] (500,591)<div class='source-panel-content ng-tns-c1831107495-0 ng-star-inserted' scrollable='true' />
+	[20] (494,210)<button aria-label='출처 추가' class='mdc-button mat-mdc-button-base mat-mdc-tooltip-trigger add-source-button ng-tns-c3530338445-2 mdc-button--outlined mat-mdc-outlined-button mat-unthemed cdk-focused cdk-program-focused'>add
+소스 추가 />
+		add
+		소스 추가
+	search
+	[21] (504,297)<textarea aria-label='입력된 질문을 기반으로 소스 검색' class='mat-mdc-input-element cdk-textarea-autosize query-box-textarea ng-untouched ng-pristine ng-invalid mat-mdc-form-field-textarea-control mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored' id='mat-input-0' placeholder='웹에서 새 소스를 검색하세요' />
+	[22] (61,359)<button class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger corpus-select corpus-menu-trigger mat-mdc-button mat-unthemed' />
+		language
+		웹
+		keyboard_arrow_down
+	[23] (172,359)<button class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger corpus-select researcher-menu-trigger mat-mdc-button mat-unthemed' />
+		search_spark
+		Fast Research
+		keyboard_arrow_down
+	arrow_forward
+	모든 소스 선택
+	[24] (954,429)<div  />
+		[25] (954,429)<input aria-label='모든 출처 선택' class='mdc-checkbox__native-control' id='mat-mdc-checkbox-0-input' />
+	[26] (494,491)<div class='single-source-container ng-tns-c3530338445-2 ng-trigger ng-trigger-moveIn ng-star-inserted ng-animate-disabled' />
+		[27] (35,491)<div  />
+			[28] (35,491)<div  />
+				[29] (35,491)<div  />
+					[30] (35,491)<button aria-label='더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger mat-mdc-tooltip-trigger source-item-more-button ng-tns-c3530338445-2 mat-unthemed' id='source-item-more-button-f7b5c1d1-4b2b-4490-aa25-30ee80f3c35f' />
+						[31] (35,491)<div  />
+							[32] (35,488)<mat-icon class='mat-icon notranslate source-item-source-icon ng-tns-c3530338445-2 icon youtube-icon-color google-symbols mat-icon-no-color ng-star-inserted' role='img'>video_youtube />
+		[33] (494,491)<div  />
+			[34] (494,491)<div  />
+				[35] (219,491)<span >3 years into the AI Agency model. Where it’s all going… />
+		[36] (954,491)<div  />
+			[37] (954,491)<mat-checkbox  />
+				[38] (954,491)<div  />
+					[39] (954,491)<div  />
+						[40] (954,491)<input aria-label='3 years into the AI Agency model. Where it’s all going…' class='mdc-checkbox__native-control mdc-checkbox--selected' id='mat-mdc-checkbox-18-input' />
+	[41] (494,559)<div class='single-source-container ng-tns-c3530338445-2 ng-trigger ng-trigger-moveIn ng-star-inserted ng-animate-disabled' />
+		[42] (35,559)<div  />
+			[43] (35,559)<div  />
+				[44] (35,559)<div  />
+					[45] (35,559)<button aria-label='더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger mat-mdc-tooltip-trigger source-item-more-button ng-tns-c3530338445-2 mat-unthemed' id='source-item-more-button-42b7803f-857f-41e8-b0b5-e75fe962b3be' />
+						[46] (35,559)<div  />
+							[47] (35,556)<mat-icon class='mat-icon notranslate source-item-source-icon ng-tns-c3530338445-2 icon youtube-icon-color google-symbols mat-icon-no-color ng-star-inserted' role='img'>video_youtube />
+		[48] (494,559)<div  />
+			[49] (494,559)<div  />
+				[50] (253,559)<span >AGI Is Here. It’s Real. And It Changes Everything — Here’s My Plan />
+		[51] (954,559)<div  />
+			[52] (954,559)<mat-checkbox  />
+				[53] (954,559)<div  />
+					[54] (954,559)<div  />
+						[55] (954,559)<input aria-label='AGI Is Here. It’s Real. And It Changes Everything — Here’s My Plan' class='mdc-checkbox__native-control mdc-checkbox--selected' id='mat-mdc-checkbox-19-input' />
+	[56] (494,627)<div class='single-source-container ng-tns-c3530338445-2 ng-trigger ng-trigger-moveIn ng-star-inserted ng-animate-disabled' />
+		[57] (35,627)<div  />
+			[58] (35,627)<div  />
+				[59] (35,627)<div  />
+					[60] (35,627)<button aria-label='더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger mat-mdc-tooltip-trigger source-item-more-button ng-tns-c3530338445-2 mat-unthemed' id='source-item-more-button-e1bd82c3-b080-4c04-a147-ff4226fd8e28' />
+						[61] (35,627)<div  />
+							[62] (35,624)<mat-icon class='mat-icon notranslate source-item-source-icon ng-tns-c3530338445-2 icon youtube-icon-color google-symbols mat-icon-no-color ng-star-inserted' role='img'>video_youtube />
+		[63] (494,627)<div  />
+			[64] (494,627)<div  />
+				[65] (223,627)<span >AI Agents Full Course 2026: Master Agentic AI (2 Hours) />
+		[66] (954,627)<div  />
+			[67] (954,627)<mat-checkbox  />
+				[68] (954,627)<div  />
+					[69] (954,627)<div  />
+						[70] (954,627)<input aria-label='AI Agents Full Course 2026: Master Agentic AI (2 Hours)' class='mdc-checkbox__native-control mdc-checkbox--selected' id='mat-mdc-checkbox-2-input' />
+	[71] (494,694)<div class='single-source-container ng-tns-c3530338445-2 ng-trigger ng-trigger-moveIn ng-star-inserted ng-animate-disabled' />
+		[72] (35,694)<div  />
+			[73] (35,694)<div  />
+				[74] (35,694)<div  />
+					[75] (35,694)<button aria-label='더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger mat-mdc-tooltip-trigger source-item-more-button ng-tns-c3530338445-2 mat-unthemed' id='source-item-more-button-f3cf6cb8-e7a8-435d-afa4-7d8369900acb' />
+						[76] (35,694)<div  />
+							[77] (35,692)<mat-icon class='mat-icon notranslate source-item-source-icon ng-tns-c3530338445-2 icon youtube-icon-color google-symbols mat-icon-no-color ng-star-inserted' role='img'>video_youtube />
+		[78] (494,694)<div  />
+			[79] (494,694)<div  />
+				[80] (215,694)<span >AI Just Had It’s iPhone Moment...(Here's How to WIN) />
+		[81] (954,694)<div  />
+			[82] (954,694)<mat-checkbox  />
+				[83] (954,694)<div  />
+					[84] (954,694)<div  />
+						[85] (954,694)<input aria-label='AI Just Had It’s iPhone Moment...(Here's How to WIN)' class='mdc-checkbox__native-control mdc-checkbox--selected' id='mat-mdc-checkbox-20-input' />
+	[86] (494,762)<div class='single-source-container ng-tns-c3530338445-2 ng-trigger ng-trigger-moveIn ng-animate-disabled ng-star-inserted' />
+		[87] (35,762)<div  />
+			[88] (35,762)<div  />
+				[89] (35,762)<div  />
+					[90] (35,762)<button aria-label='더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger mat-mdc-tooltip-trigger source-item-more-button ng-tns-c3530338445-2 mat-unthemed' id='source-item-more-button-58e8e6e3-aa6e-433a-a53d-dfc4413ff709' />
+						[91] (35,762)<div  />
+							[92] (35,759)<mat-icon class='mat-icon notranslate source-item-source-icon ng-tns-c3530338445-2 icon youtube-icon-color google-symbols mat-icon-no-color ng-star-inserted' role='img'>video_youtube />
+		[93] (494,762)<div  />
+			[94] (494,762)<div  />
+				[95] (250,762)<span >AI marketing Masterclass: From beginner to expert in 60 minutes />
+		[96] (954,762)<div  />
+			[97] (954,762)<mat-checkbox  />
+				[98] (954,762)<div  />
+					[99] (954,762)<div  />
+						[100] (954,762)<input aria-label='AI marketing Masterclass: From beginner to expert in 60 minutes' class='mdc-checkbox__native-control mdc-checkbox--selected' id='mat-mdc-checkbox-21-input' />
+	[101] (494,830)<div class='single-source-container ng-tns-c3530338445-2 ng-trigger ng-trigger-moveIn ng-animate-disabled ng-star-inserted' />
+		[102] (35,830)<div  />
+			[103] (35,830)<div  />
+				[104] (35,830)<div  />
+					[105] (35,830)<button aria-label='더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger mat-mdc-tooltip-trigger source-item-more-button ng-tns-c3530338445-2 mat-unthemed' id='source-item-more-button-0a07b945-3eff-4659-81c3-94c78d50ab9b' />
+						[106] (35,830)<div  />
+							[107] (35,830)<mat-icon class='mat-icon notranslate source-item-more-menu-icon ng-tns-c3530338445-2 google-symbols mat-icon-no-color ng-star-inserted' role='img'>more_vert />
+		[108] (494,830)<div  />
+			[109] (494,830)<div  />
+				[110] (170,830)<span >Advice for working in a post-AGI world />
+		[111] (954,830)<div  />
+			[112] (954,830)<mat-checkbox  />
+				[113] (954,830)<div  />
+					[114] (954,830)<div  />
+						[115] (954,830)<input aria-label='Advice for working in a post-AGI world' class='mdc-checkbox__native-control mdc-checkbox--selected' id='mat-mdc-checkbox-6-input' />
+	[116] (35,898)<div  />
+		[117] (35,898)<div  />
+			[118] (35,898)<div  />
+				[119] (35,898)<button aria-label='더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger mat-mdc-tooltip-trigger source-item-more-button ng-tns-c3530338445-2 mat-unthemed' id='source-item-more-button-2f04fcae-6fe7-482e-9155-d92e96becf17' />
+					[120] (35,898)<div  />
+						[121] (35,895)<mat-icon class='mat-icon notranslate source-item-source-icon ng-tns-c3530338445-2 icon youtube-icon-color google-symbols mat-icon-no-color ng-star-inserted' role='img'>video_youtube />
+	[122] (234,898)<span >CLAUDE CODE FULL COURSE 4 HOURS: Build & Sell (2026) />
+	[123] (954,898)<div  />
+		[124] (954,898)<mat-checkbox  />
+			[125] (954,898)<div  />
+				[126] (954,898)<div  />
+					[127] (954,898)<input aria-label='CLAUDE CODE FULL COURSE 4 HOURS: Build & Sell (2026)' class='mdc-checkbox__native-control mdc-checkbox--selected' id='mat-mdc-checkbox-5-input' />
+	[128] (35,966)<div  />
+		[129] (35,966)<div  />
+			[130] (35,966)<div  />
+				[131] (35,966)<button aria-label='더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger mat-mdc-tooltip-trigger source-item-more-button ng-tns-c3530338445-2 mat-unthemed' id='source-item-more-button-ab31622a-281c-49dd-9b5d-dc9aefce4f0d' />
+					[132] (35,966)<div  />
+						[133] (35,963)<mat-icon class='mat-icon notranslate source-item-source-icon ng-tns-c3530338445-2 icon youtube-icon-color google-symbols mat-icon-no-color ng-star-inserted' role='img'>video_youtube />
+	[134] (225,966)<span >Claude Code & MCPs built my $145K marketing machine />
+	[135] (954,966)<div  />
+		[136] (954,966)<mat-checkbox  />
+			[137] (954,966)<div  />
+				[138] (954,966)<div  />
+					[139] (954,966)<input aria-label='Claude Code & MCPs built my $145K marketing machine' class='mdc-checkbox__native-control mdc-checkbox--selected' id='mat-mdc-checkbox-22-input' />
+Advice for working in a post-AGI world
+
+</current_dom>
