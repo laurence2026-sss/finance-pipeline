@@ -44,20 +44,28 @@ SECTORS = {
 
 
 def load_daily_items() -> list:
-    """오늘 날짜(KST) daily JSON 로드. 없으면 어제치 시도."""
+    """오늘과 어제의 daily JSON 데이터를 합쳐서 반환합니다."""
     today = datetime.now(KST).strftime("%Y-%m-%d")
     yesterday = (datetime.now(KST) - timedelta(days=1)).strftime("%Y-%m-%d")
+
+    all_items = []
+    seen_ids = set()
 
     for date in [today, yesterday]:
         path = os.path.join(DATA_DIR, f"daily_{date}.json")
         if os.path.exists(path):
-            with open(path, "r", encoding="utf-8") as f:
-                items = json.load(f)
-            print(f"[Reporter] {date} 데이터 로드: {len(items)}건")
-            return items
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    items = json.load(f)
+                    for item in items:
+                        if item["id"] not in seen_ids:
+                            seen_ids.add(item["id"])
+                            all_items.append(item)
+            except Exception:
+                pass
 
-    print("[Reporter] daily 파일 없음")
-    return []
+    print(f"[Reporter] 최근 2일치 누적 데이터 로드: {len(all_items)}건")
+    return all_items
 
 
 def group_by_sector(items: list) -> dict:
@@ -255,7 +263,10 @@ def run_reporter():
 
     items = load_daily_items()
     if not items:
-        print("[Reporter] 데이터 없음 — 종료")
+        print("[Reporter] 데이터 없음 — 빈 리포트 발송")
+        today_str = datetime.now(KST).strftime("%Y-%m-%d")
+        empty_msg = f"📊 *Daily Intel Brief | {today_str}*\n\n안녕하세요! 지난 24시간 동안 AI 필터(7점 이상)를 통과한 새로운 핵심 뉴스가 없습니다. 시장을 지속적으로 모니터링 중입니다. 🔭"
+        send_telegram(empty_msg)
         return
 
     exclusive = sum(1 for i in items if "독점" in i.get("korea_status", ""))

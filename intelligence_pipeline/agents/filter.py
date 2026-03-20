@@ -186,9 +186,15 @@ def _parse_batch_response(reply: str, items: List[Dict]) -> List[Dict]:
                     items[i]["leading_companies"] = analysis.get("leading_companies", [])
                     items[i]["category"] = analysis.get("category", "unknown")
                     items[i]["urgency"] = analysis.get("urgency", "medium")
-    except Exception:
+        else:
+            raise ValueError("No JSON array found in response")
+    except Exception as e:
+        print(f"  [Filter] 파싱 오류: {e}")
         for item in items:
             item.setdefault("filter_score", 5)
+            item.setdefault("summary_ko", item.get("title", ""))
+            item.setdefault("emerging_sector", "Unknown")
+            item.setdefault("leading_companies", [])
     return items
 
 def _build_batch_prompt(items: List[Dict]) -> str:
