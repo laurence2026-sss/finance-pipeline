@@ -58,7 +58,7 @@ jobs:
 
       - name: 📦 의존성 설치
         run: |
-          pip install requests python-dotenv groq
+          pip install feedparser requests python-dotenv yfinance groq beautifulsoup4 lxml
 
       - name: 📊 일일 브리핑 발송
         env:
