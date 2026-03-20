@@ -1,5 +1,50 @@
 [
   {
+    "id": "b74cf92649f7f4b37e2c114c827050ae",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "EV Demand Surges Across Asia After Energy Shock Sends Consumers Into Panic Mode",
+    "summary": "EV Demand Surges Across Asia After Energy Shock Sends Consumers Into Panic Mode\n\n            One of the biggest takeaways in global energy markets this week is the growing fragmentation. Brent crude in Asia has surged to over $150 a barrel, with demand destruction already emerging, and China and India facing the greatest pressure given their heavy reliance on Gulf crude. Meanwhile, the Trump administration has moved to release barrels from the Strategic Petroleum Reserve to help cap WTI prices b",
+    "url": "https://www.zerohedge.com/technology/ev-demand-surges-across-asia-after-energy-shock-sends-consumers-panic-mode",
+    "published_at": "2026-03-20T21:40:00+00:00",
+    "collected_at": "2026-03-20T23:36:39.205899+00:00",
+    "filter_score": 8,
+    "summary_ko": "아시아에서 전기차 수요가 급증하고 있다. 에너지 쇼크로 인해 소비자들이 패닉 모드로 들어갔다.",
+    "emerging_sector": "EV",
+    "leading_companies": [
+      "테슬라",
+      "현대자동차",
+      "기아자동차"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "급등"
+  },
+  {
+    "id": "6b4078147584dde07ca6dae1a2a2fc24",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Earendil Labs, an AI-powered drugmaker, hauls in $787M",
+    "summary": "The hefty funding will support a U.S. and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
+    "published_at": "2026-03-20T17:13:00+00:00",
+    "collected_at": "2026-03-20T23:36:41.148816+00:00",
+    "filter_score": 8,
+    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs가 787M 달러의 자금을 유치",
+    "emerging_sector": "AI 기반 의약품 개발",
+    "leading_companies": [
+      "Earendil Labs",
+      "Sanofi"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "Earendil"
+  },
+  {
     "id": "b4aa27b198e3ca410126441c134ef08f",
     "source": "ZeroHedge",
     "source_type": "rss",
@@ -7,17 +52,39 @@
     "summary": "Will Chinese Robot Maker Unitree's Shanghai IPO Spark A Humanoid-Investing Bubble\n\n            Unitree Robotics, one of China's top robot makers - spanning robo-dogs to humanoid robots - has filed for a Shanghai STAR Board IPO, according to Bloomberg. The planned listing suggests that the humanoid robotics industry is entering a more accelerated commercialization phase in 2026, with a broader pipeline of public offerings likely to emerge alongside rising private capital flows across Asia and the",
     "url": "https://www.zerohedge.com/technology/will-chinese-robot-maker-unitrees-shanghai-ipo-spark-humanoid-investing-bubble",
     "published_at": "2026-03-20T18:25:00+00:00",
-    "collected_at": "2026-03-20T22:31:36.014685+00:00",
+    "collected_at": "2026-03-20T23:36:39.206353+00:00",
     "filter_score": 7,
-    "summary_ko": "중국 로봇 제조업체 유니트리의 상해 상장으로 인해 휴머노이드 투자 열풍이 발생할 수 있음",
-    "emerging_sector": "휴머노이드 로봇",
+    "summary_ko": "중국 로봇 제조업체인 Unitree가 상하이에서 IPO를 준비 중이며, 이는 휴머노이드 로봇 투자 열풍을 불러올 수 있습니다. Unitree는 로보독스부터 휴머노이드 로봇까지 다양한 로봇을 생산하는 중국의 대표적인 로봇 제조업체입니다.",
+    "emerging_sector": "Humanoid Robotics",
     "leading_companies": [
-      "Unitree Robotics"
+      "Unitree"
     ],
     "category": "tech_trend",
-    "urgency": "medium",
+    "urgency": "high",
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 0,
     "korea_search_query": "IPO OR 상장 로보틱스 휴머노이드"
+  },
+  {
+    "id": "d7d8eadb7b8569a10cb1b16eda372342",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Novartis pays $2B to land a startup’s breast cancer drug",
+    "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
+    "published_at": "2026-03-20T14:34:00+00:00",
+    "collected_at": "2026-03-20T23:36:41.148847+00:00",
+    "filter_score": 7,
+    "summary_ko": "Novartis가 스타트업의 유방암 약물 개발을 위해 20억 달러를 지불",
+    "emerging_sector": "유방암 약물 개발",
+    "leading_companies": [
+      "Novartis",
+      "Synnovation Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 2,
+    "korea_search_query": "Novartis"
   }
 ]

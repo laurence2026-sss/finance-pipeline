@@ -292,5 +292,28 @@
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 0,
     "korea_search_query": "IPO OR 상장 로보틱스 휴머노이드"
+  },
+  {
+    "id": "b74cf92649f7f4b37e2c114c827050ae",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "EV Demand Surges Across Asia After Energy Shock Sends Consumers Into Panic Mode",
+    "summary": "EV Demand Surges Across Asia After Energy Shock Sends Consumers Into Panic Mode\n\n            One of the biggest takeaways in global energy markets this week is the growing fragmentation. Brent crude in Asia has surged to over $150 a barrel, with demand destruction already emerging, and China and India facing the greatest pressure given their heavy reliance on Gulf crude. Meanwhile, the Trump administration has moved to release barrels from the Strategic Petroleum Reserve to help cap WTI prices b",
+    "url": "https://www.zerohedge.com/technology/ev-demand-surges-across-asia-after-energy-shock-sends-consumers-panic-mode",
+    "published_at": "2026-03-20T21:40:00+00:00",
+    "collected_at": "2026-03-20T23:36:39.205899+00:00",
+    "filter_score": 8,
+    "summary_ko": "아시아에서 전기차 수요가 급증하고 있다. 에너지 쇼크로 인해 소비자들이 패닉 모드로 들어갔다.",
+    "emerging_sector": "EV",
+    "leading_companies": [
+      "테슬라",
+      "현대자동차",
+      "기아자동차"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "급등"
   }
 ]
