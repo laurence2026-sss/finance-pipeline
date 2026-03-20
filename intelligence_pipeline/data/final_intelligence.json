@@ -1,26 +1,5 @@
 [
   {
-    "id": "d04c007a11da2d5e36bbd3df2f9da247",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "JPMorgan Activates BTC & ETH As Institutional Collateral",
-    "summary": "JPMorgan Activates BTC & ETH As Institutional Collateral\n\n            Via Sentora Research,\n\nJPMorgan has officially bridged the gap between \"Digital Gold\" and \"Wholesale Credit.\" \n\nThe activation of direct BTC and ETH collateralization allows institutional giants to finally turn their dormant holdings into immediate USD liquidity without selling a single satoshi.\n\nOperating through the Kinexys (formerly Onyx) digital financing platform, the bank now allows institutional clients like hedge funds",
-    "url": "https://www.zerohedge.com/crypto/jpmorgan-activates-btc-eth-institutional-collateral",
-    "published_at": "2026-03-20T15:25:00+00:00",
-    "collected_at": "2026-03-20T20:36:16.738173+00:00",
-    "filter_score": 8,
-    "summary_ko": "JPMorgan은 비트코인과 이더리움을 기관 담보로 활성화했다. 이는 디지털 자산과 전통 금융 간의 격차를 좁히는 중요한 단계이다.",
-    "emerging_sector": "Digital Asset",
-    "leading_companies": [
-      "JPMorgan"
-    ],
-    "category": "smart_money",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 7,
-    "korea_search_query": "JPMorgan"
-  },
-  {
     "id": "6b4078147584dde07ca6dae1a2a2fc24",
     "source": "BioPharma Dive",
     "source_type": "rss",
@@ -28,9 +7,9 @@
     "summary": "The hefty funding will support a U.S. and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-20T20:36:20.646538+00:00",
+    "collected_at": "2026-03-20T22:19:35.111302+00:00",
     "filter_score": 8,
-    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs, 787억 달러 투자 유치",
+    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs가 787M 달러의 자금을 확보",
     "emerging_sector": "AI 기반 의약품 개발",
     "leading_companies": [
       "Earendil Labs",
@@ -50,10 +29,10 @@
     "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said&nbsp;Sant&eacute; Ventures&rsquo; Omar Khalil.",
     "url": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
     "published_at": "2026-03-19T13:40:00+00:00",
-    "collected_at": "2026-03-20T20:36:20.646628+00:00",
+    "collected_at": "2026-03-20T22:19:35.111394+00:00",
     "filter_score": 8,
-    "summary_ko": "바이오테크 벤처 캐피탈은 바이오테크 스타트업의 전환기를 예상합니다. 이는 새로운 자금 조달 물결이 형성되고 있음을 시사합니다.",
-    "emerging_sector": "바이오테크",
+    "summary_ko": "바이오텍 VC는 스타트업의 전환기를 예상합니다. 새로운 자금 조달이 이루어지면서 젊은 제약업체와 그들의 지원자가 다시 оптим주의 기운을 느끼고 있습니다.",
+    "emerging_sector": "바이오텍 스타트업",
     "leading_companies": [
       "산테 벤처스"
     ],
@@ -64,6 +43,27 @@
     "korea_search_query": ""
   },
   {
+    "id": "b4aa27b198e3ca410126441c134ef08f",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Will Chinese Robot Maker Unitree's Shanghai IPO Spark A Humanoid-Investing Bubble",
+    "summary": "Will Chinese Robot Maker Unitree's Shanghai IPO Spark A Humanoid-Investing Bubble\n\n            Unitree Robotics, one of China's top robot makers - spanning robo-dogs to humanoid robots - has filed for a Shanghai STAR Board IPO, according to Bloomberg. The planned listing suggests that the humanoid robotics industry is entering a more accelerated commercialization phase in 2026, with a broader pipeline of public offerings likely to emerge alongside rising private capital flows across Asia and the",
+    "url": "https://www.zerohedge.com/technology/will-chinese-robot-maker-unitrees-shanghai-ipo-spark-humanoid-investing-bubble",
+    "published_at": "2026-03-20T18:25:00+00:00",
+    "collected_at": "2026-03-20T22:19:33.173172+00:00",
+    "filter_score": 7,
+    "summary_ko": "중국 로봇 제조업체 유니트리의 상해 상장으로 인한 휴머노이드 투자 열풍",
+    "emerging_sector": "휴머노이드 로봇",
+    "leading_companies": [
+      "Unitree Robotics"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "IPO OR 상장 로보틱스 휴머노이드"
+  },
+  {
     "id": "d7d8eadb7b8569a10cb1b16eda372342",
     "source": "BioPharma Dive",
     "source_type": "rss",
@@ -71,18 +71,18 @@
     "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
     "published_at": "2026-03-20T14:34:00+00:00",
-    "collected_at": "2026-03-20T20:36:20.646569+00:00",
+    "collected_at": "2026-03-20T22:19:35.111335+00:00",
     "filter_score": 7,
-    "summary_ko": "노바티스, 스타트업의 유방암 치료제 인수",
-    "emerging_sector": "유방암 치료제",
+    "summary_ko": "Novartis가 스타트업의 유방암 약물 개발을 20억 달러에 인수",
+    "emerging_sector": "유방암 약물 개발",
     "leading_companies": [
-      "노바티스",
+      "Novartis",
       "Synnovation Therapeutics"
     ],
     "category": "tech_trend",
-    "urgency": "medium",
-    "korea_status": "⚡ 초기 반영",
-    "korea_news_count": 3,
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 2,
     "korea_search_query": "Novartis"
   },
   {
@@ -93,15 +93,15 @@
     "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
     "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-20T20:36:20.646605+00:00",
+    "collected_at": "2026-03-20T22:19:35.111372+00:00",
     "filter_score": 7,
-    "summary_ko": "엘리 릴리의 레트라튜트는 대규모 당뇨병 임상시험에서 목표를 달성했습니다. 이는 레트라튜트가 비만 치료에 효과적일 수 있음을 시사합니다.",
-    "emerging_sector": "의료 기술",
+    "summary_ko": "엘리 릴리의 3중 작용 비만약 레트라튜드는 대규모 당뇨병 임상시험에서 목표를 달성했습니다. 이는 레트라튜드가 비만 치료에 효과적일 수 있음을 시사합니다.",
+    "emerging_sector": "비만 치료",
     "leading_companies": [
       "엘리 릴리"
     ],
     "category": "tech_trend",
-    "urgency": "medium",
+    "urgency": "high",
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Lilly"
@@ -114,17 +114,17 @@
     "summary": "The planned Shanghai facility extends a yearslong push into the field and will support CAR-T therapies AstraZeneca is making for autoimmune disease and cancer.",
     "url": "https://www.biopharmadive.com/news/astrazeneca-cell-therapy-china-shanghai-biotech/815159/",
     "published_at": "2026-03-19T11:22:00+00:00",
-    "collected_at": "2026-03-20T20:36:20.646638+00:00",
+    "collected_at": "2026-03-20T22:19:35.111404+00:00",
     "filter_score": 7,
-    "summary_ko": "아스트라제네카는 중국에 새로운 시설을 투자하여 세포 치료 능력을 강화할 계획입니다. 이는 아스트라제네카의 CAR-T 치료를 지원할 것입니다.",
-    "emerging_sector": "의료 기술",
+    "summary_ko": "아스트라제네카는 중국에 새로운 시설을 투자하여 세포 치료 능력을 강화할 계획입니다. 이는 CAR-T 치료를 위한 시설로, 자가면역질환과 암 치료를 지원할 것입니다.",
+    "emerging_sector": "CAR-T 치료",
     "leading_companies": [
       "아스트라제네카"
     ],
     "category": "tech_trend",
     "urgency": "medium",
     "korea_status": "🔥 독점 정보",
-    "korea_news_count": 2,
+    "korea_news_count": 1,
     "korea_search_query": "AstraZeneca"
   }
 ]
