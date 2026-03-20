@@ -1,23 +1,5 @@
 [
   {
-    "id": "ac18daff25fb2d232a859c5a0b1c6072",
-    "source": "STAT News",
-    "source_type": "rss",
-    "title": "STAT+: A family’s giving to the Broad Institute’s research tops $1 billion",
-    "summary": "The Broad Institute of MIT and Harvard is poised to receive a massive injection of cash to fund research in the understanding and treatment of bipolar disorder and schizophrenia research.",
-    "url": "https://www.statnews.com/2026/03/20/broad-institute-mit-harvard-stanley-family-foundation/?utm_campaign=rss",
-    "published_at": "2026-03-20T08:30:00+00:00",
-    "collected_at": "2026-03-20T14:44:02.422615+00:00",
-    "filter_score": 7,
-    "summary_ko": "ブロ드 연구소가 10억 달러의 기부금을 받았다.",
-    "emerging_sector": "바이오테크",
-    "leading_companies": [
-      "ブロド 연구소"
-    ],
-    "category": "smart_money",
-    "urgency": "high"
-  },
-  {
     "id": "8233e6d4f24430fc8f3fd7042fe2232a",
     "source": "ZeroHedge",
     "source_type": "rss",
@@ -25,10 +7,10 @@
     "summary": "How To Transport Next-Gen Nuclear Fuel Safely? NANO Nuclear Hits Key Milestone\n\n            Authored by Prabhat Ranjan Mishra via Interesting Engineering,\n\nA New York-based company has taken a significant step to develop a proprietary, optimized transportation solution for High-Assay Low-Enriched Uranium (HALEU) fuel.\n\n\nNANO Nuclear Energy achieved the conceptual design milestone for an advanced, proprietary HALEU transport package supporting next-generation nuclear reactors.\n\nWorld-class nuclea",
     "url": "https://www.zerohedge.com/political/how-transport-next-gen-nuclear-fuel-safely-nano-nuclear-hits-key-milestone",
     "published_at": "2026-03-20T10:30:00+00:00",
-    "collected_at": "2026-03-20T14:43:59.933498+00:00",
+    "collected_at": "2026-03-20T15:21:40.003625+00:00",
     "filter_score": 6,
-    "summary_ko": "나노 핵원자로(NANO Nuclear)가 차세대 원자로 연료를 안전하게 운송하는 기술을 개발했다.",
-    "emerging_sector": "원자로 기술",
+    "summary_ko": "NANO Nuclear은 차세대 원자로 연료를 안전하게 운송하는 방법에 대한 중요한 이정표를 달성했다.",
+    "emerging_sector": "원자력 산업",
     "leading_companies": [
       "NANO Nuclear"
     ],
@@ -43,10 +25,10 @@
     "summary": "This week on \"The Readout LOUD,\" a conversation with biotech \"godfather\" Stelios Papadapolous live from #STATBreakthrough.",
     "url": "https://www.statnews.com/2026/03/20/readout-loud-podcast-stelios-papadopoulos-obesity-lilly-structure/?utm_campaign=rss",
     "published_at": "2026-03-20T14:25:21+00:00",
-    "collected_at": "2026-03-20T14:44:02.422564+00:00",
+    "collected_at": "2026-03-20T15:21:41.838729+00:00",
     "filter_score": 5,
-    "summary_ko": "바이오테크의 '고트파더' 스텔리오스 파파도풀로스와의 대화",
-    "emerging_sector": "바이오테크",
+    "summary_ko": "바이오텍의 '고드파더'인 스텔리오스 파파도풀로스와의 대화가 발표되었다.",
+    "emerging_sector": "바이오텍",
     "leading_companies": [],
     "category": "tech_trend",
     "urgency": "medium"
@@ -59,13 +41,24 @@
     "summary": "Following successful appeals from drugmakers, the U.K. is taking another look at whether two new Alzheimer's drugs can be considered cost-effective.",
     "url": "https://www.statnews.com/2026/03/20/uk-nice-leqembi-kisunla-alzheimers-price-cost-effective/?utm_campaign=rss",
     "published_at": "2026-03-20T11:05:24+00:00",
-    "collected_at": "2026-03-20T14:44:02.422604+00:00",
+    "collected_at": "2026-03-20T15:21:41.838775+00:00",
     "filter_score": 5,
-    "summary_ko": "영국이 알츠하이머병 치료제의 비용 효과성을 재검토할 것",
-    "emerging_sector": "바이오테크",
+    "summary_ko": "영국은 알츠하이머병 치료제의 비용 효율성을 다시 평가하기로 결정했다.",
+    "emerging_sector": "의료 산업",
     "leading_companies": [],
     "category": "tech_trend",
     "urgency": "medium"
+  },
+  {
+    "id": "ac18daff25fb2d232a859c5a0b1c6072",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: A family’s giving to the Broad Institute’s research tops $1 billion",
+    "summary": "The Broad Institute of MIT and Harvard is poised to receive a massive injection of cash to fund research in the understanding and treatment of bipolar disorder and schizophrenia research.",
+    "url": "https://www.statnews.com/2026/03/20/broad-institute-mit-harvard-stanley-family-foundation/?utm_campaign=rss",
+    "published_at": "2026-03-20T08:30:00+00:00",
+    "collected_at": "2026-03-20T15:21:41.838788+00:00",
+    "filter_score": 5
   },
   {
     "id": "0e83ee756bc806eba7f0221a0f3debbc",
@@ -75,7 +68,7 @@
     "summary": "The farm bill shows politicians catering to the agriculture industry risk losing the support of MAHA while running afoul of public health goals.",
     "url": "https://www.statnews.com/2026/03/20/maha-movement-dismay-farm-bill-boosts-tobacco-pesticides/?utm_campaign=rss",
     "published_at": "2026-03-20T08:30:00+00:00",
-    "collected_at": "2026-03-20T14:44:02.422625+00:00",
+    "collected_at": "2026-03-20T15:21:41.838799+00:00",
     "filter_score": 5
   },
   {
@@ -86,7 +79,7 @@
     "summary": "Congress must fix the No Surprises Act before it bankrupts patients and employers, James Gelfand and Patricia Kelmar write.",
     "url": "https://www.statnews.com/2026/03/20/no-surprises-act-independent-dispute-resolution-process/?utm_campaign=rss",
     "published_at": "2026-03-20T08:30:00+00:00",
-    "collected_at": "2026-03-20T14:44:02.422634+00:00",
+    "collected_at": "2026-03-20T15:21:41.838810+00:00",
     "filter_score": 5
   },
   {
@@ -97,7 +90,7 @@
     "summary": "OB-GYNs increasingly can, and want to, address pain from procedures like IUD insertion.",
     "url": "https://www.statnews.com/2026/03/20/iud-insertion-pain-treatment-options-empowerment/?utm_campaign=rss",
     "published_at": "2026-03-20T08:30:00+00:00",
-    "collected_at": "2026-03-20T14:44:02.422643+00:00",
+    "collected_at": "2026-03-20T15:21:41.838835+00:00",
     "filter_score": 5
   },
   {
@@ -108,18 +101,18 @@
     "summary": "Looking to bolster its pipeline, Novartis is buying a breast cancer drug candidate for $2 billion from Delaware-based Synnovation Therapeutics.",
     "url": "https://www.statnews.com/2026/03/20/novartis-acquires-synnovation-breast-cancer-drug-snv4818/?utm_campaign=rss",
     "published_at": "2026-03-20T08:22:25+00:00",
-    "collected_at": "2026-03-20T14:44:02.422652+00:00",
+    "collected_at": "2026-03-20T15:21:41.838848+00:00",
     "filter_score": 5
   },
   {
-    "id": "0e4dbb042f867f3752d8b9930d549cfb",
-    "source": "STAT News",
+    "id": "d7d8eadb7b8569a10cb1b16eda372342",
+    "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "STAT+: Political influence ‘a serious problem’ for FDA under Trump, former commissioner says",
-    "summary": "“What's changed now is that there's a view in this administration that everything is political,” said Robert Califf, former FDA commissioner.",
-    "url": "https://www.statnews.com/2026/03/19/political-influence-serious-problem-fda-former-commissioner-robert-califf/?utm_campaign=rss",
-    "published_at": "2026-03-20T00:54:44+00:00",
-    "collected_at": "2026-03-20T14:44:02.422662+00:00",
+    "title": "Novartis pays $2B to land a startup’s breast cancer drug",
+    "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
+    "published_at": "2026-03-20T14:34:00+00:00",
+    "collected_at": "2026-03-20T15:21:42.154923+00:00",
     "filter_score": 5
   },
   {
@@ -130,7 +123,7 @@
     "summary": "Imcivree&rsquo;s approval in a type of obesity driven by brain injury could unlock an opportunity Wall Street analysts believe to be worth more than $1 billion.",
     "url": "https://www.biopharmadive.com/news/rhythm-imcivree-fda-approve-acquired-hypothalamic-obesity/815276/",
     "published_at": "2026-03-20T11:30:00+00:00",
-    "collected_at": "2026-03-20T14:44:02.702735+00:00",
+    "collected_at": "2026-03-20T15:21:42.154942+00:00",
     "filter_score": 5
   },
   {
@@ -141,7 +134,7 @@
     "summary": "The clearance, issued 54 days after an approval submission, gives Novo another chance to claw back market share from Eli Lilly.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novo-high-dose-wegovy-fda-approval-voucher-obesity/815235/",
     "published_at": "2026-03-19T18:09:00+00:00",
-    "collected_at": "2026-03-20T14:44:02.702752+00:00",
+    "collected_at": "2026-03-20T15:21:42.154955+00:00",
     "filter_score": 5
   },
   {
@@ -152,7 +145,7 @@
     "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
     "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-20T14:44:02.702766+00:00",
+    "collected_at": "2026-03-20T15:21:42.154967+00:00",
     "filter_score": 5
   },
   {
@@ -163,7 +156,7 @@
     "summary": "While sales of Talzenna, which Pfizer acquired in a $14 billion deal, have been &ldquo;negligible&rdquo; so far, the new results should justify use in earlier lines of care, one analyst said.&nbsp;",
     "url": "https://www.biopharmadive.com/news/pfizer-talzenna-prostate-parp-early-talapro-study-results/815180/",
     "published_at": "2026-03-19T15:37:00+00:00",
-    "collected_at": "2026-03-20T14:44:02.702779+00:00",
+    "collected_at": "2026-03-20T15:21:42.154981+00:00",
     "filter_score": 5
   },
   {
@@ -174,7 +167,7 @@
     "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said&nbsp;Sant&eacute; Ventures&rsquo; Omar Khalil.",
     "url": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
     "published_at": "2026-03-19T13:40:00+00:00",
-    "collected_at": "2026-03-20T14:44:02.702790+00:00",
+    "collected_at": "2026-03-20T15:21:42.154995+00:00",
     "filter_score": 5
   },
   {
@@ -185,7 +178,7 @@
     "summary": "The planned Shanghai facility extends a yearslong push into the field and will support CAR-T therapies AstraZeneca is making for autoimmune disease and cancer.",
     "url": "https://www.biopharmadive.com/news/astrazeneca-cell-therapy-china-shanghai-biotech/815159/",
     "published_at": "2026-03-19T11:22:00+00:00",
-    "collected_at": "2026-03-20T14:44:02.702802+00:00",
+    "collected_at": "2026-03-20T15:21:42.155006+00:00",
     "filter_score": 5
   },
   {
@@ -196,7 +189,7 @@
     "summary": "As part of a larger review, analyst Leonid Timashev identified 13 companies that could see deal interest as well as more than half a dozen poised to be potential buyers.",
     "url": "https://www.biopharmadive.com/news/biotech-takeover-targets-rbc-mergers-acquisitions-deals/815061/",
     "published_at": "2026-03-18T16:14:00+00:00",
-    "collected_at": "2026-03-20T14:44:02.702813+00:00",
+    "collected_at": "2026-03-20T15:21:42.155016+00:00",
     "filter_score": 5
   },
   {
@@ -207,7 +200,7 @@
     "summary": "The clearance is the first for an oral peptide that blocks IL-23, the target of popular medicines like Skyrizi and Tremfya.&nbsp;J&J has said the new drug, Icotyde, has the potential to top $5 billion in sales.",
     "url": "https://www.biopharmadive.com/news/jnj-psoriasis-pill-il-23-icotyde-fda-approval/815076/",
     "published_at": "2026-03-18T16:05:00+00:00",
-    "collected_at": "2026-03-20T14:44:02.702824+00:00",
+    "collected_at": "2026-03-20T15:21:42.155028+00:00",
     "filter_score": 5
   },
   {
@@ -218,18 +211,7 @@
     "summary": "Aspen Neuroscience presented positive Phase 1/2 data for its stem cell-derived therapy. Elsewhere, Aldeyra lost over half its market value following a rejection from the FDA.",
     "url": "https://www.biopharmadive.com/news/aspen-aldeyra-fda-rhythm-mestag/814969/",
     "published_at": "2026-03-18T15:45:00+00:00",
-    "collected_at": "2026-03-20T14:44:02.702836+00:00",
-    "filter_score": 5
-  },
-  {
-    "id": "fb6a3bad8298bcf849ee77da312f3121",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "Crossbow raises $77M for new cancer immunotherapies",
-    "summary": "Backed by more than a dozen investors, the biotech startup will use the funding to further a Phase 1 trial of its lead program CBX-250.",
-    "url": "https://www.biopharmadive.com/news/crossbow-cancer-immunotherapies-tce-series-b/815049/",
-    "published_at": "2026-03-18T14:11:52+00:00",
-    "collected_at": "2026-03-20T14:44:02.702847+00:00",
+    "collected_at": "2026-03-20T15:21:42.155040+00:00",
     "filter_score": 5
   },
   {
@@ -239,8 +221,19 @@
     "title": "<a href=\"https://www.fiercebiotech.com/medtech/intuitive-recalls-surgical-stapler-reloads-following-patient-death\" hreflang=\"en\">Intuitive recalls surgical stapler reloads following patient death</a>",
     "summary": "This comes in the same week that Intuitive reported a cyberattack, with a phishing incident targeting some of its employees.",
     "url": "https://www.fiercebiotech.com/medtech/intuitive-recalls-surgical-stapler-reloads-following-patient-death",
-    "published_at": "2026-03-20T14:44:02.891058+00:00",
-    "collected_at": "2026-03-20T14:44:02.891073+00:00",
+    "published_at": "2026-03-20T15:21:42.297898+00:00",
+    "collected_at": "2026-03-20T15:21:42.297918+00:00",
+    "filter_score": 5
+  },
+  {
+    "id": "95bdb22dd977455eb181ce517732e999",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/ai-and-machine-learning/behind-curtain-what-xaira-building-after-its-1b-fundraise\" hreflang=\"en\">Behind the curtain: What Xaira is building after its $1B fundraise</a>",
+    "summary": "What has Xaira been doing since its $1 billion raise? Xaira COO Jeff Jonker joins \"The Top Line\" to talk strategy, AI and the company’s long-game vision for drug discovery.",
+    "url": "https://www.fiercebiotech.com/ai-and-machine-learning/behind-curtain-what-xaira-building-after-its-1b-fundraise",
+    "published_at": "2026-03-20T15:21:42.297932+00:00",
+    "collected_at": "2026-03-20T15:21:42.297940+00:00",
     "filter_score": 5
   },
   {
@@ -250,8 +243,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-topol-boards-flagship-advisor\" hreflang=\"en\">Chutes &amp; Ladders—Eric Topol boards Flagship as advisor</a>",
     "summary": "Renowned cardiologist Eric Topol, M.D., is setting sail with Flagship Pioneering as an academic advisor for the firm’s Preemptive Health and Medicine Initiative. Topol is director of the Scripps Research Translational Institute, which he founded in 2007 within San Diego biomedicine hub Scripps Research.",
     "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-topol-boards-flagship-advisor",
-    "published_at": "2026-03-20T14:44:02.891088+00:00",
-    "collected_at": "2026-03-20T14:44:02.891096+00:00",
+    "published_at": "2026-03-20T15:21:42.297952+00:00",
+    "collected_at": "2026-03-20T15:21:42.297959+00:00",
     "filter_score": 5
   },
   {
@@ -261,8 +254,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle\" hreflang=\"en\">Novartis pays Synnovation $2B upfront for breast cancer program as rivals circle</a>",
     "summary": "Novartis has struck a deal to buy Synnovation Therapeutics’ pan-mutant‑selective PI3Kα inhibitor for $2 billion upfront, securing an asset that could defend its breast cancer franchise from challengers including Eli Lilly.",
     "url": "https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle",
-    "published_at": "2026-03-20T14:44:02.891106+00:00",
-    "collected_at": "2026-03-20T14:44:02.891113+00:00",
+    "published_at": "2026-03-20T15:21:42.297968+00:00",
+    "collected_at": "2026-03-20T15:21:42.297974+00:00",
     "filter_score": 5
   },
   {
@@ -272,8 +265,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/gilead-turns-down-chance-take-assemblys-phase-1-stage-hbv-antiviral\" hreflang=\"en\">Gilead turns down chance to build on Assembly's phase 1-stage HBV antiviral</a>",
     "summary": "Gilead has handed back a next-gen hepatitis B antiviral to Assembly Biosciences, while the two companies continue to partner on other assets.",
     "url": "https://www.fiercebiotech.com/biotech/gilead-turns-down-chance-take-assemblys-phase-1-stage-hbv-antiviral",
-    "published_at": "2026-03-20T14:44:02.891121+00:00",
-    "collected_at": "2026-03-20T14:44:02.891127+00:00",
+    "published_at": "2026-03-20T15:21:42.297983+00:00",
+    "collected_at": "2026-03-20T15:21:42.297988+00:00",
     "filter_score": 5
   },
   {
@@ -283,8 +276,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company\" hreflang=\"en\">Verily banks $300M to accelerate AI road map, transitions to independent company</a>",
     "summary": "Verily raised a $300 million investment round to accelerate its work in artificial intelligence and precision health as it also moves out from under the corporate umbrella of Alphabet.",
     "url": "https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company",
-    "published_at": "2026-03-20T14:44:02.891136+00:00",
-    "collected_at": "2026-03-20T14:44:02.891141+00:00",
+    "published_at": "2026-03-20T15:21:42.297997+00:00",
+    "collected_at": "2026-03-20T15:21:42.298002+00:00",
     "filter_score": 5
   },
   {
@@ -294,8 +287,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/medtech/embecta-buy-auto-injector-maker-owen-mumford-200m-diversify-beyond-insulin\" hreflang=\"en\">Embecta to buy auto-injector maker Owen Mumford for $200M to diversify beyond insulin</a>",
     "summary": "Embecta has agreed to pay 100 million pounds sterling upfront for the company, or about $134.3 million, plus another 50 million pounds in sales milestones.",
     "url": "https://www.fiercebiotech.com/medtech/embecta-buy-auto-injector-maker-owen-mumford-200m-diversify-beyond-insulin",
-    "published_at": "2026-03-20T14:44:02.891150+00:00",
-    "collected_at": "2026-03-20T14:44:02.891155+00:00",
+    "published_at": "2026-03-20T15:21:42.298010+00:00",
+    "collected_at": "2026-03-20T15:21:42.298015+00:00",
     "filter_score": 5
   },
   {
@@ -305,8 +298,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/genentech-shreds-ripk1-inhibitor-pipeline-after-early-ph-2-failure\" hreflang=\"en\">Genentech shreds RIPK1 inhibitor from pipeline after early ph. 2 failure</a>",
     "summary": "Genentech has elected to stop a phase 2 trial of a RIPK1 inhibitor early and dump the asset after an analysis revealed the candidate was unlikely to meet the study’s primary endpoint.",
     "url": "https://www.fiercebiotech.com/biotech/genentech-shreds-ripk1-inhibitor-pipeline-after-early-ph-2-failure",
-    "published_at": "2026-03-20T14:44:02.891162+00:00",
-    "collected_at": "2026-03-20T14:44:02.891168+00:00",
+    "published_at": "2026-03-20T15:21:42.298023+00:00",
+    "collected_at": "2026-03-20T15:21:42.298029+00:00",
     "filter_score": 5
   },
   {
@@ -316,8 +309,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-adds-seagen-scrap-heap-another-early-cancer-candidate-cull\" hreflang=\"en\">Pfizer adds to Seagen scrap heap with another early cancer candidate cull</a>",
     "summary": "About a month after Pfizer CEO Albert Bourla, Ph.D., told investors that the Big Pharma’s pipeline pruning was mostly done, the company has trimmed another branch. Pfizer has scrapped a phase 1 antibody-drug conjugate that was being tested in solid tumors, a company spokesperson confirmed to Fierce Biotech.",
     "url": "https://www.fiercebiotech.com/biotech/pfizer-adds-seagen-scrap-heap-another-early-cancer-candidate-cull",
-    "published_at": "2026-03-20T14:44:02.891175+00:00",
-    "collected_at": "2026-03-20T14:44:02.891181+00:00",
+    "published_at": "2026-03-20T15:21:42.298036+00:00",
+    "collected_at": "2026-03-20T15:21:42.298042+00:00",
     "filter_score": 5
   },
   {
@@ -327,19 +320,30 @@
     "title": "<a href=\"https://www.fiercebiotech.com/cro/syneos-health-scoops-chinese-cro-secure-place-rapidly-growing-market\" hreflang=\"en\">Syneos Health scoops up Chinese CRO to secure place in ‘rapidly growing market’</a>",
     "summary": "North Carolina-based contract research organization Syneos Health is making a play to capitalize on China’s rapidly ascendant biopharma industry. Syneos has acquired Chinese CRO Bestudy to secure a foothold in the Asian nation.",
     "url": "https://www.fiercebiotech.com/cro/syneos-health-scoops-chinese-cro-secure-place-rapidly-growing-market",
-    "published_at": "2026-03-20T14:44:02.891189+00:00",
-    "collected_at": "2026-03-20T14:44:02.891195+00:00",
+    "published_at": "2026-03-20T15:21:42.298052+00:00",
+    "collected_at": "2026-03-20T15:21:42.298059+00:00",
     "filter_score": 5
   },
   {
-    "id": "4e22918dbed15ce827976a6549f11949",
-    "source": "FierceBiotech",
+    "id": "39ba3aba5de0d2011f2f3abd972fd4af",
+    "source": "Endpoints News",
     "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/phage-focused-biomx-resets-after-adverse-events-derail-pipeline-considers-pivot-defense\" hreflang=\"en\">Phage-focused BiomX resets after adverse events derail pipeline, considers pivot to defense sector</a>",
-    "summary": "Phage-focused BiomX is undergoing a “strategic and financial reset” in efforts to improve the biotech’s financial position, mapping out a possible shift from therapeutics to the defense sector.",
-    "url": "https://www.fiercebiotech.com/biotech/phage-focused-biomx-resets-after-adverse-events-derail-pipeline-considers-pivot-defense",
-    "published_at": "2026-03-20T14:44:02.891203+00:00",
-    "collected_at": "2026-03-20T14:44:02.891209+00:00",
+    "title": "China-rooted AI biotech Earendil Labs raises $787M ahead of possible IPO",
+    "summary": "The US-headquartered, China-rooted biotech Earendil Labs said it has raised $787 million in private money, a whopping sum to fund an AI platform that has already produced a pipeline of over 40 drug programs.\n\n Despite ...",
+    "url": "https://endpoints.news/china-rooted-ai-biotech-earendil-labs-raises-787m-ahead-of-possible-ipo/",
+    "published_at": "2026-03-20T15:16:10+00:00",
+    "collected_at": "2026-03-20T15:21:42.548301+00:00",
+    "filter_score": 5
+  },
+  {
+    "id": "27836c9dbf3b8c9685ec3d9f2734216e",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "UK’s NICE revisits Lilly, Eisai Alzheimer's drugs under new pricing threshold",
+    "summary": "The UK’s drug watchdog is reconsidering two Alzheimer's disease medicines after rejecting them for being too expensive.\n\n The National Institute for Health and Care Excellence last year determined that Eli Lilly’s donanemab, marketed as Kisunla ...",
+    "url": "https://endpoints.news/uks-nice-revisits-lilly-eisai-alzheimers-drugs-under-new-pricing-threshold/",
+    "published_at": "2026-03-20T14:51:59+00:00",
+    "collected_at": "2026-03-20T15:21:42.548320+00:00",
     "filter_score": 5
   },
   {
@@ -350,7 +354,7 @@
     "summary": "The assets managed by Novo Holdings, the controlling shareholder of Novo Nordisk, fell by some 35% last year. But that doesn’t mean it will rein in its biotech investments in the year ...",
     "url": "https://endpoints.news/novo-holdings-ceo-discusses-investments-geopolitics-and-china/",
     "published_at": "2026-03-20T12:00:34+00:00",
-    "collected_at": "2026-03-20T14:44:03.262872+00:00",
+    "collected_at": "2026-03-20T15:21:42.548332+00:00",
     "filter_score": 5
   },
   {
@@ -358,10 +362,10 @@
     "source": "Endpoints News",
     "source_type": "rss",
     "title": "Novartis to pay $2B upfront to take next-gen PI3Kα inhibitor from Synnovation",
-    "summary": "Novartis has budgeted $2 billion upfront to buy a more selective PI3Kα inhibitor for breast cancer.\n\n The Swiss pharma already has Piqray with a similar target, but drugmakers are now entering the next-generation era as ...",
+    "summary": "Novartis will spend $2 billion upfront to buy a more selective PI3Kα inhibitor, intensifying the competition to develop a new wave of breast cancer drugs with fewer side effects.\n\n The Swiss pharma already markets the ...",
     "url": "https://endpoints.news/novartis-to-pay-2b-upfront-to-take-next-gen-pi3k%ce%b1-inhibitor-from-synnovation/",
     "published_at": "2026-03-20T11:40:21+00:00",
-    "collected_at": "2026-03-20T14:44:03.262889+00:00",
+    "collected_at": "2026-03-20T15:21:42.548344+00:00",
     "filter_score": 5
   },
   {
@@ -372,7 +376,7 @@
     "summary": "→ Srishti Gupta took over as CEO of Idorsia last summer, but the job is open again as chairman Jean-Paul Clozel kicks off another search. Idorsia’s shares dropped more than 13% on ...",
     "url": "https://endpoints.news/idorsia-looks-for-another-ceo-again-former-jazz-exec-makes-a-comeback/",
     "published_at": "2026-03-20T11:00:00+00:00",
-    "collected_at": "2026-03-20T14:44:03.262901+00:00",
+    "collected_at": "2026-03-20T15:21:42.548355+00:00",
     "filter_score": 5
   },
   {
@@ -383,7 +387,7 @@
     "summary": "Roche's subsidiary Genentech has called off the late-stage development of a muscle-building drug in two rare genetic conditions, spinal muscular atrophy (SMA) and facioscapulohumeral muscular dystrophy (FSHD).\n\n The move raises questions about whether the drug ...",
     "url": "https://endpoints.news/genentech-culls-muscle-preserving-drug-in-genetic-diseases-raising-questions-about-obesity-trial/",
     "published_at": "2026-03-20T10:42:18+00:00",
-    "collected_at": "2026-03-20T14:44:03.262912+00:00",
+    "collected_at": "2026-03-20T15:21:42.548365+00:00",
     "filter_score": 5
   },
   {
@@ -394,7 +398,7 @@
     "summary": "ACIP is being broken up. No it’s not.\n\n On Thursday afternoon, an outspoken member of the CDC’s Advisory Committee on Immunization Practices claimed that the vaccine advisory group “has been disbanded.” But the",
     "url": "https://endpoints.news/turmoil-at-acip-continues-after-claim-committee-disbanded-is-quickly-refuted/",
     "published_at": "2026-03-20T00:26:49+00:00",
-    "collected_at": "2026-03-20T14:44:03.262923+00:00",
+    "collected_at": "2026-03-20T15:21:42.548376+00:00",
     "filter_score": 5
   },
   {
@@ -405,7 +409,7 @@
     "summary": "In San Francisco a few weeks ago, I caught up with Nworah Ayogu, partner at Thrive Capital. Thrive had recently announced that it raised a $10 billion+ fund.\n\n Ayogu, who joined Thrive in 2024 after ...",
     "url": "https://endpoints.news/tech-talent-comes-to-healthcare/",
     "published_at": "2026-03-19T21:10:13+00:00",
-    "collected_at": "2026-03-20T14:44:03.262933+00:00",
+    "collected_at": "2026-03-20T15:21:42.548387+00:00",
     "filter_score": 5
   },
   {
@@ -416,7 +420,7 @@
     "summary": "The FDA approved a high-dose version of Novo Nordisk's blockbuster weight loss injection Wegovy, giving its go-ahead about two months faster than normal thanks to a voucher received from the commissioner's program.\n\n Thursday's approval is ...",
     "url": "https://endpoints.news/novo-wins-fda-approval-for-high-dose-wegovy-under-commissioners-voucher/",
     "published_at": "2026-03-19T18:06:03+00:00",
-    "collected_at": "2026-03-20T14:44:03.262943+00:00",
+    "collected_at": "2026-03-20T15:21:42.548397+00:00",
     "filter_score": 5
   },
   {
@@ -427,29 +431,7 @@
     "summary": "Verily has raised $300 million in new, outside funding that ends parent company Alphabet's controlling position in the healthcare innovation company, Endpoints News has learned exclusively.\n\n The funding round was led by Series X Capital ...",
     "url": "https://endpoints.news/verily-raises-300m-sheds-alphabets-majority-control/",
     "published_at": "2026-03-19T18:00:37+00:00",
-    "collected_at": "2026-03-20T14:44:03.262953+00:00",
-    "filter_score": 5
-  },
-  {
-    "id": "5abbad0ff7b2ee86091301f47540fe3f",
-    "source": "Endpoints News",
-    "source_type": "rss",
-    "title": "TerraPower’s $450M radioisotope factory; Lilly’s $126M Japan budget",
-    "summary": "TerraPower Isotopes, a subsidiary of founder Bill Gates' nuclear company TerraPower, is building an actinium-225 factory in Philadelphia. Production will start in 2029.\n\n TerraPower Isotopes said it reviewed 350 potential locations ...",
-    "url": "https://endpoints.news/terrapowers-450m-radioisotope-factory-lillys-126m-japan-budget/",
-    "published_at": "2026-03-19T17:26:49+00:00",
-    "collected_at": "2026-03-20T14:44:03.262963+00:00",
-    "filter_score": 5
-  },
-  {
-    "id": "58c5f5325a029be23841d2a3c09f54ca",
-    "source": "Endpoints News",
-    "source_type": "rss",
-    "title": "CSL says its hemophilia B gene therapy is out of stock",
-    "summary": "CSL Behring disclosed a \"temporary global stockout\" of its gene therapy for hemophilia B that it says could delay treatment for some patients.\n\n In a letter to the patient community",
-    "url": "https://endpoints.news/csl-says-its-hemophilia-b-gene-therapy-is-out-of-stock/",
-    "published_at": "2026-03-19T16:33:06+00:00",
-    "collected_at": "2026-03-20T14:44:03.262972+00:00",
+    "collected_at": "2026-03-20T15:21:42.548407+00:00",
     "filter_score": 5
   },
   {
@@ -460,7 +442,7 @@
     "summary": "The systems getting value from AI aren’t doing more, they’re choosing better. Instead of chasing ten initiatives, they align around the few levers that actually move the enterprise. \nThe post AI, Discernment, and the Discipline of Access to Healthcare appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/ai-discernment-and-the-discipline-of-access-to-healthcare/",
     "published_at": "2026-03-20T13:58:00+00:00",
-    "collected_at": "2026-03-20T14:44:03.605843+00:00",
+    "collected_at": "2026-03-20T15:21:42.876685+00:00",
     "filter_score": 5
   },
   {
@@ -471,7 +453,7 @@
     "summary": "Beyond simply recording or transcribing messages to lower call volumes, truly autonomous voice AI puts patients in the driver’s seat of their own healthcare. It processes patient requests and information immediately and integrates actionable insights into the EHR, speeding next steps for clinicians and patients. \nThe post Ending the Voicemail Bottleneck: How Voice AI Is Transforming Patient Access appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/ending-the-voicemail-bottleneck-how-voice-ai-is-transforming-patient-access-in-2026/",
     "published_at": "2026-03-20T13:25:00+00:00",
-    "collected_at": "2026-03-20T14:44:03.605863+00:00",
+    "collected_at": "2026-03-20T15:21:42.876708+00:00",
     "filter_score": 5
   },
   {
@@ -482,7 +464,7 @@
     "summary": "Katie Jacobs Stanton, founder of Moxxie Ventures, shared some details of how she and her team evaluate healthcare AI startups. She stressed the need for founders with deep industry expertise, differentiated products and realistic distribution strategies.\nThe post Inside One VC’s Litmus Test for Investable Healthcare AI Startups appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/venture-capital-invest-healthcare-ai/",
     "published_at": "2026-03-19T22:43:30+00:00",
-    "collected_at": "2026-03-20T14:44:03.605880+00:00",
+    "collected_at": "2026-03-20T15:21:42.876724+00:00",
     "filter_score": 5
   },
   {
@@ -493,7 +475,7 @@
     "summary": "A new startup called PreSeed Fertility launched on Thursday. The company is a recruitment and matching platform for sperm donors.\nThe post How PreSeed Is Tackling the Sperm Donor Shortage appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/how-preseed-is-tackling-the-sperm-donor-shortage/",
     "published_at": "2026-03-19T22:41:16+00:00",
-    "collected_at": "2026-03-20T14:44:03.605894+00:00",
+    "collected_at": "2026-03-20T15:21:42.876738+00:00",
     "filter_score": 5
   },
   {
@@ -504,7 +486,7 @@
     "summary": "If CMS and private payers are serious about whole-person health, reimbursement structures must align with the workforce actually delivering that care. Payment pathways should recognize the value of the broader care team and enable the seamless integration of their expertise with the objective data generated through connected devices and programs like RPM.\nThe post Behavior Changes Happen Outside the Exam Room, But Validation of Lifestyle Medicine Programs Cannot appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/behavior-changes-happen-outside-the-exam-room-but-validation-of-lifestyle-medicine-programs-cannot/",
     "published_at": "2026-03-19T14:17:00+00:00",
-    "collected_at": "2026-03-20T14:44:03.605909+00:00",
+    "collected_at": "2026-03-20T15:21:42.876751+00:00",
     "filter_score": 5
   },
   {
@@ -515,7 +497,7 @@
     "summary": "By strengthening the connection between dentists and physicians, we can enable real-time care coordination, ensure patients get follow-up when needed and help teams spot risk factors earlier.\nThe post When Oral Health Joins the Care Team appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/when-oral-health-joins-the-care-team/",
     "published_at": "2026-03-19T13:40:00+00:00",
-    "collected_at": "2026-03-20T14:44:03.605921+00:00",
+    "collected_at": "2026-03-20T15:21:42.876763+00:00",
     "filter_score": 5
   },
   {
@@ -526,7 +508,7 @@
     "summary": "[Sponsored] As a medical or clinical professional, you possess a highly valuable skill set. \nThe post 5 Key Companies Hiring Scientific Sales Reps appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/5-key-companies-hiring-scientific-sales-reps/",
     "published_at": "2026-03-19T13:01:00+00:00",
-    "collected_at": "2026-03-20T14:44:03.605933+00:00",
+    "collected_at": "2026-03-20T15:21:42.876775+00:00",
     "filter_score": 5
   },
   {
@@ -537,7 +519,7 @@
     "summary": "Flourish Care&#8217;s seed round was led by Zeal Capital Partners, with participation from Create Health Ventures, Collide Capital, Rogue Women’s Fund, Symphonic Capital, Capita3, Slater Technology Fund and Catalytic Impact Foundation. \nThe post Maternal Health Startup Raises $5.7M to Expand Doula Network Nationwide appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/flourish-care-doula-seed-funding/",
     "published_at": "2026-03-18T22:02:10+00:00",
-    "collected_at": "2026-03-20T14:44:03.605946+00:00",
+    "collected_at": "2026-03-20T15:21:42.876788+00:00",
     "filter_score": 5
   },
   {
@@ -548,7 +530,7 @@
     "summary": "Sutter Health is acquiring Allina Health in a deal that would create a $26 billion nonprofit health system spanning California, Minnesota and Wisconsin. The deal reflects a broader wave of hospital consolidation as providers pursue scale to manage rising costs and fund tech investments.\nThe post Sutter, Allina Health Combine to Form $26B Health System appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/sutter-allina-health-merger-hospital/",
     "published_at": "2026-03-18T21:52:45+00:00",
-    "collected_at": "2026-03-20T14:44:03.605959+00:00",
+    "collected_at": "2026-03-20T15:21:42.876801+00:00",
     "filter_score": 5
   },
   {
@@ -559,25 +541,25 @@
     "summary": "FDA approval of Icotyde covers the treatment of adults and adolescents with moderate-to-severe plaque psoriasis. This  once-daily pill, developed by partners Johnson & Johnson and Protagonist Therapeutics, offers an easier dosing option compared to injectables and is projected to become a blockbuster seller across several immunological indications. \nThe post J&J Gets FDA Nod for Plaque Psoriasis Pill Positioned to Compete With Injectables appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/jj-gets-fda-nod-for-plaque-psoriasis-pill-positioned-to-compete-with-injectables/",
     "published_at": "2026-03-18T18:08:44+00:00",
-    "collected_at": "2026-03-20T14:44:03.605972+00:00",
+    "collected_at": "2026-03-20T15:21:42.876815+00:00",
     "filter_score": 5
   },
   {
     "id": "331e895668202319ef6d7b47154e4198",
     "source": "Yahoo Finance (ARM)",
     "source_type": "finance",
-    "title": "ARM: $135.03 (+4.01%)",
-    "summary": "ARM 현재가 $135.03, 일간 변동 +4.01%, 거래량 3,597,851 (평균 대비 0.9배)",
+    "title": "ARM: $134.29 (+3.44%)",
+    "summary": "ARM 현재가 $134.29, 일간 변동 +3.44%, 거래량 4,943,299 (평균 대비 1.3배)",
     "url": "https://finance.yahoo.com/quote/ARM",
-    "published_at": "2026-03-20T14:44:06.513193+00:00",
-    "collected_at": "2026-03-20T14:44:06.513198+00:00",
+    "published_at": "2026-03-20T15:21:45.184568+00:00",
+    "collected_at": "2026-03-20T15:21:45.184574+00:00",
     "metadata": {
       "ticker": "ARM",
-      "price": 135.03,
-      "daily_change_pct": 4.01,
-      "volume": 3597851,
+      "price": 134.29,
+      "daily_change_pct": 3.44,
+      "volume": 4943299,
       "avg_volume": 3859525,
-      "volume_ratio": 0.93,
+      "volume_ratio": 1.28,
       "is_spike": false
     },
     "filter_score": 5
@@ -586,18 +568,18 @@
     "id": "1abea74c8265ef74a945a8ad8ae6868e",
     "source": "Yahoo Finance (COHR)",
     "source_type": "finance",
-    "title": "COHR: $255.74 (-7.20%)",
-    "summary": "COHR 현재가 $255.74, 일간 변동 -7.20%, 거래량 3,263,950 (평균 대비 0.4배)",
+    "title": "COHR: $254.88 (-7.51%)",
+    "summary": "COHR 현재가 $254.88, 일간 변동 -7.51%, 거래량 3,991,556 (평균 대비 0.5배)",
     "url": "https://finance.yahoo.com/quote/COHR",
-    "published_at": "2026-03-20T14:44:07.152213+00:00",
-    "collected_at": "2026-03-20T14:44:07.152219+00:00",
+    "published_at": "2026-03-20T15:21:45.779188+00:00",
+    "collected_at": "2026-03-20T15:21:45.779194+00:00",
     "metadata": {
       "ticker": "COHR",
-      "price": 255.74,
-      "daily_change_pct": -7.2,
-      "volume": 3263950,
+      "price": 254.88,
+      "daily_change_pct": -7.51,
+      "volume": 3991556,
       "avg_volume": 7978150,
-      "volume_ratio": 0.41,
+      "volume_ratio": 0.5,
       "is_spike": false
     },
     "filter_score": 5
@@ -606,18 +588,18 @@
     "id": "929259f7ae54c8f1d76d062d2324aa4a",
     "source": "Yahoo Finance (LITE)",
     "source_type": "finance",
-    "title": "LITE: $708.00 (-8.31%)",
-    "summary": "LITE 현재가 $708.00, 일간 변동 -8.31%, 거래량 2,957,158 (평균 대비 0.5배)",
+    "title": "LITE: $707.83 (-8.33%)",
+    "summary": "LITE 현재가 $707.83, 일간 변동 -8.33%, 거래량 3,876,555 (평균 대비 0.6배)",
     "url": "https://finance.yahoo.com/quote/LITE",
-    "published_at": "2026-03-20T14:44:07.369351+00:00",
-    "collected_at": "2026-03-20T14:44:07.369356+00:00",
+    "published_at": "2026-03-20T15:21:45.925647+00:00",
+    "collected_at": "2026-03-20T15:21:45.925652+00:00",
     "metadata": {
       "ticker": "LITE",
-      "price": 708.0,
-      "daily_change_pct": -8.31,
-      "volume": 2957158,
+      "price": 707.83,
+      "daily_change_pct": -8.33,
+      "volume": 3876555,
       "avg_volume": 6395755,
-      "volume_ratio": 0.46,
+      "volume_ratio": 0.61,
       "is_spike": false
     },
     "filter_score": 5
@@ -626,18 +608,38 @@
     "id": "af9b07b24043b39492c0643fd0d31ad7",
     "source": "Yahoo Finance (FN)",
     "source_type": "finance",
-    "title": "FN: $517.32 (-4.33%)",
-    "summary": "FN 현재가 $517.32, 일간 변동 -4.33%, 거래량 117,994 (평균 대비 0.2배)",
+    "title": "FN: $517.76 (-4.25%)",
+    "summary": "FN 현재가 $517.76, 일간 변동 -4.25%, 거래량 166,191 (평균 대비 0.2배)",
     "url": "https://finance.yahoo.com/quote/FN",
-    "published_at": "2026-03-20T14:44:07.579789+00:00",
-    "collected_at": "2026-03-20T14:44:07.579794+00:00",
+    "published_at": "2026-03-20T15:21:46.072221+00:00",
+    "collected_at": "2026-03-20T15:21:46.072226+00:00",
     "metadata": {
       "ticker": "FN",
-      "price": 517.32,
-      "daily_change_pct": -4.33,
-      "volume": 117994,
+      "price": 517.76,
+      "daily_change_pct": -4.25,
+      "volume": 166191,
       "avg_volume": 673530,
-      "volume_ratio": 0.18,
+      "volume_ratio": 0.25,
+      "is_spike": false
+    },
+    "filter_score": 5
+  },
+  {
+    "id": "13a68c1c24267123e2560c76bf9080b0",
+    "source": "Yahoo Finance (RKLB)",
+    "source_type": "finance",
+    "title": "RKLB: $69.16 (-3.85%)",
+    "summary": "RKLB 현재가 $69.16, 일간 변동 -3.85%, 거래량 9,836,829 (평균 대비 0.5배)",
+    "url": "https://finance.yahoo.com/quote/RKLB",
+    "published_at": "2026-03-20T15:21:46.217363+00:00",
+    "collected_at": "2026-03-20T15:21:46.217369+00:00",
+    "metadata": {
+      "ticker": "RKLB",
+      "price": 69.16,
+      "daily_change_pct": -3.85,
+      "volume": 9836829,
+      "avg_volume": 19429265,
+      "volume_ratio": 0.51,
       "is_spike": false
     },
     "filter_score": 5
@@ -646,18 +648,18 @@
     "id": "b4c607f7850e7ed3c4f27d035e27c239",
     "source": "Yahoo Finance (PL)",
     "source_type": "finance",
-    "title": "🔥 PL: $35.31 (+30.99%)",
-    "summary": "PL 현재가 $35.31, 일간 변동 +30.99%, 거래량 27,122,196 (평균 대비 2.6배 — 거래량 급등!)",
+    "title": "🔥 PL: $34.62 (+28.43%)",
+    "summary": "PL 현재가 $34.62, 일간 변동 +28.43%, 거래량 31,814,512 (평균 대비 3.0배 — 거래량 급등!)",
     "url": "https://finance.yahoo.com/quote/PL",
-    "published_at": "2026-03-20T14:44:08.055992+00:00",
-    "collected_at": "2026-03-20T14:44:08.055997+00:00",
+    "published_at": "2026-03-20T15:21:46.434193+00:00",
+    "collected_at": "2026-03-20T15:21:46.434199+00:00",
     "metadata": {
       "ticker": "PL",
-      "price": 35.31,
-      "daily_change_pct": 30.99,
-      "volume": 27122196,
+      "price": 34.62,
+      "daily_change_pct": 28.43,
+      "volume": 31814512,
       "avg_volume": 10608890,
-      "volume_ratio": 2.56,
+      "volume_ratio": 3.0,
       "is_spike": true
     },
     "filter_score": 5
@@ -666,18 +668,38 @@
     "id": "ee6c0ae750d199a5d6b184e7bb3e5537",
     "source": "Yahoo Finance (BKSY)",
     "source_type": "finance",
-    "title": "BKSY: $27.62 (+7.76%)",
-    "summary": "BKSY 현재가 $27.62, 일간 변동 +7.76%, 거래량 937,748 (평균 대비 0.7배)",
+    "title": "BKSY: $26.41 (+3.04%)",
+    "summary": "BKSY 현재가 $26.41, 일간 변동 +3.04%, 거래량 1,081,502 (평균 대비 0.8배)",
     "url": "https://finance.yahoo.com/quote/BKSY",
-    "published_at": "2026-03-20T14:44:08.504674+00:00",
-    "collected_at": "2026-03-20T14:44:08.504680+00:00",
+    "published_at": "2026-03-20T15:21:46.726193+00:00",
+    "collected_at": "2026-03-20T15:21:46.726199+00:00",
     "metadata": {
       "ticker": "BKSY",
-      "price": 27.62,
-      "daily_change_pct": 7.76,
-      "volume": 937748,
+      "price": 26.41,
+      "daily_change_pct": 3.04,
+      "volume": 1081502,
       "avg_volume": 1330650,
-      "volume_ratio": 0.7,
+      "volume_ratio": 0.81,
+      "is_spike": false
+    },
+    "filter_score": 5
+  },
+  {
+    "id": "482a2b3e474571ab23d1f314bdaf7a38",
+    "source": "Yahoo Finance (URNM)",
+    "source_type": "finance",
+    "title": "URNM: $58.96 (-3.19%)",
+    "summary": "URNM 현재가 $58.96, 일간 변동 -3.19%, 거래량 207,024 (평균 대비 0.3배)",
+    "url": "https://finance.yahoo.com/quote/URNM",
+    "published_at": "2026-03-20T15:21:48.525389+00:00",
+    "collected_at": "2026-03-20T15:21:48.525395+00:00",
+    "metadata": {
+      "ticker": "URNM",
+      "price": 58.96,
+      "daily_change_pct": -3.19,
+      "volume": 207024,
+      "avg_volume": 807205,
+      "volume_ratio": 0.26,
       "is_spike": false
     },
     "filter_score": 5
@@ -686,18 +708,18 @@
     "id": "a1b80e3f2b2ee8b412d471371a6abf58",
     "source": "Yahoo Finance (COPX)",
     "source_type": "finance",
-    "title": "COPX: $70.08 (-3.18%)",
-    "summary": "COPX 현재가 $70.08, 일간 변동 -3.18%, 거래량 1,259,274 (평균 대비 0.2배)",
+    "title": "COPX: $69.79 (-3.59%)",
+    "summary": "COPX 현재가 $69.79, 일간 변동 -3.59%, 거래량 1,568,632 (평균 대비 0.3배)",
     "url": "https://finance.yahoo.com/quote/COPX",
-    "published_at": "2026-03-20T14:44:11.157837+00:00",
-    "collected_at": "2026-03-20T14:44:11.157842+00:00",
+    "published_at": "2026-03-20T15:21:48.717260+00:00",
+    "collected_at": "2026-03-20T15:21:48.717266+00:00",
     "metadata": {
       "ticker": "COPX",
-      "price": 70.08,
-      "daily_change_pct": -3.18,
-      "volume": 1259274,
+      "price": 69.79,
+      "daily_change_pct": -3.59,
+      "volume": 1568632,
       "avg_volume": 5258530,
-      "volume_ratio": 0.24,
+      "volume_ratio": 0.3,
       "is_spike": false
     },
     "filter_score": 5
