@@ -6,6 +6,7 @@
 const API_BASE = window.location.origin;
 let allItems = [];
 let currentFilter = 'all';
+let currentTab = 'exclusive'; // 'exclusive' | 'mainstream'
 let pollInterval = null;
 
 // ============================================================
@@ -13,9 +14,27 @@ let pollInterval = null;
 // ============================================================
 document.addEventListener('DOMContentLoaded', () => {
     loadData();
-    // 15초마다 자동 새로고침
     pollInterval = setInterval(loadData, 15000);
+
+    // 메인 탭 클릭 이벤트
+    document.getElementById('tab-exclusive').addEventListener('click', () => switchTab('exclusive'));
+    document.getElementById('tab-mainstream').addEventListener('click', () => switchTab('mainstream'));
 });
+
+function switchTab(tab) {
+    currentTab = tab;
+    currentFilter = 'all';
+
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById(tab === 'exclusive' ? 'tab-exclusive' : 'tab-mainstream').classList.add('active');
+
+    // 하단 필터탭도 초기화
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    const allTab = document.querySelector('.tab[data-filter="all"]');
+    if (allTab) allTab.classList.add('active');
+
+    renderCards(allItems);
+}
 
 // ============================================================
 // 데이터 로드
@@ -74,14 +93,28 @@ function renderCards(items) {
     const feed = document.getElementById('feed');
     const emptyState = document.getElementById('emptyState');
 
-    // 필터 적용
+    // 메인 탭 필터
     let filtered = items;
+    if (currentTab === 'exclusive') {
+        // 미반영 독점: 한국 미반영(독점+초기) 항목
+        filtered = items.filter(i => {
+            const s = i.korea_status || '';
+            return s.includes('독점') || s.includes('초기');
+        });
+    } else if (currentTab === 'mainstream') {
+        // 기반영 핵심: 이미 반영된 항목 전체 (점수 내림차순)
+        filtered = items
+            .filter(i => (i.korea_status || '').includes('이미'))
+            .sort((a, b) => (b.filter_score || 0) - (a.filter_score || 0));
+    }
+
+    // 하단 보조 필터 적용
     if (currentFilter === 'exclusive') {
-        filtered = items.filter(i => (i.korea_status || '').includes('독점'));
+        filtered = filtered.filter(i => (i.korea_status || '').includes('독점'));
     } else if (currentFilter === 'early') {
-        filtered = items.filter(i => (i.korea_status || '').includes('초기'));
+        filtered = filtered.filter(i => (i.korea_status || '').includes('초기'));
     } else if (currentFilter === 'reflected') {
-        filtered = items.filter(i => (i.korea_status || '').includes('이미'));
+        filtered = filtered.filter(i => (i.korea_status || '').includes('이미'));
     }
 
     if (filtered.length === 0) {

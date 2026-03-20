@@ -1,23 +1,25 @@
 # 🚀 Intelligence Pipeline Project Guide
 
 ## 1. 프로젝트 목표 (Objective)
-- **안정성**: 기술/자금 흐름 포착을 위한 결함 없는 파이프라인 설계 및 유지.
-- **자동화**: GitHub Actions를 통한 주기적 실행 체계 구축.
-- **전달**: 고가치 정보(Exclusive/Early) 선별 후 텔레그램 실시간 문자 발송.
+- **최종형태**: GitHub Actions에서 2시간 주기로 자동 실행되는 뉴스/자본 분석 파이프라인.
+- **핵심가치**: 한국 언론 미반영(Alpha) 및 7점 이상의 상급 정보(Mainstream) 필터링.
+- **알림**: 고득점 독점 정보를 텔레그램으로 실시간 수신.
 
-## 2. 현재 진행 현황 (Current Status)
-- **Engine**: Groq (Llama 3.3 70B) 기반 정밀 분석 및 뉴스 가치 채점 가동 중.
-- **Validation**: 네이버 뉴스 API를 이용한 한국 시장 선반영 여부(독점/초동/기반영) 검증 완료.
-- **Topics**: AI 하드웨어, 포토닉스, 우주 인프라, 로보틱스, 월가 큰손(Whales/Insider) 트래킹 추가 완료.
+## 2. 현재 진행 상황 (Current Status)
+- **Engine**: Groq (Llama 3.3 70B) 기반 분석/요약 엔진 탑재.
+- **Infrastructure**: GitHub Actions 연동 완료 (Secrets/Write 권한 설정 완료).
+- **Automation**: 매일 2시간마다 전 섹터(AI, 포토닉스, 우주, 로보틱스, 큰손) 감시 가동 중.
+- **Dashboard**: [🚨 미반영 독점] vs [📌 기반영 핵심(7점↑)] 탭 구조로 개편 완료.
 
 ## 3. ⚠️ 절대 수정 및 변경 금지 (Mandatory Guidelines)
-- **API Key Naming**: `.env` 및 `config.py` 내 `GROQ_API_KEY` 명칭(대문자) 절대 유지.
-- **Pipeline Structure**: `Collector` -> `Filter` -> `Validator` -> `Notifier` 4단계 구조 불변.
-- **Volume Spike**: `config.py`의 `VOLUME_SPIKE_THRESHOLD = 2.5` 비율은 기관 자금 포착 임계치이므로 임의 하향 금지.
-- **Korean Logic**: `validator.py`의 키워드 매핑 및 검색 쿼리 생성 로직 보호.
+- **Environment**: `.env` 내 `GROQ_API_KEY` (대문자) 명칭 및 연동 구조 유지. 
+- **Architecture**: `Collector` -> `Filter` -> `Validator` -> `Notifier` 4단계 파이프라인 구조 변경 금지.
+- **Logic**: `validator.py`의 네이버 뉴스 검색 기반 '독점/초동/기반영' 판정 알고리즘 보호.
+- **Config**: `VOLUME_SPIKE_THRESHOLD = 2.5` (기관 매집 감지 임계치) 하향 절대 금지.
 
-## 4. 파일 경로 가이드
-- **메인 실행**: `pipeline.py`
-- **에이전트**: `agents/` (filter, validator, notifier, collector)
-- **설정**: `config.py`, `.env`
-- **데이터**: `data/` (raw, filtered, validated JSON)
+## 4. 폴더 및 파일 구성
+- `pipeline.py`: 중앙 컨트롤러 (실물 실행 파일).
+- `agents/`: 각 단계별 에이전트 (filter, validator, notifier, collector).
+- `config.py`: 모든 티커(NVDA, RKLB 등), RSS 주소, 임계치 설정.
+- `intelligence_dashboard/`: 탭 구조가 도입된 HTML/JS 대시보드.
+- `data/`: 분석 결과 JSON 파일 저장소.

@@ -8,11 +8,12 @@ API 키와 소스 URL, 에이전트 설정값을 관리합니다.
 import os
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(os.path.join(os.path.dirname(__file__), ".env"))
 
 # ============================================================
 # API Keys (GitHub Secrets & .env 공용)
 # ============================================================
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 NAVER_CLIENT_ID = os.getenv("NAVER_CLIENT_ID", "")
 NAVER_CLIENT_SECRET = os.getenv("NAVER_CLIENT_SECRET", "")
@@ -22,7 +23,9 @@ REDDIT_CLIENT_SECRET = os.getenv("REDDIT_CLIENT_SECRET", "")
 # Telegram (알람용)
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
-NOTIFY_THRESHOLD = 9  # 이 점수 이상의 핵심 정보만 텔레그램 발송
+TELEGRAM_REPORT_BOT_TOKEN = os.getenv("TELEGRAM_REPORT_BOT_TOKEN", "")
+TELEGRAM_REPORT_CHAT_ID = os.getenv("TELEGRAM_REPORT_CHAT_ID", "")
+NOTIFY_THRESHOLD = 7  # 이 점수 이상의 핵심 정보만 텔레그램 발송
 
 # ============================================================
 # Tier 1 Sources: RSS Feeds (전문가/딥테크 중심 - 무료)
@@ -114,7 +117,7 @@ FRED_SERIES = [
 # ============================================================
 # Agent 2: Filter 설정
 # ============================================================
-FILTER_MODEL = "gpt-4o-mini"
+FILTER_MODEL = "llama-3.3-70b-versatile"
 FILTER_THRESHOLD = 7          # 1~10점 중 이 점수 이상만 통과
 FILTER_MAX_TOKENS = 500
 

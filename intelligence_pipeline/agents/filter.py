@@ -28,9 +28,6 @@ from config import (
     FILTER_SYSTEM_PROMPT, FILTER_MAX_TOKENS, DATA_DIR
 )
 
-# 임계값 보정 (테스트용으로 5로 하향)
-FILTER_THRESHOLD = 5
-
 # AI API 키들 로드
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
@@ -43,7 +40,7 @@ BIOTECH_KEYWORDS = [
     "rare disease", "longevity", "CRISPR", "GLP-1", "cancer therapy",
 ]
 
-BATCH_SIZE = 15  # 한 번에 분석할 기사 수
+BATCH_SIZE = 8  # 한 번에 분석할 기사 수
 
 def run_filter(raw_items: List[Dict] = None) -> List[Dict]:
     """
@@ -111,7 +108,7 @@ def _filter_with_groq(items: List[Dict]) -> List[Dict]:
                 ],
                 model="llama-3.3-70b-versatile",
                 temperature=0.1,
-                max_tokens=FILTER_MAX_TOKENS * 3
+                max_tokens=FILTER_MAX_TOKENS * BATCH_SIZE
             )
             reply = chat_completion.choices[0].message.content.strip()
             batch = _parse_batch_response(reply, batch)

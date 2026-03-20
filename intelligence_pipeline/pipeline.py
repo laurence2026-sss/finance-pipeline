@@ -8,7 +8,7 @@ Collector → Filter → Validator
 import json
 import os
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 sys.path.insert(0, os.path.dirname(__file__))
 
@@ -16,7 +16,9 @@ from agents.collector import run_collector
 from agents.filter import run_filter
 from agents.validator import run_validator
 from agents.notifier import run_notifier
-from config import DATA_DIR, NOTIFY_THRESHOLD
+from config import DATA_DIR, NOTIFY_THRESHOLD, FILTER_THRESHOLD
+
+KST = timezone(timedelta(hours=9))
 
 
 def run_pipeline():
@@ -74,6 +76,9 @@ def run_pipeline():
     with open(meta_path, "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)
     
+    # 일일 누적 저장 (score >= FILTER_THRESHOLD 항목만, id 기준 중복 제거)
+    _append_to_daily(final_items)
+
     # 최종 보고
     print("\n" + "=" * 60)
     print("📊 PIPELINE 완료 보고")
@@ -85,8 +90,36 @@ def run_pipeline():
     print(f"  ⚡ 초기 반영: {meta['early_count']}건")
     print(f"  ⚪ 이미 반영: {meta['reflected_count']}건")
     print("=" * 60)
-    
+
     return final_items
+
+
+def _append_to_daily(items: list):
+    """7점 이상 항목을 오늘 daily JSON에 누적 저장 (중복 제거)."""
+    today = datetime.now(KST).strftime("%Y-%m-%d")
+    path = os.path.join(DATA_DIR, f"daily_{today}.json")
+
+    # 기존 파일 로드
+    existing = {}
+    if os.path.exists(path):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                for item in json.load(f):
+                    existing[item["id"]] = item
+        except Exception:
+            pass
+
+    # 7점 이상 신규 항목 추가
+    added = 0
+    for item in items:
+        if item.get("filter_score", 0) >= FILTER_THRESHOLD and item["id"] not in existing:
+            existing[item["id"]] = item
+            added += 1
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(list(existing.values()), f, ensure_ascii=False, indent=2)
+
+    print(f"  📁 daily_{today}.json: +{added}건 추가 (누적 {len(existing)}건)")
 
 
 if __name__ == "__main__":

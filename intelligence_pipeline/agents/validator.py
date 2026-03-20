@@ -163,12 +163,12 @@ def _extract_korean_query(item: Dict) -> str:
 
 
 def _search_naver_news(query: str) -> int:
-    """네이버 뉴스 검색 API로 한국 기사 수를 확인합니다."""
+    """네이버 뉴스 검색 API로 최근 48시간 이내 한국 기사 수를 확인합니다."""
     if not NAVER_CLIENT_ID or not NAVER_CLIENT_SECRET:
-        # API 키 없으면 웹 스크레이핑 폴백
         return _search_naver_fallback(query)
-    
+
     try:
+        from datetime import timezone, timedelta
         headers = {
             "X-Naver-Client-Id": NAVER_CLIENT_ID,
             "X-Naver-Client-Secret": NAVER_CLIENT_SECRET,
@@ -181,7 +181,18 @@ def _search_naver_news(query: str) -> int:
         resp = requests.get(NAVER_NEWS_API_URL, headers=headers, params=params, timeout=5)
         resp.raise_for_status()
         data = resp.json()
-        return data.get("total", 0)
+
+        # total 대신 최근 48시간 이내 기사 수만 카운트
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=48)
+        recent_count = 0
+        for item in data.get("items", []):
+            try:
+                pub = datetime.strptime(item["pubDate"], "%a, %d %b %Y %H:%M:%S %z")
+                if pub >= cutoff:
+                    recent_count += 1
+            except Exception:
+                continue
+        return recent_count
     except Exception as e:
         print(f"  [Validator] 네이버 API 실패 ({query}): {e}")
         return -1
