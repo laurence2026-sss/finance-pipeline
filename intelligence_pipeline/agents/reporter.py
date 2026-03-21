@@ -21,7 +21,7 @@ import requests
 KST = timezone(timedelta(hours=9))
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
-# 7개 섹터 정의 및 키워드 매핑
+# 8대 섹터 정의 및 키워드 매핑
 SECTORS = {
     "AI/반도체":         ["ai", "semiconductor", "chip", "nvidia", "tsmc", "hbm", "nand", "dram",
                           "gpu", "npu", "inference", "llm", "foundry", "wafer", "broadcom", "arm",
@@ -35,9 +35,10 @@ SECTORS = {
     "바이오/제약":        ["bio", "pharma", "drug", "fda", "clinical", "trial", "cancer", "therapy",
                           "crispr", "glp", "longevity", "aging", "biotech", "antibody", "mrna",
                           "gene", "rare disease", "ipo biotech"],
-    "기관들의 자금 이동": ["macro", "fed", "rate", "inflation", "recession", "hedge", "whale",
+    "자금 흐름":          ["macro", "fed", "rate", "inflation", "recession", "hedge", "whale",
                           "insider", "13f", "sec form", "buffett", "fund", "treasury", "yield",
-                          "fomc", "gdp", "cpi", "tariff", "geopolit", "war", "sanction"],
+                          "fomc", "gdp", "cpi", "tariff", "geopolit", "war", "sanction", "liquidity",
+                          "dollar index", "vix", "rates", "interest rate", "m2", "central bank"],
     "에너지/자원":        ["energy", "nuclear", "uranium", "smr", "copper", "lithium", "battery",
                           "oil", "gas", "solar", "wind", "grid", "urnm", "copx", "lit"],
     "블록체인/크립토":    ["crypto", "bitcoin", "ethereum", "stablecoin", "tether", "usdc", "defi",
@@ -100,7 +101,6 @@ def group_by_sector(items: list) -> dict:
             x.get("filter_score", 0)
         ), reverse=True)
 
-    # 항목이 없는 섹터도 그대로 반환하여 리포트에 명시되도록 함
     return groups
 
 
@@ -113,74 +113,75 @@ def build_sector_input(groups: dict) -> str:
             continue
             
         lines.append(f"\n[{sector}] ({len(items)}건)")
-        for item in items[:10]:  # 섹터당 최대 10개 전달
+        for item in items[:10]:
             status = "🔥독점" if "독점" in item.get("korea_status", "") else \
                      "⚡초기" if "초기" in item.get("korea_status", "") else "⚪반영"
             score = item.get("filter_score", 0)
             title = item.get("title", "")
             summary = item.get("summary_ko") or item.get("summary", "")
-            sector_tag = item.get("emerging_sector", "")
-            lines.append(f"  ({score}점/{status}) [{sector_tag}] {title}")
+            lines.append(f"  ({score}점/{status}) {title}")
             if summary:
                 lines.append(f"  → {summary[:120]}")
     return "\n".join(lines)
 
 
-SYSTEM_PROMPT = """당신은 한국 개인투자자를 위한 글로벌 금융·기술 인텔리전스 애널리스트입니다.
+SYSTEM_PROMPT = """# ROLE
+당신은 한국 개인투자자를 위한 글로벌 금융·기술 인텔리전스 애널리스트입니다.
+제공된 뉴스 원문을 바탕으로, 매일 아침 섹터별 브리핑을 작성합니다.
+추측이나 배경지식 기반의 내용을 생성하지 말고, 반드시 제공된 뉴스에 근거해서만 작성하세요.
+해당 섹터의 뉴스가 없으면 "오늘 주요 뉴스 없음"으로 처리하고 내용을 생성하지 마세요.
 
-## 역할 정의
-매일 밤 수집된 미국 경제·기술 뉴스를 분석하여,
-돈의 이동과 수요 구조 변화 중심의 날카로운 한국어 브리핑을 작성합니다.
+---
 
-## 절대 포함하지 않을 것 (잡음 기준)
-- 단순 실적 발표, 배당 변경, 경영진 교체 등 단발성 이벤트
-- 이미 시장에 가격이 반영된 정보 (컨센서스 내 결과)
+# OUTPUT STRUCTURE
 
-## 반드시 포함할 것 (신호 기준)
-- 자본 흐름 변화: 기관 매수·매도, VC/PE 대규모 투자, 정부 보조금
-- 수요 구조 급변: 신기술 채택으로 인한 특정 자원·부품·인프라 수요 폭증
-  (예: AI 모델 고도화 → 데이터센터·전력 수요 급증)
-- 공급망 병목: 독점적 공급자 등장 또는 쇼티지 심화
-- 한국 시장 미반영 정보: 국내 언론 미보도 해외 독점 동향
+## 🌐 오늘의 시장 맥락 (브리핑 최상단 고정)
+- 금리(10Y 국채 수익률), 달러인덱스(DXY), VIX의 전일 대비 변화를 수치로 명시
+- 위 세 지표의 동시 변화가 오늘 전체 섹터에 미치는 자금 유입/유출 방향을 2~3줄로 요약
+- 예: "DXY 급등 + VIX 상승 → 위험자산 회피, 신흥국 자금 이탈 압력"
 
-## 섹터 분류
-【AI/반도체】 【포토닉스/광학】 【우주/위성】 【로보틱스】 【바이오/제약】 【기관들의 자금 이동】 【에너지/자원】 【블록체인/크립토】
+---
 
-## 출력 형식 (반드시 준수)
+## 섹터별 브리핑
+
+각 섹터는 아래 형식을 반드시 따릅니다.
 
 【섹터명】
-핵심 이슈: [이 섹터에서 오늘 가장 중요한 흐름 1문장]
+📋 핵심 흐름: [이 섹터 오늘의 핵심 방향성 또는 이슈 1문장]
 
-• (등급) 무슨 일 → 왜 중요한가 (관련 티커)
-• (등급) 무슨 일 → 왜 중요한가 (관련 티커)
-• ...
+- [뉴스 제목 또는 한 줄 요약] (관련 티커: $XXX)
+  → 왜 중요한가: [시장/투자자 관점에서의 영향력, 1~2문장]
 
-📌 주목 포인트
-① [포인트 제목]
-→ 근거: [구체적 수치·발언·데이터]
-→ 투자 시사점: [어떤 섹터/종목에 어떻게 영향을 미치는가]
+- [뉴스 제목 또는 한 줄 요약] (관련 티커: $XXX)
+  → 왜 중요한가: [시장/투자자 관점에서의 영향력, 1~2문장]
 
-② [포인트 제목]
-→ 근거:
-→ 투자 시사점:
+📌 오늘의 주목 포인트 (해당 섹터에서 가장 중요한 3~5가지만 선별)
+  1. [포인트 제목]: [구체적 수치·배경·영향 포함, 2~3문장]
+  2. ...
 
-(3~5개, 동일 형식 반복)
+---
 
----"""
+# 섹터 목록 (아래 순서대로 출력)
+1. 【AI/반도체】엔비디아, TSMC, HBM, 데이터센터, 쿨링 시스템 등
+2. 【포토닉스/광학】실리콘 포토닉스, 광통신, 레이저 등
+3. 【우주/위성】스페이스X, 로켓랩, 위성통신, NASA 등
+4. 【로보틱스】휴머노이드, 테슬라 옵티머스, 보스턴 다이나믹스, 공장 자동화 등
+5. 【바이오/제약】임상 결과, FDA 승인, 암 치료제, 역노화 기술 등
+6. 【자금 흐름】헤지펀드 포지션 변화, 내부자 매수/매도, 기관 수급 등
+7. 【에너지/자원】우라늄·SMR, 배터리, 구리·리튬 등 핵심 광물
+8. 【블록체인/크립토】비트코인, 이더리움, 스테이블코인, 대형 기관 디지털 자산 동향
+
+---
+
+# RULES
+- 모든 수치는 구체적으로 명시 (예: "급등"이 아니라 "+3.2%")
+- 한국 개인투자자 관점에서 실질적으로 행동 가능한 인사이트 중심으로 서술
+- 뉴스 없는 섹터: "오늘 주요 뉴스 없음" 한 줄로 마감, 내용 생성 금지
+- 출력 언어: 한국어 (티커·고유명사 제외)
+"""
 
 USER_PROMPT_TEMPLATE = """아래는 오늘 [{date}] 수집된 섹터별 원본 인텔리전스 데이터입니다.
-
-## 처리 지침
-1. 각 섹터에서 투자 임팩트가 높은 항목을 3~5개 선별하세요.
-2. 동일 이슈가 중복될 경우, 가장 상위 점수 항목 1개만 사용하세요.
-3. 데이터가 없는 섹터는 "오늘 유의미한 시그널 없음"으로 명시하세요.
-
-## 1줄 요약 작성 원칙
-- 구조: "무슨 일" + "→" + "왜 중요한가 (투자 임팩트)" + "(관련 티커)"
-- 예시: "TSMC N3 공급 쇼티지 심화 → 대체 파운드리 수요 전환 가능성 (AVGO, COHR 주목)"
-- 가격 등락·단순 수치 나열 금지. 반드시 인과관계로 연결할 것.
-
-## 원본 데이터
+이 데이터를 바탕으로 위 ROLE과 OUTPUT STRUCTURE에 맞춰 브리핑을 작성하세요.
 
 {sector_input}"""
 
@@ -228,7 +229,7 @@ def _fallback_body(groups: dict) -> str:
     for sector, items in groups.items():
         lines.append(f"\n【{sector}】")
         if not items:
-            lines.append("• 오늘 유의미한 시그널 없음")
+            lines.append("• 오늘 주요 뉴스 없음")
             continue
             
         for item in items[:4]:
@@ -240,7 +241,6 @@ def _fallback_body(groups: dict) -> str:
 
 
 def send_telegram(text: str):
-    # 보고서 전용 봇/채팅방 우선, 없으면 기존 봇으로 폴백
     bot_token = TELEGRAM_REPORT_BOT_TOKEN or TELEGRAM_BOT_TOKEN
     chat_id   = TELEGRAM_REPORT_CHAT_ID or TELEGRAM_CHAT_ID
     if not bot_token or not chat_id:

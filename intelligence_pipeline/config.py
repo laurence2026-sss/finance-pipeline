@@ -99,6 +99,12 @@ WATCHLIST_TICKERS = [
     "URNM", "COPX",     # 우라늄, 구리 (AI 인프라 필수)
     "XBI", "IBB",       # 바이오 섹터
     "COIN", "MSTR",     # 블록체인/크립토 (Coinbase, MicroStrategy)
+    # 매크로 지표 (Macro Indicators - No API Key required via yfinance)
+    "^TNX",             # 미 10년물 국채 수익률 (시장 기준 금리)
+    "^IRX",             # 미 13주 국채 수익률 (실질적인 현재 기준 금리 대용)
+    "DX-Y.NYB",         # 달러 인덱스 (통화 가치 및 유동성 판단)
+    "^VIX",             # 공포 지수 (시장 리스크 및 변동성)
+    "TLT", "IEF",       # 채권 시장 자금 이동 (자산 배분 신호)
 ]
 VOLUME_SPIKE_THRESHOLD = 2.5  # 평균 거래량 대비 2.5배 이상이면 자금 유입으로 간주
 
