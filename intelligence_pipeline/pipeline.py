@@ -15,7 +15,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from agents.collector import run_collector
 from agents.filter import run_filter
 from agents.validator import run_validator
-from agents.notifier import run_notifier
+# from agents.notifier import run_notifier  # 실시간 알림 제거
 from config import DATA_DIR, NOTIFY_THRESHOLD, FILTER_THRESHOLD
 
 KST = timezone(timedelta(hours=9))
@@ -55,9 +55,8 @@ def run_pipeline():
     print()
     final_items = run_validator(filtered_items)
     
-    # Stage 4: 텔레그램 알림 (9점 이상 핵심 정보만)
-    print()
-    run_notifier(final_items, threshold=NOTIFY_THRESHOLD)
+    # Stage 4: 텔레그램 알림 제거 (일일/주간 리포트에 집중)
+    # run_notifier(final_items, threshold=NOTIFY_THRESHOLD)
     
     # 실행 메타데이터 저장
     elapsed = (datetime.now() - start_time).total_seconds()
