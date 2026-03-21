@@ -56,23 +56,35 @@ def collect_finance_data(tickers: List[str], volume_spike_threshold: float = 2.0
             
             # numpy 타입을 Python native로 변환
             price = float(latest["Close"])
+            
+            # [🔥 지표 보정 로직] 국채 수익률 지수(^TNX, ^IRX)는 10을 곱한 수치이므로 10으로 나누어 실물 금리로 변환
+            # 예: 야후 파이낸스 ^TNX 43.50 -> 실제 미 10년물 국채 금리 4.35%
+            if ticker in ["^TNX", "^IRX"] and price > 1.0:
+                price = price / 10.0
+            
             vol = int(latest_volume)
             avg_vol = int(avg_volume)
             vol_ratio = float(round(volume_ratio, 2))
             change = float(round(daily_change, 2))
             spike = bool(is_spike)
             
+            # 지표 종류에 따른 제목 구성
+            if ticker.startswith("^") or ticker == "DX-Y.NYB":
+                title_text = f"🌐 {ticker}: {price:.2f}{'%' if ticker in ['^TNX', '^IRX'] else ''} ({change:+.2f}%)"
+            else:
+                title_text = f"{'🔥 ' if spike else ''}{ticker}: ${price:.2f} ({change:+.2f}%)"
+            
             item = {
                 "id": item_id,
                 "source": f"Yahoo Finance ({ticker})",
                 "source_type": "finance",
-                "title": f"{'🔥 ' if spike else ''}{ticker}: ${price:.2f} ({change:+.2f}%)",
+                "title": title_text,
                 "summary": (
-                    f"{ticker} 현재가 ${price:.2f}, "
+                    f"{ticker} 현재가 {price:.2f}{'%' if ticker in ['^TNX', '^IRX'] else ''}, "
                     f"일간 변동 {change:+.2f}%, "
                     f"거래량 {vol:,} "
                     f"(평균 대비 {vol_ratio:.1f}배"
-                    f"{' — 거래량 급등!' if spike else ''})"
+                    f"{' — 자금 이동 포착!' if spike else ''})"
                 ),
                 "url": f"https://finance.yahoo.com/quote/{ticker}",
                 "published_at": datetime.now(timezone.utc).isoformat(),
