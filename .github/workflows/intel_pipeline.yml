@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '0 */2 * * *'  # 2시간 주기로 파이프라인 실행
     - cron: '0 22 * * *'   # 매일 22:00 UTC = 07:00 KST 일일 브리핑
+    - cron: '0 22 * * 0'   # 매주 일요일 22:00 UTC = 월요일 07:00 KST 주간 브리핑
   workflow_dispatch:      # 수동 실행도 가능
 
 jobs:
@@ -70,3 +71,31 @@ jobs:
         run: |
           cd intelligence_pipeline
           python -c "from agents.reporter import run_reporter; run_reporter()"
+
+  weekly-report:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 22 * * 0' || github.event_name == 'workflow_dispatch'
+
+    steps:
+      - name: 📥 코드 체크아웃
+        uses: actions/checkout@v4
+
+      - name: 🐍 Python 3.11 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 의존성 설치
+        run: |
+          pip install feedparser requests python-dotenv yfinance groq beautifulsoup4 lxml
+
+      - name: 📈 주간 스마트 머니 리포트 발송
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_REPORT_BOT_TOKEN: ${{ secrets.TELEGRAM_REPORT_BOT_TOKEN }}
+          TELEGRAM_REPORT_CHAT_ID: ${{ secrets.TELEGRAM_REPORT_CHAT_ID }}
+        run: |
+          cd intelligence_pipeline
+          python -c "from agents.weekly_reporter import run_weekly_reporter; run_weekly_reporter()"

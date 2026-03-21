@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:gist.github.com)",
+      "Bash(gh api:*)",
+      "Bash(curl -s https://raw.githubusercontent.com/obra/superpowers/main/skills/test-driven-development/SKILL.md)",
+      "Bash(curl:*)"
+    ]
+  }
+}
