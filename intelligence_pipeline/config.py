@@ -70,6 +70,9 @@ REDDIT_SUBREDDITS = [
     "biotech",              # 바이오테크 뉴스 & 임상 결과 토론
     "Biotechplays",         # 바이오 투자 아이디어 (소형주 발굴)
     "longevity",            # 역노화/장수 기술 트렌드
+    # 블록체인/크립토
+    "CryptoCurrency",       # 암호화폐/스테이블코인 전반
+    "ethtrader",            # 이더리움 및 스마트컨트랙트 동향
 ]
 REDDIT_POST_LIMIT = 10      
 REDDIT_SORT = "hot"         
@@ -95,6 +98,7 @@ WATCHLIST_TICKERS = [
     "LIT", "BOTZ",      # 리튬/배터리, 로봇/AI
     "URNM", "COPX",     # 우라늄, 구리 (AI 인프라 필수)
     "XBI", "IBB",       # 바이오 섹터
+    "COIN", "MSTR",     # 블록체인/크립토 (Coinbase, MicroStrategy)
 ]
 VOLUME_SPIKE_THRESHOLD = 2.5  # 평균 거래량 대비 2.5배 이상이면 자금 유입으로 간주
 

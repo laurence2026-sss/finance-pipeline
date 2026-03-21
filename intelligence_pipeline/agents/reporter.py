@@ -40,6 +40,8 @@ SECTORS = {
                           "fomc", "gdp", "cpi", "tariff", "geopolit", "war", "sanction"],
     "에너지/자원":        ["energy", "nuclear", "uranium", "smr", "copper", "lithium", "battery",
                           "oil", "gas", "solar", "wind", "grid", "urnm", "copx", "lit"],
+    "블록체인/크립토":    ["crypto", "bitcoin", "ethereum", "stablecoin", "tether", "usdc", "defi",
+                          "blockchain", "coinbase", "mstr", "jpmorgan", "token", "digital asset"],
 }
 
 
@@ -142,7 +144,7 @@ SYSTEM_PROMPT = """당신은 한국 개인투자자를 위한 글로벌 금융·
 - 한국 시장 미반영 정보: 국내 언론 미보도 해외 독점 동향
 
 ## 섹터 분류
-【AI/반도체】 【포토닉스/광학】 【우주/위성】 【로보틱스】 【바이오/제약】 【기관들의 자금 이동】 【에너지/자원】
+【AI/반도체】 【포토닉스/광학】 【우주/위성】 【로보틱스】 【바이오/제약】 【기관들의 자금 이동】 【에너지/자원】 【블록체인/크립토】
 
 ## 출력 형식 (반드시 준수)
 
