@@ -16,6 +16,7 @@ load_dotenv(env_path)
 # API Keys (GitHub Secrets & .env 공용)
 # ============================================================
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+FRED_API_KEY = os.getenv("FRED_API_KEY", "")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 NAVER_CLIENT_ID = os.getenv("NAVER_CLIENT_ID", "")
 NAVER_CLIENT_SECRET = os.getenv("NAVER_CLIENT_SECRET", "")

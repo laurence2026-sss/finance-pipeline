@@ -21,8 +21,10 @@ from config import (
     TELEGRAM_WEEKLY_BOT_TOKEN,
     TELEGRAM_WEEKLY_CHAT_ID,
     GROQ_API_KEY,
+    FRED_API_KEY,
 )
 import requests
+from sources.fred_client import get_all_macro_stats
 
 KST = timezone(timedelta(hours=9))
 GROQ_MODELS = [
@@ -241,9 +243,19 @@ SYSTEM_PROMPT = """# ROLE
 - 리테일/개인 투자자 동향은 스마트 머니와 반드시 구분하여 기술
 """
 
-USER_PROMPT_TEMPLATE = """아래는 [{start_date}] ~ [{end_date}] 수집된 섹터별 인텔리전스 데이터입니다.
+USER_PROMPT_TEMPLATE = """아래는 [{start_date}] ~ [{end_date}] 수집된 데이터입니다.
 이 데이터를 바탕으로 위 ROLE과 OUTPUT STRUCTURE에 맞춰 주간 전략 보고서를 작성하세요.
 
+**[⚠️ 필독: 이번 주 매크로 확정 데이터]**
+AI는 아래 제공된 미 연준(FRED API)의 정확한 실물 데이터를 100% 그대로 반영하여 표를 작성해야 합니다. 숫자를 절대로 추론하지 마세요.
+
+| 지표 | 주중 최솟값 / 주중 최댓값 / 현재 값 |
+|------|-----------------------------------|
+| US 10Y 국채 금리 | {us10y_min}% / {us10y_max}% / {us10y_current}% |
+| 달러인덱스(DXY) | {dxy_min} / {dxy_max} / {dxy_current} |
+| VIX | {vix_min} / {vix_max} / {vix_current} |
+
+**[주간 섹터 인텔리전스 데이터]**
 {sector_input}"""
 
 
@@ -259,6 +271,9 @@ def generate_weekly_report(groups: Dict[str, List[dict]], stats: Dict[str, any])
     )
 
     sector_input = build_sector_input(groups)
+    
+    # FRED에서 정확한 매크로 통계 로드
+    fred_data = get_all_macro_stats(FRED_API_KEY)
 
     if not GROQ_API_KEY:
         header + " (API KEY MISSING)"
@@ -269,6 +284,15 @@ def generate_weekly_report(groups: Dict[str, List[dict]], stats: Dict[str, any])
         user_prompt = USER_PROMPT_TEMPLATE.format(
             start_date=start_date,
             end_date=end_date,
+            us10y_min=fred_data["US10Y"]["min"], 
+            us10y_max=fred_data["US10Y"]["max"], 
+            us10y_current=fred_data["US10Y"]["current"],
+            dxy_min=fred_data["DXY"]["min"], 
+            dxy_max=fred_data["DXY"]["max"], 
+            dxy_current=fred_data["DXY"]["current"],
+            vix_min=fred_data["VIX"]["min"], 
+            vix_max=fred_data["VIX"]["max"], 
+            vix_current=fred_data["VIX"]["current"],
             sector_input=sector_input,
         )
         
