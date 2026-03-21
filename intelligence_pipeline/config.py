@@ -8,7 +8,9 @@ API 키와 소스 URL, 에이전트 설정값을 관리합니다.
 import os
 from dotenv import load_dotenv
 
-load_dotenv(os.path.join(os.path.dirname(__file__), ".env"))
+# 프로젝트 루트의 .env 파일을 절대 경로로 정확히 로드
+env_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".env")
+load_dotenv(env_path)
 
 # ============================================================
 # API Keys (GitHub Secrets & .env 공용)

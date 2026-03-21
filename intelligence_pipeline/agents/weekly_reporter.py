@@ -25,7 +25,11 @@ from config import (
 import requests
 
 KST = timezone(timedelta(hours=9))
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODELS = [
+    "llama-3.3-70b-versatile", 
+    "llama-3.1-8b-instant",     # 폴백 1번 (빠른 모델)
+    "mixtral-8x7b-32768",       # 폴백 2번
+]
 
 # 8대 섹터 정의
 SECTORS = {
@@ -248,18 +252,31 @@ def generate_weekly_report(groups: Dict[str, List[dict]], stats: Dict[str, any])
             end_date=end_date,
             sector_input=sector_input,
         )
-        resp = client.chat.completions.create(
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": user_prompt},
-            ],
-            model=GROQ_MODEL,
-            temperature=0.2,
-            max_tokens=3000,
-        )
-        return header + resp.choices[0].message.content.strip()
+        
+        # 모델 한도 초과 시 순차적으로 다른 모델 시도 (Fallback 로직)
+        last_exception = None
+        for model in GROQ_MODELS:
+            try:
+                print(f"[WeeklyReporter] AI 모델 시도 중: {model}...")
+                resp = client.chat.completions.create(
+                    messages=[
+                        {"role": "system", "content": SYSTEM_PROMPT},
+                        {"role": "user", "content": user_prompt},
+                    ],
+                    model=model,
+                    temperature=0.2,
+                    max_tokens=3000,
+                )
+                return header + resp.choices[0].message.content.strip()
+            except Exception as e:
+                last_exception = e
+                print(f"  → {model} 실패 (토큰 한도 초과 등): 진행 전환")
+                
+        print(f"[WeeklyReporter] 모든 모델 시도 실패: {last_exception}")
+        return header + "에러: 오늘 AI 사용량(토큰 한도)을 모두 소진했습니다. 내일 다시 시도하세요."
+        
     except Exception as e:
-        print(f"[WeeklyReporter] 실패: {e}")
+        print(f"[WeeklyReporter] 확정 실패: {e}")
         return header + "주간 분석 생성 실패"
 
 

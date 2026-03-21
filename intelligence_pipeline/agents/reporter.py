@@ -19,7 +19,11 @@ from config import DATA_DIR, TELEGRAM_REPORT_BOT_TOKEN, TELEGRAM_REPORT_CHAT_ID,
 import requests
 
 KST = timezone(timedelta(hours=9))
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODELS = [
+    "llama-3.3-70b-versatile", 
+    "llama-3.1-8b-instant",     # 폴백 1번 (빠른 모델)
+    "mixtral-8x7b-32768",       # 폴백 2번
+]
 
 # 8대 섹터 정의 및 키워드 매핑
 SECTORS = {
@@ -207,19 +211,32 @@ def generate_report(groups: dict, total: int, exclusive: int, early: int) -> str
             date=today_str,
             sector_input=sector_input,
         )
-        resp = client.chat.completions.create(
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": user_prompt},
-            ],
-            model=GROQ_MODEL,
-            temperature=0.3,
-            max_tokens=2500,
-        )
-        body = resp.choices[0].message.content.strip()
-        return header + body
+        
+        # 모델 한도 초과 시 순차적으로 다른 모델 시도 (Fallback 로직)
+        last_exception = None
+        for model in GROQ_MODELS:
+            try:
+                print(f"[Reporter] AI 모델 시도 중: {model}...")
+                resp = client.chat.completions.create(
+                    messages=[
+                        {"role": "system", "content": SYSTEM_PROMPT},
+                        {"role": "user", "content": user_prompt},
+                    ],
+                    model=model,
+                    temperature=0.3,
+                    max_tokens=2500,
+                )
+                body = resp.choices[0].message.content.strip()
+                return header + body
+            except Exception as e:
+                last_exception = e
+                print(f"  → {model} 실패 (토큰 한도 초과 등): 진행 전환")
+                
+        print(f"[Reporter] 모든 모델 시도 실패: {last_exception}")
+        return header + _fallback_body(groups)
+        
     except Exception as e:
-        print(f"[Reporter] Groq 실패: {e}")
+        print(f"[Reporter] Groq 환경 에러: {e}")
         return header + _fallback_body(groups)
 
 
