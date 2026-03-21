@@ -7,15 +7,15 @@
     "summary": "Watch: China Claims Cyborg Breakthrough To Build An \"Army Of Centaurs\"\n\n            Researchers at Southern University of Science and Technology in Shenzhen have unveiled a wearable robotic system that adds a pair of independent mechanical legs and a torso framework to a human wearer, forming a four-legged hybrid to assist with carrying heavy loads across difficult terrain such as stairs, ramps, and uneven ground, according to the South China Morning Post.\n\n\n\nLed by Chenglong Fu, the team of sci",
     "url": "https://www.zerohedge.com/technology/watch-china-claims-cyborg-breakthrough-build-army-centaurs",
     "published_at": "2026-03-21T02:40:00+00:00",
-    "collected_at": "2026-03-21T06:48:06.098208+00:00",
+    "collected_at": "2026-03-21T08:36:46.163012+00:00",
     "filter_score": 8,
-    "summary_ko": "중국이 사이보그 기술을 통해 센타우루스 군대를 구축하려는 시도를 하고 있습니다. 이는 로봇과 인간의 융합을 통해 새로운 기술을 개발하려는 시도입니다.",
+    "summary_ko": "중국은 사이보그 기술을 통해 새로운 로봇 시스템을 개발하여 군사적용을 목표로 한다.",
     "emerging_sector": "Cyborg Technology",
     "leading_companies": [
       "Southern University of Science and Technology"
     ],
     "category": "tech_trend",
-    "urgency": "medium"
+    "urgency": "high"
   },
   {
     "id": "6b4078147584dde07ca6dae1a2a2fc24",
@@ -25,10 +25,10 @@
     "summary": "The hefty funding will support a U.S. and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-21T06:48:07.516996+00:00",
+    "collected_at": "2026-03-21T08:36:48.721576+00:00",
     "filter_score": 8,
-    "summary_ko": "AI를 활용한 제약 회사 Earendil Labs가 787M 달러의 자금을 유치했습니다.",
-    "emerging_sector": "AI 제약",
+    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs가 787M 달러의 자금을 확보",
+    "emerging_sector": "AI 기반 의약품 개발",
     "leading_companies": [
       "Earendil Labs",
       "Sanofi"
@@ -44,12 +44,120 @@
     "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said&nbsp;Sant&eacute; Ventures&rsquo; Omar Khalil.",
     "url": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
     "published_at": "2026-03-19T13:40:00+00:00",
-    "collected_at": "2026-03-21T06:48:07.517088+00:00",
+    "collected_at": "2026-03-21T08:36:48.721664+00:00",
     "filter_score": 8,
-    "summary_ko": "바이오테크 벤처 캐피탈은 바이오테크 스타트업의 전환기를 예상합니다. 이는 새로운 자금 조달 물결이 형성되고 있음을 시사합니다.",
-    "emerging_sector": " biotech",
+    "summary_ko": "바이오텍 VC는 스타트업의 전환기를 예상합니다. 이는 새로운 자금 조달 물결이 형성되고 있는 것을 의미합니다.",
+    "emerging_sector": " biotech startup",
     "leading_companies": [
       "산테 벤처스"
+    ],
+    "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "b2fdb8336635a125fc2ea8bfe174f579",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company\" hreflang=\"en\">Verily banks $300M to accelerate AI road map, transitions to independent company</a>",
+    "summary": "Verily raised a $300 million investment round to accelerate its work in artificial intelligence and precision health as it also moves out from under the corporate umbrella of Alphabet.",
+    "url": "https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company",
+    "published_at": "2026-03-21T08:36:48.878453+00:00",
+    "collected_at": "2026-03-21T08:36:48.878459+00:00",
+    "filter_score": 8,
+    "summary_ko": "Verily가 3억 달러의 자금을 조달하여 AI와 정밀 의료 분야를 강화하고 독립 회사로 전환했다.",
+    "emerging_sector": "AI 기반 의료",
+    "leading_companies": [
+      "Verily"
+    ],
+    "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "39ba3aba5de0d2011f2f3abd972fd4af",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "China-rooted AI biotech Earendil Labs raises $787M ahead of possible IPO",
+    "summary": "The US-headquartered, China-rooted biotech Earendil Labs said it has raised $787 million in private money, a whopping sum to fund an AI platform that has already produced a pipeline of over 40 drug programs.\n\n Despite ...",
+    "url": "https://endpoints.news/china-rooted-ai-biotech-earendil-labs-raises-787m-ahead-of-possible-ipo/",
+    "published_at": "2026-03-20T15:16:10+00:00",
+    "collected_at": "2026-03-21T08:36:49.162734+00:00",
+    "filter_score": 8,
+    "summary_ko": "중국계 AI 바이오텍 기업 Earendil Labs는 IPO 이전에 787만 달러를 투자받았습니다. 이 기업은 이미 40개 이상의 약물 파이프라인을 보유하고 있습니다.",
+    "emerging_sector": "AI 바이오텍",
+    "leading_companies": [
+      "Earendil Labs"
+    ],
+    "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "655af3d94bf058f8fc1b4fdc82dbfb3d",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Inside One VC’s Litmus Test for Investable Healthcare AI Startups",
+    "summary": "Katie Jacobs Stanton, founder of Moxxie Ventures, shared some details of how she and her team evaluate healthcare AI startups. She stressed the need for founders with deep industry expertise, differentiated products and realistic distribution strategies.\nThe post Inside One VC’s Litmus Test for Investable Healthcare AI Startups appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/venture-capital-invest-healthcare-ai/",
+    "published_at": "2026-03-19T22:43:30+00:00",
+    "collected_at": "2026-03-21T08:36:49.471533+00:00",
+    "filter_score": 8,
+    "summary_ko": "Moxxie Ventures의 창립자인 Katie Jacobs Stanton은 투자 가능한 의료 AI 스타트업을 평가하는 방법에 대한 세부 사항을 공유했다.",
+    "emerging_sector": "의료 AI",
+    "leading_companies": [
+      "Moxxie Ventures"
+    ],
+    "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "0707bf47ce375afb4d7ab38c7afd632f",
+    "source": "Yahoo Finance (ARM)",
+    "source_type": "finance",
+    "title": "🔥 ARM: $132.35 (+1.95%)",
+    "summary": "ARM 현재가 132.35, 일간 변동 +1.95%, 거래량 12,353,954 (평균 대비 3.2배 — 자금 이동 포착!)",
+    "url": "https://finance.yahoo.com/quote/ARM",
+    "published_at": "2026-03-21T08:36:52.134089+00:00",
+    "collected_at": "2026-03-21T08:36:52.134095+00:00",
+    "metadata": {
+      "ticker": "ARM",
+      "price": 132.35,
+      "daily_change_pct": 1.95,
+      "volume": 12353954,
+      "avg_volume": 3849547,
+      "volume_ratio": 3.21,
+      "is_spike": true
+    },
+    "filter_score": 8,
+    "summary_ko": "ARM 주식의 현재가와 일간 변동을 나타냅니다. 자금 이동이 포착되었습니다.",
+    "emerging_sector": "반도체",
+    "leading_companies": [
+      "ARM"
+    ],
+    "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "bd2ec7bc3871611e0637503036c55fb9",
+    "source": "Yahoo Finance (COHR)",
+    "source_type": "finance",
+    "title": "🔥 COHR: $253.63 (-7.96%)",
+    "summary": "COHR 현재가 253.63, 일간 변동 -7.96%, 거래량 46,053,091 (평균 대비 5.7배 — 자금 이동 포착!)",
+    "url": "https://finance.yahoo.com/quote/COHR",
+    "published_at": "2026-03-21T08:36:52.637981+00:00",
+    "collected_at": "2026-03-21T08:36:52.637987+00:00",
+    "metadata": {
+      "ticker": "COHR",
+      "price": 253.63,
+      "daily_change_pct": -7.96,
+      "volume": 46053091,
+      "avg_volume": 8068126,
+      "volume_ratio": 5.71,
+      "is_spike": true
+    },
+    "filter_score": 8,
+    "summary_ko": "COHR 주식의 현재가와 일간 변동을 나타냅니다. 자금 이동이 포착되었습니다.",
+    "emerging_sector": "반도체",
+    "leading_companies": [
+      "Coherent"
     ],
     "category": "smart_money",
     "urgency": "high"
@@ -62,15 +170,15 @@
     "summary": "First-Ever Look At America's Classified RQ-180 Stealth Drone? \n\n            The world is seemingly at war. With multi-front conflicts raging in Eastern Europe and intensifying in the Middle East, this period of elevated World War III risk has coincided with the emergence of some of America’s most advanced stealth aircraft.\n\nThe latest sighting comes from the Greek news website OnLarissa, which reports that a planespotter captured a \"mysterious\" stealth-bomber-like aircraft operating near Larissa",
     "url": "https://www.zerohedge.com/military/first-ever-look-classified-rq-180-stealth-drone",
     "published_at": "2026-03-21T01:50:00+00:00",
-    "collected_at": "2026-03-21T06:48:06.098301+00:00",
+    "collected_at": "2026-03-21T08:36:46.163099+00:00",
     "filter_score": 7,
-    "summary_ko": "미국의 분류된 스텔스 드론 RQ-180에 대한 첫 번째 시각적 확인입니다. 이는 군사 기술의 발전에 대한 관심을 끌어올릴 수 있습니다.",
+    "summary_ko": "미국의 새로운 스텔스 드론 RQ-180에 대한 첫 번째 시각적 확인이다.",
     "emerging_sector": "Stealth Drone Technology",
     "leading_companies": [
       "US Military"
     ],
     "category": "tech_trend",
-    "urgency": "medium"
+    "urgency": "high"
   },
   {
     "id": "d7d8eadb7b8569a10cb1b16eda372342",
@@ -80,10 +188,10 @@
     "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
     "published_at": "2026-03-20T14:34:00+00:00",
-    "collected_at": "2026-03-21T06:48:07.517029+00:00",
+    "collected_at": "2026-03-21T08:36:48.721606+00:00",
     "filter_score": 7,
-    "summary_ko": "Novartis가 스타트업의 유방암 약을 20억 달러에 인수했습니다.",
-    "emerging_sector": "유방암 치료",
+    "summary_ko": "Novartis가 스타트업의 유방암 약물 개발을 위해 20억 달러를 지불",
+    "emerging_sector": "유방암 약물 개발",
     "leading_companies": [
       "Novartis",
       "Synnovation Therapeutics"
@@ -99,7 +207,7 @@
     "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
     "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-21T06:48:07.517065+00:00",
+    "collected_at": "2026-03-21T08:36:48.721641+00:00",
     "filter_score": 7,
     "summary_ko": "엘리 릴리의 레타트루티드가 대규모 당뇨병 임상시험에서 목표를 달성했습니다. 이는 레타트루티드가 비만 치료에 효과적일 수 있음을 시사합니다.",
     "emerging_sector": " obesity treatment",
@@ -107,7 +215,7 @@
       "엘리 릴리"
     ],
     "category": "tech_trend",
-    "urgency": "medium"
+    "urgency": "high"
   },
   {
     "id": "fc62c73811d3b486e091ae8e3f00f8ff",
@@ -117,10 +225,10 @@
     "summary": "As part of a larger review, analyst Leonid Timashev identified 13 companies that could see deal interest as well as more than half a dozen poised to be potential buyers.",
     "url": "https://www.biopharmadive.com/news/biotech-takeover-targets-rbc-mergers-acquisitions-deals/815061/",
     "published_at": "2026-03-18T16:14:00+00:00",
-    "collected_at": "2026-03-21T06:48:07.517132+00:00",
+    "collected_at": "2026-03-21T08:36:48.721685+00:00",
     "filter_score": 7,
-    "summary_ko": "RBC는 레볼루션, 제논, 애로우헤드 등이 인수 대상이 될 수 있다고 분석했습니다. 이는 바이오테크 산업에서 인수 합병이 증가할 수 있음을 시사합니다.",
-    "emerging_sector": " biotech",
+    "summary_ko": "RBC는 레볼루션, 제논, 애로우헤드 등이 인수 대상이 될 수 있다고 분석했습니다. 이는 바이오텍 산업에서 인수 합병이 증가할 수 있음을 시사합니다.",
+    "emerging_sector": " biotech M&A",
     "leading_companies": [
       "레볼루션",
       "제논",
@@ -128,5 +236,79 @@
     ],
     "category": "smart_money",
     "urgency": "high"
+  },
+  {
+    "id": "f6b1f3e4e867dcf7fdd909c03a85bbe9",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle\" hreflang=\"en\">Novartis pays Synnovation $2B upfront for breast cancer program as rivals circle</a>",
+    "summary": "Novartis has struck a deal to buy Synnovation Therapeutics’ pan-mutant‑selective PI3Kα inhibitor for $2 billion upfront, securing an asset that could defend its breast cancer franchise from challengers including Eli Lilly.",
+    "url": "https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle",
+    "published_at": "2026-03-21T08:36:48.878425+00:00",
+    "collected_at": "2026-03-21T08:36:48.878432+00:00",
+    "filter_score": 7,
+    "summary_ko": "노바티스가 Synnovation Therapeutics의 유방암 치료제를 20억 달러에 인수했다. 이 치료제는 노바티스의 유방암 치료제 시장 지위를 강화할 수 있다.",
+    "emerging_sector": "유방암 치료제",
+    "leading_companies": [
+      "노바티스",
+      "Synnovation Therapeutics"
+    ],
+    "category": "macro",
+    "urgency": "high"
+  },
+  {
+    "id": "dc07b8a8596fd0dcdf2211333a069255",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Novartis to pay $2B upfront to take next-gen PI3Kα inhibitor from Synnovation",
+    "summary": "Novartis will spend $2 billion upfront to buy a more selective PI3Kα inhibitor, intensifying the competition to develop a new wave of breast cancer drugs with fewer side effects.\n\n The Swiss pharma already markets the ...",
+    "url": "https://endpoints.news/novartis-to-pay-2b-upfront-to-take-next-gen-pi3k%ce%b1-inhibitor-from-synnovation/",
+    "published_at": "2026-03-20T11:40:21+00:00",
+    "collected_at": "2026-03-21T08:36:49.162772+00:00",
+    "filter_score": 7,
+    "summary_ko": "Novartis는 Synnovation의 차세대 PI3Kα 억제제를 20억 달러를 앞으로 지불하여 인수할 계획입니다. 이는 유방암 약물 개발 경쟁을激化시킬 것입니다.",
+    "emerging_sector": "유방암 치료",
+    "leading_companies": [
+      "Novartis",
+      "Synnovation"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "bbfc8f8666fa0b65e1510c2d494da1f9",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Lantern Secures $30M to Fuel Growth Across Employers and Health Plans",
+    "summary": "Lantern&#8217;s $30 million raise was led by Morgan Health, a JPMorganChase business unit focused on employer-sponsored healthcare, as well as Echo Health Ventures, a strategic investment platform that invests on behalf of multiple Blues health plans.\nThe post Lantern Secures $30M to Fuel Growth Across Employers and Health Plans appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/lantern-employers-health-plans-funding/",
+    "published_at": "2026-03-20T19:49:50+00:00",
+    "collected_at": "2026-03-21T08:36:49.471490+00:00",
+    "filter_score": 7,
+    "summary_ko": "Lantern은 고용주와 건강 보험 계획을 위한 성장 자금으로 3,000만 달러를 확보했다.",
+    "emerging_sector": "건강 보험 기술",
+    "leading_companies": [
+      "Lantern",
+      "Morgan Health",
+      "Echo Health Ventures"
+    ],
+    "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "4830c6b759a96b69b63660a11d5213ac",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Ending the Voicemail Bottleneck: How Voice AI Is Transforming Patient Access",
+    "summary": "Beyond simply recording or transcribing messages to lower call volumes, truly autonomous voice AI puts patients in the driver’s seat of their own healthcare. It processes patient requests and information immediately and integrates actionable insights into the EHR, speeding next steps for clinicians and patients. \nThe post Ending the Voicemail Bottleneck: How Voice AI Is Transforming Patient Access appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/ending-the-voicemail-bottleneck-how-voice-ai-is-transforming-patient-access-in-2026/",
+    "published_at": "2026-03-20T13:25:00+00:00",
+    "collected_at": "2026-03-21T08:36:49.471519+00:00",
+    "filter_score": 7,
+    "summary_ko": "음성 AI를 사용하여 환자 접근성을 개선하는 방법에 대한 논의가 진행되었다.",
+    "emerging_sector": "음성 AI",
+    "leading_companies": [],
+    "category": "tech_trend",
+    "urgency": "medium"
   }
 ]
