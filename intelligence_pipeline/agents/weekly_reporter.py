@@ -18,10 +18,8 @@ sys.stderr.reconfigure(encoding='utf-8')
 
 from config import (
     DATA_DIR,
-    TELEGRAM_REPORT_BOT_TOKEN,
-    TELEGRAM_REPORT_CHAT_ID,
-    TELEGRAM_BOT_TOKEN,
-    TELEGRAM_CHAT_ID,
+    TELEGRAM_WEEKLY_BOT_TOKEN,
+    TELEGRAM_WEEKLY_CHAT_ID,
     GROQ_API_KEY,
 )
 import requests
@@ -266,24 +264,34 @@ def generate_weekly_report(groups: Dict[str, List[dict]], stats: Dict[str, any])
 
 
 def send_telegram(text: str):
-    bot_token = TELEGRAM_REPORT_BOT_TOKEN or TELEGRAM_BOT_TOKEN
-    chat_id   = TELEGRAM_REPORT_CHAT_ID or TELEGRAM_CHAT_ID
+    # 주간 리포트는 명확하게 WEEKLY 전용 시세 정보를 사용
+    bot_token = TELEGRAM_WEEKLY_BOT_TOKEN
+    chat_id   = TELEGRAM_WEEKLY_CHAT_ID
+    
     if not bot_token or not chat_id:
+        print("[WeeklyReporter] 텔레그램 키 없음 — 전송 스킵")
         return
+        
     api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     chunks = [text[i:i+4096] for i in range(0, len(text), 4096)]
     for chunk in chunks:
-        requests.post(api_url, json={"chat_id": chat_id, "text": chunk, "parse_mode": "Markdown"}, timeout=15)
+        try:
+            requests.post(api_url, json={"chat_id": chat_id, "text": chunk, "parse_mode": "Markdown"}, timeout=15)
+        except Exception as e:
+            print(f"[WeeklyReporter] 텔레그램 전송 실패: {e}")
 
 
 def run_weekly_reporter():
+    print(f"📈 주간 스마트 머니 리포팅 시작 — {datetime.now(KST).strftime('%Y-%m-%d %H:%M:%S')}")
     items = load_weekly_items()
     if not items:
+        print("[WeeklyReporter] 7일간의 데이터가 전혀 없습니다. 전송을 중단합니다.")
         return
     groups = group_by_sector(items)
     stats = compute_weekly_stats(items, groups)
     report = generate_weekly_report(groups, stats)
     send_telegram(report)
+    print("✅ 주간 리포팅 완료")
 
 
 if __name__ == "__main__":

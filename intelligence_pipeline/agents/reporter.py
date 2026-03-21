@@ -15,7 +15,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
 
-from config import DATA_DIR, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, TELEGRAM_REPORT_BOT_TOKEN, TELEGRAM_REPORT_CHAT_ID, GROQ_API_KEY
+from config import DATA_DIR, TELEGRAM_REPORT_BOT_TOKEN, TELEGRAM_REPORT_CHAT_ID, GROQ_API_KEY
 import requests
 
 KST = timezone(timedelta(hours=9))
@@ -241,8 +241,9 @@ def _fallback_body(groups: dict) -> str:
 
 
 def send_telegram(text: str):
-    bot_token = TELEGRAM_REPORT_BOT_TOKEN or TELEGRAM_BOT_TOKEN
-    chat_id   = TELEGRAM_REPORT_CHAT_ID or TELEGRAM_CHAT_ID
+    # 유저 지정: 매일 아침 브리핑은 TELEGRAM_REPORT_... 사용
+    bot_token = TELEGRAM_REPORT_BOT_TOKEN
+    chat_id   = TELEGRAM_REPORT_CHAT_ID
     if not bot_token or not chat_id:
         print("[Reporter] 텔레그램 키 없음 — 콘솔 출력")
         print(text)

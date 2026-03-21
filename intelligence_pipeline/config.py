@@ -25,6 +25,8 @@ TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
 TELEGRAM_REPORT_BOT_TOKEN = os.getenv("TELEGRAM_REPORT_BOT_TOKEN", "")
 TELEGRAM_REPORT_CHAT_ID = os.getenv("TELEGRAM_REPORT_CHAT_ID", "")
+TELEGRAM_WEEKLY_BOT_TOKEN = os.getenv("TELEGRAM_WEEKLY_BOT_TOKEN", "")
+TELEGRAM_WEEKLY_CHAT_ID = os.getenv("TELEGRAM_WEEKLY_CHAT_ID", "")
 NOTIFY_THRESHOLD = 7  # 이 점수 이상의 핵심 정보만 텔레그램 발송
 
 # ============================================================
