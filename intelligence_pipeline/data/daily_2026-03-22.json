@@ -387,5 +387,45 @@
     "korea_status": "⚡ 초기 반영",
     "korea_news_count": 4,
     "korea_search_query": "Providence"
+  },
+  {
+    "id": "7dd2fee8ad6ad5b4be86ad7da4bb12fa",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "The Private Credit Crisis Is Spreading",
+    "summary": "The Private Credit Crisis Is Spreading\n\n            Submitted by QTR's Fringe Finance\n\nThe private credit crisis is spreading to another corner of the market that I warned about back in October, when I wrote about 10 parts of the market I’d avoid.\n\nFor years I’ve been warning that buy now pay later (“BNPL”) industry was built on a pretty fragile foundation. The quality of the loans was always the obvious problem. The entire business model revolves around extending instant credit with minimal und",
+    "url": "https://www.zerohedge.com/markets/private-credit-crisis-spreading",
+    "published_at": "2026-03-21T15:40:00+00:00",
+    "collected_at": "2026-03-21T20:30:13.211666+00:00",
+    "filter_score": 8,
+    "summary_ko": "개인신용 위기가 확대되고 있습니다. 이는 금융 시장에 큰 영향을 미칠 수 있습니다.",
+    "emerging_sector": "개인신용",
+    "leading_companies": [],
+    "category": "macro",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Private"
+  },
+  {
+    "id": "f28c842290679c7e59a5d20a80d00cee",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Trevor Milton Is Back And Wants To Produce AI Powered \"Fully Autonomous Corporate Jets\"",
+    "summary": "Trevor Milton Is Back And Wants To Produce AI Powered \"Fully Autonomous Corporate Jets\"\n\n            Trevor Milton, founder and former CEO of the now-bankrupt Nikola, is trying to mount a \"comeback story\".\n\nThrough social media, interviews, and bold public claims, Milton once convinced investors that Nikola was on the verge of delivering breakthrough technology with trucks. Now he's going to attempt the same in the aircraft business, according to a new report from the Wall Street Journal.\n\nHe ha",
+    "url": "https://www.zerohedge.com/markets/trevor-milton-back-and-wants-produce-ai-powered-fully-autonomous-corporate-jets",
+    "published_at": "2026-03-21T18:35:00+00:00",
+    "collected_at": "2026-03-21T20:30:13.211416+00:00",
+    "filter_score": 7,
+    "summary_ko": "트레버 밀턴이 전자自動 비행기를 생산하려는 계획을 발표했습니다. 이는 자율 주행 기술의 발전과 함께 새로운 비행기 산업의 시작을 알릴 수 있습니다.",
+    "emerging_sector": "자율 주행 비행기",
+    "leading_companies": [
+      "Nikola"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 2,
+    "korea_search_query": "Trevor"
   }
 ]

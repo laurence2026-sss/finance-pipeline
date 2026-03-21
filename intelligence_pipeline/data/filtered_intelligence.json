@@ -1,5 +1,21 @@
 [
   {
+    "id": "7dd2fee8ad6ad5b4be86ad7da4bb12fa",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "The Private Credit Crisis Is Spreading",
+    "summary": "The Private Credit Crisis Is Spreading\n\n            Submitted by QTR's Fringe Finance\n\nThe private credit crisis is spreading to another corner of the market that I warned about back in October, when I wrote about 10 parts of the market I’d avoid.\n\nFor years I’ve been warning that buy now pay later (“BNPL”) industry was built on a pretty fragile foundation. The quality of the loans was always the obvious problem. The entire business model revolves around extending instant credit with minimal und",
+    "url": "https://www.zerohedge.com/markets/private-credit-crisis-spreading",
+    "published_at": "2026-03-21T15:40:00+00:00",
+    "collected_at": "2026-03-21T20:30:13.211666+00:00",
+    "filter_score": 8,
+    "summary_ko": "개인신용 위기가 확대되고 있습니다. 이는 금융 시장에 큰 영향을 미칠 수 있습니다.",
+    "emerging_sector": "개인신용",
+    "leading_companies": [],
+    "category": "macro",
+    "urgency": "high"
+  },
+  {
     "id": "6b4078147584dde07ca6dae1a2a2fc24",
     "source": "BioPharma Dive",
     "source_type": "rss",
@@ -7,10 +23,10 @@
     "summary": "The hefty funding will support a U.S. and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-21T18:39:21.115426+00:00",
+    "collected_at": "2026-03-21T20:30:15.442346+00:00",
     "filter_score": 8,
-    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs가 787M 달러의 자금을 유치",
-    "emerging_sector": "AI 기반 의약품 개발",
+    "summary_ko": "AI를 활용한 제약 회사 Earendil Labs가 787M 달러의 자금을 유치했습니다.",
+    "emerging_sector": "AI 제약",
     "leading_companies": [
       "Earendil Labs",
       "Sanofi"
@@ -26,10 +42,10 @@
     "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said&nbsp;Sant&eacute; Ventures&rsquo; Omar Khalil.",
     "url": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
     "published_at": "2026-03-19T13:40:00+00:00",
-    "collected_at": "2026-03-21T18:39:21.115516+00:00",
+    "collected_at": "2026-03-21T20:30:15.442455+00:00",
     "filter_score": 8,
-    "summary_ko": "바이오테크 벤처 캐피탈은 바이오테크 스타트업의 전환기를 예상합니다. 이는 새로운 자금 조달 물결이 형성되고 있음을 시사합니다.",
-    "emerging_sector": " biotech",
+    "summary_ko": "바이오테크 벤처 캐피탈은 스타트업의 전환기를 예상합니다. 이는 새로운 자금 조달 물결이 형성되고 있는 것을 의미합니다.",
+    "emerging_sector": "바이오테크 스타트업",
     "leading_companies": [
       "산테 벤처스"
     ],
@@ -43,16 +59,16 @@
     "title": "<a href=\"https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company\" hreflang=\"en\">Verily banks $300M to accelerate AI road map, transitions to independent company</a>",
     "summary": "Verily raised a $300 million investment round to accelerate its work in artificial intelligence and precision health as it also moves out from under the corporate umbrella of Alphabet.",
     "url": "https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company",
-    "published_at": "2026-03-21T18:39:21.279194+00:00",
-    "collected_at": "2026-03-21T18:39:21.279200+00:00",
+    "published_at": "2026-03-21T20:30:15.609472+00:00",
+    "collected_at": "2026-03-21T20:30:15.609478+00:00",
     "filter_score": 8,
-    "summary_ko": "Verily는 인공지능과 정밀 건강 분야에서 연구를 가속화하기 위해 3억 달러의 투자를 유치했다. 또한 알파벳의 자회사에서 독립 회사로 전환했다.",
-    "emerging_sector": "AI in Healthcare",
+    "summary_ko": "Verily는 3억 달러의 투자를 유치하여 인공지능과 정밀 건강 분야를 강화했습니다. 이는 헬스테크 산업에서 새로운 기회와 성장을 예상할 수 있습니다.",
+    "emerging_sector": "인공지능과 정밀 건강",
     "leading_companies": [
       "Verily"
     ],
-    "category": "smart_money",
-    "urgency": "high"
+    "category": "tech_trend",
+    "urgency": "medium"
   },
   {
     "id": "39ba3aba5de0d2011f2f3abd972fd4af",
@@ -62,9 +78,9 @@
     "summary": "The US-headquartered, China-rooted biotech Earendil Labs said it has raised $787 million in private money, a whopping sum to fund an AI platform that has already produced a pipeline of over 40 drug programs.\n\n Despite ...",
     "url": "https://endpoints.news/china-rooted-ai-biotech-earendil-labs-raises-787m-ahead-of-possible-ipo/",
     "published_at": "2026-03-20T15:16:10+00:00",
-    "collected_at": "2026-03-21T18:39:21.568508+00:00",
+    "collected_at": "2026-03-21T20:30:15.746788+00:00",
     "filter_score": 8,
-    "summary_ko": "Earendil Labs, AI 기반 바이오테크 플랫폼 개발을 위한 787만 달러 투자 유치",
+    "summary_ko": "중국계 AI 바이오텍 기업 Earendil Labs가 787만 달러를 투자받았습니다.",
     "emerging_sector": "AI in Biotech",
     "leading_companies": [
       "Earendil Labs"
@@ -80,10 +96,10 @@
     "summary": "Lantern&#8217;s $30 million raise was led by Morgan Health, a JPMorganChase business unit focused on employer-sponsored healthcare, as well as Echo Health Ventures, a strategic investment platform that invests on behalf of multiple Blues health plans.\nThe post Lantern Secures $30M to Fuel Growth Across Employers and Health Plans appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/lantern-employers-health-plans-funding/",
     "published_at": "2026-03-20T19:49:50+00:00",
-    "collected_at": "2026-03-21T18:39:21.867053+00:00",
+    "collected_at": "2026-03-21T20:30:15.927631+00:00",
     "filter_score": 8,
-    "summary_ko": "Lantern이 3000만 달러를 투자받아 성장할 수 있을까?",
-    "emerging_sector": "디지털 헬스",
+    "summary_ko": "Lantern은 3000만 달러의 자금을 확보하여 고용주와 건강 보험 사업을 확대하고자 합니다.",
+    "emerging_sector": "건강 보험",
     "leading_companies": [
       "Lantern"
     ],
@@ -98,10 +114,10 @@
     "summary": "Katie Jacobs Stanton, founder of Moxxie Ventures, shared some details of how she and her team evaluate healthcare AI startups. She stressed the need for founders with deep industry expertise, differentiated products and realistic distribution strategies.\nThe post Inside One VC’s Litmus Test for Investable Healthcare AI Startups appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/venture-capital-invest-healthcare-ai/",
     "published_at": "2026-03-19T22:43:30+00:00",
-    "collected_at": "2026-03-21T18:39:21.867097+00:00",
+    "collected_at": "2026-03-21T20:30:15.927675+00:00",
     "filter_score": 8,
-    "summary_ko": "한 벤처 캐피탈의 투자 가능성 테스트",
-    "emerging_sector": "헬스케어 AI",
+    "summary_ko": "Moxxie Ventures의 창립자는 의료 AI 스타트업에 대한 투자 기준을 공유했습니다. 이는 산업 전문 지식과 다른 접근 방식이 필요합니다.",
+    "emerging_sector": "의료 AI",
     "leading_companies": [
       "Moxxie Ventures"
     ],
@@ -115,8 +131,8 @@
     "title": "🔥 ARM: $132.35 (+1.95%)",
     "summary": "ARM 현재가 132.35, 일간 변동 +1.95%, 거래량 12,353,954 (평균 대비 3.2배 — 자금 이동 포착!)",
     "url": "https://finance.yahoo.com/quote/ARM",
-    "published_at": "2026-03-21T18:39:23.296758+00:00",
-    "collected_at": "2026-03-21T18:39:23.296763+00:00",
+    "published_at": "2026-03-21T20:30:17.583569+00:00",
+    "collected_at": "2026-03-21T20:30:17.583574+00:00",
     "metadata": {
       "ticker": "ARM",
       "price": 132.35,
@@ -127,7 +143,7 @@
       "is_spike": true
     },
     "filter_score": 8,
-    "summary_ko": "ARM의 현재가는 132.35로, 일간 변동은 +1.95%입니다. 거래량은 12,353,954로, 평균 대비 3.2배입니다. 자금 이동이 포착되었습니다.",
+    "summary_ko": "ARM의 현재 주가는 132.35로, 일간 변동은 +1.95%입니다. 거래량은 평균 대비 3.2배 증가하여 자금 이동이 포착되었습니다.",
     "emerging_sector": "반도체",
     "leading_companies": [
       "ARM"
@@ -142,8 +158,8 @@
     "title": "🔥 COHR: $253.63 (-7.96%)",
     "summary": "COHR 현재가 253.63, 일간 변동 -7.96%, 거래량 46,053,091 (평균 대비 5.7배 — 자금 이동 포착!)",
     "url": "https://finance.yahoo.com/quote/COHR",
-    "published_at": "2026-03-21T18:39:23.652678+00:00",
-    "collected_at": "2026-03-21T18:39:23.652683+00:00",
+    "published_at": "2026-03-21T20:30:17.865484+00:00",
+    "collected_at": "2026-03-21T20:30:17.865489+00:00",
     "metadata": {
       "ticker": "COHR",
       "price": 253.63,
@@ -154,7 +170,7 @@
       "is_spike": true
     },
     "filter_score": 8,
-    "summary_ko": "COHR의 현재가는 253.63으로, 일간 변동은 -7.96%입니다. 거래량은 46,053,091로, 평균 대비 5.7배입니다. 자금 이동이 포착되었습니다.",
+    "summary_ko": "COHR의 현재 주가는 253.63로, 일간 변동은 -7.96%입니다. 거래량은 평균 대비 5.7배 증가하여 자금 이동이 포착되었습니다.",
     "emerging_sector": "반도체",
     "leading_companies": [
       "Coherent"
@@ -169,8 +185,8 @@
     "title": "🔥 PL: $33.83 (+25.48%)",
     "summary": "PL 현재가 33.83, 일간 변동 +25.48%, 거래량 62,961,486 (평균 대비 5.9배 — 자금 이동 포착!)",
     "url": "https://finance.yahoo.com/quote/PL",
-    "published_at": "2026-03-21T18:39:24.011204+00:00",
-    "collected_at": "2026-03-21T18:39:24.011209+00:00",
+    "published_at": "2026-03-21T20:30:18.302520+00:00",
+    "collected_at": "2026-03-21T20:30:18.302525+00:00",
     "metadata": {
       "ticker": "PL",
       "price": 33.83,
@@ -181,13 +197,31 @@
       "is_spike": true
     },
     "filter_score": 8,
-    "summary_ko": "PL 주가가 25.48% 상승했다. 거래량은 평균 대비 5.9배 증가했다. 이는 자금 이동이 포착되었다는 것을 의미한다.",
-    "emerging_sector": "테크",
+    "summary_ko": "PL 주가가 25.48% 상승했다. 거래량은 평균 대비 5.9배 증가했다.",
+    "emerging_sector": "신재생에너지",
     "leading_companies": [
       "PL"
     ],
-    "category": "tech_trend",
+    "category": "smart_money",
     "urgency": "high"
+  },
+  {
+    "id": "f28c842290679c7e59a5d20a80d00cee",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Trevor Milton Is Back And Wants To Produce AI Powered \"Fully Autonomous Corporate Jets\"",
+    "summary": "Trevor Milton Is Back And Wants To Produce AI Powered \"Fully Autonomous Corporate Jets\"\n\n            Trevor Milton, founder and former CEO of the now-bankrupt Nikola, is trying to mount a \"comeback story\".\n\nThrough social media, interviews, and bold public claims, Milton once convinced investors that Nikola was on the verge of delivering breakthrough technology with trucks. Now he's going to attempt the same in the aircraft business, according to a new report from the Wall Street Journal.\n\nHe ha",
+    "url": "https://www.zerohedge.com/markets/trevor-milton-back-and-wants-produce-ai-powered-fully-autonomous-corporate-jets",
+    "published_at": "2026-03-21T18:35:00+00:00",
+    "collected_at": "2026-03-21T20:30:13.211416+00:00",
+    "filter_score": 7,
+    "summary_ko": "트레버 밀턴이 전자自動 비행기를 생산하려는 계획을 발표했습니다. 이는 자율 주행 기술의 발전과 함께 새로운 비행기 산업의 시작을 알릴 수 있습니다.",
+    "emerging_sector": "자율 주행 비행기",
+    "leading_companies": [
+      "Nikola"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
   },
   {
     "id": "d7d8eadb7b8569a10cb1b16eda372342",
@@ -197,10 +231,10 @@
     "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
     "published_at": "2026-03-20T14:34:00+00:00",
-    "collected_at": "2026-03-21T18:39:21.115457+00:00",
+    "collected_at": "2026-03-21T20:30:15.442377+00:00",
     "filter_score": 7,
-    "summary_ko": "Novartis가 스타트업의 유방암 약물 개발을 위해 20억 달러를 지불",
-    "emerging_sector": "유방암 약물 개발",
+    "summary_ko": "Novartis가 스타트업의 유방암 약을 20억 달러에 인수했습니다.",
+    "emerging_sector": "유방암 치료",
     "leading_companies": [
       "Novartis",
       "Synnovation Therapeutics"
@@ -216,15 +250,15 @@
     "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
     "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-21T18:39:21.115493+00:00",
+    "collected_at": "2026-03-21T20:30:15.442431+00:00",
     "filter_score": 7,
-    "summary_ko": "엘리 릴리의 레타트루티드가 대규모 당뇨병 임상시험에서 목표를 달성했습니다. 이는 레타트루티드가 비만 치료에 효과적일 수 있음을 시사합니다.",
-    "emerging_sector": " obesity treatment",
+    "summary_ko": "엘리 릴리의 3중 작용 비만 약물이 대규모 당뇨병 임상시험에서 목표를 달성했습니다. 이는 비만 치료에 효과적인 약물이 될 수 있습니다.",
+    "emerging_sector": "비만 치료",
     "leading_companies": [
       "엘리 릴리"
     ],
     "category": "tech_trend",
-    "urgency": "medium"
+    "urgency": "high"
   },
   {
     "id": "fc62c73811d3b486e091ae8e3f00f8ff",
@@ -234,17 +268,17 @@
     "summary": "As part of a larger review, analyst Leonid Timashev identified 13 companies that could see deal interest as well as more than half a dozen poised to be potential buyers.",
     "url": "https://www.biopharmadive.com/news/biotech-takeover-targets-rbc-mergers-acquisitions-deals/815061/",
     "published_at": "2026-03-18T16:14:00+00:00",
-    "collected_at": "2026-03-21T18:39:21.115538+00:00",
+    "collected_at": "2026-03-21T20:30:15.442478+00:00",
     "filter_score": 7,
-    "summary_ko": "RBC는 레볼루션, 제논, 애로우헤드 등이 인수 대상이 될 수 있다고 분석했습니다. 이는 바이오테크 산업에서 인수 합병이 증가할 수 있음을 시사합니다.",
-    "emerging_sector": " biotech",
+    "summary_ko": "RBC는 레볼루션, 제논, 애로우헤드 등이 인수 대상이 될 수 있다고 분석했습니다. 이는 바이오테크 산업에서 인수 합병이 증가할 수 있습니다.",
+    "emerging_sector": "바이오테크 인수 합병",
     "leading_companies": [
       "레볼루션",
       "제논",
       "애로우헤드"
     ],
     "category": "smart_money",
-    "urgency": "medium"
+    "urgency": "high"
   },
   {
     "id": "f6b1f3e4e867dcf7fdd909c03a85bbe9",
@@ -253,13 +287,13 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle\" hreflang=\"en\">Novartis pays Synnovation $2B upfront for breast cancer program as rivals circle</a>",
     "summary": "Novartis has struck a deal to buy Synnovation Therapeutics’ pan-mutant‑selective PI3Kα inhibitor for $2 billion upfront, securing an asset that could defend its breast cancer franchise from challengers including Eli Lilly.",
     "url": "https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle",
-    "published_at": "2026-03-21T18:39:21.279167+00:00",
-    "collected_at": "2026-03-21T18:39:21.279173+00:00",
+    "published_at": "2026-03-21T20:30:15.609444+00:00",
+    "collected_at": "2026-03-21T20:30:15.609450+00:00",
     "filter_score": 7,
-    "summary_ko": "노바티스는 Synnovation Therapeutics의 유방암 치료제를 20억 달러의 선불금으로 인수했다. 이 치료제는 노바티스의 유방암 프랜차이즈를 강화할 수 있다.",
-    "emerging_sector": "Breast Cancer Treatment",
+    "summary_ko": "노바티스는 Synnovation Therapeutics의 유방암 치료제를 20억 달러에 인수했습니다. 이는 바이오텍 산업에서 새로운 경쟁과 기회를 예상할 수 있습니다.",
+    "emerging_sector": "유방암 치료",
     "leading_companies": [
-      "Novartis",
+      "노바티스",
       "Synnovation Therapeutics"
     ],
     "category": "macro",
@@ -273,10 +307,10 @@
     "summary": "Providence announced its intent to sell its health plan, exiting the “payvider” model as rising costs and operational complexity weigh on smaller regional insurers. The move reflects a broader trend of health systems refocusing on core care delivery and exploring partnerships instead of running insurance themselves.\nThe post Why Providence Wants to Sell Its Health Plan appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/providence-health-plan/",
     "published_at": "2026-03-20T23:43:15+00:00",
-    "collected_at": "2026-03-21T18:39:21.867038+00:00",
+    "collected_at": "2026-03-21T20:30:15.927616+00:00",
     "filter_score": 7,
-    "summary_ko": "Providence가 건강 보험 사업을 매각하려는 이유는 무엇일까?",
-    "emerging_sector": "헬스케어",
+    "summary_ko": "Providence는 건강 보험 사업을 매각하고자 합니다. 이는 비용 상승과 운영 복잡성으로 인한 작은 지역 보험사의 어려움을 반영합니다.",
+    "emerging_sector": "건강 보험",
     "leading_companies": [
       "Providence"
     ],
@@ -291,9 +325,9 @@
     "summary": "Beyond simply recording or transcribing messages to lower call volumes, truly autonomous voice AI puts patients in the driver’s seat of their own healthcare. It processes patient requests and information immediately and integrates actionable insights into the EHR, speeding next steps for clinicians and patients. \nThe post Ending the Voicemail Bottleneck: How Voice AI Is Transforming Patient Access appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/ending-the-voicemail-bottleneck-how-voice-ai-is-transforming-patient-access-in-2026/",
     "published_at": "2026-03-20T13:25:00+00:00",
-    "collected_at": "2026-03-21T18:39:21.867082+00:00",
+    "collected_at": "2026-03-21T20:30:15.927661+00:00",
     "filter_score": 7,
-    "summary_ko": "음성 AI가 환자 접근성을 어떻게 변화시키고 있는가?",
+    "summary_ko": "음성 AI는 환자 접근을 위한 새로운 기회를 제공합니다. 이는 음성 메시지를 녹음하거나 전사하는 것보다 더 많은 것을 제공합니다.",
     "emerging_sector": "음성 AI",
     "leading_companies": [],
     "category": "tech_trend",
