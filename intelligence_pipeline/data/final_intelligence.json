@@ -1,5 +1,92 @@
 [
   {
+    "id": "b74cf92649f7f4b37e2c114c827050ae",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "EV Demand Surges Across Asia After Energy Shock Sends Consumers Into Panic Mode",
+    "summary": "EV Demand Surges Across Asia After Energy Shock Sends Consumers Into Panic Mode\n\n            One of the biggest takeaways in global energy markets this week is the growing fragmentation. Brent crude in Asia has surged to over $150 a barrel, with demand destruction already emerging, and China and India facing the greatest pressure given their heavy reliance on Gulf crude. Meanwhile, the Trump administration has moved to release barrels from the Strategic Petroleum Reserve to help cap WTI prices b",
+    "url": "https://www.zerohedge.com/technology/ev-demand-surges-across-asia-after-energy-shock-sends-consumers-panic-mode",
+    "published_at": "2026-03-20T21:40:00+00:00",
+    "collected_at": "2026-03-21T02:07:11.398042+00:00",
+    "filter_score": 8,
+    "summary_ko": "아시아 전역에서 에너지 쇼크로 인해 전기차 수요가 급증하고 있다. 이는 에너지 시장의 분열을 가속화할 수 있다.",
+    "emerging_sector": "Electric Vehicle",
+    "leading_companies": [
+      "Tesla",
+      "BYD",
+      "Hyundai"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "급등"
+  },
+  {
+    "id": "6b4078147584dde07ca6dae1a2a2fc24",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Earendil Labs, an AI-powered drugmaker, hauls in $787M",
+    "summary": "The hefty funding will support a U.S. and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
+    "published_at": "2026-03-20T17:13:00+00:00",
+    "collected_at": "2026-03-21T02:07:13.702576+00:00",
+    "filter_score": 8,
+    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs가 787M 달러의 자금을 유치",
+    "emerging_sector": "AI 기반 의약품 개발",
+    "leading_companies": [
+      "Earendil Labs",
+      "Sanofi"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "Earendil"
+  },
+  {
+    "id": "25c735fdd3dba6e74dcd3898e350d5cd",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "A biotech VC sees early signs of a turnaround for startups",
+    "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said&nbsp;Sant&eacute; Ventures&rsquo; Omar Khalil.",
+    "url": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
+    "published_at": "2026-03-19T13:40:00+00:00",
+    "collected_at": "2026-03-21T02:07:13.702669+00:00",
+    "filter_score": 8,
+    "summary_ko": "바이오텍 VC는 초기 신호를 통해 스타트업의 반등을 예상합니다. 이는 새로운 자금 조달 물결이 형성됨에 따라 젊은 제약업체와 그들의 지원자가 다시 оптим주의를 가지고 있습니다.",
+    "emerging_sector": "biotech startup",
+    "leading_companies": [
+      "Santé Ventures"
+    ],
+    "category": "smart_money",
+    "urgency": "high",
+    "korea_status": "⚡ 검증 불가",
+    "korea_news_count": -1,
+    "korea_search_query": ""
+  },
+  {
+    "id": "39ba3aba5de0d2011f2f3abd972fd4af",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "China-rooted AI biotech Earendil Labs raises $787M ahead of possible IPO",
+    "summary": "The US-headquartered, China-rooted biotech Earendil Labs said it has raised $787 million in private money, a whopping sum to fund an AI platform that has already produced a pipeline of over 40 drug programs.\n\n Despite ...",
+    "url": "https://endpoints.news/china-rooted-ai-biotech-earendil-labs-raises-787m-ahead-of-possible-ipo/",
+    "published_at": "2026-03-20T15:16:10+00:00",
+    "collected_at": "2026-03-21T02:07:13.931342+00:00",
+    "filter_score": 8,
+    "summary_ko": "중국계 인공지능 바이오테크 회사인 이아렌딜 랩스(Earendil Labs)는 IPO를 앞두고 7억 8천만 달러의 자금을 모금했습니다. 이 회사는 이미 40개 이상의 약물 파이프라인을 개발했습니다.",
+    "emerging_sector": "인공지능 바이오테크",
+    "leading_companies": [
+      "이아렌딜 랩스"
+    ],
+    "category": "smart_money",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 1,
+    "korea_search_query": "IPO OR 상장"
+  },
+  {
     "id": "deb5d2e18a822d6b288550a7c744cbbe",
     "source": "ZeroHedge",
     "source_type": "rss",
@@ -7,13 +94,12 @@
     "summary": "Qatar Dethroned As 'LNG King' As U.S. Seizes Throne, Reshaping Future Of Gas\n\n            Submitted by Criterion Research President, James Bevan, \n\nThe geopolitical calculus underpinning global LNG supply through the early 2030s has shifted materially. Iranian drone strikes on Qatari LNG trains, delays to key expansion projects, and the indefinite closure of the Strait of Hormuz have created a compounding threat to Qatar's LNG position that goes well beyond a construction delay. What had been fr",
     "url": "https://www.zerohedge.com/energy/qatar-dethroned-lng-king-us-seizes-throne-reshaping-future-gas",
     "published_at": "2026-03-20T22:55:00+00:00",
-    "collected_at": "2026-03-20T23:54:56.079920+00:00",
-    "filter_score": 8,
-    "summary_ko": "미국이 LNG 시장에서 카타르를 추월하여 가스 시장의 미래가 재편되는 중",
+    "collected_at": "2026-03-21T02:07:11.397904+00:00",
+    "filter_score": 7,
+    "summary_ko": "미국이 LNG 시장에서 카타르를 추월하여 1위 자리를 차지했습니다. 이는 가스 시장의 미래를 재정의할 수 있습니다.",
     "emerging_sector": "LNG",
     "leading_companies": [
-      "체사피크 에너지",
-      "엑슨모빌"
+      "미국 에너지 기업"
     ],
     "category": "tech_trend",
     "urgency": "high",
@@ -22,25 +108,111 @@
     "korea_search_query": "Qatar"
   },
   {
-    "id": "b74cf92649f7f4b37e2c114c827050ae",
-    "source": "ZeroHedge",
+    "id": "1b234e816d12e77ad24268e35fecb1d1",
+    "source": "STAT News",
     "source_type": "rss",
-    "title": "EV Demand Surges Across Asia After Energy Shock Sends Consumers Into Panic Mode",
-    "summary": "EV Demand Surges Across Asia After Energy Shock Sends Consumers Into Panic Mode\n\n            One of the biggest takeaways in global energy markets this week is the growing fragmentation. Brent crude in Asia has surged to over $150 a barrel, with demand destruction already emerging, and China and India facing the greatest pressure given their heavy reliance on Gulf crude. Meanwhile, the Trump administration has moved to release barrels from the Strategic Petroleum Reserve to help cap WTI prices b",
-    "url": "https://www.zerohedge.com/technology/ev-demand-surges-across-asia-after-energy-shock-sends-consumers-panic-mode",
-    "published_at": "2026-03-20T21:40:00+00:00",
-    "collected_at": "2026-03-20T23:54:56.080042+00:00",
+    "title": "STAT+: Sepsis hospitalizations have tripled in Massachusetts. Is it real or a billing game?",
+    "summary": "In Massachusetts, sepsis cases has more than tripled since 2010. Some blame hospitals' use of AI tools for medical coding and billing.",
+    "url": "https://www.statnews.com/2026/03/20/ai-coding-sharp-rise-sepsis-hospitalizations-massachusetts/?utm_campaign=rss",
+    "published_at": "2026-03-20T18:34:48+00:00",
+    "collected_at": "2026-03-21T02:07:13.465152+00:00",
     "filter_score": 7,
-    "summary_ko": "아시아에서 전기차 수요가 급증하며 에너지 시장의 패러다임이 바뀌는 중",
-    "emerging_sector": "전기차",
+    "summary_ko": "매사추세츠에서 패혈증 환자 수가 3배 이상 증가했다. 이는 의료 비용 청구 게임의 결과일 수 있다.",
+    "emerging_sector": "Medical Coding and Billing",
     "leading_companies": [
-      "테슬라",
-      "토요타"
+      "Optum",
+      "Change Healthcare"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 9,
+    "korea_search_query": "STAT"
+  },
+  {
+    "id": "d7d8eadb7b8569a10cb1b16eda372342",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Novartis pays $2B to land a startup’s breast cancer drug",
+    "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
+    "published_at": "2026-03-20T14:34:00+00:00",
+    "collected_at": "2026-03-21T02:07:13.702609+00:00",
+    "filter_score": 7,
+    "summary_ko": "Novartis가 스타트업의 유방암 약물 개발을 위해 20억 달러를 지불",
+    "emerging_sector": "유방암 약물 개발",
+    "leading_companies": [
+      "Novartis",
+      "Synnovation Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 2,
+    "korea_search_query": "Novartis"
+  },
+  {
+    "id": "c98cf249cff394000a6d523e7f10a6c3",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Lilly’s three-pronged obesity drug hits goal in large diabetes trial",
+    "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
+    "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
+    "published_at": "2026-03-19T16:15:00+00:00",
+    "collected_at": "2026-03-21T02:07:13.702646+00:00",
+    "filter_score": 7,
+    "summary_ko": "엘리 릴리의 3중 공격형 비만 치료제인 레트라튜드는 대규모 당뇨병 임상시험에서 목표를 달성했습니다. 이는 비만 치료에 효과적인 신약이 될 수 있습니다.",
+    "emerging_sector": "obesity treatment",
+    "leading_companies": [
+      "엘리 릴리"
     ],
     "category": "tech_trend",
     "urgency": "high",
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
-    "korea_search_query": "급등"
+    "korea_search_query": "Lilly"
+  },
+  {
+    "id": "e9cedfc14e03514318cdb27fb44c7fa0",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "AstraZeneca to boost cell therapy capabilities with new China investment",
+    "summary": "The planned Shanghai facility extends a yearslong push into the field and will support CAR-T therapies AstraZeneca is making for autoimmune disease and cancer.",
+    "url": "https://www.biopharmadive.com/news/astrazeneca-cell-therapy-china-shanghai-biotech/815159/",
+    "published_at": "2026-03-19T11:22:00+00:00",
+    "collected_at": "2026-03-21T02:07:13.702680+00:00",
+    "filter_score": 7,
+    "summary_ko": "아스트라제네카는 중국에 새로운 시설을 투자하여 세포 치료 능력을 강화하고자 합니다. 이는 CAR-T 치료를 위한 시설을 확대하고 autoimmune 질환 및 암 치료를 지원할 것입니다.",
+    "emerging_sector": "cell therapy",
+    "leading_companies": [
+      "아스트라제네카"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 1,
+    "korea_search_query": "AstraZeneca"
+  },
+  {
+    "id": "dc07b8a8596fd0dcdf2211333a069255",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Novartis to pay $2B upfront to take next-gen PI3Kα inhibitor from Synnovation",
+    "summary": "Novartis will spend $2 billion upfront to buy a more selective PI3Kα inhibitor, intensifying the competition to develop a new wave of breast cancer drugs with fewer side effects.\n\n The Swiss pharma already markets the ...",
+    "url": "https://endpoints.news/novartis-to-pay-2b-upfront-to-take-next-gen-pi3k%ce%b1-inhibitor-from-synnovation/",
+    "published_at": "2026-03-20T11:40:21+00:00",
+    "collected_at": "2026-03-21T02:07:13.931377+00:00",
+    "filter_score": 7,
+    "summary_ko": "노바티스는 신종 PI3Kα 억제제를 개발하기 위해 20억 달러를 지불하고 Synnovation의 기술을 인수했습니다. 이는 유방암 약물 개발 경쟁을激化시키는 것입니다.",
+    "emerging_sector": "의료기기 및 제약",
+    "leading_companies": [
+      "노바티스",
+      "Synnovation"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "ARM"
   }
 ]

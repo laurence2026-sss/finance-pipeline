@@ -337,5 +337,70 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Qatar"
+  },
+  {
+    "id": "39ba3aba5de0d2011f2f3abd972fd4af",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "China-rooted AI biotech Earendil Labs raises $787M ahead of possible IPO",
+    "summary": "The US-headquartered, China-rooted biotech Earendil Labs said it has raised $787 million in private money, a whopping sum to fund an AI platform that has already produced a pipeline of over 40 drug programs.\n\n Despite ...",
+    "url": "https://endpoints.news/china-rooted-ai-biotech-earendil-labs-raises-787m-ahead-of-possible-ipo/",
+    "published_at": "2026-03-20T15:16:10+00:00",
+    "collected_at": "2026-03-21T02:07:13.931342+00:00",
+    "filter_score": 8,
+    "summary_ko": "중국계 인공지능 바이오테크 회사인 이아렌딜 랩스(Earendil Labs)는 IPO를 앞두고 7억 8천만 달러의 자금을 모금했습니다. 이 회사는 이미 40개 이상의 약물 파이프라인을 개발했습니다.",
+    "emerging_sector": "인공지능 바이오테크",
+    "leading_companies": [
+      "이아렌딜 랩스"
+    ],
+    "category": "smart_money",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 1,
+    "korea_search_query": "IPO OR 상장"
+  },
+  {
+    "id": "1b234e816d12e77ad24268e35fecb1d1",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Sepsis hospitalizations have tripled in Massachusetts. Is it real or a billing game?",
+    "summary": "In Massachusetts, sepsis cases has more than tripled since 2010. Some blame hospitals' use of AI tools for medical coding and billing.",
+    "url": "https://www.statnews.com/2026/03/20/ai-coding-sharp-rise-sepsis-hospitalizations-massachusetts/?utm_campaign=rss",
+    "published_at": "2026-03-20T18:34:48+00:00",
+    "collected_at": "2026-03-21T02:07:13.465152+00:00",
+    "filter_score": 7,
+    "summary_ko": "매사추세츠에서 패혈증 환자 수가 3배 이상 증가했다. 이는 의료 비용 청구 게임의 결과일 수 있다.",
+    "emerging_sector": "Medical Coding and Billing",
+    "leading_companies": [
+      "Optum",
+      "Change Healthcare"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 9,
+    "korea_search_query": "STAT"
+  },
+  {
+    "id": "dc07b8a8596fd0dcdf2211333a069255",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Novartis to pay $2B upfront to take next-gen PI3Kα inhibitor from Synnovation",
+    "summary": "Novartis will spend $2 billion upfront to buy a more selective PI3Kα inhibitor, intensifying the competition to develop a new wave of breast cancer drugs with fewer side effects.\n\n The Swiss pharma already markets the ...",
+    "url": "https://endpoints.news/novartis-to-pay-2b-upfront-to-take-next-gen-pi3k%ce%b1-inhibitor-from-synnovation/",
+    "published_at": "2026-03-20T11:40:21+00:00",
+    "collected_at": "2026-03-21T02:07:13.931377+00:00",
+    "filter_score": 7,
+    "summary_ko": "노바티스는 신종 PI3Kα 억제제를 개발하기 위해 20억 달러를 지불하고 Synnovation의 기술을 인수했습니다. 이는 유방암 약물 개발 경쟁을激化시키는 것입니다.",
+    "emerging_sector": "의료기기 및 제약",
+    "leading_companies": [
+      "노바티스",
+      "Synnovation"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "ARM"
   }
 ]
