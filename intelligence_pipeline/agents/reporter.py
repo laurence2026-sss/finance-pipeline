@@ -68,10 +68,7 @@ def load_daily_items() -> list:
     return all_items
 
 
-def group_by_sector(items: list) -> dict:
-    """7개 섹터로 분류. emerging_sector + title + summary 텍스트 기준."""
     groups = {s: [] for s in SECTORS}
-    groups["기타"] = []
 
     for item in items:
         text = " ".join([
@@ -89,8 +86,9 @@ def group_by_sector(items: list) -> dict:
                 best_count = count
                 matched = sector
 
-        target = matched if best_count > 0 else "기타"
-        groups[target].append(item)
+        target = matched if best_count > 0 else None
+        if target:
+            groups[target].append(item)
 
     # 각 섹터 내 점수 내림차순 정렬
     for sector in groups:
@@ -99,14 +97,18 @@ def group_by_sector(items: list) -> dict:
             x.get("filter_score", 0)
         ), reverse=True)
 
-    # 항목 없는 섹터 제거
-    return {s: v for s, v in groups.items() if v}
+    # 항목이 없는 섹터도 그대로 반환하여 리포트에 명시되도록 함
+    return groups
 
 
 def build_sector_input(groups: dict) -> str:
     """Groq에 넘길 섹터별 원본 데이터 텍스트 구성."""
     lines = []
     for sector, items in groups.items():
+        if not items:
+            lines.append(f"\n[{sector}] (0건)\n  (오늘 수집된 유의미한 시그널 없음)")
+            continue
+            
         lines.append(f"\n[{sector}] ({len(items)}건)")
         for item in items[:10]:  # 섹터당 최대 10개 전달
             status = "🔥독점" if "독점" in item.get("korea_status", "") else \
@@ -222,6 +224,10 @@ def _fallback_body(groups: dict) -> str:
     lines = []
     for sector, items in groups.items():
         lines.append(f"\n【{sector}】")
+        if not items:
+            lines.append("• 오늘 유의미한 시그널 없음")
+            continue
+            
         for item in items[:4]:
             status = "🔥" if "독점" in item.get("korea_status", "") else \
                      "⚡" if "초기" in item.get("korea_status", "") else "⚪"
