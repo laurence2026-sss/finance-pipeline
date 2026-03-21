@@ -402,5 +402,110 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "ARM"
+  },
+  {
+    "id": "5d82165ffcc3e1152580bb8c62855f5a",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Watch: China Claims Cyborg Breakthrough To Build An \"Army Of Centaurs\"",
+    "summary": "Watch: China Claims Cyborg Breakthrough To Build An \"Army Of Centaurs\"\n\n            Researchers at Southern University of Science and Technology in Shenzhen have unveiled a wearable robotic system that adds a pair of independent mechanical legs and a torso framework to a human wearer, forming a four-legged hybrid to assist with carrying heavy loads across difficult terrain such as stairs, ramps, and uneven ground, according to the South China Morning Post.\n\n\n\nLed by Chenglong Fu, the team of sci",
+    "url": "https://www.zerohedge.com/technology/watch-china-claims-cyborg-breakthrough-build-army-centaurs",
+    "published_at": "2026-03-21T02:40:00+00:00",
+    "collected_at": "2026-03-21T05:07:57.057305+00:00",
+    "filter_score": 8,
+    "summary_ko": "중국은 사이보그 기술을 통해 센타우루스 군대를 구축했다고 주장합니다. 이는 로봇과 인간의 결합을 통해 새로운 형태의 군사 기술을 개발하고 있습니다.",
+    "emerging_sector": "Cyborg Technology",
+    "leading_companies": [
+      "Southern University of Science and Technology"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "ARM"
+  },
+  {
+    "id": "4830c6b759a96b69b63660a11d5213ac",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Ending the Voicemail Bottleneck: How Voice AI Is Transforming Patient Access",
+    "summary": "Beyond simply recording or transcribing messages to lower call volumes, truly autonomous voice AI puts patients in the driver’s seat of their own healthcare. It processes patient requests and information immediately and integrates actionable insights into the EHR, speeding next steps for clinicians and patients. \nThe post Ending the Voicemail Bottleneck: How Voice AI Is Transforming Patient Access appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/ending-the-voicemail-bottleneck-how-voice-ai-is-transforming-patient-access-in-2026/",
+    "published_at": "2026-03-20T13:25:00+00:00",
+    "collected_at": "2026-03-21T05:08:01.314457+00:00",
+    "filter_score": 8,
+    "summary_ko": "음성 AI는 환자 접근을 변革하고 있다.",
+    "emerging_sector": "음성 AI",
+    "leading_companies": [],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Ending"
+  },
+  {
+    "id": "7b981e31777c32a52e7da66976d06ae4",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "First-Ever Look At America's Classified RQ-180 Stealth Drone?",
+    "summary": "First-Ever Look At America's Classified RQ-180 Stealth Drone? \n\n            The world is seemingly at war. With multi-front conflicts raging in Eastern Europe and intensifying in the Middle East, this period of elevated World War III risk has coincided with the emergence of some of America’s most advanced stealth aircraft.\n\nThe latest sighting comes from the Greek news website OnLarissa, which reports that a planespotter captured a \"mysterious\" stealth-bomber-like aircraft operating near Larissa",
+    "url": "https://www.zerohedge.com/military/first-ever-look-classified-rq-180-stealth-drone",
+    "published_at": "2026-03-21T01:50:00+00:00",
+    "collected_at": "2026-03-21T05:07:57.057389+00:00",
+    "filter_score": 7,
+    "summary_ko": "미국의 분류된 RQ-180 스텔스 드론에 대한 첫 번째 시각입니다. 이는 미국의 군사 기술을 보여주는 중요한 정보입니다.",
+    "emerging_sector": "Stealth Drone Technology",
+    "leading_companies": [
+      "US Military"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "First"
+  },
+  {
+    "id": "bbfc8f8666fa0b65e1510c2d494da1f9",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Lantern Secures $30M to Fuel Growth Across Employers and Health Plans",
+    "summary": "Lantern&#8217;s $30 million raise was led by Morgan Health, a JPMorganChase business unit focused on employer-sponsored healthcare, as well as Echo Health Ventures, a strategic investment platform that invests on behalf of multiple Blues health plans.\nThe post Lantern Secures $30M to Fuel Growth Across Employers and Health Plans appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/lantern-employers-health-plans-funding/",
+    "published_at": "2026-03-20T19:49:50+00:00",
+    "collected_at": "2026-03-21T05:08:01.314429+00:00",
+    "filter_score": 7,
+    "summary_ko": "Lantern은 고용주와 건강 보험 계획을 위한 성장 자금으로 3,000만 달러를 확보했다.",
+    "emerging_sector": "건강 보험 기술",
+    "leading_companies": [
+      "Lantern",
+      "Morgan Health",
+      "Echo Health Ventures"
+    ],
+    "category": "smart_money",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 8,
+    "korea_search_query": "Lantern"
+  },
+  {
+    "id": "655af3d94bf058f8fc1b4fdc82dbfb3d",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Inside One VC’s Litmus Test for Investable Healthcare AI Startups",
+    "summary": "Katie Jacobs Stanton, founder of Moxxie Ventures, shared some details of how she and her team evaluate healthcare AI startups. She stressed the need for founders with deep industry expertise, differentiated products and realistic distribution strategies.\nThe post Inside One VC’s Litmus Test for Investable Healthcare AI Startups appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/venture-capital-invest-healthcare-ai/",
+    "published_at": "2026-03-19T22:43:30+00:00",
+    "collected_at": "2026-03-21T05:08:01.314471+00:00",
+    "filter_score": 7,
+    "summary_ko": "Moxxie Ventures의 창립자는 투자 가능한 의료 AI 스타트업을 평가하는 기준을 공유했다.",
+    "emerging_sector": "의료 AI",
+    "leading_companies": [
+      "Moxxie Ventures"
+    ],
+    "category": "smart_money",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Inside"
   }
 ]
