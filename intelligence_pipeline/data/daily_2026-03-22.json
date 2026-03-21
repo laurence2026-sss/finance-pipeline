@@ -427,5 +427,27 @@
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 2,
     "korea_search_query": "Trevor"
+  },
+  {
+    "id": "e8f685151c5344ee25e711a626b3b0bd",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Major Trade Group Releases Framework For Tokenized Gold",
+    "summary": "Major Trade Group Releases Framework For Tokenized Gold\n\n            Authored by Martin Young via CoinTelegraph.com,\n\nThe major gold trade association, World Gold Council, and the Boston Consulting Group have proposed a new platform to modernize how the precious metal operates in digital financial systems.\n\n\n\nThe World Gold Council said on Thursday that it published a white paper on “Gold as a Service,” a new platform to “support the issuance and operation of scalable, interoperable digital gold",
+    "url": "https://www.zerohedge.com/crypto/major-trade-group-releases-framework-tokenized-gold",
+    "published_at": "2026-03-21T19:10:00+00:00",
+    "collected_at": "2026-03-21T22:15:59.310877+00:00",
+    "filter_score": 7,
+    "summary_ko": "주요 무역 단체가 토큰화된 금에 대한 프레임워크를 발표했다. 이는 금 투자와 거래의 새로운 방향을 제시할 수 있다.",
+    "emerging_sector": "Tokenized Gold",
+    "leading_companies": [
+      "World Gold Council",
+      "Boston Consulting Group"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Major"
   }
 ]
