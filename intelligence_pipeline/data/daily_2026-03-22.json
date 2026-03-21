@@ -343,5 +343,49 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Ending"
+  },
+  {
+    "id": "fc62c73811d3b486e091ae8e3f00f8ff",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "RBC: Revolution, Xenon, Arrowhead among top takeover targets",
+    "summary": "As part of a larger review, analyst Leonid Timashev identified 13 companies that could see deal interest as well as more than half a dozen poised to be potential buyers.",
+    "url": "https://www.biopharmadive.com/news/biotech-takeover-targets-rbc-mergers-acquisitions-deals/815061/",
+    "published_at": "2026-03-18T16:14:00+00:00",
+    "collected_at": "2026-03-21T18:39:21.115538+00:00",
+    "filter_score": 7,
+    "summary_ko": "RBC는 레볼루션, 제논, 애로우헤드 등이 인수 대상이 될 수 있다고 분석했습니다. 이는 바이오테크 산업에서 인수 합병이 증가할 수 있음을 시사합니다.",
+    "emerging_sector": " biotech",
+    "leading_companies": [
+      "레볼루션",
+      "제논",
+      "애로우헤드"
+    ],
+    "category": "smart_money",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Revolution"
+  },
+  {
+    "id": "adcfa7bd0c205043048dd24a07e843ef",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Why Providence Wants to Sell Its Health Plan",
+    "summary": "Providence announced its intent to sell its health plan, exiting the “payvider” model as rising costs and operational complexity weigh on smaller regional insurers. The move reflects a broader trend of health systems refocusing on core care delivery and exploring partnerships instead of running insurance themselves.\nThe post Why Providence Wants to Sell Its Health Plan appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/providence-health-plan/",
+    "published_at": "2026-03-20T23:43:15+00:00",
+    "collected_at": "2026-03-21T18:39:21.867038+00:00",
+    "filter_score": 7,
+    "summary_ko": "Providence가 건강 보험 사업을 매각하려는 이유는 무엇일까?",
+    "emerging_sector": "헬스케어",
+    "leading_companies": [
+      "Providence"
+    ],
+    "category": "macro",
+    "urgency": "high",
+    "korea_status": "⚡ 초기 반영",
+    "korea_news_count": 4,
+    "korea_search_query": "Providence"
   }
 ]
