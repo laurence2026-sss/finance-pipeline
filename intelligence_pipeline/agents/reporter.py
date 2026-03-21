@@ -68,6 +68,7 @@ def load_daily_items() -> list:
     return all_items
 
 
+def group_by_sector(items: list) -> dict:
     groups = {s: [] for s in SECTORS}
 
     for item in items:
