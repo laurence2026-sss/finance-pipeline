@@ -1,49 +1,5 @@
 [
   {
-    "id": "c246fe2bbe6fe7f0c6eab849d802c39f",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Iran Threatens Region-Wide Infrastructure 'Obliteration' As Trump's 48-Hour Ultimatum Ticks Down, Mass Casualties In Southern Israel",
-    "summary": "Iran Threatens Region-Wide Infrastructure 'Obliteration' As Trump's 48-Hour Ultimatum Ticks Down, Mass Casualties In Southern Israel\n\n            Summary\n\n\n\tIran vows regional and US infrastructure will be \"irreversibly destroyed\" in response to Trump's 48-hour timeline to open Hormuz or else Iranian power plants will be obliterated.\n\t\n\t\n\tIran announces imposition a $2 million transit fee on 'non-enemy' ships wishing to transit strait.\n\t\n\t\n\tUnprecedented damage and many dozens of casualties in I",
-    "url": "https://www.zerohedge.com/geopolitical/iran-threatens-region-wide-infrastructure-obliteration-trumps-48-hour-ultimatum-ticks",
-    "published_at": "2026-03-22T13:55:00+00:00",
-    "collected_at": "2026-03-22T16:34:17.099198+00:00",
-    "filter_score": 8,
-    "summary_ko": "이란과 미국의 긴장 관계가 높아지면서 중동 지역의 인프라가 파괴될 수 있는 위험이 증가하고 있습니다. 이는 글로벌 에너지 시장에 큰 영향을 미칠 수 있습니다.",
-    "emerging_sector": "에너지",
-    "leading_companies": [
-      "엑슨모빌",
-      "셸"
-    ],
-    "category": "geopolitics",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "Iran"
-  },
-  {
-    "id": "442401943a70cc77c8be634462893016",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Trump Warns Tehran To \"Fully Open\" Hormuz Or Face 'Obliteration' As Iran-Israel Trade Nuke-Plant Strikes",
-    "summary": "Trump Warns Tehran To \"Fully Open\" Hormuz Or Face 'Obliteration' As Iran-Israel Trade Nuke-Plant Strikes\n\n            Summary\n\n\n\tTrump threatens to \"obliterate\" Iran's power-plants if Hormuz is not open and safe within 48 hours\n\t\n\t\n\tNatanz nuclear site attacked: Iran says \"no nuclear radiation\" detected, even as attacks on core sites like Isfahan nuclear facilities signal clear escalation despite earlier Trump signals of maybe \"winding down.\"\n\t\n\t\n\tIran has responded by targeting Israel's Dimona ",
-    "url": "https://www.zerohedge.com/geopolitical/irans-longest-range-missile-strike-fails-diego-garcia-natanz-nuclear-facility-bombed",
-    "published_at": "2026-03-22T12:00:00+00:00",
-    "collected_at": "2026-03-22T16:34:17.099442+00:00",
-    "filter_score": 8,
-    "summary_ko": "트럼프 대통령이 이란에 호르무즈 해협을 개방하지 않으면 파괴할 것이라고 위협했습니다. 이는 글로벌 에너지 시장에 큰 영향을 미칠 수 있습니다.",
-    "emerging_sector": "에너지",
-    "leading_companies": [
-      "엑슨모빌",
-      "셸"
-    ],
-    "category": "geopolitics",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "Trump"
-  },
-  {
     "id": "6b4078147584dde07ca6dae1a2a2fc24",
     "source": "BioPharma Dive",
     "source_type": "rss",
@@ -51,9 +7,9 @@
     "summary": "The hefty funding will support a U.S. and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-22T16:34:19.058015+00:00",
+    "collected_at": "2026-03-22T18:40:56.554867+00:00",
     "filter_score": 8,
-    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs가 787M 달러를 유치",
+    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs가 7억 8천만 달러를 유치",
     "emerging_sector": "AI 기반 의약품 개발",
     "leading_companies": [
       "Earendil Labs",
@@ -73,10 +29,10 @@
     "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said&nbsp;Sant&eacute; Ventures&rsquo; Omar Khalil.",
     "url": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
     "published_at": "2026-03-19T13:40:00+00:00",
-    "collected_at": "2026-03-22T16:34:19.058103+00:00",
+    "collected_at": "2026-03-22T18:40:56.554964+00:00",
     "filter_score": 8,
     "summary_ko": "바이오테크 벤처 캐피탈은 바이오테크 스타트업의 전환기를 예상합니다. 이는 새로운 자금 조달 물결이 형성되고 있음을 시사합니다.",
-    "emerging_sector": " biotech",
+    "emerging_sector": " biotech startup",
     "leading_companies": [
       "산테 벤처스"
     ],
@@ -87,25 +43,65 @@
     "korea_search_query": ""
   },
   {
-    "id": "39ba3aba5de0d2011f2f3abd972fd4af",
-    "source": "Endpoints News",
+    "id": "95bdb22dd977455eb181ce517732e999",
+    "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "China-rooted AI biotech Earendil Labs raises $787M ahead of possible IPO",
-    "summary": "The US-headquartered, China-rooted biotech Earendil Labs said it has raised $787 million in private money, a whopping sum to fund an AI platform that has already produced a pipeline of over 40 drug programs.\n\n Despite ...",
-    "url": "https://endpoints.news/china-rooted-ai-biotech-earendil-labs-raises-787m-ahead-of-possible-ipo/",
-    "published_at": "2026-03-20T15:16:10+00:00",
-    "collected_at": "2026-03-22T16:34:19.502554+00:00",
+    "title": "<a href=\"https://www.fiercebiotech.com/ai-and-machine-learning/behind-curtain-what-xaira-building-after-its-1b-fundraise\" hreflang=\"en\">Behind the curtain: What Xaira is building after its $1B fundraise</a>",
+    "summary": "What has Xaira been doing since its $1 billion raise? Xaira COO Jeff Jonker joins \"The Top Line\" to talk strategy, AI and the company’s long-game vision for drug discovery.",
+    "url": "https://www.fiercebiotech.com/ai-and-machine-learning/behind-curtain-what-xaira-building-after-its-1b-fundraise",
+    "published_at": "2026-03-22T18:40:56.690343+00:00",
+    "collected_at": "2026-03-22T18:40:56.690350+00:00",
     "filter_score": 8,
-    "summary_ko": "중국계 AI 바이오텍 기업 Earendil Labs는 787만 달러를 투자받았습니다. 이는 AI를 이용한 신약 개발에 대한 유망한 투자입니다.",
-    "emerging_sector": "AI in Biotech",
+    "summary_ko": "Xaira는 10억 달러의 자금을 조달한 후에 어떤 사업을 진행하고 있는지에 대해 COO Jeff Jonker가 인터뷰에서 이야기했다. Xaira는 인공지능과 약물 발견에 중점을 두고 있다.",
+    "emerging_sector": "AI in Drug Discovery",
     "leading_companies": [
-      "Earendil Labs"
+      "Xaira"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Behind"
+  },
+  {
+    "id": "b2fdb8336635a125fc2ea8bfe174f579",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company\" hreflang=\"en\">Verily banks $300M to accelerate AI road map, transitions to independent company</a>",
+    "summary": "Verily raised a $300 million investment round to accelerate its work in artificial intelligence and precision health as it also moves out from under the corporate umbrella of Alphabet.",
+    "url": "https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company",
+    "published_at": "2026-03-22T18:40:56.690403+00:00",
+    "collected_at": "2026-03-22T18:40:56.690408+00:00",
+    "filter_score": 8,
+    "summary_ko": "Verily는 인공지능과 정밀 건강에 중점을 두고 3억 달러의 자금을 조달했다. Verily는 Alphabet의 자회사에서 독립 회사로 전환했다.",
+    "emerging_sector": "AI in Healthcare",
+    "leading_companies": [
+      "Verily"
     ],
     "category": "smart_money",
-    "urgency": "high",
+    "urgency": "medium",
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 0,
-    "korea_search_query": "IPO OR 상장"
+    "korea_search_query": "Verily"
+  },
+  {
+    "id": "f4eec4e933ce73160198a0223d73c845",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "EU Considers Electricity Tax Cuts, Subsidies Amid Iran War Surge In Energy Costs",
+    "summary": "EU Considers Electricity Tax Cuts, Subsidies Amid Iran War Surge In Energy Costs\n\n            Authored by Evgenia Filimianova via The Epoch Times (emphasis ours),\n\nThe European Union is weighing electricity tax cuts and targeted subsidies to shield consumers and industry from surging energy costs amid the ongoing Iran war, European Commission President Ursula von der Leyen said on March 19.\nEuropean Commission President Ursula von der Leyen delivers a speech during the European Industry Summit i",
+    "url": "https://www.zerohedge.com/political/eu-considers-electricity-tax-cuts-subsidies-amid-iran-war-surge-energy-costs",
+    "published_at": "2026-03-22T12:10:00+00:00",
+    "collected_at": "2026-03-22T18:40:54.012175+00:00",
+    "filter_score": 7,
+    "summary_ko": "EU가 이란 전쟁으로 인한 에너지 비용 증가에 대응하여 전기세 감면과 보조금을 검토하고 있다.",
+    "emerging_sector": "에너지",
+    "leading_companies": [],
+    "category": "macro",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "급등"
   },
   {
     "id": "d7d8eadb7b8569a10cb1b16eda372342",
@@ -115,10 +111,10 @@
     "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
     "published_at": "2026-03-20T14:34:00+00:00",
-    "collected_at": "2026-03-22T16:34:19.058048+00:00",
+    "collected_at": "2026-03-22T18:40:56.554900+00:00",
     "filter_score": 7,
-    "summary_ko": "Novartis가 스타트업의 유방암 약물 개발을 위해 20억 달러를 지불",
-    "emerging_sector": "유방암 약물 개발",
+    "summary_ko": "Novartis가 스타트업의 유방암 약을 20억 달러에 인수",
+    "emerging_sector": "유방암 치료",
     "leading_companies": [
       "Novartis",
       "Synnovation Therapeutics"
@@ -137,9 +133,9 @@
     "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
     "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-22T16:34:19.058082+00:00",
+    "collected_at": "2026-03-22T18:40:56.554941+00:00",
     "filter_score": 7,
-    "summary_ko": "엘리 릴리의 레트라튜드는 대규모 당뇨병 임상시험에서 목표를 달성했습니다. 이는 레트라튜드가 비만 치료에 효과적일 수 있음을 시사합니다.",
+    "summary_ko": "엘리 릴리의 레타트루티드가 대규모 당뇨병 임상시험에서 목표를 달성했습니다. 이는 레타트루티드가 비만 치료에 효과적일 수 있음을 시사합니다.",
     "emerging_sector": " obesity treatment",
     "leading_companies": [
       "엘리 릴리"
@@ -158,19 +154,41 @@
     "summary": "As part of a larger review, analyst Leonid Timashev identified 13 companies that could see deal interest as well as more than half a dozen poised to be potential buyers.",
     "url": "https://www.biopharmadive.com/news/biotech-takeover-targets-rbc-mergers-acquisitions-deals/815061/",
     "published_at": "2026-03-18T16:14:00+00:00",
-    "collected_at": "2026-03-22T16:34:19.058126+00:00",
+    "collected_at": "2026-03-22T18:40:56.554987+00:00",
     "filter_score": 7,
-    "summary_ko": "RBC는 레볼루션, 제논, 애로헤드 등이 인수 대상이 될 수 있다고 분석했습니다. 이는 바이오테크 산업에서 인수 합병이 증가할 수 있음을 시사합니다.",
-    "emerging_sector": " biotech",
+    "summary_ko": "RBC는 레볼루션, 제논, 애로헤드 등이 인수 대상이 될 수 있다고 분석했습니다. 이는 바이오테크 산업에서 인수 합병 활동이 증가할 수 있음을 시사합니다.",
+    "emerging_sector": " biotech M&A",
     "leading_companies": [
       "레볼루션",
       "제논",
       "애로헤드"
     ],
     "category": "smart_money",
-    "urgency": "medium",
+    "urgency": "high",
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Revolution"
+  },
+  {
+    "id": "f6b1f3e4e867dcf7fdd909c03a85bbe9",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle\" hreflang=\"en\">Novartis pays Synnovation $2B upfront for breast cancer program as rivals circle</a>",
+    "summary": "Novartis has struck a deal to buy Synnovation Therapeutics’ pan-mutant‑selective PI3Kα inhibitor for $2 billion upfront, securing an asset that could defend its breast cancer franchise from challengers including Eli Lilly.",
+    "url": "https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle",
+    "published_at": "2026-03-22T18:40:56.690376+00:00",
+    "collected_at": "2026-03-22T18:40:56.690382+00:00",
+    "filter_score": 7,
+    "summary_ko": "노바티스는 Synnovation Therapeutics의 유방암 치료제를 20억 달러의 선불금으로 인수했다. 이 치료제는 노바티스의 유방암 프랜차이즈를 강화할 수 있다.",
+    "emerging_sector": "Breast Cancer Treatment",
+    "leading_companies": [
+      "Novartis",
+      "Synnovation Therapeutics"
+    ],
+    "category": "macro",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "Novartis"
   }
 ]

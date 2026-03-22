@@ -172,5 +172,88 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Revolution"
+  },
+  {
+    "id": "95bdb22dd977455eb181ce517732e999",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/ai-and-machine-learning/behind-curtain-what-xaira-building-after-its-1b-fundraise\" hreflang=\"en\">Behind the curtain: What Xaira is building after its $1B fundraise</a>",
+    "summary": "What has Xaira been doing since its $1 billion raise? Xaira COO Jeff Jonker joins \"The Top Line\" to talk strategy, AI and the company’s long-game vision for drug discovery.",
+    "url": "https://www.fiercebiotech.com/ai-and-machine-learning/behind-curtain-what-xaira-building-after-its-1b-fundraise",
+    "published_at": "2026-03-22T18:40:56.690343+00:00",
+    "collected_at": "2026-03-22T18:40:56.690350+00:00",
+    "filter_score": 8,
+    "summary_ko": "Xaira는 10억 달러의 자금을 조달한 후에 어떤 사업을 진행하고 있는지에 대해 COO Jeff Jonker가 인터뷰에서 이야기했다. Xaira는 인공지능과 약물 발견에 중점을 두고 있다.",
+    "emerging_sector": "AI in Drug Discovery",
+    "leading_companies": [
+      "Xaira"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Behind"
+  },
+  {
+    "id": "b2fdb8336635a125fc2ea8bfe174f579",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company\" hreflang=\"en\">Verily banks $300M to accelerate AI road map, transitions to independent company</a>",
+    "summary": "Verily raised a $300 million investment round to accelerate its work in artificial intelligence and precision health as it also moves out from under the corporate umbrella of Alphabet.",
+    "url": "https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company",
+    "published_at": "2026-03-22T18:40:56.690403+00:00",
+    "collected_at": "2026-03-22T18:40:56.690408+00:00",
+    "filter_score": 8,
+    "summary_ko": "Verily는 인공지능과 정밀 건강에 중점을 두고 3억 달러의 자금을 조달했다. Verily는 Alphabet의 자회사에서 독립 회사로 전환했다.",
+    "emerging_sector": "AI in Healthcare",
+    "leading_companies": [
+      "Verily"
+    ],
+    "category": "smart_money",
+    "urgency": "medium",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "Verily"
+  },
+  {
+    "id": "f4eec4e933ce73160198a0223d73c845",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "EU Considers Electricity Tax Cuts, Subsidies Amid Iran War Surge In Energy Costs",
+    "summary": "EU Considers Electricity Tax Cuts, Subsidies Amid Iran War Surge In Energy Costs\n\n            Authored by Evgenia Filimianova via The Epoch Times (emphasis ours),\n\nThe European Union is weighing electricity tax cuts and targeted subsidies to shield consumers and industry from surging energy costs amid the ongoing Iran war, European Commission President Ursula von der Leyen said on March 19.\nEuropean Commission President Ursula von der Leyen delivers a speech during the European Industry Summit i",
+    "url": "https://www.zerohedge.com/political/eu-considers-electricity-tax-cuts-subsidies-amid-iran-war-surge-energy-costs",
+    "published_at": "2026-03-22T12:10:00+00:00",
+    "collected_at": "2026-03-22T18:40:54.012175+00:00",
+    "filter_score": 7,
+    "summary_ko": "EU가 이란 전쟁으로 인한 에너지 비용 증가에 대응하여 전기세 감면과 보조금을 검토하고 있다.",
+    "emerging_sector": "에너지",
+    "leading_companies": [],
+    "category": "macro",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "급등"
+  },
+  {
+    "id": "f6b1f3e4e867dcf7fdd909c03a85bbe9",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle\" hreflang=\"en\">Novartis pays Synnovation $2B upfront for breast cancer program as rivals circle</a>",
+    "summary": "Novartis has struck a deal to buy Synnovation Therapeutics’ pan-mutant‑selective PI3Kα inhibitor for $2 billion upfront, securing an asset that could defend its breast cancer franchise from challengers including Eli Lilly.",
+    "url": "https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle",
+    "published_at": "2026-03-22T18:40:56.690376+00:00",
+    "collected_at": "2026-03-22T18:40:56.690382+00:00",
+    "filter_score": 7,
+    "summary_ko": "노바티스는 Synnovation Therapeutics의 유방암 치료제를 20억 달러의 선불금으로 인수했다. 이 치료제는 노바티스의 유방암 프랜차이즈를 강화할 수 있다.",
+    "emerging_sector": "Breast Cancer Treatment",
+    "leading_companies": [
+      "Novartis",
+      "Synnovation Therapeutics"
+    ],
+    "category": "macro",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "Novartis"
   }
 ]
