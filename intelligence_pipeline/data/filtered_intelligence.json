@@ -1,23 +1,5 @@
 [
   {
-    "id": "343cf55f6e12db92da8fa4eaac67ce65",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Iran's First Use Of ICBMs Raises Serious Questions About Remaining Arsenal",
-    "summary": "Iran's First Use Of ICBMs Raises Serious Questions About Remaining Arsenal\n\n            In a startling move that has military experts questioning their assumptions about Iranian capabilities, Iran attempted to hit the joint UK-US base on the Indian Ocean island of Diego Garcia with two intermediate-range ballistic missiles (IRBMs). While US officials assured the Wall Street Journal that the base was unscathed, the Iranian strike aimed at a target roughly 4,000 kilometers from Iran suggests that ",
-    "url": "https://www.zerohedge.com/geopolitical/iran-fires-ballistic-missiles-far-diego-garcia-military-base",
-    "published_at": "2026-03-22T00:25:00+00:00",
-    "collected_at": "2026-03-22T10:30:30.699248+00:00",
-    "filter_score": 8,
-    "summary_ko": "이란이 최초로 대륙간 탄도 미사일(ICBM)을 사용하여 군사 전문가들이 이란의 군사 능력에 대해 의문을 제기하고 있다. 이 뉴스는 군사적인 기술 발전에 대한 것으로 보인다.",
-    "emerging_sector": "군사 기술",
-    "leading_companies": [
-      "군사 산업 기업"
-    ],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
     "id": "6b4078147584dde07ca6dae1a2a2fc24",
     "source": "BioPharma Dive",
     "source_type": "rss",
@@ -25,10 +7,10 @@
     "summary": "The hefty funding will support a U.S. and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-22T10:30:32.678335+00:00",
+    "collected_at": "2026-03-22T12:56:12.595292+00:00",
     "filter_score": 8,
-    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs가 787M 달러의 자금을 유치",
-    "emerging_sector": "AI 기반 의약품 개발",
+    "summary_ko": "AI를 이용한 신약 개발 회사 Earendil Labs가 787M 달러의 자금을 확보",
+    "emerging_sector": "AI 신약 개발",
     "leading_companies": [
       "Earendil Labs",
       "Sanofi"
@@ -44,32 +26,68 @@
     "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said&nbsp;Sant&eacute; Ventures&rsquo; Omar Khalil.",
     "url": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
     "published_at": "2026-03-19T13:40:00+00:00",
-    "collected_at": "2026-03-22T10:30:32.678427+00:00",
+    "collected_at": "2026-03-22T12:56:12.595388+00:00",
     "filter_score": 8,
-    "summary_ko": "바이오텍 벤처 캐피탈은 바이오텍 스타트업에 대한 투자 물결이 다시 형성되고 있다고 보고 있습니다.",
-    "emerging_sector": "바이오텍",
+    "summary_ko": "바이오테크 벤처 캐피탈은 초기 신호를 감지하여 스타트업의 전환기를 예상합니다. 새로운 자금 조달 물결이 형성되고 있습니다.",
+    "emerging_sector": "biotech startups",
     "leading_companies": [
-      "산테 벤처스"
+      "Santé Ventures"
     ],
     "category": "smart_money",
     "urgency": "high"
   },
   {
-    "id": "442401943a70cc77c8be634462893016",
-    "source": "ZeroHedge",
+    "id": "95bdb22dd977455eb181ce517732e999",
+    "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "Trump Warns Tehran To \"Fully Open\" Hormuz Or Face 'Obliteration' As Iran-Israel Trade Nuke-Plant Strikes",
-    "summary": "Trump Warns Tehran To \"Fully Open\" Hormuz Or Face 'Obliteration' As Iran-Israel Trade Nuke-Plant Strikes\n\n            Summary\n\n\n\tTrump threatens to \"obliterate\" Iran's power-plants if Hormuz is not open and safe within 48 hours\n\t\n\t\n\tNatanz nuclear site attacked: Iran says \"no nuclear radiation\" detected, even as attacks on core sites like Isfahan nuclear facilities signal clear escalation despite earlier Trump signals of maybe \"winding down.\"\n\t\n\t\n\tIran has responded by targeting Israel's Dimona ",
-    "url": "https://www.zerohedge.com/geopolitical/irans-longest-range-missile-strike-fails-diego-garcia-natanz-nuclear-facility-bombed",
-    "published_at": "2026-03-22T00:00:00+00:00",
-    "collected_at": "2026-03-22T10:30:30.699362+00:00",
-    "filter_score": 7,
-    "summary_ko": "트럼프가 이란에 호르무즈 해협을 개방하지 않으면 파괴될 것이라고 위협했다. 이 뉴스는 군사적인 긴장과 관련된 것으로 보인다.",
-    "emerging_sector": "군사 기술",
+    "title": "<a href=\"https://www.fiercebiotech.com/ai-and-machine-learning/behind-curtain-what-xaira-building-after-its-1b-fundraise\" hreflang=\"en\">Behind the curtain: What Xaira is building after its $1B fundraise</a>",
+    "summary": "What has Xaira been doing since its $1 billion raise? Xaira COO Jeff Jonker joins \"The Top Line\" to talk strategy, AI and the company’s long-game vision for drug discovery.",
+    "url": "https://www.fiercebiotech.com/ai-and-machine-learning/behind-curtain-what-xaira-building-after-its-1b-fundraise",
+    "published_at": "2026-03-22T12:56:12.698190+00:00",
+    "collected_at": "2026-03-22T12:56:12.698197+00:00",
+    "filter_score": 8,
+    "summary_ko": "Xaira는 10억 달러의 자금을 조달한 후 새로운 약물 발견을 위한 전략과 장기 비전을 발표했습니다. 이는 인공지능을 활용한 약물 발견 분야에서 새로운 기회를 열어주는 것입니다.",
+    "emerging_sector": "AI-based Drug Discovery",
     "leading_companies": [
-      "군사 산업 기업"
+      "Xaira"
     ],
-    "category": "geopolitics",
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "b2fdb8336635a125fc2ea8bfe174f579",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company\" hreflang=\"en\">Verily banks $300M to accelerate AI road map, transitions to independent company</a>",
+    "summary": "Verily raised a $300 million investment round to accelerate its work in artificial intelligence and precision health as it also moves out from under the corporate umbrella of Alphabet.",
+    "url": "https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company",
+    "published_at": "2026-03-22T12:56:12.698252+00:00",
+    "collected_at": "2026-03-22T12:56:12.698258+00:00",
+    "filter_score": 8,
+    "summary_ko": "Verily는 인공지능과 정밀 건강 분야에서 3억 달러의 투자를 유치하고 독립 회사로 전환하여 새로운 비전을 추구할 예정입니다.",
+    "emerging_sector": "AI-based Healthcare",
+    "leading_companies": [
+      "Verily"
+    ],
+    "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "39ba3aba5de0d2011f2f3abd972fd4af",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "China-rooted AI biotech Earendil Labs raises $787M ahead of possible IPO",
+    "summary": "The US-headquartered, China-rooted biotech Earendil Labs said it has raised $787 million in private money, a whopping sum to fund an AI platform that has already produced a pipeline of over 40 drug programs.\n\n Despite ...",
+    "url": "https://endpoints.news/china-rooted-ai-biotech-earendil-labs-raises-787m-ahead-of-possible-ipo/",
+    "published_at": "2026-03-20T15:16:10+00:00",
+    "collected_at": "2026-03-22T12:56:13.018373+00:00",
+    "filter_score": 8,
+    "summary_ko": "Earendil Labs, AI 기반 바이오테크 플랫폼 개발을 위한 7억 8천만 달러 투자 유치",
+    "emerging_sector": "AI in Biotech",
+    "leading_companies": [
+      "Earendil Labs"
+    ],
+    "category": "smart_money",
     "urgency": "high"
   },
   {
@@ -80,10 +98,10 @@
     "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
     "published_at": "2026-03-20T14:34:00+00:00",
-    "collected_at": "2026-03-22T10:30:32.678368+00:00",
+    "collected_at": "2026-03-22T12:56:12.595326+00:00",
     "filter_score": 7,
-    "summary_ko": "Novartis가 스타트업의 유방암 약물 개발을 위해 20억 달러를 지불",
-    "emerging_sector": "유방암 약물 개발",
+    "summary_ko": "Novartis가 스타트업의 유방암 약을 20억 달러에 인수",
+    "emerging_sector": "유방암 약 개발",
     "leading_companies": [
       "Novartis",
       "Synnovation Therapeutics"
@@ -99,15 +117,15 @@
     "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
     "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-22T10:30:32.678403+00:00",
+    "collected_at": "2026-03-22T12:56:12.595364+00:00",
     "filter_score": 7,
-    "summary_ko": "엘리 릴리의 레타트루티드는 대규모 당뇨병 임상시험에서 목표를 달성하였으며, 이는 비만 치료에 있어 유망한 신약이 될 수 있습니다.",
-    "emerging_sector": " obesity treatment",
+    "summary_ko": "엘리 릴리의 3중 공격형 비만 치료제인 레트라튜드는 대규모 당뇨병 임상시험에서 목표를 달성했습니다. 이는 비만 치료에도 유사한 영향을 미칠 수 있습니다.",
+    "emerging_sector": "obesity treatment",
     "leading_companies": [
       "엘리 릴리"
     ],
     "category": "tech_trend",
-    "urgency": "high"
+    "urgency": "medium"
   },
   {
     "id": "fc62c73811d3b486e091ae8e3f00f8ff",
@@ -117,16 +135,35 @@
     "summary": "As part of a larger review, analyst Leonid Timashev identified 13 companies that could see deal interest as well as more than half a dozen poised to be potential buyers.",
     "url": "https://www.biopharmadive.com/news/biotech-takeover-targets-rbc-mergers-acquisitions-deals/815061/",
     "published_at": "2026-03-18T16:14:00+00:00",
-    "collected_at": "2026-03-22T10:30:32.678449+00:00",
+    "collected_at": "2026-03-22T12:56:12.595411+00:00",
     "filter_score": 7,
-    "summary_ko": "RBC는 레볼루션, 제논, 애로헤드 등이 인수 대상이 될 수 있다고 보고했습니다.",
-    "emerging_sector": "바이오텍",
+    "summary_ko": "RBC는 레볼루션, 제논, 애로헤드 등이 인수 대상이 될 수 있다고 분석했습니다. 이는 더 큰 리뷰의 일부입니다.",
+    "emerging_sector": "biotech M&A",
     "leading_companies": [
       "레볼루션",
       "제논",
       "애로헤드"
     ],
     "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "f6b1f3e4e867dcf7fdd909c03a85bbe9",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle\" hreflang=\"en\">Novartis pays Synnovation $2B upfront for breast cancer program as rivals circle</a>",
+    "summary": "Novartis has struck a deal to buy Synnovation Therapeutics’ pan-mutant‑selective PI3Kα inhibitor for $2 billion upfront, securing an asset that could defend its breast cancer franchise from challengers including Eli Lilly.",
+    "url": "https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle",
+    "published_at": "2026-03-22T12:56:12.698223+00:00",
+    "collected_at": "2026-03-22T12:56:12.698229+00:00",
+    "filter_score": 7,
+    "summary_ko": "노바티스는 Synnovation Therapeutics의 유방암 치료제를 20억 달러의 선불금으로 인수하여 유방암 치료제 시장에서 경쟁력을 강화할 예정입니다.",
+    "emerging_sector": "Breast Cancer Treatment",
+    "leading_companies": [
+      "Novartis",
+      "Synnovation Therapeutics"
+    ],
+    "category": "macro",
     "urgency": "high"
   }
 ]
