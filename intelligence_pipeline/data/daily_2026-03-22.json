@@ -449,5 +449,65 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Major"
+  },
+  {
+    "id": "b52fb2b8ba04a09b78a32f233f2dfdda",
+    "source": "Yahoo Finance (ARM)",
+    "source_type": "finance",
+    "title": "🔥 ARM: $132.35 (+1.95%)",
+    "summary": "ARM 현재가 132.35, 일간 변동 +1.95%, 거래량 12,353,954 (평균 대비 3.2배 — 자금 이동 포착!)",
+    "url": "https://finance.yahoo.com/quote/ARM",
+    "published_at": "2026-03-22T02:27:23.507676+00:00",
+    "collected_at": "2026-03-22T02:27:23.507681+00:00",
+    "metadata": {
+      "ticker": "ARM",
+      "price": 132.35,
+      "daily_change_pct": 1.95,
+      "volume": 12353954,
+      "avg_volume": 3849547,
+      "volume_ratio": 3.21,
+      "is_spike": true
+    },
+    "filter_score": 8,
+    "summary_ko": "ARM의 현재가는 132.35로, 일간 변동은 +1.95%입니다. 거래량은 평균 대비 3.2배로 증가하여 자금 이동이 포착되었습니다.",
+    "emerging_sector": "반도체",
+    "leading_companies": [
+      "ARM"
+    ],
+    "category": "smart_money",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "ARM"
+  },
+  {
+    "id": "b3959e8c0f368464b0fc308cf8401e44",
+    "source": "Yahoo Finance (COHR)",
+    "source_type": "finance",
+    "title": "🔥 COHR: $253.63 (-7.96%)",
+    "summary": "COHR 현재가 253.63, 일간 변동 -7.96%, 거래량 46,053,091 (평균 대비 5.7배 — 자금 이동 포착!)",
+    "url": "https://finance.yahoo.com/quote/COHR",
+    "published_at": "2026-03-22T02:27:23.775247+00:00",
+    "collected_at": "2026-03-22T02:27:23.775253+00:00",
+    "metadata": {
+      "ticker": "COHR",
+      "price": 253.63,
+      "daily_change_pct": -7.96,
+      "volume": 46053091,
+      "avg_volume": 8068126,
+      "volume_ratio": 5.71,
+      "is_spike": true
+    },
+    "filter_score": 8,
+    "summary_ko": "COHR의 현재가는 253.63로, 일간 변동은 -7.96%입니다. 거래량은 평균 대비 5.7배로 증가하여 자금 이동이 포착되었습니다.",
+    "emerging_sector": "반도체",
+    "leading_companies": [
+      "Coherent"
+    ],
+    "category": "smart_money",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "COHR"
   }
 ]
