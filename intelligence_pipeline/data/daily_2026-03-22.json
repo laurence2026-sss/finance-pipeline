@@ -547,5 +547,24 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Trump"
+  },
+  {
+    "id": "1c337202d7248fbd00ded33da6536b81",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "On The Hidden Fragility Of Our Energy-Dependent World & The Cascading Consequences Of A Supply-Shock That Money Alone Can't Fix",
+    "summary": "On The Hidden Fragility Of Our Energy-Dependent World & The Cascading Consequences Of A Supply-Shock That Money Alone Can't Fix\n\n            Authored by Milan Adams via Preppgroup blog,\n\nFor a long time, I accepted the same framework most people in finance operate within—that the global economy is, at its core, a system governed by monetary policy, shaped by interest rates, and stabilized by central banks. It’s an appealing idea because it suggests control. If growth slows, you lower rates. If i",
+    "url": "https://www.zerohedge.com/geopolitical/hidden-fragility-our-energy-dependent-world-cascading-consequences-supply-shock-money",
+    "published_at": "2026-03-21T23:50:00+00:00",
+    "collected_at": "2026-03-22T06:55:36.785539+00:00",
+    "filter_score": 7,
+    "summary_ko": "에너지 공급 충격의 잠재적 영향",
+    "emerging_sector": "에너지",
+    "leading_companies": [],
+    "category": "macro",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Hidden"
   }
 ]
