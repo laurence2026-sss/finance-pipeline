@@ -7,28 +7,14 @@
     "summary": "Iran's First Use Of ICBMs Raises Serious Questions About Remaining Arsenal\n\n            In a startling move that has military experts questioning their assumptions about Iranian capabilities, Iran attempted to hit the joint UK-US base on the Indian Ocean island of Diego Garcia with two intermediate-range ballistic missiles (IRBMs). While US officials assured the Wall Street Journal that the base was unscathed, the Iranian strike aimed at a target roughly 4,000 kilometers from Iran suggests that ",
     "url": "https://www.zerohedge.com/geopolitical/iran-fires-ballistic-missiles-far-diego-garcia-military-base",
     "published_at": "2026-03-22T00:25:00+00:00",
-    "collected_at": "2026-03-22T08:38:03.911683+00:00",
+    "collected_at": "2026-03-22T10:30:30.699248+00:00",
     "filter_score": 8,
-    "summary_ko": "이란의 대륙간탄도미사일 사용",
-    "emerging_sector": "국방",
-    "leading_companies": [],
-    "category": "geopolitics",
-    "urgency": "high"
-  },
-  {
-    "id": "442401943a70cc77c8be634462893016",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Trump Warns Tehran To \"Fully Open\" Hormuz Or Face 'Obliteration' As Iran-Israel Trade Nuke-Plant Strikes",
-    "summary": "Trump Warns Tehran To \"Fully Open\" Hormuz Or Face 'Obliteration' As Iran-Israel Trade Nuke-Plant Strikes\n\n            Summary\n\n\n\tTrump threatens to \"obliterate\" Iran's power-plants if Hormuz is not open and safe within 48 hours\n\t\n\t\n\tNatanz nuclear site attacked: Iran says \"no nuclear radiation\" detected, even as attacks on core sites like Isfahan nuclear facilities signal clear escalation despite earlier Trump signals of maybe \"winding down.\"\n\t\n\t\n\tIran has responded by targeting Israel's Dimona ",
-    "url": "https://www.zerohedge.com/geopolitical/irans-longest-range-missile-strike-fails-diego-garcia-natanz-nuclear-facility-bombed",
-    "published_at": "2026-03-22T00:00:00+00:00",
-    "collected_at": "2026-03-22T08:38:03.911797+00:00",
-    "filter_score": 8,
-    "summary_ko": "트럼프의 이란에 대한 경고",
-    "emerging_sector": "국방",
-    "leading_companies": [],
-    "category": "geopolitics",
+    "summary_ko": "이란이 최초로 대륙간 탄도 미사일(ICBM)을 사용하여 군사 전문가들이 이란의 군사 능력에 대해 의문을 제기하고 있다. 이 뉴스는 군사적인 기술 발전에 대한 것으로 보인다.",
+    "emerging_sector": "군사 기술",
+    "leading_companies": [
+      "군사 산업 기업"
+    ],
+    "category": "tech_trend",
     "urgency": "high"
   },
   {
@@ -39,7 +25,7 @@
     "summary": "The hefty funding will support a U.S. and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-22T08:38:06.224344+00:00",
+    "collected_at": "2026-03-22T10:30:32.678335+00:00",
     "filter_score": 8,
     "summary_ko": "AI 기반 의약품 개발사 Earendil Labs가 787M 달러의 자금을 유치",
     "emerging_sector": "AI 기반 의약품 개발",
@@ -58,10 +44,10 @@
     "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said&nbsp;Sant&eacute; Ventures&rsquo; Omar Khalil.",
     "url": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
     "published_at": "2026-03-19T13:40:00+00:00",
-    "collected_at": "2026-03-22T08:38:06.224439+00:00",
+    "collected_at": "2026-03-22T10:30:32.678427+00:00",
     "filter_score": 8,
-    "summary_ko": "바이오테크 벤처 캐피탈은 바이오테크 스타트업의 전환기를 예상합니다. 이는 새로운 자금 조달 물결이 형성되고 있는 것을 의미합니다.",
-    "emerging_sector": "바이오테크 스타트업",
+    "summary_ko": "바이오텍 벤처 캐피탈은 바이오텍 스타트업에 대한 투자 물결이 다시 형성되고 있다고 보고 있습니다.",
+    "emerging_sector": "바이오텍",
     "leading_companies": [
       "산테 벤처스"
     ],
@@ -69,20 +55,22 @@
     "urgency": "high"
   },
   {
-    "id": "1c337202d7248fbd00ded33da6536b81",
+    "id": "442401943a70cc77c8be634462893016",
     "source": "ZeroHedge",
     "source_type": "rss",
-    "title": "On The Hidden Fragility Of Our Energy-Dependent World & The Cascading Consequences Of A Supply-Shock That Money Alone Can't Fix",
-    "summary": "On The Hidden Fragility Of Our Energy-Dependent World & The Cascading Consequences Of A Supply-Shock That Money Alone Can't Fix\n\n            Authored by Milan Adams via Preppgroup blog,\n\nFor a long time, I accepted the same framework most people in finance operate within—that the global economy is, at its core, a system governed by monetary policy, shaped by interest rates, and stabilized by central banks. It’s an appealing idea because it suggests control. If growth slows, you lower rates. If i",
-    "url": "https://www.zerohedge.com/geopolitical/hidden-fragility-our-energy-dependent-world-cascading-consequences-supply-shock-money",
-    "published_at": "2026-03-21T23:50:00+00:00",
-    "collected_at": "2026-03-22T08:38:03.911967+00:00",
+    "title": "Trump Warns Tehran To \"Fully Open\" Hormuz Or Face 'Obliteration' As Iran-Israel Trade Nuke-Plant Strikes",
+    "summary": "Trump Warns Tehran To \"Fully Open\" Hormuz Or Face 'Obliteration' As Iran-Israel Trade Nuke-Plant Strikes\n\n            Summary\n\n\n\tTrump threatens to \"obliterate\" Iran's power-plants if Hormuz is not open and safe within 48 hours\n\t\n\t\n\tNatanz nuclear site attacked: Iran says \"no nuclear radiation\" detected, even as attacks on core sites like Isfahan nuclear facilities signal clear escalation despite earlier Trump signals of maybe \"winding down.\"\n\t\n\t\n\tIran has responded by targeting Israel's Dimona ",
+    "url": "https://www.zerohedge.com/geopolitical/irans-longest-range-missile-strike-fails-diego-garcia-natanz-nuclear-facility-bombed",
+    "published_at": "2026-03-22T00:00:00+00:00",
+    "collected_at": "2026-03-22T10:30:30.699362+00:00",
     "filter_score": 7,
-    "summary_ko": "에너지 의존도와 공급 쇼크의 영향",
-    "emerging_sector": "에너지",
-    "leading_companies": [],
-    "category": "macro",
-    "urgency": "medium"
+    "summary_ko": "트럼프가 이란에 호르무즈 해협을 개방하지 않으면 파괴될 것이라고 위협했다. 이 뉴스는 군사적인 긴장과 관련된 것으로 보인다.",
+    "emerging_sector": "군사 기술",
+    "leading_companies": [
+      "군사 산업 기업"
+    ],
+    "category": "geopolitics",
+    "urgency": "high"
   },
   {
     "id": "d7d8eadb7b8569a10cb1b16eda372342",
@@ -92,7 +80,7 @@
     "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
     "published_at": "2026-03-20T14:34:00+00:00",
-    "collected_at": "2026-03-22T08:38:06.224382+00:00",
+    "collected_at": "2026-03-22T10:30:32.678368+00:00",
     "filter_score": 7,
     "summary_ko": "Novartis가 스타트업의 유방암 약물 개발을 위해 20억 달러를 지불",
     "emerging_sector": "유방암 약물 개발",
@@ -111,10 +99,10 @@
     "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
     "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-22T08:38:06.224416+00:00",
+    "collected_at": "2026-03-22T10:30:32.678403+00:00",
     "filter_score": 7,
-    "summary_ko": "엘리 릴리의 3중 작용 비만 약물인 레트라튜트리드(Retatrutide)가 대규모 당뇨병 임상시험에서 목표를 달성했습니다. 이는 비만 치료에 효과적인 약물이 될 수 있습니다.",
-    "emerging_sector": "비만 치료",
+    "summary_ko": "엘리 릴리의 레타트루티드는 대규모 당뇨병 임상시험에서 목표를 달성하였으며, 이는 비만 치료에 있어 유망한 신약이 될 수 있습니다.",
+    "emerging_sector": " obesity treatment",
     "leading_companies": [
       "엘리 릴리"
     ],
@@ -122,21 +110,23 @@
     "urgency": "high"
   },
   {
-    "id": "e9cedfc14e03514318cdb27fb44c7fa0",
+    "id": "fc62c73811d3b486e091ae8e3f00f8ff",
     "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "AstraZeneca to boost cell therapy capabilities with new China investment",
-    "summary": "The planned Shanghai facility extends a yearslong push into the field and will support CAR-T therapies AstraZeneca is making for autoimmune disease and cancer.",
-    "url": "https://www.biopharmadive.com/news/astrazeneca-cell-therapy-china-shanghai-biotech/815159/",
-    "published_at": "2026-03-19T11:22:00+00:00",
-    "collected_at": "2026-03-22T08:38:06.224449+00:00",
+    "title": "RBC: Revolution, Xenon, Arrowhead among top takeover targets",
+    "summary": "As part of a larger review, analyst Leonid Timashev identified 13 companies that could see deal interest as well as more than half a dozen poised to be potential buyers.",
+    "url": "https://www.biopharmadive.com/news/biotech-takeover-targets-rbc-mergers-acquisitions-deals/815061/",
+    "published_at": "2026-03-18T16:14:00+00:00",
+    "collected_at": "2026-03-22T10:30:32.678449+00:00",
     "filter_score": 7,
-    "summary_ko": "아스트라제네카는 중국에 새로운 시설을 투자하여 세포 치료 능력을 강화할 계획입니다. 이는 CAR-T 치료를 위한 시설을 확대하는 것입니다.",
-    "emerging_sector": "CAR-T 치료",
+    "summary_ko": "RBC는 레볼루션, 제논, 애로헤드 등이 인수 대상이 될 수 있다고 보고했습니다.",
+    "emerging_sector": "바이오텍",
     "leading_companies": [
-      "아스트라제네카"
+      "레볼루션",
+      "제논",
+      "애로헤드"
     ],
-    "category": "tech_trend",
-    "urgency": "medium"
+    "category": "smart_money",
+    "urgency": "high"
   }
 ]
