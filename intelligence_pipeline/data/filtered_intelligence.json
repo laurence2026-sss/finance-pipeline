@@ -1,38 +1,20 @@
 [
   {
-    "id": "95bdb22dd977455eb181ce517732e999",
-    "source": "FierceBiotech",
+    "id": "e977832d974545599753f4336fdf30af",
+    "source": "ZeroHedge",
     "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/ai-and-machine-learning/behind-curtain-what-xaira-building-after-its-1b-fundraise\" hreflang=\"en\">Behind the curtain: What Xaira is building after its $1B fundraise</a>",
-    "summary": "What has Xaira been doing since its $1 billion raise? Xaira COO Jeff Jonker joins \"The Top Line\" to talk strategy, AI and the company’s long-game vision for drug discovery.",
-    "url": "https://www.fiercebiotech.com/ai-and-machine-learning/behind-curtain-what-xaira-building-after-its-1b-fundraise",
-    "published_at": "2026-03-23T13:12:23.779658+00:00",
-    "collected_at": "2026-03-23T13:12:23.779664+00:00",
-    "filter_score": 9,
-    "summary_ko": "Xaira는 10억 달러의 자금을 확보한 후 새로운 의약품 개발을 위한 인공지능 기술을 개발하고 있다.",
-    "emerging_sector": "AI 기반 의약품 개발",
+    "title": "IEA Head Warns Iran War Sparked Energy Crisis Worse Than 1970s Oil Shocks, Ukraine Fallout",
+    "summary": "IEA Head Warns Iran War Sparked Energy Crisis Worse Than 1970s Oil Shocks, Ukraine Fallout\n\n            The head of the International Energy Agency intensified his apocalyptic warning about the global energy crisis, stating early Monday that the US-Israel war with Iran has sparked a shock far greater than the twin oil crises of the 1970s and the turmoil from the war in Ukraine combined.\n\nUS-Israeli Operation Epic Fury has entered its fourth week, and emerging from the fog of war is the understan",
+    "url": "https://www.zerohedge.com/markets/iea-head-warns-iran-war-sparked-energy-crisis-worse-1970s-oil-shocks-ukraine-fallout",
+    "published_at": "2026-03-23T12:25:00+00:00",
+    "collected_at": "2026-03-23T14:57:51.514082+00:00",
+    "filter_score": 8,
+    "summary_ko": "IEA 책임자가 이란 전쟁으로 인한 에너지 위기가 1970년대 오일 쇼크보다 더 심할 수 있다고 경고했다.",
+    "emerging_sector": "에너지",
     "leading_companies": [
-      "Xaira"
+      "IEA"
     ],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "b2fdb8336635a125fc2ea8bfe174f579",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company\" hreflang=\"en\">Verily banks $300M to accelerate AI road map, transitions to independent company</a>",
-    "summary": "Verily raised a $300 million investment round to accelerate its work in artificial intelligence and precision health as it also moves out from under the corporate umbrella of Alphabet.",
-    "url": "https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company",
-    "published_at": "2026-03-23T13:12:23.779712+00:00",
-    "collected_at": "2026-03-23T13:12:23.779717+00:00",
-    "filter_score": 9,
-    "summary_ko": "Verily는 인공지능과 정밀 건강을 위한 3억 달러의 자금을 확보했다. 이 회사는 Alphabet의 자회사에서 독립 회사로 전환했다.",
-    "emerging_sector": "인공지능 기반 의료",
-    "leading_companies": [
-      "Verily"
-    ],
-    "category": "tech_trend",
+    "category": "macro",
     "urgency": "high"
   },
   {
@@ -43,9 +25,9 @@
     "summary": "Doctronic, the startup behind a provocative experiment in Utah to renew drug prescriptions with a chatbot, has raised $40 million.",
     "url": "https://www.statnews.com/2026/03/23/ai-doctor-startup-doctronic-raises-40-million/?utm_campaign=rss",
     "published_at": "2026-03-23T12:00:00+00:00",
-    "collected_at": "2026-03-23T13:12:23.346960+00:00",
+    "collected_at": "2026-03-23T14:57:53.097347+00:00",
     "filter_score": 8,
-    "summary_ko": "Doctronic이 4,000만 달러를 투자받아 임상 치료에 AI를 적용하는 경쟁이 가열된다.",
+    "summary_ko": "도트로닉은 임상 치료에 AI를 적용하는 경쟁에서 4,000만 달러를 투자받았습니다.",
     "emerging_sector": "의료 AI",
     "leading_companies": [
       "Doctronic"
@@ -61,15 +43,67 @@
     "summary": "The hefty funding will support a U.S. and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-23T13:12:23.648658+00:00",
+    "collected_at": "2026-03-23T14:57:53.319638+00:00",
     "filter_score": 8,
-    "summary_ko": "AI 기반 제약 회사 Earendil Labs가 7.87억 달러의 자금을 확보",
-    "emerging_sector": "AI 기반 제약",
+    "summary_ko": "인공지능 기반 의약품 개발사 Earendil Labs가 7억 8천만 달러를 유치했다. 이 회사는 미국과 중국에 기반을 두고 있다.",
+    "emerging_sector": "인공지능 의약품 개발",
     "leading_companies": [
       "Earendil Labs",
       "Sanofi"
     ],
     "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "25c735fdd3dba6e74dcd3898e350d5cd",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "A biotech VC sees early signs of a turnaround for startups",
+    "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said&nbsp;Sant&eacute; Ventures&rsquo; Omar Khalil.",
+    "url": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
+    "published_at": "2026-03-19T13:40:00+00:00",
+    "collected_at": "2026-03-23T14:57:53.319725+00:00",
+    "filter_score": 8,
+    "summary_ko": "바이오텍 벤처 캐피탈 회사인 산테 벤처스(Santé Ventures)의 오마르 칼릴(Omar Khalil)은 바이오텍 스타트업의 전환점을 예상했다. 그는 새로운 자금 조달 물결이 형성되고 있으며, 이는 바이오텍 산업의 부흥을 예고한다고 말했다.",
+    "emerging_sector": "바이오텍",
+    "leading_companies": [
+      "Santé Ventures"
+    ],
+    "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "e6007557ff4975393849bfc30d92b447",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/pharma/after-lilly-az-pledges-novartis-commits-nearly-480m-boost-china-manufacturing-rd\" hreflang=\"en\">Novartis joins Lilly, AZ in China expansion with $480M commitment to boost manufacturing, R&amp;D</a>",
+    "summary": "Novartis is investing more than 3.3 billion Chinese yuan (roughly $480 million) to soup up its manufacturing facility in Beijing and strengthen its R&D campus in Shanghai, where the company’s China headquarters are also located.",
+    "url": "https://www.fiercebiotech.com/pharma/after-lilly-az-pledges-novartis-commits-nearly-480m-boost-china-manufacturing-rd",
+    "published_at": "2026-03-23T14:57:53.400828+00:00",
+    "collected_at": "2026-03-23T14:57:53.400852+00:00",
+    "filter_score": 8,
+    "summary_ko": "노바티스(Novartis)가 중국에서 제조와 연구 개발을 강화하기 위해 4.8억 달러를 투자했다. 이 투자는 중국의 제조 시설과 연구 개발 캠퍼스를 강화하기 위한 것으로, 노바티스의 중국 시장 진출을 강화할 것으로 기대된다.",
+    "emerging_sector": "제약 산업",
+    "leading_companies": [
+      "Novartis"
+    ],
+    "category": "geopolitics",
+    "urgency": "high"
+  },
+  {
+    "id": "abd54fc796bb36f9696894c485394c6f",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Trump \"Postpones\" Military Strikes On Iran After \"Productive\" Talks; Refutes Iranian Denials",
+    "summary": "Trump \"Postpones\" Military Strikes On Iran After \"Productive\" Talks; Refutes Iranian Denials\n\n            Summary\n\n\n\tTrump announces \"productive\" talks with Iran, \"postpones\" military strikes for 5 days\n\t\n\t\n\tIRGC-linked media deny contact, Trad Govt-linked media yet to issue comment\n\t\n\t\n\tTrump refutes Iran denials, says \"speaking with a top person in Iran\"\n\t\n\t\n\tIsrael is not seeing an imminent end to the war, and plans to continue operations while avoiding energy assets, an Israeli official said",
+    "url": "https://www.zerohedge.com/markets/oil-plunges-stocks-spike-after-trumps-comments-iran",
+    "published_at": "2026-03-23T11:17:04+00:00",
+    "collected_at": "2026-03-23T14:57:51.514346+00:00",
+    "filter_score": 7,
+    "summary_ko": "트럼프가 이란과의 대화 후 군사 공격을 연기했다.",
+    "emerging_sector": "지정학",
+    "leading_companies": [],
+    "category": "geopolitics",
     "urgency": "high"
   },
   {
@@ -80,10 +114,10 @@
     "summary": "Imcivree&rsquo;s approval in a type of obesity driven by brain injury could unlock an opportunity Wall Street analysts believe to be worth more than $1 billion.",
     "url": "https://www.biopharmadive.com/news/rhythm-imcivree-fda-approve-acquired-hypothalamic-obesity/815276/",
     "published_at": "2026-03-20T11:30:00+00:00",
-    "collected_at": "2026-03-23T13:12:23.648692+00:00",
-    "filter_score": 8,
-    "summary_ko": "Rhythm의 비만 치료제 Imcivree가 뇌 손상으로 인한 비만 치료에 대한 FDA 승인을 받음. 이는 10억 달러 이상의 시장 기회를 열어줄 수 있음.",
-    "emerging_sector": "Obesity Treatment",
+    "collected_at": "2026-03-23T14:57:53.319674+00:00",
+    "filter_score": 7,
+    "summary_ko": "리듬(Rhythm)의 비만 치료제가 FDA의 승인을 받아 더 넓은 사용이 가능해졌다. 이 치료제는 뇌 손상으로 인한 비만을 치료하는 데 사용될 수 있으며, 월 스트리트 분석가들은 이 시장의 가치가 10억 달러 이상일 것으로 예상한다.",
+    "emerging_sector": "비만 치료제",
     "leading_companies": [
       "Rhythm"
     ],
@@ -98,124 +132,14 @@
     "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
     "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-23T13:12:23.648713+00:00",
-    "filter_score": 8,
-    "summary_ko": "Lilly의 비만 치료제 Retatrutide가 대규모 당뇨병 임상시험에서 목표를 달성함. 이는 비만 치료에 대한 새로운 기회를 열어줄 수 있음.",
-    "emerging_sector": "Obesity Treatment",
-    "leading_companies": [
-      "Lilly"
-    ],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "e9cedfc14e03514318cdb27fb44c7fa0",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "AstraZeneca to boost cell therapy capabilities with new China investment",
-    "summary": "The planned Shanghai facility extends a yearslong push into the field and will support CAR-T therapies AstraZeneca is making for autoimmune disease and cancer.",
-    "url": "https://www.biopharmadive.com/news/astrazeneca-cell-therapy-china-shanghai-biotech/815159/",
-    "published_at": "2026-03-19T11:22:00+00:00",
-    "collected_at": "2026-03-23T13:12:23.648745+00:00",
-    "filter_score": 8,
-    "summary_ko": "AstraZeneca가 중국에 새로운 세포 치료 시설을 투자함. 이는 AstraZeneca의 CAR-T 치료제 개발에 대한 투자를 증가시키는 데 도움이 될 수 있음.",
-    "emerging_sector": "Cell Therapy",
-    "leading_companies": [
-      "AstraZeneca"
-    ],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "761298d5ca0a0e48e81ebf223d237532",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/oryon-shines-out-stealth-21m-fight-parkinsons-disease\" hreflang=\"en\">Oryon shines out of stealth with $21M to fight Parkinson's disease</a>",
-    "summary": "When Ron Cohen, M.D., CEO of Oryon Cell Therapies, recently dug into the company’s Parkinson’s disease data, he told Fierce Biotech it “sang” to him. The former internist-turned-biotech CEO knew a thing or two about Parkinson’s—an area Oryon is targeting with an autologous neuron replacement therapy designed to restore dopaminergic function.",
-    "url": "https://www.fiercebiotech.com/biotech/oryon-shines-out-stealth-21m-fight-parkinsons-disease",
-    "published_at": "2026-03-23T13:12:23.779618+00:00",
-    "collected_at": "2026-03-23T13:12:23.779624+00:00",
-    "filter_score": 8,
-    "summary_ko": "Oryon Cell Therapies는 파킨슨병 치료를 위한 2,100만 달러의 자금을 확보했다. 이 회사는 파킨슨병 치료를 위한 새로운 세포 치료법을 개발하고 있다.",
-    "emerging_sector": "셀룰러 테라피",
-    "leading_companies": [
-      "Oryon Cell Therapies"
-    ],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "f6b1f3e4e867dcf7fdd909c03a85bbe9",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle\" hreflang=\"en\">Novartis pays Synnovation $2B upfront for breast cancer program as rivals circle</a>",
-    "summary": "Novartis has struck a deal to buy Synnovation Therapeutics’ pan-mutant‑selective PI3Kα inhibitor for $2 billion upfront, securing an asset that could defend its breast cancer franchise from challengers including Eli Lilly.",
-    "url": "https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle",
-    "published_at": "2026-03-23T13:12:23.779687+00:00",
-    "collected_at": "2026-03-23T13:12:23.779692+00:00",
-    "filter_score": 8,
-    "summary_ko": "Novartis는 Synnovation의 유방암 치료 프로그램을 20억 달러에 인수했다. 이는 유방암 치료 시장에서 경쟁력을 높이는 데 도움이 될 것이다.",
-    "emerging_sector": "유방암 치료",
-    "leading_companies": [
-      "Novartis",
-      "Synnovation"
-    ],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "d4ee639b63258a7869152d77712c81a7",
-    "source": "STAT News",
-    "source_type": "rss",
-    "title": "STAT+: Apogee Therapeutics data show long-acting eczema drug induced relief with less frequent injections",
-    "summary": "An experimental treatment for eczema from Apogee Therapeutics induced skin and itch relief comparable to current, widely used medicines but with less frequent injections.",
-    "url": "https://www.statnews.com/2026/03/23/zumilokibart-apogee-eczema-clinical-trials-results/?utm_campaign=rss",
-    "published_at": "2026-03-23T10:30:00+00:00",
-    "collected_at": "2026-03-23T13:12:23.346991+00:00",
+    "collected_at": "2026-03-23T14:57:53.319702+00:00",
     "filter_score": 7,
-    "summary_ko": "Apogee Therapeutics의 실험적 치료법이 적은 주사 횟수로도 비슷한 효과를 낸다.",
-    "emerging_sector": "의료 기술",
+    "summary_ko": "엘리 릴리(Eli Lilly)의 3중 작용 비만 치료제가 대규모 제2형 당뇨병 임상 시험에서 목표를 달성했다. 이 치료제는 GLP-1 약물의 발전된 형태로, 혈당과 체중을 모두 감소시켰으며, 비만 치료에도 효과가 있을 것으로 기대된다.",
+    "emerging_sector": "비만 치료제",
     "leading_companies": [
-      "Apogee Therapeutics"
+      "Eli Lilly"
     ],
     "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "d7d8eadb7b8569a10cb1b16eda372342",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "Novartis pays $2B to land a startup’s breast cancer drug",
-    "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
-    "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
-    "published_at": "2026-03-20T14:34:00+00:00",
-    "collected_at": "2026-03-23T13:12:23.648681+00:00",
-    "filter_score": 7,
-    "summary_ko": "Novartis가 유방암 약물 개발을 위해 20억 달러를 투자",
-    "emerging_sector": "유방암 치료",
-    "leading_companies": [
-      "Novartis",
-      "Synnovation Therapeutics"
-    ],
-    "category": "smart_money",
-    "urgency": "high"
-  },
-  {
-    "id": "25c735fdd3dba6e74dcd3898e350d5cd",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "A biotech VC sees early signs of a turnaround for startups",
-    "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said&nbsp;Sant&eacute; Ventures&rsquo; Omar Khalil.",
-    "url": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
-    "published_at": "2026-03-19T13:40:00+00:00",
-    "collected_at": "2026-03-23T13:12:23.648734+00:00",
-    "filter_score": 7,
-    "summary_ko": "바이오테크 벤처 캐피탈이 바이오테크 스타트업에 대한 투자를 재개함. 이는 바이오테크 산업에 대한 새로운 기회를 열어줄 수 있음.",
-    "emerging_sector": "Biotech Startup",
-    "leading_companies": [
-      "Santé Ventures"
-    ],
-    "category": "smart_money",
     "urgency": "high"
   }
 ]
