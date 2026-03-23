@@ -1,20 +1,20 @@
 [
   {
-    "id": "e977832d974545599753f4336fdf30af",
+    "id": "e335e5265676a6e54dc9fd87c2259f68",
     "source": "ZeroHedge",
     "source_type": "rss",
-    "title": "IEA Head Warns Iran War Sparked Energy Crisis Worse Than 1970s Oil Shocks, Ukraine Fallout",
-    "summary": "IEA Head Warns Iran War Sparked Energy Crisis Worse Than 1970s Oil Shocks, Ukraine Fallout\n\n            The head of the International Energy Agency intensified his apocalyptic warning about the global energy crisis, stating early Monday that the US-Israel war with Iran has sparked a shock far greater than the twin oil crises of the 1970s and the turmoil from the war in Ukraine combined.\n\nUS-Israeli Operation Epic Fury has entered its fourth week, and emerging from the fog of war is the understan",
-    "url": "https://www.zerohedge.com/markets/iea-head-warns-iran-war-sparked-energy-crisis-worse-1970s-oil-shocks-ukraine-fallout",
-    "published_at": "2026-03-23T12:25:00+00:00",
-    "collected_at": "2026-03-23T14:57:51.514082+00:00",
+    "title": "OpenAI Lures Private-Equity Firms With 17.5% Guaranteed Returns As AI Rivals Race For Enterprise Deals",
+    "summary": "OpenAI Lures Private-Equity Firms With 17.5% Guaranteed Returns As AI Rivals Race For Enterprise Deals\n\n            OpenAI, the maker of ChatGPT, is offering private-equity firms a more generous financial package than rival Anthropic as the two artificial-intelligence companies court buyout shops to create joint ventures aimed at raising fresh capital and accelerating the rollout of enterprise AI products.\n\n\n\nTo lure PE firms, OpenAI is promising investors a guaranteed minimum return of 17.5%, a",
+    "url": "https://www.zerohedge.com/technology/openai-lures-private-equity-firms-175-guaranteed-returns-ai-rivals-race-enterprise-deals",
+    "published_at": "2026-03-23T15:25:00+00:00",
+    "collected_at": "2026-03-23T16:58:24.383174+00:00",
     "filter_score": 8,
-    "summary_ko": "IEA 책임자가 이란 전쟁으로 인한 에너지 위기가 1970년대 오일 쇼크보다 더 심할 수 있다고 경고했다.",
-    "emerging_sector": "에너지",
+    "summary_ko": "OpenAI는 ChatGPT를 통해 사립 자본 회사들에게 17.5%의 보장 수익을 제안하며, AI 경쟁사들이 기업 거래를 위해 경쟁한다.",
+    "emerging_sector": "AI",
     "leading_companies": [
-      "IEA"
+      "OpenAI"
     ],
-    "category": "macro",
+    "category": "tech_trend",
     "urgency": "high"
   },
   {
@@ -25,9 +25,9 @@
     "summary": "Doctronic, the startup behind a provocative experiment in Utah to renew drug prescriptions with a chatbot, has raised $40 million.",
     "url": "https://www.statnews.com/2026/03/23/ai-doctor-startup-doctronic-raises-40-million/?utm_campaign=rss",
     "published_at": "2026-03-23T12:00:00+00:00",
-    "collected_at": "2026-03-23T14:57:53.097347+00:00",
+    "collected_at": "2026-03-23T16:58:25.479321+00:00",
     "filter_score": 8,
-    "summary_ko": "도트로닉은 임상 치료에 AI를 적용하는 경쟁에서 4,000만 달러를 투자받았습니다.",
+    "summary_ko": "도트로닉이 4,000만 달러를 투자받으며 임상 치료에서 AI를 적용하는 경쟁이 가열된다.",
     "emerging_sector": "의료 AI",
     "leading_companies": [
       "Doctronic"
@@ -40,36 +40,18 @@
     "source": "BioPharma Dive",
     "source_type": "rss",
     "title": "Earendil Labs, an AI-powered drugmaker, hauls in $787M",
-    "summary": "The hefty funding will support a U.S. and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
+    "summary": "The hefty funding will support a U.S.- and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-23T14:57:53.319638+00:00",
+    "collected_at": "2026-03-23T16:58:25.637012+00:00",
     "filter_score": 8,
-    "summary_ko": "인공지능 기반 의약품 개발사 Earendil Labs가 7억 8천만 달러를 유치했다. 이 회사는 미국과 중국에 기반을 두고 있다.",
-    "emerging_sector": "인공지능 의약품 개발",
+    "summary_ko": "Earendil Labs는 인공지능 기반 의약품 개발사로, 7억 8,700만 달러의 자금을 확보했다. 이 자금은 미국과 중국에 기반을 둔 이 회사의 약 20개 의약품 파이프라인과 Sanofi와의 두 가지 수익성 있는 파트너십을 지원할 예정이다.",
+    "emerging_sector": "AI 기반 의약품 개발",
     "leading_companies": [
       "Earendil Labs",
       "Sanofi"
     ],
     "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "25c735fdd3dba6e74dcd3898e350d5cd",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "A biotech VC sees early signs of a turnaround for startups",
-    "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said&nbsp;Sant&eacute; Ventures&rsquo; Omar Khalil.",
-    "url": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
-    "published_at": "2026-03-19T13:40:00+00:00",
-    "collected_at": "2026-03-23T14:57:53.319725+00:00",
-    "filter_score": 8,
-    "summary_ko": "바이오텍 벤처 캐피탈 회사인 산테 벤처스(Santé Ventures)의 오마르 칼릴(Omar Khalil)은 바이오텍 스타트업의 전환점을 예상했다. 그는 새로운 자금 조달 물결이 형성되고 있으며, 이는 바이오텍 산업의 부흥을 예고한다고 말했다.",
-    "emerging_sector": "바이오텍",
-    "leading_companies": [
-      "Santé Ventures"
-    ],
-    "category": "smart_money",
     "urgency": "high"
   },
   {
@@ -79,47 +61,32 @@
     "title": "<a href=\"https://www.fiercebiotech.com/pharma/after-lilly-az-pledges-novartis-commits-nearly-480m-boost-china-manufacturing-rd\" hreflang=\"en\">Novartis joins Lilly, AZ in China expansion with $480M commitment to boost manufacturing, R&amp;D</a>",
     "summary": "Novartis is investing more than 3.3 billion Chinese yuan (roughly $480 million) to soup up its manufacturing facility in Beijing and strengthen its R&D campus in Shanghai, where the company’s China headquarters are also located.",
     "url": "https://www.fiercebiotech.com/pharma/after-lilly-az-pledges-novartis-commits-nearly-480m-boost-china-manufacturing-rd",
-    "published_at": "2026-03-23T14:57:53.400828+00:00",
-    "collected_at": "2026-03-23T14:57:53.400852+00:00",
+    "published_at": "2026-03-23T16:58:25.800422+00:00",
+    "collected_at": "2026-03-23T16:58:25.800431+00:00",
     "filter_score": 8,
-    "summary_ko": "노바티스(Novartis)가 중국에서 제조와 연구 개발을 강화하기 위해 4.8억 달러를 투자했다. 이 투자는 중국의 제조 시설과 연구 개발 캠퍼스를 강화하기 위한 것으로, 노바티스의 중국 시장 진출을 강화할 것으로 기대된다.",
-    "emerging_sector": "제약 산업",
+    "summary_ko": "Novartis는 중국에서 제조와 연구 개발을 강화하기 위해 4,800만 달러를 투자했다. 이 투자는 중국의 제조 시설과 연구 개발 캠퍼스를 강화하는 데 도움이 될 것이다.",
+    "emerging_sector": "의료 기기 제조",
     "leading_companies": [
       "Novartis"
     ],
-    "category": "geopolitics",
+    "category": "macro",
     "urgency": "high"
   },
   {
-    "id": "abd54fc796bb36f9696894c485394c6f",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Trump \"Postpones\" Military Strikes On Iran After \"Productive\" Talks; Refutes Iranian Denials",
-    "summary": "Trump \"Postpones\" Military Strikes On Iran After \"Productive\" Talks; Refutes Iranian Denials\n\n            Summary\n\n\n\tTrump announces \"productive\" talks with Iran, \"postpones\" military strikes for 5 days\n\t\n\t\n\tIRGC-linked media deny contact, Trad Govt-linked media yet to issue comment\n\t\n\t\n\tTrump refutes Iran denials, says \"speaking with a top person in Iran\"\n\t\n\t\n\tIsrael is not seeing an imminent end to the war, and plans to continue operations while avoiding energy assets, an Israeli official said",
-    "url": "https://www.zerohedge.com/markets/oil-plunges-stocks-spike-after-trumps-comments-iran",
-    "published_at": "2026-03-23T11:17:04+00:00",
-    "collected_at": "2026-03-23T14:57:51.514346+00:00",
-    "filter_score": 7,
-    "summary_ko": "트럼프가 이란과의 대화 후 군사 공격을 연기했다.",
-    "emerging_sector": "지정학",
-    "leading_companies": [],
-    "category": "geopolitics",
-    "urgency": "high"
-  },
-  {
-    "id": "36840024d7f09f211f63a9c67f02e282",
+    "id": "d7d8eadb7b8569a10cb1b16eda372342",
     "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "Rhythm obesity drug wins broader use from FDA",
-    "summary": "Imcivree&rsquo;s approval in a type of obesity driven by brain injury could unlock an opportunity Wall Street analysts believe to be worth more than $1 billion.",
-    "url": "https://www.biopharmadive.com/news/rhythm-imcivree-fda-approve-acquired-hypothalamic-obesity/815276/",
-    "published_at": "2026-03-20T11:30:00+00:00",
-    "collected_at": "2026-03-23T14:57:53.319674+00:00",
+    "title": "Novartis pays $2B to land a startup’s breast cancer drug",
+    "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
+    "published_at": "2026-03-20T14:34:00+00:00",
+    "collected_at": "2026-03-23T16:58:25.637036+00:00",
     "filter_score": 7,
-    "summary_ko": "리듬(Rhythm)의 비만 치료제가 FDA의 승인을 받아 더 넓은 사용이 가능해졌다. 이 치료제는 뇌 손상으로 인한 비만을 치료하는 데 사용될 수 있으며, 월 스트리트 분석가들은 이 시장의 가치가 10억 달러 이상일 것으로 예상한다.",
-    "emerging_sector": "비만 치료제",
+    "summary_ko": "Novartis는 Synnovation Therapeutics의 부문을 20억 달러에 인수하여 유방암 약물 개발을 강화했다. 이 약물은 PIK3CA 돌연변이에 의해 성장하는 종양을 표적으로 하는 기존 약물보다 개선된 효과를 나타낼 수 있다.",
+    "emerging_sector": "유방암 약물 개발",
     "leading_companies": [
-      "Rhythm"
+      "Novartis",
+      "Synnovation Therapeutics"
     ],
     "category": "tech_trend",
     "urgency": "high"
@@ -132,12 +99,30 @@
     "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
     "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-23T14:57:53.319702+00:00",
+    "collected_at": "2026-03-23T16:58:25.637069+00:00",
     "filter_score": 7,
-    "summary_ko": "엘리 릴리(Eli Lilly)의 3중 작용 비만 치료제가 대규모 제2형 당뇨병 임상 시험에서 목표를 달성했다. 이 치료제는 GLP-1 약물의 발전된 형태로, 혈당과 체중을 모두 감소시켰으며, 비만 치료에도 효과가 있을 것으로 기대된다.",
-    "emerging_sector": "비만 치료제",
+    "summary_ko": "Lilly의 3중 비만 약물 Retatrutide는 대규모 당뇨병 임상시험에서 목표를 달성했다. 이 약물은 GLP-1 약물보다 개선된 효과를 나타낼 수 있다.",
+    "emerging_sector": "비만 약물 개발",
     "leading_companies": [
-      "Eli Lilly"
+      "Lilly"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "f9957c24d262f0b5882db82abcf25c0a",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Arikayce could become Insmed’s second blockbuster following late-stage win in lung infection",
+    "summary": "Insmed's Phase 3 trial win for Arikayce in a particular kind of lung infection sets up the drug to expand into the front-line setting — possibly giving the biotech a second projected blockbuster.\n\n The company said ...",
+    "url": "https://endpoints.news/arikayce-could-become-insmeds-second-blockbuster-following-late-stage-win-in-lung-infection/",
+    "published_at": "2026-03-23T11:01:00+00:00",
+    "collected_at": "2026-03-23T16:58:26.214015+00:00",
+    "filter_score": 7,
+    "summary_ko": "Insmed의 Arikayce가 폐감염 치료제로 임상 3상에서 성공을 거두어, 앞으로 블록버스터가 될 가능성이 있다.",
+    "emerging_sector": "폐감염 치료",
+    "leading_companies": [
+      "Insmed"
     ],
     "category": "tech_trend",
     "urgency": "high"
