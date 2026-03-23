@@ -487,5 +487,26 @@
     "korea_status": "⚡ 초기 반영",
     "korea_news_count": 4,
     "korea_search_query": "STAT"
+  },
+  {
+    "id": "6b888f9f14a67273fe83b6ab115f66fc",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Doctronic raises $40 million as race to apply AI in clinical care heats up",
+    "summary": "Doctronic, the startup behind a provocative experiment in Utah to renew drug prescriptions with a chatbot, has raised $40 million.",
+    "url": "https://www.statnews.com/2026/03/23/ai-doctor-startup-doctronic-raises-40-million/?utm_campaign=rss",
+    "published_at": "2026-03-23T12:00:00+00:00",
+    "collected_at": "2026-03-23T13:12:23.346960+00:00",
+    "filter_score": 8,
+    "summary_ko": "Doctronic이 4,000만 달러를 투자받아 임상 치료에 AI를 적용하는 경쟁이 가열된다.",
+    "emerging_sector": "의료 AI",
+    "leading_companies": [
+      "Doctronic"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚡ 초기 반영",
+    "korea_news_count": 4,
+    "korea_search_query": "STAT"
   }
 ]
