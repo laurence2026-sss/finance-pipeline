@@ -7,10 +7,10 @@
     "summary": "Nuclear Fuel Supply Chain Advancing Rapidly As Leading Reactor Developer X-energy Files For IPO\n\n            X-energy submitted a draft registration statement to the SEC for an initial public offering of its Class A common stock. The company intends to list on the Nasdaq under the ticker “XE.”\n\n\nX-energy has submitted a draft registration statement on form S-1 to the U.S. Securities and Exchange Commission related to the proposed initial public offering of X-energy’s Class A common stock. X-ener",
     "url": "https://www.zerohedge.com/markets/senior-reactor-developer-x-energy-files-ipo",
     "published_at": "2026-03-23T17:40:00+00:00",
-    "collected_at": "2026-03-23T18:58:13.179674+00:00",
-    "filter_score": 8,
-    "summary_ko": "원자로 개발업체 X-energy가 IPO를 신청하면서 원자력 연료 공급망이 빠르게 발전하고 있습니다.",
-    "emerging_sector": "Nuclear Energy",
+    "collected_at": "2026-03-23T20:40:04.755732+00:00",
+    "filter_score": 9,
+    "summary_ko": "원자로 개발업체인 X-energy가 IPO를 신청했다. 이는 원자력 연료 공급망이 빠르게 발전하고 있는 것을 나타낸다.",
+    "emerging_sector": "원자력 에너지",
     "leading_companies": [
       "X-energy"
     ],
@@ -21,6 +21,49 @@
     "korea_search_query": "IPO OR 상장"
   },
   {
+    "id": "64f96a356a73594c51f9b4151599c027",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Tesla And SpaceX To Build Massive \"Terafab\" Chip Factory In Austin",
+    "summary": "Tesla And SpaceX To Build Massive \"Terafab\" Chip Factory In Austin\n\n            Elon Musk announced that his proposed “Terafab” chip factory will be built in Austin and operated jointly by Tesla and SpaceX, according to Yahoo Finance and Bloomberg.\n\nThe plan is to start with a smaller, highly advanced fabrication facility capable of producing and testing a wide range of chips, before expanding to a larger operation.\n\nMusk argues the semiconductor industry isn’t scaling fast enough to meet his co",
+    "url": "https://www.zerohedge.com/markets/tesla-and-spacex-build-massive-terafab-chip-factory-austin",
+    "published_at": "2026-03-23T19:40:00+00:00",
+    "collected_at": "2026-03-23T20:40:04.755387+00:00",
+    "filter_score": 8,
+    "summary_ko": "테슬라와 스페이스X는 오스틴에 대규모 반도체 공장을 건설할 계획이다. 이 공장은 테라팹(Terafab)이라고 불리며, 테슬라와 스페이스X가 공동으로 운영할 예정이다.",
+    "emerging_sector": "반도체",
+    "leading_companies": [
+      "테슬라",
+      "스페이스X"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "반도체 우주항공 OR 우주산업 테슬라"
+  },
+  {
+    "id": "0828becff536915c68c76a5b96678f72",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Palantir Seen On \"Golden Path\" As Pentagon Moves To Make Maven Battlefield System A Program Of Record",
+    "summary": "Palantir Seen On \"Golden Path\" As Pentagon Moves To Make Maven Battlefield System A Program Of Record \n\n            Palantir shares gained 4% by early afternoon trading after Reuters reported over the weekend that the Department of War plans to designate its Maven artificial intelligence system as an official program of record. Wall Street views this report as a bullish catalyst and a meaningful validation of Palantir's long-term role in military command-and-control AI software.\n\nReuters cited a",
+    "url": "https://www.zerohedge.com/military/palantir-seen-golden-path-pentagon-moves-make-maven-battlefield-system-program-record",
+    "published_at": "2026-03-23T17:00:00+00:00",
+    "collected_at": "2026-03-23T20:40:04.755880+00:00",
+    "filter_score": 8,
+    "summary_ko": "펜타곤이 메이븐 전장 시스템을 프로그램으로 채택하면서 팔란티어의 주가가 상승",
+    "emerging_sector": "방위 산업 기술",
+    "leading_companies": [
+      "Palantir"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Palantir"
+  },
+  {
     "id": "6b888f9f14a67273fe83b6ab115f66fc",
     "source": "STAT News",
     "source_type": "rss",
@@ -28,10 +71,10 @@
     "summary": "Doctronic, the startup behind a provocative experiment in Utah to renew drug prescriptions with a chatbot, has raised $40 million.",
     "url": "https://www.statnews.com/2026/03/23/ai-doctor-startup-doctronic-raises-40-million/?utm_campaign=rss",
     "published_at": "2026-03-23T12:00:00+00:00",
-    "collected_at": "2026-03-23T18:58:15.276368+00:00",
+    "collected_at": "2026-03-23T20:40:05.879329+00:00",
     "filter_score": 8,
-    "summary_ko": "도트로닉이 4,000만 달러를 투자받으며 임상 치료에 AI를 적용하는 경쟁이 가열된다.",
-    "emerging_sector": "의료 AI",
+    "summary_ko": "Doctronic이 4,000만 달러를 투자받아 임상 치료에 AI를 적용하는 경쟁이 가열되고 있습니다. 의료 기술과 AI의 결합이 주목받고 있습니다.",
+    "emerging_sector": "의료 기술",
     "leading_companies": [
       "Doctronic"
     ],
@@ -49,9 +92,9 @@
     "summary": "The hefty funding will support a U.S.- and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-23T18:58:15.649804+00:00",
+    "collected_at": "2026-03-23T20:40:06.019698+00:00",
     "filter_score": 8,
-    "summary_ko": "Earendil Labs는 인공지능 기반 의약품 개발사로, 7억 8,700만 달러의 자금을 확보했다. 이 자금은 미국과 중국에 기반을 둔 이 회사가 약 20개의 의약품 파이프라인을 구축하고, Sanofi와 두 개의 수익성 있는 파트너십을 형성하는 데 사용될 예정이다.",
+    "summary_ko": "Earendil Labs는 인공지능 기반 의약품 개발사로, 7억 8,700만 달러의 자금을 확보했다. 이 자금은 미국과 중국에 기반을 둔 이 회사의 약 20개 의약품 파이프라인과 Sanofi와의 두 가지 수익성 있는 파트너십을 지원할 예정이다.",
     "emerging_sector": "AI 기반 의약품 개발",
     "leading_companies": [
       "Earendil Labs",
@@ -64,46 +107,25 @@
     "korea_search_query": "Earendil"
   },
   {
-    "id": "e6007557ff4975393849bfc30d92b447",
-    "source": "FierceBiotech",
+    "id": "a14c2097c9b8cba1f23f2656b1e72849",
+    "source": "STAT News",
     "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/pharma/after-lilly-az-pledges-novartis-commits-nearly-480m-boost-china-manufacturing-rd\" hreflang=\"en\">Novartis joins Lilly, AZ in China expansion with $480M commitment to boost manufacturing, R&amp;D</a>",
-    "summary": "Novartis is investing more than 3.3 billion Chinese yuan (roughly $480 million) to soup up its manufacturing facility in Beijing and strengthen its R&D campus in Shanghai, where the company’s China headquarters are also located.",
-    "url": "https://www.fiercebiotech.com/pharma/after-lilly-az-pledges-novartis-commits-nearly-480m-boost-china-manufacturing-rd",
-    "published_at": "2026-03-23T18:58:15.881048+00:00",
-    "collected_at": "2026-03-23T18:58:15.881057+00:00",
-    "filter_score": 8,
-    "summary_ko": "Novartis는 중국에서 제조와 연구 개발을 강화하기 위해 4,800만 달러를 투자했다. 이 투자는 중국의 제조 시설과 연구 개발 캠퍼스를 강화하는 데 사용될 예정이다.",
-    "emerging_sector": "중국 의료 산업",
-    "leading_companies": [
-      "Novartis"
-    ],
-    "category": "smart_money",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "ARM"
-  },
-  {
-    "id": "0828becff536915c68c76a5b96678f72",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Palantir Seen On \"Golden Path\" As Pentagon Moves To Make Maven Battlefield System A Program Of Record",
-    "summary": "Palantir Seen On \"Golden Path\" As Pentagon Moves To Make Maven Battlefield System A Program Of Record \n\n            Palantir shares gained 4% by early afternoon trading after Reuters reported over the weekend that the Department of War plans to designate its Maven artificial intelligence system as an official program of record. Wall Street views this report as a bullish catalyst and a meaningful validation of Palantir's long-term role in military command-and-control AI software.\n\nReuters cited a",
-    "url": "https://www.zerohedge.com/military/palantir-seen-golden-path-pentagon-moves-make-maven-battlefield-system-program-record",
-    "published_at": "2026-03-23T17:00:00+00:00",
-    "collected_at": "2026-03-23T18:58:13.179807+00:00",
+    "title": "STAT+: Epic says it has uncovered rot in patient record sharing. Will HHS act?",
+    "summary": "A recent Epic lawsuit revealed a company allegedly posed as a provider to access patient records for law firms, prompting a call for increased oversight.",
+    "url": "https://www.statnews.com/2026/03/23/epic-systems-lawsuit-fraud-in-health-information-exchanges/?utm_campaign=rss",
+    "published_at": "2026-03-23T14:48:29+00:00",
+    "collected_at": "2026-03-23T20:40:05.879284+00:00",
     "filter_score": 7,
-    "summary_ko": "펜타곤이 메이븐 전장 시스템을 프로그램으로 만들 계획으로 팔란티어의 주가가 상승했습니다.",
-    "emerging_sector": "Defense Technology",
+    "summary_ko": "에픽이 환자 기록 공유에서 부패를 발견함, 보건부가 행동할 것인가?",
+    "emerging_sector": "의료 기록 관리",
     "leading_companies": [
-      "Palantir"
+      "Epic"
     ],
     "category": "tech_trend",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "Palantir"
+    "urgency": "medium",
+    "korea_status": "⚡ 초기 반영",
+    "korea_news_count": 4,
+    "korea_search_query": "STAT"
   },
   {
     "id": "d7d8eadb7b8569a10cb1b16eda372342",
@@ -113,15 +135,15 @@
     "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
     "published_at": "2026-03-20T14:34:00+00:00",
-    "collected_at": "2026-03-23T18:58:15.649827+00:00",
+    "collected_at": "2026-03-23T20:40:06.019722+00:00",
     "filter_score": 7,
-    "summary_ko": "Novartis는 Synnovation Therapeutics의 부문을 20억 달러에 인수했다. 이 인수는 Novartis에게 유방암 약물 개발의 기회를 제공한다.",
+    "summary_ko": "Novartis는 유방암 약물 개발을 위해 20억 달러를 투자했다. 이 투자는 Synnovation Therapeutics의 부문을 인수하여 Novartis가 PIK3CA 돌연변이에 의한 종양 성장을 목표로 하는 약물 개발을 강화할 수 있다.",
     "emerging_sector": "유방암 약물 개발",
     "leading_companies": [
       "Novartis",
       "Synnovation Therapeutics"
     ],
-    "category": "smart_money",
+    "category": "tech_trend",
     "urgency": "high",
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 7,
@@ -135,9 +157,9 @@
     "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
     "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-23T18:58:15.649860+00:00",
+    "collected_at": "2026-03-23T20:40:06.019756+00:00",
     "filter_score": 7,
-    "summary_ko": "Lilly의 3중 비만 약물 Retatrutide는 대규모 당뇨병 임상시험에서 목표를 달성했다. 이 약물은 GLP-1 약물과 유사한 효과를 나타냈으며, 비만 치료에 새로운 기회를 열어줄 수 있다.",
+    "summary_ko": "Lilly의 3중 비만 약물 Retatrutide는 대규모 당뇨병 임상시험에서 목표를 달성했다. 이 약물은 GLP-1 약물과 유사한 효과를 나타내어 비만 치료에 효과적일 수 있다.",
     "emerging_sector": "비만 약물 개발",
     "leading_companies": [
       "Lilly"
