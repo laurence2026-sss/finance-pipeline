@@ -7,10 +7,10 @@
     "summary": "The hefty funding will support a U.S. and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-23T05:41:13.535491+00:00",
+    "collected_at": "2026-03-23T07:14:11.584107+00:00",
     "filter_score": 8,
-    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs가 787M 달러의 자금을 유치",
-    "emerging_sector": "AI 기반 의약품 개발",
+    "summary_ko": "AI를 이용한 신약 개발 회사 Earendil Labs가 787M 달러의 자금을 유치",
+    "emerging_sector": "AI 신약 개발",
     "leading_companies": [
       "Earendil Labs",
       "Sanofi"
@@ -29,12 +29,12 @@
     "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said&nbsp;Sant&eacute; Ventures&rsquo; Omar Khalil.",
     "url": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
     "published_at": "2026-03-19T13:40:00+00:00",
-    "collected_at": "2026-03-23T05:41:13.535577+00:00",
+    "collected_at": "2026-03-23T07:14:11.584197+00:00",
     "filter_score": 8,
-    "summary_ko": "바이오테크 벤처 캐피탈은 초기 신호를 포착하여 바이오테크 스타트업의 전환기를 예상합니다. 새로운 자금 조달 물결이 형성되고 있습니다.",
-    "emerging_sector": "biotech startup",
+    "summary_ko": "바이오텍 VC는 초기 신호를 감지하여 바이오텍 스타트업의 전환기를 예상하고 있으며, 이는 새로운 자금 조달 물결을 형성할 수 있을 것으로 기대된다.",
+    "emerging_sector": "바이오텍 스타트업",
     "leading_companies": [
-      "Santé Ventures"
+      "산테 벤처스"
     ],
     "category": "smart_money",
     "urgency": "high",
@@ -43,44 +43,23 @@
     "korea_search_query": ""
   },
   {
-    "id": "b2fdb8336635a125fc2ea8bfe174f579",
-    "source": "FierceBiotech",
+    "id": "1b234e816d12e77ad24268e35fecb1d1",
+    "source": "STAT News",
     "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company\" hreflang=\"en\">Verily banks $300M to accelerate AI road map, transitions to independent company</a>",
-    "summary": "Verily raised a $300 million investment round to accelerate its work in artificial intelligence and precision health as it also moves out from under the corporate umbrella of Alphabet.",
-    "url": "https://www.fiercebiotech.com/health-tech/verily-banks-300m-accelerate-ai-roadmap-transitions-independent-company",
-    "published_at": "2026-03-23T05:41:13.687952+00:00",
-    "collected_at": "2026-03-23T05:41:13.687957+00:00",
-    "filter_score": 8,
-    "summary_ko": "Verily는 인공지능과 정밀 건강 분야에서 연구를 가속화하기 위해 3억 달러의 투자를 유치했다. 또한 알파벳의 자회사에서 독립 회사로 전환했다.",
-    "emerging_sector": "AI in Healthcare",
-    "leading_companies": [
-      "Verily"
-    ],
-    "category": "health-tech",
-    "urgency": "high",
-    "korea_status": "🔥 독점 정보",
-    "korea_news_count": 0,
-    "korea_search_query": "Verily"
-  },
-  {
-    "id": "4a3ae94bf5efc65ba90e15c35508fb1c",
-    "source": "MedCity News",
-    "source_type": "rss",
-    "title": "A Once in a Generation Opportunity to Reimagine Rural Health",
-    "summary": "Leaders must resist the urge to replicate urban models that do not translate well to rural contexts. Instead, they should design solutions that are built for rural communities, grounded in local insight and enabled by scalable capabilities. \nThe post A Once in a Generation Opportunity to Reimagine Rural Health appeared first on MedCity News.",
-    "url": "https://medcitynews.com/2026/03/a-once-in-a-generation-opportunity-to-reimagine-rural-health/",
-    "published_at": "2026-03-22T13:20:00+00:00",
-    "collected_at": "2026-03-23T05:41:14.359700+00:00",
-    "filter_score": 8,
-    "summary_ko": "농촌 지역의 의료를 재창조할 수 있는 기회에 대해 다루는 기사입니다. 도시 모델을 복제하는 대신 농촌 지역에 적합한 솔루션을 설계해야 합니다.",
-    "emerging_sector": "농촌 의료",
+    "title": "STAT+: Sepsis hospitalizations have tripled in Massachusetts. Is it real or a billing game?",
+    "summary": "In Massachusetts, sepsis cases has more than tripled since 2010. Some blame hospitals' use of AI tools for medical coding and billing.",
+    "url": "https://www.statnews.com/2026/03/20/ai-coding-sharp-rise-sepsis-hospitalizations-massachusetts/?utm_campaign=rss",
+    "published_at": "2026-03-20T18:34:48+00:00",
+    "collected_at": "2026-03-23T07:14:10.902704+00:00",
+    "filter_score": 7,
+    "summary_ko": "매사추세츠에서 중환자실 입원 환자가 3배 이상 증가했는데, 이는 실제 증가인지 아니면 청구 게임인지 의문이다.",
+    "emerging_sector": "헬스케어",
     "leading_companies": [],
-    "category": "macro",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "Once"
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚡ 초기 반영",
+    "korea_news_count": 3,
+    "korea_search_query": "STAT"
   },
   {
     "id": "d7d8eadb7b8569a10cb1b16eda372342",
@@ -90,10 +69,10 @@
     "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
     "published_at": "2026-03-20T14:34:00+00:00",
-    "collected_at": "2026-03-23T05:41:13.535521+00:00",
+    "collected_at": "2026-03-23T07:14:11.584138+00:00",
     "filter_score": 7,
-    "summary_ko": "Novartis가 스타트업의 유방암 약물 개발을 위해 20억 달러를 지불",
-    "emerging_sector": "유방암 약물 개발",
+    "summary_ko": "Novartis가 스타트업의 유방암 약을 20억 달러에 인수",
+    "emerging_sector": "유방암 치료",
     "leading_companies": [
       "Novartis",
       "Synnovation Therapeutics"
@@ -112,17 +91,17 @@
     "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
     "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-23T05:41:13.535555+00:00",
+    "collected_at": "2026-03-23T07:14:11.584174+00:00",
     "filter_score": 7,
-    "summary_ko": "엘리 릴리의 3중 작용 비만 치료제인 레트라튜드는 대규모 당뇨병 임상시험에서 혈당과 체중을 크게 줄였습니다. 이는 비만 치료에 효과적인 약물이 될 수 있습니다.",
-    "emerging_sector": "obesity treatment",
+    "summary_ko": "엘리 릴리의 레타트루티드가 대규모 당뇨병 임상시험에서 목표를 달성하였으며, 이는 비만 치료에 있어 유망한 신약으로 부상할 수 있을 것으로 기대된다.",
+    "emerging_sector": "당뇨병 및 비만 치료",
     "leading_companies": [
       "엘리 릴리"
     ],
     "category": "tech_trend",
     "urgency": "high",
     "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 6,
+    "korea_news_count": 7,
     "korea_search_query": "Lilly"
   },
   {
@@ -133,60 +112,17 @@
     "summary": "The planned Shanghai facility extends a yearslong push into the field and will support CAR-T therapies AstraZeneca is making for autoimmune disease and cancer.",
     "url": "https://www.biopharmadive.com/news/astrazeneca-cell-therapy-china-shanghai-biotech/815159/",
     "published_at": "2026-03-19T11:22:00+00:00",
-    "collected_at": "2026-03-23T05:41:13.535589+00:00",
+    "collected_at": "2026-03-23T07:14:11.584208+00:00",
     "filter_score": 7,
-    "summary_ko": "아스트라제네카는 중국에 새로운 시설을 투자하여 세포 치료 능력을 강화합니다. 이는 CAR-T 치료제 개발을 지원할 것입니다.",
-    "emerging_sector": "cell therapy",
+    "summary_ko": "아스트라제네카는 중국에 새로운 시설을 투자하여 세포 치료 능력을 강화할 계획이며, 이는 CAR-T 치료를 위한 자체 기술 개발을 지원할 수 있을 것으로 기대된다.",
+    "emerging_sector": "CAR-T 치료",
     "leading_companies": [
       "아스트라제네카"
     ],
     "category": "tech_trend",
     "urgency": "medium",
-    "korea_status": "⚡ 초기 반영",
-    "korea_news_count": 4,
-    "korea_search_query": "AstraZeneca"
-  },
-  {
-    "id": "f6b1f3e4e867dcf7fdd909c03a85bbe9",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle\" hreflang=\"en\">Novartis pays Synnovation $2B upfront for breast cancer program as rivals circle</a>",
-    "summary": "Novartis has struck a deal to buy Synnovation Therapeutics’ pan-mutant‑selective PI3Kα inhibitor for $2 billion upfront, securing an asset that could defend its breast cancer franchise from challengers including Eli Lilly.",
-    "url": "https://www.fiercebiotech.com/biotech/novartis-pays-synnovation-2b-breast-cancer-program-rivals-circle",
-    "published_at": "2026-03-23T05:41:13.687925+00:00",
-    "collected_at": "2026-03-23T05:41:13.687931+00:00",
-    "filter_score": 7,
-    "summary_ko": "노바티스는 Synnovation Therapeutics의 유방암 치료제를 20억 달러의 선불금으로 인수했다. 이는 노바티스의 유방암 치료제 시장 지위를 강화하는 데 도움이 될 수 있다.",
-    "emerging_sector": "Breast Cancer Treatment",
-    "leading_companies": [
-      "Novartis",
-      "Synnovation Therapeutics"
-    ],
-    "category": "biotech",
-    "urgency": "high",
     "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 6,
-    "korea_search_query": "Novartis"
-  },
-  {
-    "id": "43228d8d6e3699720b5ddc861fc61c3d",
-    "source": "MedCity News",
-    "source_type": "rss",
-    "title": "The Saga of Utah’s Rx Refill Bot: A Bold Bet on AI & Researchers Who Cried Foul",
-    "summary": "Utah is piloting an AI system developed by Doctronic to autonomously handle routine prescription refills, aiming to reduce delays and boost medication adherence. But a report from Mindgard AI claiming that there are vulnerabilities in the company’s chatbot underscores the broader challenge regulators and developers face in ensuring healthcare AI systems remain safe and reliable in real-world use.\nThe post The Saga of Utah’s Rx Refill Bot: A Bold Bet on AI & Researchers Who Cried Foul appeared fi",
-    "url": "https://medcitynews.com/2026/03/utah-prescription-medication-ai-doctronic-mindgard/",
-    "published_at": "2026-03-22T16:17:55+00:00",
-    "collected_at": "2026-03-23T05:41:14.359655+00:00",
-    "filter_score": 7,
-    "summary_ko": "유타에서 AI 시스템을 사용하여 의약품 재처방을 자동화하는 시도를 진행 중입니다. 이 시스템은 지연을 줄이고 약물 복용 순응도를 높이기 위한 것입니다.",
-    "emerging_sector": "의료 AI",
-    "leading_companies": [
-      "Doctronic"
-    ],
-    "category": "tech_trend",
-    "urgency": "high",
-    "korea_status": "🔥 독점 정보",
-    "korea_news_count": 2,
-    "korea_search_query": "Saga"
+    "korea_news_count": 7,
+    "korea_search_query": "AstraZeneca"
   }
 ]
