@@ -1,18 +1,18 @@
 [
   {
-    "id": "e335e5265676a6e54dc9fd87c2259f68",
+    "id": "100f4018ab481b04021378d29f693c19",
     "source": "ZeroHedge",
     "source_type": "rss",
-    "title": "OpenAI Lures Private-Equity Firms With 17.5% Guaranteed Returns As AI Rivals Race For Enterprise Deals",
-    "summary": "OpenAI Lures Private-Equity Firms With 17.5% Guaranteed Returns As AI Rivals Race For Enterprise Deals\n\n            OpenAI, the maker of ChatGPT, is offering private-equity firms a more generous financial package than rival Anthropic as the two artificial-intelligence companies court buyout shops to create joint ventures aimed at raising fresh capital and accelerating the rollout of enterprise AI products.\n\n\n\nTo lure PE firms, OpenAI is promising investors a guaranteed minimum return of 17.5%, a",
-    "url": "https://www.zerohedge.com/technology/openai-lures-private-equity-firms-175-guaranteed-returns-ai-rivals-race-enterprise-deals",
-    "published_at": "2026-03-23T15:25:00+00:00",
-    "collected_at": "2026-03-23T16:58:24.383174+00:00",
+    "title": "Nuclear Fuel Supply Chain Advancing Rapidly As Leading Reactor Developer X-energy Files For IPO",
+    "summary": "Nuclear Fuel Supply Chain Advancing Rapidly As Leading Reactor Developer X-energy Files For IPO\n\n            X-energy submitted a draft registration statement to the SEC for an initial public offering of its Class A common stock. The company intends to list on the Nasdaq under the ticker “XE.”\n\n\nX-energy has submitted a draft registration statement on form S-1 to the U.S. Securities and Exchange Commission related to the proposed initial public offering of X-energy’s Class A common stock. X-ener",
+    "url": "https://www.zerohedge.com/markets/senior-reactor-developer-x-energy-files-ipo",
+    "published_at": "2026-03-23T17:40:00+00:00",
+    "collected_at": "2026-03-23T18:58:13.179674+00:00",
     "filter_score": 8,
-    "summary_ko": "OpenAI는 ChatGPT를 통해 사립 자본 회사들에게 17.5%의 보장 수익을 제안하며, AI 경쟁사들이 기업 거래를 위해 경쟁한다.",
-    "emerging_sector": "AI",
+    "summary_ko": "원자로 개발업체 X-energy가 IPO를 신청하면서 원자력 연료 공급망이 빠르게 발전하고 있습니다.",
+    "emerging_sector": "Nuclear Energy",
     "leading_companies": [
-      "OpenAI"
+      "X-energy"
     ],
     "category": "tech_trend",
     "urgency": "high"
@@ -25,9 +25,9 @@
     "summary": "Doctronic, the startup behind a provocative experiment in Utah to renew drug prescriptions with a chatbot, has raised $40 million.",
     "url": "https://www.statnews.com/2026/03/23/ai-doctor-startup-doctronic-raises-40-million/?utm_campaign=rss",
     "published_at": "2026-03-23T12:00:00+00:00",
-    "collected_at": "2026-03-23T16:58:25.479321+00:00",
+    "collected_at": "2026-03-23T18:58:15.276368+00:00",
     "filter_score": 8,
-    "summary_ko": "도트로닉이 4,000만 달러를 투자받으며 임상 치료에서 AI를 적용하는 경쟁이 가열된다.",
+    "summary_ko": "도트로닉이 4,000만 달러를 투자받으며 임상 치료에 AI를 적용하는 경쟁이 가열된다.",
     "emerging_sector": "의료 AI",
     "leading_companies": [
       "Doctronic"
@@ -43,9 +43,9 @@
     "summary": "The hefty funding will support a U.S.- and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-23T16:58:25.637012+00:00",
+    "collected_at": "2026-03-23T18:58:15.649804+00:00",
     "filter_score": 8,
-    "summary_ko": "Earendil Labs는 인공지능 기반 의약품 개발사로, 7억 8,700만 달러의 자금을 확보했다. 이 자금은 미국과 중국에 기반을 둔 이 회사의 약 20개 의약품 파이프라인과 Sanofi와의 두 가지 수익성 있는 파트너십을 지원할 예정이다.",
+    "summary_ko": "Earendil Labs는 인공지능 기반 의약품 개발사로, 7억 8,700만 달러의 자금을 확보했다. 이 자금은 미국과 중국에 기반을 둔 이 회사가 약 20개의 의약품 파이프라인을 구축하고, Sanofi와 두 개의 수익성 있는 파트너십을 형성하는 데 사용될 예정이다.",
     "emerging_sector": "AI 기반 의약품 개발",
     "leading_companies": [
       "Earendil Labs",
@@ -61,15 +61,33 @@
     "title": "<a href=\"https://www.fiercebiotech.com/pharma/after-lilly-az-pledges-novartis-commits-nearly-480m-boost-china-manufacturing-rd\" hreflang=\"en\">Novartis joins Lilly, AZ in China expansion with $480M commitment to boost manufacturing, R&amp;D</a>",
     "summary": "Novartis is investing more than 3.3 billion Chinese yuan (roughly $480 million) to soup up its manufacturing facility in Beijing and strengthen its R&D campus in Shanghai, where the company’s China headquarters are also located.",
     "url": "https://www.fiercebiotech.com/pharma/after-lilly-az-pledges-novartis-commits-nearly-480m-boost-china-manufacturing-rd",
-    "published_at": "2026-03-23T16:58:25.800422+00:00",
-    "collected_at": "2026-03-23T16:58:25.800431+00:00",
+    "published_at": "2026-03-23T18:58:15.881048+00:00",
+    "collected_at": "2026-03-23T18:58:15.881057+00:00",
     "filter_score": 8,
-    "summary_ko": "Novartis는 중국에서 제조와 연구 개발을 강화하기 위해 4,800만 달러를 투자했다. 이 투자는 중국의 제조 시설과 연구 개발 캠퍼스를 강화하는 데 도움이 될 것이다.",
-    "emerging_sector": "의료 기기 제조",
+    "summary_ko": "Novartis는 중국에서 제조와 연구 개발을 강화하기 위해 4,800만 달러를 투자했다. 이 투자는 중국의 제조 시설과 연구 개발 캠퍼스를 강화하는 데 사용될 예정이다.",
+    "emerging_sector": "중국 의료 산업",
     "leading_companies": [
       "Novartis"
     ],
-    "category": "macro",
+    "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "0828becff536915c68c76a5b96678f72",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Palantir Seen On \"Golden Path\" As Pentagon Moves To Make Maven Battlefield System A Program Of Record",
+    "summary": "Palantir Seen On \"Golden Path\" As Pentagon Moves To Make Maven Battlefield System A Program Of Record \n\n            Palantir shares gained 4% by early afternoon trading after Reuters reported over the weekend that the Department of War plans to designate its Maven artificial intelligence system as an official program of record. Wall Street views this report as a bullish catalyst and a meaningful validation of Palantir's long-term role in military command-and-control AI software.\n\nReuters cited a",
+    "url": "https://www.zerohedge.com/military/palantir-seen-golden-path-pentagon-moves-make-maven-battlefield-system-program-record",
+    "published_at": "2026-03-23T17:00:00+00:00",
+    "collected_at": "2026-03-23T18:58:13.179807+00:00",
+    "filter_score": 7,
+    "summary_ko": "펜타곤이 메이븐 전장 시스템을 프로그램으로 만들 계획으로 팔란티어의 주가가 상승했습니다.",
+    "emerging_sector": "Defense Technology",
+    "leading_companies": [
+      "Palantir"
+    ],
+    "category": "tech_trend",
     "urgency": "high"
   },
   {
@@ -80,15 +98,15 @@
     "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
     "published_at": "2026-03-20T14:34:00+00:00",
-    "collected_at": "2026-03-23T16:58:25.637036+00:00",
+    "collected_at": "2026-03-23T18:58:15.649827+00:00",
     "filter_score": 7,
-    "summary_ko": "Novartis는 Synnovation Therapeutics의 부문을 20억 달러에 인수하여 유방암 약물 개발을 강화했다. 이 약물은 PIK3CA 돌연변이에 의해 성장하는 종양을 표적으로 하는 기존 약물보다 개선된 효과를 나타낼 수 있다.",
+    "summary_ko": "Novartis는 Synnovation Therapeutics의 부문을 20억 달러에 인수했다. 이 인수는 Novartis에게 유방암 약물 개발의 기회를 제공한다.",
     "emerging_sector": "유방암 약물 개발",
     "leading_companies": [
       "Novartis",
       "Synnovation Therapeutics"
     ],
-    "category": "tech_trend",
+    "category": "smart_money",
     "urgency": "high"
   },
   {
@@ -99,30 +117,12 @@
     "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
     "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-23T16:58:25.637069+00:00",
+    "collected_at": "2026-03-23T18:58:15.649860+00:00",
     "filter_score": 7,
-    "summary_ko": "Lilly의 3중 비만 약물 Retatrutide는 대규모 당뇨병 임상시험에서 목표를 달성했다. 이 약물은 GLP-1 약물보다 개선된 효과를 나타낼 수 있다.",
+    "summary_ko": "Lilly의 3중 비만 약물 Retatrutide는 대규모 당뇨병 임상시험에서 목표를 달성했다. 이 약물은 GLP-1 약물과 유사한 효과를 나타냈으며, 비만 치료에 새로운 기회를 열어줄 수 있다.",
     "emerging_sector": "비만 약물 개발",
     "leading_companies": [
       "Lilly"
-    ],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "f9957c24d262f0b5882db82abcf25c0a",
-    "source": "Endpoints News",
-    "source_type": "rss",
-    "title": "Arikayce could become Insmed’s second blockbuster following late-stage win in lung infection",
-    "summary": "Insmed's Phase 3 trial win for Arikayce in a particular kind of lung infection sets up the drug to expand into the front-line setting — possibly giving the biotech a second projected blockbuster.\n\n The company said ...",
-    "url": "https://endpoints.news/arikayce-could-become-insmeds-second-blockbuster-following-late-stage-win-in-lung-infection/",
-    "published_at": "2026-03-23T11:01:00+00:00",
-    "collected_at": "2026-03-23T16:58:26.214015+00:00",
-    "filter_score": 7,
-    "summary_ko": "Insmed의 Arikayce가 폐감염 치료제로 임상 3상에서 성공을 거두어, 앞으로 블록버스터가 될 가능성이 있다.",
-    "emerging_sector": "폐감염 치료",
-    "leading_companies": [
-      "Insmed"
     ],
     "category": "tech_trend",
     "urgency": "high"

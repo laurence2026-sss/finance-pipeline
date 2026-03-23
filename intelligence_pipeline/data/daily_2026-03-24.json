@@ -147,5 +147,47 @@
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 0,
     "korea_search_query": "Arikayce"
+  },
+  {
+    "id": "100f4018ab481b04021378d29f693c19",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Nuclear Fuel Supply Chain Advancing Rapidly As Leading Reactor Developer X-energy Files For IPO",
+    "summary": "Nuclear Fuel Supply Chain Advancing Rapidly As Leading Reactor Developer X-energy Files For IPO\n\n            X-energy submitted a draft registration statement to the SEC for an initial public offering of its Class A common stock. The company intends to list on the Nasdaq under the ticker “XE.”\n\n\nX-energy has submitted a draft registration statement on form S-1 to the U.S. Securities and Exchange Commission related to the proposed initial public offering of X-energy’s Class A common stock. X-ener",
+    "url": "https://www.zerohedge.com/markets/senior-reactor-developer-x-energy-files-ipo",
+    "published_at": "2026-03-23T17:40:00+00:00",
+    "collected_at": "2026-03-23T18:58:13.179674+00:00",
+    "filter_score": 8,
+    "summary_ko": "원자로 개발업체 X-energy가 IPO를 신청하면서 원자력 연료 공급망이 빠르게 발전하고 있습니다.",
+    "emerging_sector": "Nuclear Energy",
+    "leading_companies": [
+      "X-energy"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "IPO OR 상장"
+  },
+  {
+    "id": "0828becff536915c68c76a5b96678f72",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Palantir Seen On \"Golden Path\" As Pentagon Moves To Make Maven Battlefield System A Program Of Record",
+    "summary": "Palantir Seen On \"Golden Path\" As Pentagon Moves To Make Maven Battlefield System A Program Of Record \n\n            Palantir shares gained 4% by early afternoon trading after Reuters reported over the weekend that the Department of War plans to designate its Maven artificial intelligence system as an official program of record. Wall Street views this report as a bullish catalyst and a meaningful validation of Palantir's long-term role in military command-and-control AI software.\n\nReuters cited a",
+    "url": "https://www.zerohedge.com/military/palantir-seen-golden-path-pentagon-moves-make-maven-battlefield-system-program-record",
+    "published_at": "2026-03-23T17:00:00+00:00",
+    "collected_at": "2026-03-23T18:58:13.179807+00:00",
+    "filter_score": 7,
+    "summary_ko": "펜타곤이 메이븐 전장 시스템을 프로그램으로 만들 계획으로 팔란티어의 주가가 상승했습니다.",
+    "emerging_sector": "Defense Technology",
+    "leading_companies": [
+      "Palantir"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Palantir"
   }
 ]
