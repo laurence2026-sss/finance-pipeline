@@ -1,20 +1,36 @@
 [
   {
-    "id": "737c7c4e009ea91bb48b2585a4939795",
-    "source": "ZeroHedge",
+    "id": "3818e72212686e590efd714bc3aa671f",
+    "source": "STAT News",
     "source_type": "rss",
-    "title": "Bitcoin's Quantum Risk May Be Real, But the Network Is Preparing: Report",
-    "summary": "Bitcoin's Quantum Risk May Be Real, But the Network Is Preparing: Report\n\n            Authored by Micah Zimmerman via BitcoinMagazine.com,\n\nGalaxy Digital’s latest report says the risk that quantum computing could compromise Bitcoin is real, but so is the work underway to protect the network.\n\n\n\nThe firm’s research frames the issue as a long-term engineering and governance challenge rather than an imminent crisis, with developers already building tools that could reshape how the network secures ",
-    "url": "https://www.zerohedge.com/crypto/bitcoins-quantum-risk-may-be-real-network-preparing-report",
-    "published_at": "2026-03-24T18:45:00+00:00",
-    "collected_at": "2026-03-24T22:22:27.862826+00:00",
-    "filter_score": 7,
-    "summary_ko": "비트코인의 양자 위험은 실제로 존재할 수 있지만, 네트워크는 준비 중이다.",
-    "emerging_sector": "양자 컴퓨팅",
-    "leading_companies": [
-      "Galaxy Digital"
-    ],
+    "title": "STAT+: Can you spot a deepfake X-ray? Neither can your radiologist",
+    "summary": "Deepfake images can mislead viewers, upend elections, and instigate violence. They can also, researchers say, disrupt medical care.",
+    "url": "https://www.statnews.com/2026/03/24/radiologists-cant-detect-deepfake-xrays/?utm_campaign=rss",
+    "published_at": "2026-03-24T14:00:00+00:00",
+    "collected_at": "2026-03-24T22:34:50.097083+00:00",
+    "filter_score": 8,
+    "summary_ko": "딥페이크 이미지가 의료 분야에서 문제를 일으킬 수 있다는 연구 결과입니다. 딥페이크 이미지는 의사들이 진단을 잘못할 수 있도록 만들 수 있습니다.",
+    "emerging_sector": "의료 AI",
+    "leading_companies": [],
     "category": "tech_trend",
-    "urgency": "medium"
+    "urgency": "high"
+  },
+  {
+    "id": "f7e65766b08f30521f23fdb4c553f458",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: FTC strikes proposed deal with CVS over charges its PBM manipulated insulin prices, impeded access",
+    "summary": "The FTC said the settlement will save Americans up to $7 billion in out-of-pocket costs over 10 years.",
+    "url": "https://www.statnews.com/pharmalot/2026/03/24/ftc-proposed-deal-cvs-pbm-manipulated-insulin-prices/?utm_campaign=rss",
+    "published_at": "2026-03-24T19:50:13+00:00",
+    "collected_at": "2026-03-24T22:34:50.097037+00:00",
+    "filter_score": 7,
+    "summary_ko": "미국 연방 거래 위원회(FTC)가 CVS와의 합의를 발표했다는 기사입니다. CVS는 인슐린 가격을 조작하고 접근을 방해한 것으로 알려졌으며, 이 합의는 미국인들이 10년간 70억 달러를 절약할 수 있을 것으로 예상됩니다.",
+    "emerging_sector": "제네릭 의약품",
+    "leading_companies": [
+      "CVS"
+    ],
+    "category": "macro",
+    "urgency": "high"
   }
 ]

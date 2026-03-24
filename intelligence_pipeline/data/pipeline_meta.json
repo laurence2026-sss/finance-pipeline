@@ -1,10 +1,10 @@
 {
-  "last_run": "2026-03-24T22:22:27.080264",
-  "elapsed_seconds": 13.9,
+  "last_run": "2026-03-24T22:34:48.558986",
+  "elapsed_seconds": 51.5,
   "raw_count": 70,
-  "filtered_count": 1,
-  "final_count": 1,
+  "filtered_count": 2,
+  "final_count": 2,
   "exclusive_count": 0,
-  "early_count": 0,
-  "reflected_count": 1
+  "early_count": 2,
+  "reflected_count": 0
 }
