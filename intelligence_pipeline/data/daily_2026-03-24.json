@@ -462,5 +462,46 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Once"
+  },
+  {
+    "id": "3e4b9bfa5d83ca698aa21fa31d71aa4d",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "FCC Bans Foreign-Made Wireless Routers",
+    "summary": "FCC Bans Foreign-Made Wireless Routers\n\n            The FCC has banned the import of all new foreign-made consumer wireless routers, citing \"severe national security risks\".\n\n\n\nThe decision, announced today, follows a White House-convened inter-agency review that determined these devices - primarily those manufactured overseas - pose unacceptable threats to US households, critical infrastructure, and the economy.\n\nMajor brands like TP-Link (which holds a dominant share of the U.S. market), Netge",
+    "url": "https://www.zerohedge.com/technology/fcc-bans-foreign-made-wireless-routers",
+    "published_at": "2026-03-24T01:00:00+00:00",
+    "collected_at": "2026-03-24T05:24:30.104666+00:00",
+    "filter_score": 8,
+    "summary_ko": "미국 연방 통신 위원회(FCC)가 외국에서 생산된 무선 라우터의 수입을 금지했습니다.",
+    "emerging_sector": "네트워크 보안",
+    "leading_companies": [],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 6,
+    "korea_search_query": "Bans"
+  },
+  {
+    "id": "00d29527596f3fc750306d5506b931e0",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Apollo Private Credit Fund Is Latest To Gate Investors As KKR Fund Gets Junked By Moody's",
+    "summary": "Apollo Private Credit Fund Is Latest To Gate Investors As KKR Fund Gets Junked By Moody's\n\n            Amid the ongoing fracturing of the private credit industry, which after enjoying years of stable, levered growth (and when it ran out of institutional greater fools, it aimed lower, toward HNWs and retail) finally hit a brick wall thanks to the Claude-inspired SaaSpocalypse, which has led to a historic surge in redemption requests across the biggest (and certainly smallest) names in the industr",
+    "url": "https://www.zerohedge.com/markets/apollo-private-credit-fund-latest-gate-investors-kkr-fund-gets-junked-moodys",
+    "published_at": "2026-03-24T01:50:00+00:00",
+    "collected_at": "2026-03-24T05:24:30.104543+00:00",
+    "filter_score": 7,
+    "summary_ko": "Apollo의 사모 자산 펀드가 투자자에게 출금을 제한하는 가운데, KKR의 펀드가 무디스에서 저등급으로 평가되었습니다.",
+    "emerging_sector": "사모 자산",
+    "leading_companies": [
+      "Apollo",
+      "KKR"
+    ],
+    "category": "smart_money",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "급등"
   }
 ]
