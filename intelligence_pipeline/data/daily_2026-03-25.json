@@ -310,5 +310,90 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Triangle"
+  },
+  {
+    "id": "3b5cbee9fbf80bf2d10cc49055515bfb",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Nvidia CEO: \"I Think We've Achieved AGI\"",
+    "summary": "Nvidia CEO: \"I Think We've Achieved AGI\"\n\n            Nvidia CEO Jensen Huang joined podcaster Lex Fridman for a 2-plus-hour conversation on the future of AI infrastructure, covering everything from chips, racks, and cooling systems to Nvidia's broader strategy for the next computing era.\n\nJensen spoke about how computers are evolving from retrieval machines into generative AI factories. The discussion also turned to one of the biggest questions in the AI cycle: whether AGI has already arrived.\n",
+    "url": "https://www.zerohedge.com/ai/nvidia-ceo-i-think-weve-achieved-agi",
+    "published_at": "2026-03-24T16:30:00+00:00",
+    "collected_at": "2026-03-24T19:06:03.339842+00:00",
+    "filter_score": 9,
+    "summary_ko": "엔비디아의 CEO가 AGI(인공 일반 지능)를 달성했다고 말했다.",
+    "emerging_sector": "AGI",
+    "leading_companies": [
+      "Nvidia"
+    ],
+    "category": "tech_trend",
+    "urgency": "breaking",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "엔비디아"
+  },
+  {
+    "id": "bab0449d11272cf8dd5ef0e79464fa1c",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Mark Zuckerberg Is Building An AI Version Of A CEO To Help Him Run Meta",
+    "summary": "Mark Zuckerberg Is Building An AI Version Of A CEO To Help Him Run Meta\n\n            This isn't going to help the speculation that Zuckerberg, himself is a robot. I mean, it's only a joke...right?\n\nMark Zuckerberg is pushing a future where everyone—inside and outside Meta Platforms—has a personal AI agent. He’s beginning with his own, according to a new report from the Wall Street Journal.\n\nThe CEO is building an internal “CEO agent,” still in development, that helps him quickly access informati",
+    "url": "https://www.zerohedge.com/markets/mark-zuckerberg-building-ai-version-ceo-help-him-run-meta",
+    "published_at": "2026-03-24T17:25:00+00:00",
+    "collected_at": "2026-03-24T19:06:03.339763+00:00",
+    "filter_score": 8,
+    "summary_ko": "마크 저커버그가 메타를 운영하는 데 도움을 주기 위한 AI 버전의 CEO를 개발 중이다.",
+    "emerging_sector": "AI",
+    "leading_companies": [
+      "Meta"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Mark"
+  },
+  {
+    "id": "5462e86689b6482645e3447dae74352d",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "NASA Head Adds Lunar Base, Nuclear-Powered Mars Rocket To Space Road Map",
+    "summary": "NASA Head Adds Lunar Base, Nuclear-Powered Mars Rocket To Space Road Map\n\n            NASA Administrator Jared Isaacman is moving ahead with the agency's ambitious push to return astronauts to the moon, unveiling new plans for a lunar base alongside a nuclear-propelled spacecraft intended to pave the way for a future Mars mission.\n\nAt an earlier event, The New York Times reported that Isaacman laid out the agency's three-phase plan: first, expand robotic missions and surface systems; second, bui",
+    "url": "https://www.zerohedge.com/technology/nasa-head-adds-lunar-base-nuclear-powered-mars-rocket-space-road-map",
+    "published_at": "2026-03-24T16:15:00+00:00",
+    "collected_at": "2026-03-24T19:06:03.339870+00:00",
+    "filter_score": 8,
+    "summary_ko": "NASA는 달 기지와 핵추진 마스 로켓을 우주 로드맵에 추가했다. 이는 우주 탐사 기술의 발전과 새로운 우주 산업의 성장 가능성을 나타낸다.",
+    "emerging_sector": "Space Technology",
+    "leading_companies": [
+      "NASA",
+      "SpaceX"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 2,
+    "korea_search_query": "우주항공 OR 우주산업"
+  },
+  {
+    "id": "eee2e2191133248c6059fd9784f8848e",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/ge-healthcare-claims-photon-counting-ct-clearance-fda\" hreflang=\"en\">GE HealthCare claims photon-counting CT clearance from FDA</a>",
+    "summary": "The new Photonova Spectra aims to capture up to 50 times more data than some of its premium CT predecessors.",
+    "url": "https://www.fiercebiotech.com/medtech/ge-healthcare-claims-photon-counting-ct-clearance-fda",
+    "published_at": "2026-03-24T19:06:07.079333+00:00",
+    "collected_at": "2026-03-24T19:06:07.079351+00:00",
+    "filter_score": 8,
+    "summary_ko": "GE 헬스케어는 새로운 광자 카운팅 CT 기기인 Photonova Spectra가 FDA의 승인을 받았다고 발표했다. 이 기기는 기존의 고급 CT 기기보다 최대 50배 더 많은 데이터를 캡처할 수 있다.",
+    "emerging_sector": "광자 카운팅 CT",
+    "leading_companies": [
+      "GE HealthCare"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "HealthCare"
   }
 ]
