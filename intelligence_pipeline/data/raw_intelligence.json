@@ -1,5 +1,65 @@
 [
   {
+    "id": "9e71f04ec1b56dfb7c0899e1117c36c9",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Futures Drop As Oil, Yields Rise On Relentless War Headline Ping-Pong",
+    "summary": "Futures Drop As Oil, Yields Rise On Relentless War Headline Ping-Pong\n\n            Futures are lower but well off session lows, as overnight headlines induced another bout of aggressive choppiness: those headlines include strikes on Iranian gas facilities, Saudi and UAE considering entering the war, Iranian lawmaker ruling out US negotiations, and then reports of Iran / Egypt discussions on the region pointing toward mediation.As of 8:00am ET, S&P futures were down 0.2%, but moves are staggered ",
+    "url": "https://www.zerohedge.com/markets/future-drop-oil-yields-rise-relentless-war-newsflow",
+    "published_at": "2026-03-24T12:35:57+00:00",
+    "collected_at": "2026-03-24T13:16:36.970061+00:00"
+  },
+  {
+    "id": "2ec8b9bdf11733f714d67ea3b86b6f2f",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Senators Close To Deal To End Airport TSA Crisis As Americans' Fury Mounts",
+    "summary": "Senators Close To Deal To End Airport TSA Crisis As Americans' Fury Mounts\n\n            With no-shows by unpaid TSA agents imposing hours-long security-line waits and missed flights on flyers at major airports across the country, senators on Monday night signaled that a deal to end the TSA crisis is finally within sight.\n\nThe leap toward a deal followed a White House meeting of a group of Republican senators hosted by President Trump. “It went really well,” said Alabama Sen. Katie Britt, who was",
+    "url": "https://www.zerohedge.com/political/senators-close-deal-end-airport-tsa-crisis-americans-fury-mounts",
+    "published_at": "2026-03-24T12:20:00+00:00",
+    "collected_at": "2026-03-24T13:16:36.970130+00:00"
+  },
+  {
+    "id": "6ad5c087f79abc9b395e2db12668cf63",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Dry Van Spot Rates Highest Since 2022 As Spring Tightens Capacity",
+    "summary": "Dry Van Spot Rates Highest Since 2022 As Spring Tightens Capacity\n\n            Submitted by FreightWaves,\n\nThe freight market momentum is building at a rapid clip. \n\nNational dry van spot rates — tracked via the SONAR National Truckload Index, the 7-day moving average of booked rates including fuel — have broken out to a new cycle high of $2.89 per mile.\n\n\n\nThis represents the strongest level since 2022 and confirms the market’s shift toward carriers is gaining real traction.\n\n\n\nEven more tellin",
+    "url": "https://www.zerohedge.com/economics/dry-van-spot-rates-highest-2022-spring-tightens-capacity",
+    "published_at": "2026-03-24T12:05:00+00:00",
+    "collected_at": "2026-03-24T13:16:36.970176+00:00"
+  },
+  {
+    "id": "b6231620d12fd2d6578e02b4840c8f8a",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Wall Street's Trillion-Dollar Bet On \"Tax Alpha\"",
+    "summary": "Wall Street's Trillion-Dollar Bet On \"Tax Alpha\"\n\n            Tax alpha — the practice of improving investment returns by reducing taxes — has become one of the fastest-growing strategies on Wall Street, according to Bloomberg. \n\nRather than focusing only on beating the market, many investment firms now design portfolios to minimize taxes, often producing higher after-tax returns even if pre-tax performance is similar to traditional strategies.\n\nAfter years of rising markets, many wealthy Americ",
+    "url": "https://www.zerohedge.com/markets/wall-streets-trillion-dollar-bet-tax-alpha",
+    "published_at": "2026-03-24T11:45:00+00:00",
+    "collected_at": "2026-03-24T13:16:36.970243+00:00"
+  },
+  {
+    "id": "2c208b9b69b7d708971d837e69285639",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Amazon Data Centers \"Disrupted\" Across Bahrain After Drone Activity",
+    "summary": "Amazon Data Centers \"Disrupted\" Across Bahrain After Drone Activity\n\n            Brent crude futures are back in triple-digit territory as fighting in the Middle East continued overnight, even as President Trump claimed that talks are underway with Iran to resolve the conflict, which has now entered its fourth week.\n\nOvernight, the Amazon Web Services in the Bahrain region was severely \"disrupted,\" according to Reuters, citing an Amazon spokesperson, following drone activity in the area. The spo",
+    "url": "https://www.zerohedge.com/technology/amazon-data-centers-disrupted-across-bahrain-after-drone-activity",
+    "published_at": "2026-03-24T10:55:00+00:00",
+    "collected_at": "2026-03-24T13:16:36.970279+00:00"
+  },
+  {
+    "id": "29000ac07e9895f128d35cf69976f2e5",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Israel, US Strike Gas Facilities In Iran's Isfahan, Possibly Triggering Retaliation Against Gulf",
+    "summary": "Israel, US Strike Gas Facilities In Iran's Isfahan, Possibly Triggering Retaliation Against Gulf\n\n            Summary\n\n\n\tIsrael, US strike gas pipeline, distribution station in Iran\n\t\n\t\n\tTrump announces \"productive\" talks with Iran, \"postpones\" military strikes for 5 days\n\t\n\t\n\tIran Foreign Ministry + Parliament speaker say no talks have happened, after Trump said \"speaking with a top person in Iran\", says will \"just keep bombing\" if Iran talks fail\n\t\n\t\n\tTrump says Hormuz will be \"jointly control",
+    "url": "https://www.zerohedge.com/markets/oil-plunges-stocks-spike-after-trumps-comments-iran",
+    "published_at": "2026-03-24T10:40:00+00:00",
+    "collected_at": "2026-03-24T13:16:36.970528+00:00"
+  },
+  {
     "id": "ce582f395e8898745d6dd934f12d456f",
     "source": "ZeroHedge",
     "source_type": "rss",
@@ -7,7 +67,7 @@
     "summary": "International Energy Agency Pushes Rationing\n\n            Authored by Jeffrey Tucker via The Epoch Times,\n\nThe International Energy Agency in Paris has released a new and urgent document that it wishes all nations with energy struggles to adopt.\n\nMany are doing that now.\n\nThe website even maintains a spreadsheet updated daily to celebrate the countries that are following its plan for controlling energy use. \n\nBefore explaining why none of this will work, let’s look at what they are suggesting.\n\n",
     "url": "https://www.zerohedge.com/geopolitical/international-energy-agency-pushes-rationing",
     "published_at": "2026-03-24T10:30:00+00:00",
-    "collected_at": "2026-03-24T10:54:36.623655+00:00"
+    "collected_at": "2026-03-24T13:16:36.970588+00:00"
   },
   {
     "id": "f7093f9f835a7fdf6d5a1925d0e56802",
@@ -17,7 +77,7 @@
     "summary": "America's Top War Unicorn To Begin Combat Drone Production As Next-Gen Startups Challenge Big Defense Primes\n\n            Weaponized AI, interceptor drones, automated kill chains, ground robots armed with machine guns, humanoid robots, and FPVs equipped with shaped charges all offer a scary preview of what warfare in the 2030s was expected to look like.\n\nInstead, four years of war in Ukraine, followed by the U.S.-Iran conflict, have sharply accelerated that timeline, pulling the future of warfar",
     "url": "https://www.zerohedge.com/military/americas-top-war-unicorn-begin-combat-drone-production-next-gen-startups-challenge-big",
     "published_at": "2026-03-24T09:45:00+00:00",
-    "collected_at": "2026-03-24T10:54:36.623710+00:00"
+    "collected_at": "2026-03-24T13:16:36.970632+00:00"
   },
   {
     "id": "2fb00b709ffcce84ab568e8f712a6536",
@@ -27,7 +87,7 @@
     "summary": "Iceland Strips Father Of Custody After Questioning Gender Transitioning Of His Minor Child\n\n            Authored by Jonathan Turley,\n\nWe just discussed the horrifying story of a Christian family in Sweden who have been unable to regain custody of their daughters after the government declared them religious extremists.\n\nIn Iceland, a father has been stripped of his parental rights after speaking out against his 11-year-old autistic son‘s sex change.\n\n\n\nAlexandre Rocha, a French national who has l",
     "url": "https://www.zerohedge.com/political/iceland-strips-father-custody-after-questioning-gender-transitioning-his-minor-child",
     "published_at": "2026-03-24T09:00:00+00:00",
-    "collected_at": "2026-03-24T10:54:36.623747+00:00"
+    "collected_at": "2026-03-24T13:16:36.970666+00:00"
   },
   {
     "id": "76ee7dd71a183c68a6b8e13e26afc0dc",
@@ -37,67 +97,17 @@
     "summary": "Watch: McDonald's Restaurant Rolls Out Robots To Greet, Serve Customers\n\n            A McDonald’s restaurant in Shanghai is trialling a team of humanoid robots as staff, offering a glimpse into what is likely to be the future of fast-food, Digitaltrends reports.\n\n\n\nThe robots, developed by Keenon Robotics, were spotted at a McDonald’s in the Shanghai Pudong New Area, where they picked up orders from customers at the front counter using a touchscreen. The video also shows children in the restaura",
     "url": "https://www.zerohedge.com/technology/watch-mcdonalds-restaurant-rolls-out-robots-greet-serve-customers",
     "published_at": "2026-03-24T08:15:00+00:00",
-    "collected_at": "2026-03-24T10:54:36.623782+00:00"
+    "collected_at": "2026-03-24T13:16:36.970693+00:00"
   },
   {
-    "id": "b9e39d96d2f4eec3dd165f472e5e1ea0",
-    "source": "ZeroHedge",
+    "id": "283032e9cee42743d87886cdb8548553",
+    "source": "STAT News",
     "source_type": "rss",
-    "title": "Russia-Linked Arms Trafficker, Corrupt African Officials Tried To Supply Mexican Cartel With Surface-To-Air Missiles",
-    "summary": "Russia-Linked Arms Trafficker, Corrupt African Officials Tried To Supply Mexican Cartel With Surface-To-Air Missiles\n\n            Submitted by The Bureau's Sam Cooper (emphasis our own), \n\nFederal prosecutors in Virginia have charged four men — a Bulgarian arms trafficker with ties to the notorious Russian weapons dealer Viktor Bout, and several African co-conspirators with connections to the governments of Uganda and Tanzania — with conspiring to supply the Cartel de Jalisco Nueva Generación wi",
-    "url": "https://www.zerohedge.com/military/russian-linked-arms-trafficker-corrupt-african-officials-tried-supply-mexican-cartel",
-    "published_at": "2026-03-24T07:30:00+00:00",
-    "collected_at": "2026-03-24T10:54:36.623836+00:00"
-  },
-  {
-    "id": "970440dd28f5bbdf080994a144edde37",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Chinese Containership Is First To Pay Iran For \"Safe Passage\" Through Strait As Iraqi Tanker Crosses With Signal Off",
-    "summary": "Chinese Containership Is First To Pay Iran For \"Safe Passage\" Through Strait As Iraqi Tanker Crosses With Signal Off\n\n            The blockaded Strait of Hormuz is getting progressively less \"blockaded\" by the day.\n\nOver the weekend we reported that \"Iran was Ready To Let Japanese Ships Use Hormuz As Chinese, Indian Tankers Already Allowed Passage.\" We can now add Iraq to the growing list of nations whose vessels are transiting the infamous Strait.\n\nAn oil supertanker hauling two-million barrels",
-    "url": "https://www.zerohedge.com/markets/chinese-containership-first-pay-iran-safe-passage-through-strait-hormuz-iraqi-tanker",
-    "published_at": "2026-03-24T06:45:00+00:00",
-    "collected_at": "2026-03-24T10:54:36.623868+00:00"
-  },
-  {
-    "id": "417bb1031d501197f12a59d946f841c8",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Second Youth-Center Gang-Rape Case Emerges As Cover-Up Fears Grow In Germany",
-    "summary": "Second Youth-Center Gang-Rape Case Emerges As Cover-Up Fears Grow In Germany\n\n            Via Remix News,\n\nA mother in Lower Saxony who found a disturbing video on her daughter’s phone that revealed that she was gang raped inside a church-run youth center by three teens, including a Syrian, Iranian, and Dutch national, in Gnarrenburg. However, once the story came out, it only grew darker, as it was revealed that staff, church officials and local authorities subsequently did everything possible t",
-    "url": "https://www.zerohedge.com/political/second-youth-center-gang-rape-case-emerges-cover-fears-grow-germany",
-    "published_at": "2026-03-24T06:00:00+00:00",
-    "collected_at": "2026-03-24T10:54:36.623909+00:00"
-  },
-  {
-    "id": "29000ac07e9895f128d35cf69976f2e5",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Israel, US Strike Gas Facilities In Iran's Isfahan, Possibly Triggering Retaliation Against Gulf",
-    "summary": "Israel, US Strike Gas Facilities In Iran's Isfahan, Possibly Triggering Retaliation Against Gulf\n\n            Summary\n\n\n\tIsrael, US strike gas pipeline, distribution station in Iran\n\t\n\t\n\tTrump announces \"productive\" talks with Iran, \"postpones\" military strikes for 5 days\n\t\n\t\n\tIran Foreign Ministry + Parliament speaker say no talks have happened, after Trump said \"speaking with a top person in Iran\", says will \"just keep bombing\" if Iran talks fail\n\t\n\t\n\tTrump says Hormuz will be \"jointly control",
-    "url": "https://www.zerohedge.com/markets/oil-plunges-stocks-spike-after-trumps-comments-iran",
-    "published_at": "2026-03-24T03:55:00+00:00",
-    "collected_at": "2026-03-24T10:54:36.624162+00:00"
-  },
-  {
-    "id": "77537ae33eb2133327849e7c0e6b808f",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Oil Jumps After Explosion And Massive Fire At One Of The Largest US Oil Refineries",
-    "summary": "Oil Jumps After Explosion And Massive Fire At One Of The Largest US Oil Refineries\n\n            An explosion and large plumes of smoke at the Valero refinery in Port Arthur prompted officials to order west-side residents to shelter in place according to 12 News Now. \n\n\n🚨 Jefferson Co. Commissioner says “I'm asking people to stay tuned because if this chemical is deemed to be toxic or carcinogenic … then I guarantee we're going to order to evacuate.” pic.twitter.com/MVpOu5b28M\n— Chief Nerd (@TheC",
-    "url": "https://www.zerohedge.com/energy/oil-jumps-after-explosion-and-massive-fire-one-largest-us-oil-refineries",
-    "published_at": "2026-03-24T03:30:00+00:00",
-    "collected_at": "2026-03-24T10:54:36.624211+00:00"
-  },
-  {
-    "id": "876f67ef4cb67734d24c79ac549ac527",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Israel's Mossad Promised It Could Ignite Regime Change In Iran: Report",
-    "summary": "Israel's Mossad Promised It Could Ignite Regime Change In Iran: Report\n\n            Via Middle East Eye\n\nIsrael's intelligence agency Mossad had a plan to ignite public protests that would lead to the collapse of Iran’s government, the New York Times has reported.\n\nDavid Barnea, Mossad’s chief, met with Israeli Prime Minister Benjamin Netanyahu days before the US and Israel began their war on Iran and told him that the agency would be able to galvanize Iranian opposition in order to bring about ",
-    "url": "https://www.zerohedge.com/geopolitical/israels-mossad-promised-it-could-ignite-regime-change-iran-report",
-    "published_at": "2026-03-24T03:05:00+00:00",
-    "collected_at": "2026-03-24T10:54:36.624250+00:00"
+    "title": "Are we underestimating alcohol-related liver disease?",
+    "summary": "In today's Morning Rounds newsletter: Are we underestimating alcohol-related liver disease? Plus: \"Covid amnesia\" and influencers promoting prescription drugs.",
+    "url": "https://www.statnews.com/2026/03/24/alcohol-liver-disease-influencers-prescription-drugs-morning-rounds/?utm_campaign=rss",
+    "published_at": "2026-03-24T13:14:55+00:00",
+    "collected_at": "2026-03-24T13:16:45.886241+00:00"
   },
   {
     "id": "e3c688f59c42129828f46c8df01063a6",
@@ -107,7 +117,7 @@
     "summary": "A passion for snakes opened a crack in the religious beliefs science communicator Paul Martin Jensen grew up with in a end-times Pentecostal church.",
     "url": "https://www.statnews.com/2026/03/24/paul-martin-jensen-science-communicator-radical-nonjudgment/?utm_campaign=rss",
     "published_at": "2026-03-24T08:30:00+00:00",
-    "collected_at": "2026-03-24T10:54:39.799614+00:00"
+    "collected_at": "2026-03-24T13:16:45.886258+00:00"
   },
   {
     "id": "0f34c30359bcaa17951e609a438ba5b6",
@@ -117,7 +127,7 @@
     "summary": "Diverging messages on the main effort to address U.S. drug prices point to a loophole in Trump's plan.",
     "url": "https://www.statnews.com/2026/03/24/trump-mfn-drug-pricing-gop-strategy-raise-prices-overseas/?utm_campaign=rss",
     "published_at": "2026-03-24T08:30:00+00:00",
-    "collected_at": "2026-03-24T10:54:39.799632+00:00"
+    "collected_at": "2026-03-24T13:16:45.886272+00:00"
   },
   {
     "id": "90bb2eb93996e3c37ead505c0b03b5f9",
@@ -127,7 +137,7 @@
     "summary": "In this excerpt from their new book “Whiplash,” David Blumenthal and James A. Morone describe how scientists became villains to MAGA.",
     "url": "https://www.statnews.com/2026/03/24/covid-amnesia-scapegoats-trump-maga/?utm_campaign=rss",
     "published_at": "2026-03-24T08:30:00+00:00",
-    "collected_at": "2026-03-24T10:54:39.799643+00:00"
+    "collected_at": "2026-03-24T13:16:45.886284+00:00"
   },
   {
     "id": "a6034821ffdcb57d7d75ebb80af4cfcf",
@@ -137,7 +147,7 @@
     "summary": "A proposal in the Tennessee legislature could force CVS Health to sever a core piece of its business model or exit the state entirely.",
     "url": "https://www.statnews.com/2026/03/23/bill-pits-pharmacies-against-pharmacy-benefit-managers-cvs/?utm_campaign=rss",
     "published_at": "2026-03-23T19:57:54+00:00",
-    "collected_at": "2026-03-24T10:54:39.799654+00:00"
+    "collected_at": "2026-03-24T13:16:45.886297+00:00"
   },
   {
     "id": "f74e49b647fbd502971b77bfd5069f4c",
@@ -147,7 +157,7 @@
     "summary": "A new paper shows that women, particularly those early in their careers, have been disproportionately affected by NIH grant terminations.",
     "url": "https://www.statnews.com/2026/03/23/nih-cuts-who-lost-funding-women-blacks-young-researchers/?utm_campaign=rss",
     "published_at": "2026-03-23T19:46:15+00:00",
-    "collected_at": "2026-03-24T10:54:39.799666+00:00"
+    "collected_at": "2026-03-24T13:16:45.886307+00:00"
   },
   {
     "id": "3a05a00dde4b08436792ce387a522815",
@@ -157,7 +167,7 @@
     "summary": "A STAT investigation explores how a new company is profiting from the arbitration process in the No Surprises Act.",
     "url": "https://www.statnews.com/2026/03/23/no-surprises-act-arbitration-halomd-medicare-advantage-default-enrollment-weighed/?utm_campaign=rss",
     "published_at": "2026-03-23T17:55:21+00:00",
-    "collected_at": "2026-03-24T10:54:39.799677+00:00"
+    "collected_at": "2026-03-24T13:16:45.886318+00:00"
   },
   {
     "id": "a14c2097c9b8cba1f23f2656b1e72849",
@@ -167,7 +177,7 @@
     "summary": "A recent Epic lawsuit revealed a company allegedly posed as a provider to access patient records for law firms, prompting a call for increased oversight.",
     "url": "https://www.statnews.com/2026/03/23/epic-systems-lawsuit-fraud-in-health-information-exchanges/?utm_campaign=rss",
     "published_at": "2026-03-23T14:48:29+00:00",
-    "collected_at": "2026-03-24T10:54:39.799687+00:00"
+    "collected_at": "2026-03-24T13:16:45.886328+00:00"
   },
   {
     "id": "d5d3ec70bb79d7aa49231662feeed6b4",
@@ -177,7 +187,7 @@
     "summary": "The war in the Middle East so far has not appreciably disrupted pharmaceutical supply chains, but the conflict could do so as it continues",
     "url": "https://www.statnews.com/pharmalot/2026/03/23/iran-war-pharma-supply-chain-pfizer-lyme-vaccine/?utm_campaign=rss",
     "published_at": "2026-03-23T13:16:13+00:00",
-    "collected_at": "2026-03-24T10:54:39.799698+00:00"
+    "collected_at": "2026-03-24T13:16:45.886339+00:00"
   },
   {
     "id": "8432a1472f416275f3324e6390fcda4d",
@@ -187,17 +197,17 @@
     "summary": "New results on Pfizer's Lyme disease vaccine, how the Middle East conflict could strain drug supply chains, and more biotech news in today's Readout newsletter.",
     "url": "https://www.statnews.com/2026/03/23/pfizer-lyme-vaccine-iran-war-pharma-readout-newsletter/?utm_campaign=rss",
     "published_at": "2026-03-23T13:10:16+00:00",
-    "collected_at": "2026-03-24T10:54:39.799709+00:00"
+    "collected_at": "2026-03-24T13:16:45.886350+00:00"
   },
   {
-    "id": "a573c5ddf1b0878df274c1f3820a647d",
-    "source": "STAT News",
+    "id": "3046dacf386d0bd911346c36eadb0840",
+    "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "Match Day results show impact of federal immigration policy",
-    "summary": "In today's Morning Rounds newsletter: the high-stakes search for a new CDC director, the impact of immigration policy on budding doctors, and more.",
-    "url": "https://www.statnews.com/2026/03/23/cdc-director-search-match-day-immigration-morning-rounds/?utm_campaign=rss",
-    "published_at": "2026-03-23T13:02:01+00:00",
-    "collected_at": "2026-03-24T10:54:39.799719+00:00"
+    "title": "How former Acorda CEO Ron Cohen landed at a Parkinson’s cell therapy startup",
+    "summary": "Cohen says he looked at around two dozen companies since Acorda wound down. Oryon Cell Therapies, with its funding, data and &ldquo;autologous&rdquo; approach, stood out amongst the crowd.",
+    "url": "https://www.biopharmadive.com/news/ron-cohen-oryon-acorda-parkinsons-cell-therapy-biotech/815460/",
+    "published_at": "2026-03-24T11:00:00+00:00",
+    "collected_at": "2026-03-24T13:16:46.179559+00:00"
   },
   {
     "id": "a7b64785ac8200cc9f973021a512ce2d",
@@ -207,7 +217,7 @@
     "summary": "Company shares climbed by more than 20% on Phase 2 study results suggesting the therapy could provide sustained relief when administered once every three or six months.",
     "url": "https://www.biopharmadive.com/news/apogee-eczema-drug-data-zumilokibart-atopic-dermatitis/815396/",
     "published_at": "2026-03-23T16:15:00+00:00",
-    "collected_at": "2026-03-24T10:54:40.099589+00:00"
+    "collected_at": "2026-03-24T13:16:46.179577+00:00"
   },
   {
     "id": "bcf50cca72c4ed90bb6e2590bfc557c0",
@@ -217,7 +227,7 @@
     "summary": "The partners said the shot produced &ldquo;clinically meaningful&rdquo; efficacy despite missing its main study objective, a finding they blamed on a lower-than-expected rate of infections during the trial.&nbsp;",
     "url": "https://www.biopharmadive.com/news/pfizer-valneva-lyme-disease-vaccine-study-results/815395/",
     "published_at": "2026-03-23T16:06:00+00:00",
-    "collected_at": "2026-03-24T10:54:40.099607+00:00"
+    "collected_at": "2026-03-24T13:16:46.179590+00:00"
   },
   {
     "id": "5a3703f7b3864e0b33b0c1794649c221",
@@ -227,7 +237,7 @@
     "summary": "Industry executives can share their views on the &ldquo;national priority&rdquo; program at a June meeting. Elsewhere, Sanofi licensed a T cell engager and Acorda&rsquo;s former CEO resurfaced at a cell therapy startup.",
     "url": "https://www.biopharmadive.com/news/fda-voucher-insmed-sanofi-kali-sarepta-duchenne-gsk/815243/",
     "published_at": "2026-03-23T14:16:00+00:00",
-    "collected_at": "2026-03-24T10:54:40.099620+00:00"
+    "collected_at": "2026-03-24T13:16:46.179603+00:00"
   },
   {
     "id": "e53f7e905b418166ecf0d15ff976f62f",
@@ -237,7 +247,7 @@
     "summary": "The location secret behind pharma's most reliable East Coast expansion corridor.",
     "url": "https://www.biopharmadive.com/spons/risk-readiness-and-resilience/814772/",
     "published_at": "2026-03-23T09:00:00+00:00",
-    "collected_at": "2026-03-24T10:54:40.099632+00:00"
+    "collected_at": "2026-03-24T13:16:46.179614+00:00"
   },
   {
     "id": "6b4078147584dde07ca6dae1a2a2fc24",
@@ -247,7 +257,7 @@
     "summary": "The hefty funding will support a U.S.- and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-24T10:54:40.099644+00:00"
+    "collected_at": "2026-03-24T13:16:46.179625+00:00"
   },
   {
     "id": "fa52c0f0b323e0f74f71eaaf98362b6a",
@@ -257,7 +267,7 @@
     "summary": "In a letter to European patients, Roche said its decision to end development of &ldquo;emugrobart&rdquo; was based on the drug &ldquo;not consistently&rdquo; improving muscle growth and motor function in a key study.",
     "url": "https://www.biopharmadive.com/news/roche-sma-emugrobart-development-genentech-chugai-rare-muscle/815274/",
     "published_at": "2026-03-20T15:52:55+00:00",
-    "collected_at": "2026-03-24T10:54:40.099656+00:00"
+    "collected_at": "2026-03-24T13:16:46.179636+00:00"
   },
   {
     "id": "d7d8eadb7b8569a10cb1b16eda372342",
@@ -267,7 +277,7 @@
     "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
     "published_at": "2026-03-20T14:34:00+00:00",
-    "collected_at": "2026-03-24T10:54:40.099667+00:00"
+    "collected_at": "2026-03-24T13:16:46.179647+00:00"
   },
   {
     "id": "36840024d7f09f211f63a9c67f02e282",
@@ -277,7 +287,7 @@
     "summary": "Imcivree&rsquo;s approval in a type of obesity driven by brain injury could unlock an opportunity Wall Street analysts believe to be worth more than $1 billion.",
     "url": "https://www.biopharmadive.com/news/rhythm-imcivree-fda-approve-acquired-hypothalamic-obesity/815276/",
     "published_at": "2026-03-20T11:30:00+00:00",
-    "collected_at": "2026-03-24T10:54:40.099678+00:00"
+    "collected_at": "2026-03-24T13:16:46.179657+00:00"
   },
   {
     "id": "a1c5cefec7ed5cd8451eb87a35cc19bf",
@@ -287,17 +297,7 @@
     "summary": "The clearance, issued 54 days after an approval submission, gives Novo another chance to claw back market share from Eli Lilly.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novo-high-dose-wegovy-fda-approval-voucher-obesity/815235/",
     "published_at": "2026-03-19T18:09:00+00:00",
-    "collected_at": "2026-03-24T10:54:40.099688+00:00"
-  },
-  {
-    "id": "c98cf249cff394000a6d523e7f10a6c3",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "Lilly’s three-pronged obesity drug hits goal in large diabetes trial",
-    "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
-    "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
-    "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-24T10:54:40.099700+00:00"
+    "collected_at": "2026-03-24T13:16:46.179670+00:00"
   },
   {
     "id": "c476182e72991ebbb1f94acf32d6e1e2",
@@ -306,8 +306,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/quotients-genomics-platform-attracts-merck-22b-ibd-drug-target-deal\" hreflang=\"en\">Merck hands over $20M in IBD drug target deal with Flagship's Quotient</a>",
     "summary": "Looking to devise new drug targets for inflammatory bowel disease, Merck will pay Flagship Pioneering's Quotient Therapeutics $20 million upfront for access to the biotech’s somatic genomics platform.",
     "url": "https://www.fiercebiotech.com/biotech/quotients-genomics-platform-attracts-merck-22b-ibd-drug-target-deal",
-    "published_at": "2026-03-24T10:54:40.249787+00:00",
-    "collected_at": "2026-03-24T10:54:40.249806+00:00"
+    "published_at": "2026-03-24T13:16:46.364982+00:00",
+    "collected_at": "2026-03-24T13:16:46.365001+00:00"
   },
   {
     "id": "c9f303803085af5f9406ea0f65401a10",
@@ -316,8 +316,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/innovent-sees-path-china-approval-after-eye-disease-drug-matches-eylea-phase-3\" hreflang=\"en\">Innovent sees path to China approval after eye disease drug matches Eylea in phase 3</a>",
     "summary": "Innovent Biologics’ eye disease prospect has matched Bayer and Regeneron’s Eylea in a phase 3 study, teeing up filings for Chinese approval of a molecule that could reduce maintenance dose frequency.",
     "url": "https://www.fiercebiotech.com/biotech/innovent-sees-path-china-approval-after-eye-disease-drug-matches-eylea-phase-3",
-    "published_at": "2026-03-24T10:54:40.249819+00:00",
-    "collected_at": "2026-03-24T10:54:40.249826+00:00"
+    "published_at": "2026-03-24T13:16:46.365014+00:00",
+    "collected_at": "2026-03-24T13:16:46.365022+00:00"
   },
   {
     "id": "5c16578fd3ac0e2bbea54167900477dd",
@@ -326,8 +326,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Immutrin's $87M series A; Crossbow targets $77M</a>",
     "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
     "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-    "published_at": "2026-03-24T10:54:40.249834+00:00",
-    "collected_at": "2026-03-24T10:54:40.249840+00:00"
+    "published_at": "2026-03-24T13:16:46.365031+00:00",
+    "collected_at": "2026-03-24T13:16:46.365037+00:00"
   },
   {
     "id": "9a9117de454f0c0cacb7d7d5b1cf1f35",
@@ -336,8 +336,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/aardvark-halts-trials-obesity-candidate-putting-entire-pipeline-pause\" hreflang=\"en\">Aardvark halts trials of obesity candidate, putting entire pipeline on pause</a>",
     "summary": "The voluntary pause comes less than a month after Aardvark paused a phase 3 trial for a related asset due to cardiac concerns.",
     "url": "https://www.fiercebiotech.com/biotech/aardvark-halts-trials-obesity-candidate-putting-entire-pipeline-pause",
-    "published_at": "2026-03-24T10:54:40.249848+00:00",
-    "collected_at": "2026-03-24T10:54:40.249853+00:00"
+    "published_at": "2026-03-24T13:16:46.365046+00:00",
+    "collected_at": "2026-03-24T13:16:46.365051+00:00"
   },
   {
     "id": "00871d6c20b83be7732ad78b2dec2e17",
@@ -346,8 +346,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/gileads-22b-ouro-buyout-delivers-autoimmune-tce-new-purpose-galapagos\" hreflang=\"en\">Gilead's $2.2B Ouro buyout delivers autoimmune T-cell engager, new purpose for Galapagos</a>",
     "summary": "Gilead is paying $1.68 billion for a T-cell engager company via a front-loaded deal that could also give new meaning to its aimless partner Galapagos.",
     "url": "https://www.fiercebiotech.com/biotech/gileads-22b-ouro-buyout-delivers-autoimmune-tce-new-purpose-galapagos",
-    "published_at": "2026-03-24T10:54:40.249861+00:00",
-    "collected_at": "2026-03-24T10:54:40.249866+00:00"
+    "published_at": "2026-03-24T13:16:46.365060+00:00",
+    "collected_at": "2026-03-24T13:16:46.365065+00:00"
   },
   {
     "id": "4190691bdab123e699aa978728005be4",
@@ -356,8 +356,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/medtech/mri-providers-keep-eye-rising-helium-prices-amid-war-iran\" hreflang=\"en\">MRI providers keep eye on rising helium prices amid war in Iran</a>",
     "summary": "Qatar’s exports of natural gas and helium—the latter essential for MRI scans—were effectively halted after Iran closed the Strait of Hormuz and attacked one of the world’s largest production facilities.",
     "url": "https://www.fiercebiotech.com/medtech/mri-providers-keep-eye-rising-helium-prices-amid-war-iran",
-    "published_at": "2026-03-24T10:54:40.249874+00:00",
-    "collected_at": "2026-03-24T10:54:40.249880+00:00"
+    "published_at": "2026-03-24T13:16:46.365073+00:00",
+    "collected_at": "2026-03-24T13:16:46.365079+00:00"
   },
   {
     "id": "6b1e2825825a9f6fa2fa9de7e53e789c",
@@ -366,8 +366,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/research/nih-grant-cuts-hit-women-early-career-scientists-hardest-analysis-finds\" hreflang=\"en\">NIH grant cuts hit women, early-career scientists the hardest: analysis</a>",
     "summary": "Last year’s funding cuts at the National Institutes of Health disproportionately impacted women and early-career researchers, according to a new analysis, raising questions about what the future of the scientific workforce will look like.",
     "url": "https://www.fiercebiotech.com/research/nih-grant-cuts-hit-women-early-career-scientists-hardest-analysis-finds",
-    "published_at": "2026-03-24T10:54:40.249887+00:00",
-    "collected_at": "2026-03-24T10:54:40.249893+00:00"
+    "published_at": "2026-03-24T13:16:46.365087+00:00",
+    "collected_at": "2026-03-24T13:16:46.365093+00:00"
   },
   {
     "id": "d1edbfc2301c5e0ccaec05e391f2553e",
@@ -376,8 +376,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/medtech/stryker-continues-bring-hacked-systems-back-online-after-patients-delay-surgeries\" hreflang=\"en\">Stryker continues to bring hacked systems back online after patients delay surgeries</a>",
     "summary": "Stryker said its manufacturing capacity is ramping up quickly as plants are brought back online as well as electronic ordering and shipping.",
     "url": "https://www.fiercebiotech.com/medtech/stryker-continues-bring-hacked-systems-back-online-after-patients-delay-surgeries",
-    "published_at": "2026-03-24T10:54:40.249901+00:00",
-    "collected_at": "2026-03-24T10:54:40.249906+00:00"
+    "published_at": "2026-03-24T13:16:46.365100+00:00",
+    "collected_at": "2026-03-24T13:16:46.365105+00:00"
   },
   {
     "id": "e6007557ff4975393849bfc30d92b447",
@@ -386,8 +386,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/pharma/after-lilly-az-pledges-novartis-commits-nearly-480m-boost-china-manufacturing-rd\" hreflang=\"en\">Novartis joins Lilly, AZ in China expansion with $480M commitment to boost manufacturing, R&amp;D</a>",
     "summary": "Novartis is investing more than 3.3 billion Chinese yuan (roughly $480 million) to soup up its manufacturing facility in Beijing and strengthen its R&D campus in Shanghai, where the company’s China headquarters are also located.",
     "url": "https://www.fiercebiotech.com/pharma/after-lilly-az-pledges-novartis-commits-nearly-480m-boost-china-manufacturing-rd",
-    "published_at": "2026-03-24T10:54:40.249913+00:00",
-    "collected_at": "2026-03-24T10:54:40.249919+00:00"
+    "published_at": "2026-03-24T13:16:46.365113+00:00",
+    "collected_at": "2026-03-24T13:16:46.365119+00:00"
   },
   {
     "id": "baef15f4404965d266e469d4fc728341",
@@ -396,18 +396,58 @@
     "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-solicits-feedback-controversial-national-priority-voucher-review-pathway\" hreflang=\"en\">FDA solicits feedback on controversial national priority voucher review pathway</a>",
     "summary": "The FDA has scheduled a public hearing for June 12 to hear input on the Commissioner’s National Priority Voucher program, which it introduced last June. So far, the program has resulted in four ultraspeedy drug reviews.",
     "url": "https://www.fiercebiotech.com/pharma/fda-solicits-feedback-controversial-national-priority-voucher-review-pathway",
-    "published_at": "2026-03-24T10:54:40.249927+00:00",
-    "collected_at": "2026-03-24T10:54:40.249932+00:00"
+    "published_at": "2026-03-24T13:16:46.365127+00:00",
+    "collected_at": "2026-03-24T13:16:46.365133+00:00"
+  },
+  {
+    "id": "23b1fd07533a63079c46271b3721b268",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "XO Health to expand its alternative health plan nationwide",
+    "summary": "XO Health, a startup offering an alternative health plan, is gearing up to work with self-insured employers and plan administrators nationwide.\n\n The startup is expanding its episode-based pricing model, in which it ...",
+    "url": "https://endpoints.news/xo-health-to-expand-its-alternative-health-plan-nationwide/",
+    "published_at": "2026-03-24T13:00:57+00:00",
+    "collected_at": "2026-03-24T13:16:46.673540+00:00"
+  },
+  {
+    "id": "8c9cc4dbb006d5e72721c90b816da377",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Triangle Health raises $4M as people turn to AI to understand their health",
+    "summary": "Triangle Health raised $4 million to help people understand their health conditions and explore treatment options, Endpoints News learned exclusively.\n\n After a person uploads their health records, Triangle’s AI can brainstorm and compare treatments, prepare ...",
+    "url": "https://endpoints.news/triangle-health-raises-4m-as-people-turn-to-ai-to-understand-their-health/",
+    "published_at": "2026-03-24T13:00:11+00:00",
+    "collected_at": "2026-03-24T13:16:46.673558+00:00"
+  },
+  {
+    "id": "711620dffa3505682e485d2983cfa3ad",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Biotech investors set to meet with key congressional panel",
+    "summary": "A group of biotech investors will meet with members of a congressional commission that's been charged with keeping the US competitive in biotech and protecting national security, amid the rise of China's own life sciences ...",
+    "url": "https://endpoints.news/biotech-investors-set-to-meet-with-key-congressional-panel/",
+    "published_at": "2026-03-24T12:00:02+00:00",
+    "collected_at": "2026-03-24T13:16:46.673570+00:00"
+  },
+  {
+    "id": "60c6583d7b5565ba8a0d923ecb37ed6f",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Apnimed set to exit sleep disorder joint venture with Shionogi for $100M upfront",
+    "summary": "Shionogi is doubling down on its sleep disorder pipeline by buying out Apnimed's half of their joint venture in the niche field.\n\n The Japanese pharma will pay $100 million upfront to buy the 50% equity ...",
+    "url": "https://endpoints.news/apnimed-set-to-exit-sleep-disorder-joint-venture-with-shionogi-for-100m-upfront/",
+    "published_at": "2026-03-24T11:19:25+00:00",
+    "collected_at": "2026-03-24T13:16:46.673580+00:00"
   },
   {
     "id": "72e2625aaef001b631756dc20b860adb",
     "source": "Endpoints News",
     "source_type": "rss",
     "title": "Gilead bets $1.68B upfront on Ouro Medicines’ autoimmune program, with Galapagos expected to pitch in",
-    "summary": "Gilead Sciences is set to join the T-cell engager space in an unusual – perhaps even unprecedented – deal arrangement that involves the pharma budgeting $1.675 billion upfront to buy Ouro Medicines and for Galapagos ...",
+    "summary": "Gilead Sciences is set to enter the T cell engager space in an unusual — perhaps even unprecedented — deal arrangement that involves the pharma budgeting $1.675 billion upfront to buy Ouro Medicines and for Galapagos to ...",
     "url": "https://endpoints.news/gilead-bets-1-68b-upfront-on-ouro-medicines-autoimmune-program-with-galapagos-expected-to-pitch-in/",
     "published_at": "2026-03-24T10:41:57+00:00",
-    "collected_at": "2026-03-24T10:54:40.835948+00:00"
+    "collected_at": "2026-03-24T13:16:46.673592+00:00"
   },
   {
     "id": "1d547670dca8a6d0d7a65838c07e1d6e",
@@ -417,7 +457,7 @@
     "summary": "Quotient Therapeutics, a startup studying how tiny genetic typos cause some cells to get sick but allow others to remain healthy, has struck a partnership with Merck.\n The partnership will identify new drug targets for ...",
     "url": "https://endpoints.news/merck-partners-with-flagship-startup-quotient-to-search-for-genetic-clues-to-ibd/",
     "published_at": "2026-03-24T10:00:17+00:00",
-    "collected_at": "2026-03-24T10:54:40.835964+00:00"
+    "collected_at": "2026-03-24T13:16:46.673605+00:00"
   },
   {
     "id": "2390e97177e66a5b42b9e72316f1796f",
@@ -427,7 +467,7 @@
     "summary": "A British biotech based in Cambridge, England, raised $86 million to advance an antibody drug designed to deplete protein deposits in people with amyloidosis.\n\n The company, called Immutrin, was co-founded by Gregory Winter. He won ...",
     "url": "https://endpoints.news/immutrin-secures-86m-for-antibody-program/",
     "published_at": "2026-03-24T07:00:02+00:00",
-    "collected_at": "2026-03-24T10:54:40.835974+00:00"
+    "collected_at": "2026-03-24T13:16:46.673618+00:00"
   },
   {
     "id": "aba5cc29df8bf1d7e4e928aca8b31925",
@@ -437,7 +477,7 @@
     "summary": "Novartis is the latest drugmaker to invest in its Chinese footprint, with a pledge of more than 3.3 billion yuan ($480 million) to bolster two manufacturing and R&D sites.\n\n The company will pour 1.5 billion ...",
     "url": "https://endpoints.news/novartis-to-invest-480m-in-china-following-astrazeneca-and-lilly-pledges/",
     "published_at": "2026-03-23T18:40:53+00:00",
-    "collected_at": "2026-03-24T10:54:40.835985+00:00"
+    "collected_at": "2026-03-24T13:16:46.673629+00:00"
   },
   {
     "id": "d4509de9567735bb8d49ad5f5bb85def",
@@ -447,7 +487,7 @@
     "summary": "In a rare move, the FDA last week posted photographs of dilapidated buildings as part of a warning letter for a Daman, India-based drug manufacturing facility.\n\n The photographs are the latest sign that FDA Commissioner ...",
     "url": "https://endpoints.news/fda-posts-photos-of-indian-drugmaking-facility-cited-in-warning-letter/",
     "published_at": "2026-03-23T17:13:29+00:00",
-    "collected_at": "2026-03-24T10:54:40.835995+00:00"
+    "collected_at": "2026-03-24T13:16:46.673640+00:00"
   },
   {
     "id": "b6e3aee9fdd262e85c9c8e6b7c04a249",
@@ -457,47 +497,7 @@
     "summary": "WuXi AppTec’s sales are becoming even more increasingly dependent on the US despite the service provider not yet fully shaking off concerns over its ties with the Chinese military.\n\n The company",
     "url": "https://endpoints.news/wuxi-apptecs-bet-on-the-us-pays-off-as-revenues-dip-elsewhere/",
     "published_at": "2026-03-23T15:24:18+00:00",
-    "collected_at": "2026-03-24T10:54:40.836006+00:00"
-  },
-  {
-    "id": "5b8b192f0b65a395b62a09d407691da2",
-    "source": "Endpoints News",
-    "source_type": "rss",
-    "title": "Former Acorda CEO Ron Cohen emerges at Parkinson’s cell therapy biotech Oryon",
-    "summary": "Parkinson’s stem cell therapy developer Oryon Cell Therapies started out Monday morning with three announcements: It enlisted Ron Cohen as its new CEO, netted an additional $21 million in funding and gave an early look ...",
-    "url": "https://endpoints.news/former-acorda-ceo-ron-cohen-emerges-at-parkinsons-cell-therapy-biotech-oryon/",
-    "published_at": "2026-03-23T15:16:14+00:00",
-    "collected_at": "2026-03-24T10:54:40.836017+00:00"
-  },
-  {
-    "id": "6e34ac577f6ea6c848633ff3537ae5a7",
-    "source": "Endpoints News",
-    "source_type": "rss",
-    "title": "CEO and C-suite are out in battle for control of Aurinia",
-    "summary": "Biotech takeover specialist Kevin Tang is consolidating control at Aurinia Pharmaceuticals, and has replaced the CEO and C-suite at the company, according to a securities filing Monday.\n\n Tang, who serves as chairman of the board ...",
-    "url": "https://endpoints.news/ceo-and-c-suite-are-out-in-battle-for-control-of-aurinia/",
-    "published_at": "2026-03-23T14:11:04+00:00",
-    "collected_at": "2026-03-24T10:54:40.836027+00:00"
-  },
-  {
-    "id": "2cd652dd023fd89a52a82ef85dc246f1",
-    "source": "Endpoints News",
-    "source_type": "rss",
-    "title": "Dizal's first-line lung cancer data; Sanofi expands in China",
-    "summary": "Plus, news about Opdivo:\n\n 📊 Dizal drug succeeds in Phase 3 lung cancer study: The drug Zegfrovy improved progression-free survival compared to chemo in first-line non-small cell lung cancer patients ...",
-    "url": "https://endpoints.news/dizals-first-line-lung-cancer-data-sanofi-expands-in-china/",
-    "published_at": "2026-03-23T14:01:38+00:00",
-    "collected_at": "2026-03-24T10:54:40.836037+00:00"
-  },
-  {
-    "id": "479ce4d72b16b92960e53d86945a7e9c",
-    "source": "Endpoints News",
-    "source_type": "rss",
-    "title": "Apogee shares positive mid-stage maintenance data for eczema drug that could challenge Dupixent, Ebglyss",
-    "summary": "Apogee Therapeutics said its moderate-to-severe eczema candidate could offer much more convenient dosing over standard treatments based on its latest mid-stage results.\n\n Monday’s Phase 2 maintenance data highlighted the efficacy of ...",
-    "url": "https://endpoints.news/apogee-shares-positive-mid-stage-maintenance-data-for-eczema-drug-that-could-challenge-dupixent-ebglyss/",
-    "published_at": "2026-03-23T11:08:26+00:00",
-    "collected_at": "2026-03-24T10:54:40.836048+00:00"
+    "collected_at": "2026-03-24T13:16:46.673651+00:00"
   },
   {
     "id": "8a7fadd5259e5c3eddcff855d379b1ab",
@@ -507,7 +507,7 @@
     "summary": "Rachel Springate, general partner at Muse Capital, said the next wave of healthcare startups will be driven by consumer demand — but pure direct-to-consumer models rarely work. Companies like Midi Health, Mavida Health and Mahmee are showing a different path: starting with patients, collecting outcomes data, and integrating with clinicians, payers and the broader healthcare system.\nThe post Why Pure DTC Doesn’t Work in Healthcare, Per Muse Capital appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/dtc-healthcare-muse-capital/",
     "published_at": "2026-03-23T23:53:39+00:00",
-    "collected_at": "2026-03-24T10:54:41.077913+00:00"
+    "collected_at": "2026-03-24T13:16:46.928371+00:00"
   },
   {
     "id": "7fa841bc43cf70ca79d711a26954cbdf",
@@ -517,7 +517,7 @@
     "summary": "In a recent letter, Senate Democrats proposed lowering healthcare costs, expanding coverage and cracking down on insurance company practices.\nThe post 12 Senate Democrats Unveil Plan to Cut Costs, Expand Coverage appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/senate-democrats-health-insurance/",
     "published_at": "2026-03-23T22:07:58+00:00",
-    "collected_at": "2026-03-24T10:54:41.077932+00:00"
+    "collected_at": "2026-03-24T13:16:46.928391+00:00"
   },
   {
     "id": "a08db0b19c48f1083cacba94665b1631",
@@ -527,7 +527,7 @@
     "summary": "Novartis already markets the PI3Kα inhibitor Piqray for breast cancer, but acquiring a Synnovation Therapeutics subsidiary brings an early clinical program that the pharma company claims could be best in the class of next-generation therapies for the target. Competitors include Eli Lilly, Relay Therapeutics, and OnKure Therapeutics. \nThe post Why Novartis Is Paying $2B for a Cancer Drug That Hits the Same Target as One of Its Own Products appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/novartis-acquisition-breast-cancer-drug-pikavation-synnovation-pi3k-alpha-inhibitor-nvs/",
     "published_at": "2026-03-23T19:39:56+00:00",
-    "collected_at": "2026-03-24T10:54:41.077948+00:00"
+    "collected_at": "2026-03-24T13:16:46.928408+00:00"
   },
   {
     "id": "e7563a253106474956b4033950a5a28c",
@@ -537,7 +537,7 @@
     "summary": "Typically, rural hospitals operate as “islands,” where a patient might receive an initial scan at a community health facility, see a specialist at a regional medical center, and return home for follow-up care. In this scenario, it’s common for their medical images to become trapped in three different systems.\nThe post Imaging Interoperability Offers a Lifeline to Rural Hospitals and the Patients Depending on Them appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/imaging-interoperability-offers-a-lifeline-to-rural-hospitals-and-the-patients-depending-on-them/",
     "published_at": "2026-03-23T14:22:00+00:00",
-    "collected_at": "2026-03-24T10:54:41.077962+00:00"
+    "collected_at": "2026-03-24T13:16:46.928423+00:00"
   },
   {
     "id": "3632080039160157448cce271cdc6ce6",
@@ -547,7 +547,7 @@
     "summary": "Patients want to explore more holistic options and are becoming more educated and interested in their own health. However, this trend of growing trust in unchecked online health advice often introduces more risk to patients than help.\nThe post Why GI Providers Should Care About That “Health Hack” appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/why-gi-providers-should-care-about-that-health-hack/",
     "published_at": "2026-03-23T13:08:00+00:00",
-    "collected_at": "2026-03-24T10:54:41.077975+00:00"
+    "collected_at": "2026-03-24T13:16:46.928437+00:00"
   },
   {
     "id": "43228d8d6e3699720b5ddc861fc61c3d",
@@ -557,7 +557,7 @@
     "summary": "Utah is piloting an AI system developed by Doctronic to autonomously handle routine prescription refills, aiming to reduce delays and boost medication adherence. But a report from Mindgard AI claiming that there are vulnerabilities in the company’s chatbot underscores the broader challenge regulators and developers face in ensuring healthcare AI systems remain safe and reliable in real-world use.\nThe post The Saga of Utah’s Rx Refill Bot: A Bold Bet on AI & Researchers Who Cried Foul appeared fi",
     "url": "https://medcitynews.com/2026/03/utah-prescription-medication-ai-doctronic-mindgard/",
     "published_at": "2026-03-22T16:17:55+00:00",
-    "collected_at": "2026-03-24T10:54:41.077990+00:00"
+    "collected_at": "2026-03-24T13:16:46.928452+00:00"
   },
   {
     "id": "3424efc3963b06f80357c95ac5a571dc",
@@ -567,7 +567,7 @@
     "summary": "An NYU Stern report links private equity in healthcare to worse outcomes and higher bankruptcy risk, calling for reforms and stronger oversight.\nThe post NYU Stern Report Urges Regulation of Private Equity in Healthcare appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/nyu-stern-report-urges-regulation-of-private-equity-in-healthcare/",
     "published_at": "2026-03-22T14:02:00+00:00",
-    "collected_at": "2026-03-24T10:54:41.078003+00:00"
+    "collected_at": "2026-03-24T13:16:46.928466+00:00"
   },
   {
     "id": "9d3380aeb2483d46df5ea241899becc0",
@@ -577,7 +577,7 @@
     "summary": "Patients who better understand their conditions often ask more informed questions and participate more actively in shared decision-making. But fluency is not the same as reliability. \nThe post What Happens When Patients Ask AI First? appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/what-happens-when-patients-ask-ai-first/",
     "published_at": "2026-03-22T13:48:00+00:00",
-    "collected_at": "2026-03-24T10:54:41.078015+00:00"
+    "collected_at": "2026-03-24T13:16:46.928478+00:00"
   },
   {
     "id": "4a3ae94bf5efc65ba90e15c35508fb1c",
@@ -587,7 +587,7 @@
     "summary": "Leaders must resist the urge to replicate urban models that do not translate well to rural contexts. Instead, they should design solutions that are built for rural communities, grounded in local insight and enabled by scalable capabilities. \nThe post A Once in a Generation Opportunity to Reimagine Rural Health appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/a-once-in-a-generation-opportunity-to-reimagine-rural-health/",
     "published_at": "2026-03-22T13:20:00+00:00",
-    "collected_at": "2026-03-24T10:54:41.078027+00:00"
+    "collected_at": "2026-03-24T13:16:46.928490+00:00"
   },
   {
     "id": "33acd474f765f25188fe4ee630bfb297",
@@ -597,21 +597,21 @@
     "summary": "Here are four perspectives from providers, patients, life science executives and healthcare technologists about ways to boost trust at a time of rapid AI deployments.\nThe post How to Boost Trust in Tech? 4 Perspectives from SXSW appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/how-to-boost-trust-in-tech-4-perspectives-from-sxsw/",
     "published_at": "2026-03-20T23:48:04+00:00",
-    "collected_at": "2026-03-24T10:54:41.078039+00:00"
+    "collected_at": "2026-03-24T13:16:46.928501+00:00"
   },
   {
     "id": "642ae1c6e122715a11b2f3c70e661af7",
     "source": "Yahoo Finance (AVGO)",
     "source_type": "finance",
-    "title": "AVGO: $322.51 (+4.08%)",
-    "summary": "AVGO 현재가 322.51, 일간 변동 +4.08%, 거래량 27,165,250 (평균 대비 0.9배)",
+    "title": "AVGO: $322.51 (+3.86%)",
+    "summary": "AVGO 현재가 322.51, 일간 변동 +3.86%, 거래량 27,165,250 (평균 대비 0.9배)",
     "url": "https://finance.yahoo.com/quote/AVGO",
-    "published_at": "2026-03-24T10:54:43.121760+00:00",
-    "collected_at": "2026-03-24T10:54:43.121766+00:00",
+    "published_at": "2026-03-24T13:16:48.287010+00:00",
+    "collected_at": "2026-03-24T13:16:48.287016+00:00",
     "metadata": {
       "ticker": "AVGO",
       "price": 322.51,
-      "daily_change_pct": 4.08,
+      "daily_change_pct": 3.86,
       "volume": 27165250,
       "avg_volume": 30841810,
       "volume_ratio": 0.88,
@@ -625,8 +625,8 @@
     "title": "ARM: $136.89 (+3.43%)",
     "summary": "ARM 현재가 136.89, 일간 변동 +3.43%, 거래량 7,902,844 (평균 대비 1.8배)",
     "url": "https://finance.yahoo.com/quote/ARM",
-    "published_at": "2026-03-24T10:54:43.256676+00:00",
-    "collected_at": "2026-03-24T10:54:43.256681+00:00",
+    "published_at": "2026-03-24T13:16:48.436338+00:00",
+    "collected_at": "2026-03-24T13:16:48.436343+00:00",
     "metadata": {
       "ticker": "ARM",
       "price": 136.89,
@@ -644,8 +644,8 @@
     "title": "PLTR: $160.84 (+6.74%)",
     "summary": "PLTR 현재가 160.84, 일간 변동 +6.74%, 거래량 55,951,149 (평균 대비 1.1배)",
     "url": "https://finance.yahoo.com/quote/PLTR",
-    "published_at": "2026-03-24T10:54:43.630718+00:00",
-    "collected_at": "2026-03-24T10:54:43.630724+00:00",
+    "published_at": "2026-03-24T13:16:48.720203+00:00",
+    "collected_at": "2026-03-24T13:16:48.720210+00:00",
     "metadata": {
       "ticker": "PLTR",
       "price": 160.84,
@@ -663,8 +663,8 @@
     "title": "LITE: $728.95 (+3.20%)",
     "summary": "LITE 현재가 728.95, 일간 변동 +3.20%, 거래량 7,331,745 (평균 대비 1.0배)",
     "url": "https://finance.yahoo.com/quote/LITE",
-    "published_at": "2026-03-24T10:54:43.892927+00:00",
-    "collected_at": "2026-03-24T10:54:43.892934+00:00",
+    "published_at": "2026-03-24T13:16:49.197117+00:00",
+    "collected_at": "2026-03-24T13:16:49.197122+00:00",
     "metadata": {
       "ticker": "LITE",
       "price": 728.95,
@@ -682,8 +682,8 @@
     "title": "FN: $546.47 (+7.94%)",
     "summary": "FN 현재가 546.47, 일간 변동 +7.94%, 거래량 737,104 (평균 대비 1.1배)",
     "url": "https://finance.yahoo.com/quote/FN",
-    "published_at": "2026-03-24T10:54:44.024614+00:00",
-    "collected_at": "2026-03-24T10:54:44.024620+00:00",
+    "published_at": "2026-03-24T13:16:49.345387+00:00",
+    "collected_at": "2026-03-24T13:16:49.345393+00:00",
     "metadata": {
       "ticker": "FN",
       "price": 546.47,
@@ -701,8 +701,8 @@
     "title": "BKSY: $27.74 (+6.32%)",
     "summary": "BKSY 현재가 27.74, 일간 변동 +6.32%, 거래량 1,726,821 (평균 대비 1.2배)",
     "url": "https://finance.yahoo.com/quote/BKSY",
-    "published_at": "2026-03-24T10:54:44.552985+00:00",
-    "collected_at": "2026-03-24T10:54:44.552990+00:00",
+    "published_at": "2026-03-24T13:16:50.134504+00:00",
+    "collected_at": "2026-03-24T13:16:50.134509+00:00",
     "metadata": {
       "ticker": "BKSY",
       "price": 27.74,
@@ -720,8 +720,8 @@
     "title": "TSLA: $380.85 (+3.50%)",
     "summary": "TSLA 현재가 380.85, 일간 변동 +3.50%, 거래량 72,583,482 (평균 대비 1.2배)",
     "url": "https://finance.yahoo.com/quote/TSLA",
-    "published_at": "2026-03-24T10:54:44.818303+00:00",
-    "collected_at": "2026-03-24T10:54:44.818307+00:00",
+    "published_at": "2026-03-24T13:16:50.462286+00:00",
+    "collected_at": "2026-03-24T13:16:50.462291+00:00",
     "metadata": {
       "ticker": "TSLA",
       "price": 380.85,
@@ -739,8 +739,8 @@
     "title": "TER: $303.92 (+4.50%)",
     "summary": "TER 현재가 303.92, 일간 변동 +4.50%, 거래량 3,599,209 (평균 대비 1.0배)",
     "url": "https://finance.yahoo.com/quote/TER",
-    "published_at": "2026-03-24T10:54:44.970519+00:00",
-    "collected_at": "2026-03-24T10:54:44.970525+00:00",
+    "published_at": "2026-03-24T13:16:50.584544+00:00",
+    "collected_at": "2026-03-24T13:16:50.584550+00:00",
     "metadata": {
       "ticker": "TER",
       "price": 303.92,
@@ -758,8 +758,8 @@
     "title": "ROBO: $70.25 (+3.08%)",
     "summary": "ROBO 현재가 70.25, 일간 변동 +3.08%, 거래량 124,964 (평균 대비 0.6배)",
     "url": "https://finance.yahoo.com/quote/ROBO",
-    "published_at": "2026-03-24T10:54:45.130211+00:00",
-    "collected_at": "2026-03-24T10:54:45.130217+00:00",
+    "published_at": "2026-03-24T13:16:50.724056+00:00",
+    "collected_at": "2026-03-24T13:16:50.724062+00:00",
     "metadata": {
       "ticker": "ROBO",
       "price": 70.25,
@@ -777,8 +777,8 @@
     "title": "LIT: $69.89 (+4.34%)",
     "summary": "LIT 현재가 69.89, 일간 변동 +4.34%, 거래량 277,668 (평균 대비 0.8배)",
     "url": "https://finance.yahoo.com/quote/LIT",
-    "published_at": "2026-03-24T10:54:45.669775+00:00",
-    "collected_at": "2026-03-24T10:54:45.669780+00:00",
+    "published_at": "2026-03-24T13:16:51.104197+00:00",
+    "collected_at": "2026-03-24T13:16:51.104203+00:00",
     "metadata": {
       "ticker": "LIT",
       "price": 69.89,
@@ -796,8 +796,8 @@
     "title": "URNM: $60.15 (+3.47%)",
     "summary": "URNM 현재가 60.15, 일간 변동 +3.47%, 거래량 802,791 (평균 대비 1.0배)",
     "url": "https://finance.yahoo.com/quote/URNM",
-    "published_at": "2026-03-24T10:54:45.983080+00:00",
-    "collected_at": "2026-03-24T10:54:45.983085+00:00",
+    "published_at": "2026-03-24T13:16:51.464215+00:00",
+    "collected_at": "2026-03-24T13:16:51.464220+00:00",
     "metadata": {
       "ticker": "URNM",
       "price": 60.15,
@@ -815,8 +815,8 @@
     "title": "COPX: $73.55 (+6.47%)",
     "summary": "COPX 현재가 73.55, 일간 변동 +6.47%, 거래량 7,801,338 (평균 대비 1.5배)",
     "url": "https://finance.yahoo.com/quote/COPX",
-    "published_at": "2026-03-24T10:54:46.225134+00:00",
-    "collected_at": "2026-03-24T10:54:46.225139+00:00",
+    "published_at": "2026-03-24T13:16:51.617804+00:00",
+    "collected_at": "2026-03-24T13:16:51.617809+00:00",
     "metadata": {
       "ticker": "COPX",
       "price": 73.55,
@@ -824,6 +824,25 @@
       "volume": 7801338,
       "avg_volume": 5356084,
       "volume_ratio": 1.46,
+      "is_spike": false
+    }
+  },
+  {
+    "id": "7ae5713cc0980605af530d6b96db8b57",
+    "source": "Yahoo Finance (^VIX)",
+    "source_type": "finance",
+    "title": "🌐 ^VIX: 27.08 (+3.56%)",
+    "summary": "^VIX 현재가 27.08, 일간 변동 +3.56%, 거래량 0 (평균 대비 0.0배)",
+    "url": "https://finance.yahoo.com/quote/^VIX",
+    "published_at": "2026-03-24T13:16:52.774230+00:00",
+    "collected_at": "2026-03-24T13:16:52.774236+00:00",
+    "metadata": {
+      "ticker": "^VIX",
+      "price": 27.08,
+      "daily_change_pct": 3.56,
+      "volume": 0,
+      "avg_volume": 0,
+      "volume_ratio": 0.0,
       "is_spike": false
     }
   }
