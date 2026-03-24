@@ -1,50 +1,19 @@
 [
   {
-    "id": "3818e72212686e590efd714bc3aa671f",
-    "source": "STAT News",
-    "source_type": "rss",
-    "title": "STAT+: Can you spot a deepfake X-ray? Neither can your radiologist",
-    "summary": "Deepfake images can mislead viewers, upend elections, and instigate violence. They can also, researchers say, disrupt medical care.",
-    "url": "https://www.statnews.com/2026/03/24/radiologists-cant-detect-deepfake-xrays/?utm_campaign=rss",
-    "published_at": "2026-03-24T14:00:00+00:00",
-    "collected_at": "2026-03-24T15:01:04.302651+00:00",
-    "filter_score": 9,
-    "summary_ko": "딥페이크 이미지는 의료 분야에서 문제를 일으킬 수 있다. 연구자들은 의료 이미지를 조작하여 의사결정을 방해할 수 있다고 경고한다.",
-    "emerging_sector": "Deepfake Detection",
-    "leading_companies": [],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "b6231620d12fd2d6578e02b4840c8f8a",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Wall Street's Trillion-Dollar Bet On \"Tax Alpha\"",
-    "summary": "Wall Street's Trillion-Dollar Bet On \"Tax Alpha\"\n\n            Tax alpha — the practice of improving investment returns by reducing taxes — has become one of the fastest-growing strategies on Wall Street, according to Bloomberg. \n\nRather than focusing only on beating the market, many investment firms now design portfolios to minimize taxes, often producing higher after-tax returns even if pre-tax performance is similar to traditional strategies.\n\nAfter years of rising markets, many wealthy Americ",
-    "url": "https://www.zerohedge.com/markets/wall-streets-trillion-dollar-bet-tax-alpha",
-    "published_at": "2026-03-24T11:45:00+00:00",
-    "collected_at": "2026-03-24T15:00:55.923349+00:00",
-    "filter_score": 8,
-    "summary_ko": "월 스트리트의 1조 달러 베팅, '세금 알파' 전략이 빠르게 성장하고 있다. 이는 투자 수익을 높이기 위해 세금을 줄이는 전략이다.",
-    "emerging_sector": "Tax Alpha",
-    "leading_companies": [],
-    "category": "smart_money",
-    "urgency": "high"
-  },
-  {
-    "id": "a7b64785ac8200cc9f973021a512ce2d",
+    "id": "a41cdc1a8822c8defef60e0e8f606777",
     "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "Apogee strengthens case for longer-lasting eczema drug",
-    "summary": "Company shares climbed by more than 20% on Phase 2 study results suggesting the therapy could provide sustained relief when administered once every three or six months.",
-    "url": "https://www.biopharmadive.com/news/apogee-eczema-drug-data-zumilokibart-atopic-dermatitis/815396/",
-    "published_at": "2026-03-23T16:15:00+00:00",
-    "collected_at": "2026-03-24T15:01:04.504351+00:00",
+    "title": "Gilead, with Ouro deal, wagers $1.7B on bispecifics for autoimmune diseases",
+    "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
+    "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
+    "published_at": "2026-03-24T14:07:58+00:00",
+    "collected_at": "2026-03-24T17:01:51.906325+00:00",
     "filter_score": 8,
-    "summary_ko": "Apogee의 임상 시험 결과는 피부염 치료제의 효과가 3~6개월 동안 지속될 수 있음을 보여주었다.",
-    "emerging_sector": "피부염 치료",
+    "summary_ko": "Gilead가 Ouro Medicines를 인수하여 자가면역질환 치료를 위한 새로운 약물 개발에 투자하고 있다. 이는 새로운 약물 개발에 대한 소식이다.",
+    "emerging_sector": "자가면역질환 치료",
     "leading_companies": [
-      "Apogee"
+      "Gilead",
+      "Ouro Medicines"
     ],
     "category": "tech_trend",
     "urgency": "high"
@@ -57,10 +26,10 @@
     "summary": "The hefty funding will support a U.S.- and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-24T15:01:04.504400+00:00",
+    "collected_at": "2026-03-24T17:01:51.906437+00:00",
     "filter_score": 8,
-    "summary_ko": "AI를 활용한 신약 개발 업체 Earendil Labs가 7억 8,700만 달러의 자금을 확보했습니다. 이 자금은 미국과 중국에 기반을 둔 이 회사의 약 20개 신약 개발과 Sanofi와의 두 가지 유익한 파트너십을 지원할 것입니다.",
-    "emerging_sector": "AI 기반 신약 개발",
+    "summary_ko": "AI를 기반으로 하는 제약 회사인 이어렌딜 랩스(Earendil Labs)가 787만 달러의 자금을 확보했다.",
+    "emerging_sector": "AI 기반 제약",
     "leading_companies": [
       "Earendil Labs",
       "Sanofi"
@@ -69,22 +38,38 @@
     "urgency": "high"
   },
   {
-    "id": "6ad5c087f79abc9b395e2db12668cf63",
+    "id": "711620dffa3505682e485d2983cfa3ad",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Biotech investors set to meet with key congressional panel",
+    "summary": "A group of biotech investors will meet with members of a congressional commission that's been charged with keeping the US competitive in biotech and protecting national security, amid the rise of China's own life sciences ...",
+    "url": "https://endpoints.news/biotech-investors-set-to-meet-with-key-congressional-panel/",
+    "published_at": "2026-03-24T12:00:02+00:00",
+    "collected_at": "2026-03-24T17:01:52.197210+00:00",
+    "filter_score": 8,
+    "summary_ko": "바이오텍 투자자들은 미국의 바이오텍 경쟁력을 유지하고 국가 안보를 보호하기 위한 의회 위원회와 회의를 가질 예정이다. 이는 중국의 바이오텍 산업이 부상하는 가운데 이루어지는 것이다.",
+    "emerging_sector": "바이오텍 산업",
+    "leading_companies": [],
+    "category": "geopolitics",
+    "urgency": "high"
+  },
+  {
+    "id": "d0a96e0199edd6c388cb7078e3c39b68",
     "source": "ZeroHedge",
     "source_type": "rss",
-    "title": "Dry Van Spot Rates Highest Since 2022 As Spring Tightens Capacity",
-    "summary": "Dry Van Spot Rates Highest Since 2022 As Spring Tightens Capacity\n\n            Submitted by FreightWaves,\n\nThe freight market momentum is building at a rapid clip. \n\nNational dry van spot rates — tracked via the SONAR National Truckload Index, the 7-day moving average of booked rates including fuel — have broken out to a new cycle high of $2.89 per mile.\n\n\n\nThis represents the strongest level since 2022 and confirms the market’s shift toward carriers is gaining real traction.\n\n\n\nEven more tellin",
-    "url": "https://www.zerohedge.com/economics/dry-van-spot-rates-highest-2022-spring-tightens-capacity",
-    "published_at": "2026-03-24T12:05:00+00:00",
-    "collected_at": "2026-03-24T15:00:55.923310+00:00",
+    "title": "Russia Halts Ammonium Nitrate Exports As Global Fertilizer Crisis Set To Worsen",
+    "summary": "Russia Halts Ammonium Nitrate Exports As Global Fertilizer Crisis Set To Worsen\n\n            The fertilizer crisis appears to be worsening just as the Northern Hemisphere planting season, in some areas, is about to begin, with top ammonium nitrate supplier Russia announcing on Tuesday via state media that exports of the critical crop nutrient will be halted. \n\nRussia's state-run news agency TASS said Russia will suspend ammonium nitrate exports from March 21 through April 21. The report cited a ",
+    "url": "https://www.zerohedge.com/commodities/russia-halts-ammonium-nitrate-exports-global-fertilizer-crisis-set-worsen",
+    "published_at": "2026-03-24T14:55:00+00:00",
+    "collected_at": "2026-03-24T17:01:49.731402+00:00",
     "filter_score": 7,
-    "summary_ko": "스프링 시즌에 용량이 조여지며 드라이 밴 스팟 레이트가 2022년 이후最高치를 기록했습니다.",
-    "emerging_sector": "logistics",
+    "summary_ko": "러시아는 암모니아 질산 수출을 중단하여 세계적인 비료 위기가 심화할 것으로 보인다. 이는 농업과 에너지 산업에 대한 관심이 증가하고 있음을 나타낸다.",
+    "emerging_sector": "비료",
     "leading_companies": [
-      "FreightWaves"
+      "러시아"
     ],
     "category": "macro",
-    "urgency": "high"
+    "urgency": "medium"
   },
   {
     "id": "5de0f8097fe7f0e1ef54c9e2e3f21f86",
@@ -94,28 +79,29 @@
     "summary": "In this edition of STAT Health Tech: AI doctor startup raises fresh capital, and what Medicare chief Chris Klomp said at STAT Summit.",
     "url": "https://www.statnews.com/2026/03/24/ai-doctor-startup-raises-funds-health-tech/?utm_campaign=rss",
     "published_at": "2026-03-24T13:30:40+00:00",
-    "collected_at": "2026-03-24T15:01:04.302666+00:00",
+    "collected_at": "2026-03-24T17:01:51.769250+00:00",
     "filter_score": 7,
-    "summary_ko": "AI 의사 스타트업이 자금을 모금하고 FDA와 만나기로 했다. 이는 의료 분야에서 AI 기술의 중요성이 증가하고 있음을 보여준다.",
-    "emerging_sector": "AI in Healthcare",
+    "summary_ko": "AI 의사 스타트업이 자금을 조달하고 FDA와 만날 예정입니다.",
+    "emerging_sector": "의료 기술",
     "leading_companies": [],
     "category": "tech_trend",
-    "urgency": "medium"
+    "urgency": "high"
   },
   {
-    "id": "3046dacf386d0bd911346c36eadb0840",
-    "source": "BioPharma Dive",
+    "id": "69254e9960f866ffe5cb0781fae910b5",
+    "source": "STAT News",
     "source_type": "rss",
-    "title": "How former Acorda CEO Ron Cohen landed at a Parkinson’s cell therapy startup",
-    "summary": "Cohen says he looked at around two dozen companies since Acorda wound down. Oryon Cell Therapies, with its funding, data and &ldquo;autologous&rdquo; approach, stood out amongst the crowd.",
-    "url": "https://www.biopharmadive.com/news/ron-cohen-oryon-acorda-parkinsons-cell-therapy-biotech/815460/",
-    "published_at": "2026-03-24T11:00:00+00:00",
-    "collected_at": "2026-03-24T15:01:04.504333+00:00",
+    "title": "STAT+: Gilead to acquire immunology biotech, offers lifeline to Galapagos",
+    "summary": "In today's Readout newsletter: Gilead to acquire an immunology biotech and Merck partners with Flagship company on IBD targets. Plus: Do you have what it takes to be CBER director?",
+    "url": "https://www.statnews.com/2026/03/24/gilead-ouro-galapagos-merck-quotient-ibd-readout-newsletter/?utm_campaign=rss",
+    "published_at": "2026-03-24T13:26:23+00:00",
+    "collected_at": "2026-03-24T17:01:51.769262+00:00",
     "filter_score": 7,
-    "summary_ko": "전 Acorda CEO Ron Cohen이 파킨슨병 세포 치료 스타트업에 합류했다.",
-    "emerging_sector": "세포 치료",
+    "summary_ko": "Gilead가 면역학 바이오테크를 인수하고 Galapagos에 생명선을 제공할 예정입니다.",
+    "emerging_sector": "바이오테크",
     "leading_companies": [
-      "Oryon Cell Therapies"
+      "Gilead",
+      "Galapagos"
     ],
     "category": "tech_trend",
     "urgency": "high"
@@ -128,33 +114,52 @@
     "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
     "published_at": "2026-03-20T14:34:00+00:00",
-    "collected_at": "2026-03-24T15:01:04.504442+00:00",
+    "collected_at": "2026-03-24T17:01:51.906461+00:00",
     "filter_score": 7,
-    "summary_ko": "노바티스는 유방암 치료를 위한 신약 개발 업체를 20억 달러에 인수했습니다. 이 인수는 노바티스에게 PIK3CA 돌연변이에 의한 종양 성장을 목표로 하는 약물 개발 기회를 제공할 것입니다.",
-    "emerging_sector": "유방암 치료",
+    "summary_ko": "노바티스는 20억 달러를 지불하여 스타트업의 유방암 약물을 인수했다.",
+    "emerging_sector": "유방암 약물",
     "leading_companies": [
-      "Novartis"
+      "Novartis",
+      "Synnovation Therapeutics"
     ],
     "category": "tech_trend",
-    "urgency": "medium"
+    "urgency": "high"
   },
   {
-    "id": "8c5cb4a360eadd6b9eb58366f86d46ca",
+    "id": "9654a8333127673910c767f9f5606431",
     "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/shionogi-pays-apnimed-100m-joint-venture-awaken-sleep-disorder-dream\" hreflang=\"en\">Shionogi pays Apnimed $100M for joint venture to awaken sleep disorder dream</a>",
-    "summary": "Shionogi has struck a deal to take full control of its sleep disorder joint venture, agreeing to pay Apnimed $100 million upfront for its partner’s half of the business.",
-    "url": "https://www.fiercebiotech.com/biotech/shionogi-pays-apnimed-100m-joint-venture-awaken-sleep-disorder-dream",
-    "published_at": "2026-03-24T15:01:04.674685+00:00",
-    "collected_at": "2026-03-24T15:01:04.674693+00:00",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronic-biotronik-heart-hardware-make-strides-conduction-system-pacing\" hreflang=\"en\">Medtronic, Biotronik heart hardware make strides in conduction system pacing</a>",
+    "summary": "Medtronic and Biotronik both took steps forward this week with their pacemaker hardware designed to target newly emerging geography in the heart, for delivering electric signals that more closely align with the body’s natural beats.",
+    "url": "https://www.fiercebiotech.com/medtech/medtronic-biotronik-heart-hardware-make-strides-conduction-system-pacing",
+    "published_at": "2026-03-24T17:01:52.022061+00:00",
+    "collected_at": "2026-03-24T17:01:52.022079+00:00",
     "filter_score": 7,
-    "summary_ko": "시오노기 제약은 수면 장애 치료를 위한 합작 투자에 1억 달러를 투자했습니다. 이 투자는 시오노기 제약이 수면 장애 치료 시장에서 경쟁력을 높이기 위한 전략적 투자입니다.",
-    "emerging_sector": "수면 장애 치료",
+    "summary_ko": "메드트로닉과 비오토론یک은 심장 전도 시스템을 위한 새로운 기술을 개발했다.",
+    "emerging_sector": "심장 전도 시스템",
     "leading_companies": [
-      "Shionogi",
-      "Apnimed"
+      "Medtronic",
+      "Biotronik"
     ],
     "category": "tech_trend",
-    "urgency": "medium"
+    "urgency": "high"
+  },
+  {
+    "id": "8c9cc4dbb006d5e72721c90b816da377",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Triangle Health raises $4M as people turn to AI to understand their health",
+    "summary": "Triangle Health raised $4 million to help people understand their health conditions and explore treatment options, Endpoints News learned exclusively.\n\n After a person uploads their health records, Triangle’s AI can brainstorm and compare treatments, prepare ...",
+    "url": "https://endpoints.news/triangle-health-raises-4m-as-people-turn-to-ai-to-understand-their-health/",
+    "published_at": "2026-03-24T13:00:11+00:00",
+    "collected_at": "2026-03-24T17:01:52.197200+00:00",
+    "filter_score": 7,
+    "summary_ko": "Triangle Health는 400만 달러의 투자를 유치했다. 이 회사는 인공지능을 이용하여 건강 상태를 이해하고 치료 옵션을 탐색하는 플랫폼을 제공한다.",
+    "emerging_sector": "건강 인공지능",
+    "leading_companies": [
+      "Triangle Health"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
   }
 ]
