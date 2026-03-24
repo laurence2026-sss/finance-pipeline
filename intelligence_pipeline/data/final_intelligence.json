@@ -1,171 +1,23 @@
 [
   {
-    "id": "bab0449d11272cf8dd5ef0e79464fa1c",
+    "id": "737c7c4e009ea91bb48b2585a4939795",
     "source": "ZeroHedge",
     "source_type": "rss",
-    "title": "Mark Zuckerberg Is Building An AI Version Of A CEO To Help Him Run Meta",
-    "summary": "Mark Zuckerberg Is Building An AI Version Of A CEO To Help Him Run Meta\n\n            This isn't going to help the speculation that Zuckerberg, himself is a robot. I mean, it's only a joke...right?\n\nMark Zuckerberg is pushing a future where everyone—inside and outside Meta Platforms—has a personal AI agent. He’s beginning with his own, according to a new report from the Wall Street Journal.\n\nThe CEO is building an internal “CEO agent,” still in development, that helps him quickly access informati",
-    "url": "https://www.zerohedge.com/markets/mark-zuckerberg-building-ai-version-ceo-help-him-run-meta",
-    "published_at": "2026-03-24T17:25:00+00:00",
-    "collected_at": "2026-03-24T20:43:40.986125+00:00",
-    "filter_score": 8,
-    "summary_ko": "메타의 마크 저커버그가 CEO를 보좌하는 인공지능 버전을 개발 중이다. 이는 인공지능 기술의 발전과 기업 경영의 변화에 대한 관심을 높일 수 있다.",
-    "emerging_sector": "AI for Business Management",
+    "title": "Bitcoin's Quantum Risk May Be Real, But the Network Is Preparing: Report",
+    "summary": "Bitcoin's Quantum Risk May Be Real, But the Network Is Preparing: Report\n\n            Authored by Micah Zimmerman via BitcoinMagazine.com,\n\nGalaxy Digital’s latest report says the risk that quantum computing could compromise Bitcoin is real, but so is the work underway to protect the network.\n\n\n\nThe firm’s research frames the issue as a long-term engineering and governance challenge rather than an imminent crisis, with developers already building tools that could reshape how the network secures ",
+    "url": "https://www.zerohedge.com/crypto/bitcoins-quantum-risk-may-be-real-network-preparing-report",
+    "published_at": "2026-03-24T18:45:00+00:00",
+    "collected_at": "2026-03-24T22:22:27.862826+00:00",
+    "filter_score": 7,
+    "summary_ko": "비트코인의 양자 위험은 실제로 존재할 수 있지만, 네트워크는 준비 중이다.",
+    "emerging_sector": "양자 컴퓨팅",
     "leading_companies": [
-      "Meta"
+      "Galaxy Digital"
     ],
     "category": "tech_trend",
     "urgency": "medium",
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
-    "korea_search_query": "Mark"
-  },
-  {
-    "id": "cd4ef86dd264931433b80674d400ff0b",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "RA Capital targets China with latest SPAC deal",
-    "summary": "The prominent investor aims to merge its latest special purpose acquisition company with a&nbsp;Chinese biotech, according to a securities filing.",
-    "url": "https://www.biopharmadive.com/news/ra-capital-spac-private-merger-china/815572/",
-    "published_at": "2026-03-24T19:00:00+00:00",
-    "collected_at": "2026-03-24T20:43:42.111619+00:00",
-    "filter_score": 8,
-    "summary_ko": "RA Capital이 중국의 바이오텍 기업과 합병을 목표로 하는 새로운 SPAC 거래를 발표했습니다. 이는 바이오텍 산업에서 중국의 중요성이 증가하고 있음을 보여줍니다.",
-    "emerging_sector": "중국 바이오텍",
-    "leading_companies": [
-      "RA Capital"
-    ],
-    "category": "macro",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "인수합병"
-  },
-  {
-    "id": "a41cdc1a8822c8defef60e0e8f606777",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "Gilead, with Ouro deal, wagers $1.7B on bispecifics for autoimmune diseases",
-    "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
-    "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
-    "published_at": "2026-03-24T14:07:58+00:00",
-    "collected_at": "2026-03-24T20:43:42.111638+00:00",
-    "filter_score": 8,
-    "summary_ko": "Gilead가 Ouro Medicines를 인수하여 17억 달러를 투자하고, 자가면역 질환 치료를 위한 새로운 항체 개발에 집중할 예정입니다. 이는 바이오텍 산업에서 큰 투자가 진행되고 있음을 보여줍니다.",
-    "emerging_sector": "자가면역 질환 치료",
-    "leading_companies": [
-      "Gilead",
-      "Ouro Medicines"
-    ],
-    "category": "macro",
-    "urgency": "high",
-    "korea_status": "⚡ 초기 반영",
-    "korea_news_count": 4,
-    "korea_search_query": "Gilead"
-  },
-  {
-    "id": "6b4078147584dde07ca6dae1a2a2fc24",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "Earendil Labs, an AI-powered drugmaker, hauls in $787M",
-    "summary": "The hefty funding will support a U.S.- and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
-    "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
-    "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-24T20:43:42.111734+00:00",
-    "filter_score": 8,
-    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs가 7억 8,700만 달러의 자금을 확보했다. 이 회사는 미국과 중국에 기반을 두고 있으며 Sanofi와 두 개의 유익한 파트너십을 맺었다.",
-    "emerging_sector": "AI 기반 의약품 개발",
-    "leading_companies": [
-      "Earendil Labs",
-      "Sanofi"
-    ],
-    "category": "tech_trend",
-    "urgency": "high",
-    "korea_status": "🔥 독점 정보",
-    "korea_news_count": 0,
-    "korea_search_query": "Earendil"
-  },
-  {
-    "id": "3818e72212686e590efd714bc3aa671f",
-    "source": "STAT News",
-    "source_type": "rss",
-    "title": "STAT+: Can you spot a deepfake X-ray? Neither can your radiologist",
-    "summary": "Deepfake images can mislead viewers, upend elections, and instigate violence. They can also, researchers say, disrupt medical care.",
-    "url": "https://www.statnews.com/2026/03/24/radiologists-cant-detect-deepfake-xrays/?utm_campaign=rss",
-    "published_at": "2026-03-24T14:00:00+00:00",
-    "collected_at": "2026-03-24T20:43:41.870060+00:00",
-    "filter_score": 7,
-    "summary_ko": "딥페이크 이미지는 의료 서비스를 방해할 수 있다. 이는 의료 분야에서 인공지능 기술의 발전과 관련된 우려를 높일 수 있다.",
-    "emerging_sector": "AI in Healthcare",
-    "leading_companies": [],
-    "category": "tech_trend",
-    "urgency": "medium",
-    "korea_status": "⚡ 초기 반영",
-    "korea_news_count": 3,
-    "korea_search_query": "STAT"
-  },
-  {
-    "id": "69254e9960f866ffe5cb0781fae910b5",
-    "source": "STAT News",
-    "source_type": "rss",
-    "title": "STAT+: Gilead to acquire immunology biotech, offers lifeline to Galapagos",
-    "summary": "In today's Readout newsletter: Gilead to acquire an immunology biotech and Merck partners with Flagship company on IBD targets. Plus: Do you have what it takes to be CBER director?",
-    "url": "https://www.statnews.com/2026/03/24/gilead-ouro-galapagos-merck-quotient-ibd-readout-newsletter/?utm_campaign=rss",
-    "published_at": "2026-03-24T13:26:23+00:00",
-    "collected_at": "2026-03-24T20:43:41.870080+00:00",
-    "filter_score": 7,
-    "summary_ko": "Gilead가 면역학 바이오텍을 인수하고 Galapagos에 생명선을 제공할 예정입니다. 이는 바이오텍 산업에서 큰 변화가 일어나고 있음을 보여줍니다.",
-    "emerging_sector": "면역학 바이오텍",
-    "leading_companies": [
-      "Gilead",
-      "Galapagos"
-    ],
-    "category": "macro",
-    "urgency": "high",
-    "korea_status": "⚡ 초기 반영",
-    "korea_news_count": 3,
-    "korea_search_query": "STAT"
-  },
-  {
-    "id": "0af2534071c097843869e80eeebecfdf",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "Immutrin raises $87M to advance drug for progressive heart disease",
-    "summary": "The fresh funding will help the biotech startup advance a candidate to treat a genetic disorder, &ldquo;ATTR-CM,&rdquo; that has become a battleground for companies like Pfizer, Alnylam and BridgeBio.",
-    "url": "https://www.biopharmadive.com/news/immutrin-raises-87-million-advance-drug-progressive-heart-disease/815553/",
-    "published_at": "2026-03-24T13:57:06+00:00",
-    "collected_at": "2026-03-24T20:43:42.111651+00:00",
-    "filter_score": 7,
-    "summary_ko": "Immutrin이 8700만 달러를 투자받아 진행성 심장 질환 치료를 위한 새로운 약물 개발에 집중할 예정입니다. 이는 바이오텍 산업에서 새로운 투자가 진행되고 있음을 보여줍니다.",
-    "emerging_sector": "진행성 심장 질환 치료",
-    "leading_companies": [
-      "Immutrin"
-    ],
-    "category": "tech_trend",
-    "urgency": "medium",
-    "korea_status": "🔥 독점 정보",
-    "korea_news_count": 0,
-    "korea_search_query": "Immutrin"
-  },
-  {
-    "id": "eee2e2191133248c6059fd9784f8848e",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/ge-healthcare-claims-photon-counting-ct-clearance-fda\" hreflang=\"en\">GE HealthCare claims photon-counting CT clearance from FDA</a>",
-    "summary": "The new Photonova Spectra aims to capture up to 50 times more data than some of its premium CT predecessors.",
-    "url": "https://www.fiercebiotech.com/medtech/ge-healthcare-claims-photon-counting-ct-clearance-fda",
-    "published_at": "2026-03-24T20:43:42.227421+00:00",
-    "collected_at": "2026-03-24T20:43:42.227435+00:00",
-    "filter_score": 7,
-    "summary_ko": "GE HealthCare는 Photon-counting CT Clearance를 FDA로부터 받았다. 새로운 Photonova Spectra는 일부 고급 CT 전신보다 50배 더 많은 데이터를 캡처할 수 있다.",
-    "emerging_sector": "Photon-counting CT",
-    "leading_companies": [
-      "GE HealthCare"
-    ],
-    "category": "tech_trend",
-    "urgency": "medium",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "HealthCare"
+    "korea_search_query": "비트코인"
   }
 ]
