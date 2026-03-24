@@ -7,15 +7,15 @@
     "summary": "FCC Bans Foreign-Made Wireless Routers\n\n            The FCC has banned the import of all new foreign-made consumer wireless routers, citing \"severe national security risks\".\n\n\n\nThe decision, announced today, follows a White House-convened inter-agency review that determined these devices - primarily those manufactured overseas - pose unacceptable threats to US households, critical infrastructure, and the economy.\n\nMajor brands like TP-Link (which holds a dominant share of the U.S. market), Netge",
     "url": "https://www.zerohedge.com/technology/fcc-bans-foreign-made-wireless-routers",
     "published_at": "2026-03-24T01:00:00+00:00",
-    "collected_at": "2026-03-24T05:24:30.104666+00:00",
+    "collected_at": "2026-03-24T07:07:13.606175+00:00",
     "filter_score": 8,
-    "summary_ko": "미국 연방 통신 위원회(FCC)가 외국에서 생산된 무선 라우터의 수입을 금지했습니다.",
+    "summary_ko": "FCC가 외국제 무선 라우터의 수입을 금지했다.",
     "emerging_sector": "네트워크 보안",
     "leading_companies": [],
     "category": "tech_trend",
     "urgency": "high",
     "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 6,
+    "korea_news_count": 7,
     "korea_search_query": "Bans"
   },
   {
@@ -26,10 +26,10 @@
     "summary": "Doctronic, the startup behind a provocative experiment in Utah to renew drug prescriptions with a chatbot, has raised $40 million.",
     "url": "https://www.statnews.com/2026/03/23/ai-doctor-startup-doctronic-raises-40-million/?utm_campaign=rss",
     "published_at": "2026-03-23T12:00:00+00:00",
-    "collected_at": "2026-03-24T05:24:34.145043+00:00",
+    "collected_at": "2026-03-24T07:07:20.337484+00:00",
     "filter_score": 8,
-    "summary_ko": "Doctronic이 4,000만 달러를 투자받아 임상 치료에 AI를 적용하는 경쟁이 가열되고 있습니다. 의료 기술과 AI의 결합이 주목받고 있습니다.",
-    "emerging_sector": "의료 기술",
+    "summary_ko": "Doctronic이 4,000만 달러를 투자받아 임상 치료에 AI를 적용하는 경쟁이 가열되고 있습니다. 의료 분야에서 AI의 적용이 증가하고 있습니다.",
+    "emerging_sector": "AI in Clinical Care",
     "leading_companies": [
       "Doctronic"
     ],
@@ -47,9 +47,9 @@
     "summary": "The hefty funding will support a U.S.- and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-24T05:24:34.304881+00:00",
+    "collected_at": "2026-03-24T07:07:20.476453+00:00",
     "filter_score": 8,
-    "summary_ko": "Earendil Labs는 인공지능 기반 의약품 개발사로, 7억 8,700만 달러의 자금을 확보했다. 이 자금은 미국과 중국에 기반을 둔 이 회사의 약 20개 의약품 파이프라인과 Sanofi와의 두 가지 수익성 있는 파트너십을 지원할 예정이다.",
+    "summary_ko": "Earendil Labs는 인공지능 기반 의약품 개발사로, 7억 8,700만 달러의 자금을 확보했다. 이 자금은 미국과 중국에 기반을 둔 이 회사의 약 20개 의약품 파이프라인과 Sanofi와의 두 가지 유리한 파트너십을 지원할 예정이다.",
     "emerging_sector": "AI 기반 의약품 개발",
     "leading_companies": [
       "Earendil Labs",
@@ -62,51 +62,6 @@
     "korea_search_query": "Earendil"
   },
   {
-    "id": "6f2bed3c11576c81567826e74ed81e0b",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/apogee-eczema-data-drive-hype-new-peak-threat-lilly-and-sanofi-becomes-clear\" hreflang=\"en\">Apogee eczema data drive hype to new peak as threat to Lilly and Sanofi becomes clear</a>",
-    "summary": "Apogee Therapeutics has published phase 2 eczema data that suggest its anti-IL-13 antibody is a threat to Eli Lilly, Regeneron and Sanofi, prompting analysts to double their peak sales forecast to $5.2 billion.",
-    "url": "https://www.fiercebiotech.com/biotech/apogee-eczema-data-drive-hype-new-peak-threat-lilly-and-sanofi-becomes-clear",
-    "published_at": "2026-03-24T05:24:34.410920+00:00",
-    "collected_at": "2026-03-24T05:24:34.410926+00:00",
-    "filter_score": 8,
-    "summary_ko": "아포지 테라퓨틱스의 에크제마 데이터는 엘리 릴리와 산وفي에 대한 위협이 되고 있다.",
-    "emerging_sector": "생물학적 치료",
-    "leading_companies": [
-      "Apogee Therapeutics",
-      "Eli Lilly",
-      "Sanofi"
-    ],
-    "category": "tech_trend",
-    "urgency": "high",
-    "korea_status": "🔥 독점 정보",
-    "korea_news_count": 2,
-    "korea_search_query": "Apogee"
-  },
-  {
-    "id": "a08db0b19c48f1083cacba94665b1631",
-    "source": "MedCity News",
-    "source_type": "rss",
-    "title": "Why Novartis Is Paying $2B for a Cancer Drug That Hits the Same Target as One of Its Own Products",
-    "summary": "Novartis already markets the PI3Kα inhibitor Piqray for breast cancer, but acquiring a Synnovation Therapeutics subsidiary brings an early clinical program that the pharma company claims could be best in the class of next-generation therapies for the target. Competitors include Eli Lilly, Relay Therapeutics, and OnKure Therapeutics. \nThe post Why Novartis Is Paying $2B for a Cancer Drug That Hits the Same Target as One of Its Own Products appeared first on MedCity News.",
-    "url": "https://medcitynews.com/2026/03/novartis-acquisition-breast-cancer-drug-pikavation-synnovation-pi3k-alpha-inhibitor-nvs/",
-    "published_at": "2026-03-23T19:39:56+00:00",
-    "collected_at": "2026-03-24T05:24:34.865142+00:00",
-    "filter_score": 8,
-    "summary_ko": "Novartis는 20억 달러를 투자하여 암 치료제를 개발 중인 Synnovation Therapeutics의 자회사인 Beigene을 인수했다. 이 인수는 암 치료제 개발의 중요성을 강조한다.",
-    "emerging_sector": "암 치료제",
-    "leading_companies": [
-      "Novartis",
-      "Synnovation Therapeutics"
-    ],
-    "category": "tech_trend",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "ARM"
-  },
-  {
     "id": "00d29527596f3fc750306d5506b931e0",
     "source": "ZeroHedge",
     "source_type": "rss",
@@ -114,16 +69,16 @@
     "summary": "Apollo Private Credit Fund Is Latest To Gate Investors As KKR Fund Gets Junked By Moody's\n\n            Amid the ongoing fracturing of the private credit industry, which after enjoying years of stable, levered growth (and when it ran out of institutional greater fools, it aimed lower, toward HNWs and retail) finally hit a brick wall thanks to the Claude-inspired SaaSpocalypse, which has led to a historic surge in redemption requests across the biggest (and certainly smallest) names in the industr",
     "url": "https://www.zerohedge.com/markets/apollo-private-credit-fund-latest-gate-investors-kkr-fund-gets-junked-moodys",
     "published_at": "2026-03-24T01:50:00+00:00",
-    "collected_at": "2026-03-24T05:24:30.104543+00:00",
+    "collected_at": "2026-03-24T07:07:13.606057+00:00",
     "filter_score": 7,
-    "summary_ko": "Apollo의 사모 자산 펀드가 투자자에게 출금을 제한하는 가운데, KKR의 펀드가 무디스에서 저등급으로 평가되었습니다.",
-    "emerging_sector": "사모 자산",
+    "summary_ko": "아폴로 사의 사모펀드가 투자자를 차단하고, KKR 펀드가 무디스에서 저등급으로 평가받았다.",
+    "emerging_sector": "사모펀드",
     "leading_companies": [
       "Apollo",
       "KKR"
     ],
     "category": "smart_money",
-    "urgency": "medium",
+    "urgency": "high",
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "급등"
@@ -136,9 +91,9 @@
     "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
     "published_at": "2026-03-20T14:34:00+00:00",
-    "collected_at": "2026-03-24T05:24:34.304904+00:00",
+    "collected_at": "2026-03-24T07:07:20.476477+00:00",
     "filter_score": 7,
-    "summary_ko": "Novartis는 Synnovation Therapeutics의 부문을 20억 달러에 인수하여 유방암 약물의 개발을 확보했다. 이 약물은 PIK3CA 돌연변이에 의해 성장하는 종양을 표적으로 하는 약물의 개발을 개선할 수 있다.",
+    "summary_ko": "Novartis는 Synnovation Therapeutics의 유방암 약물 개발 부문을 20억 달러에 인수했다. 이 약물은 PIK3CA 돌연변이에 의해 성장하는 종양을 표적으로 하는 기존 약물보다 더 나은 효과를 나타낼 수 있다.",
     "emerging_sector": "유방암 약물 개발",
     "leading_companies": [
       "Novartis",
@@ -158,9 +113,9 @@
     "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity.",
     "url": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "published_at": "2026-03-19T16:15:00+00:00",
-    "collected_at": "2026-03-24T05:24:34.304939+00:00",
+    "collected_at": "2026-03-24T07:07:20.476511+00:00",
     "filter_score": 7,
-    "summary_ko": "Lilly의 3중 비만 약물 Retatrutide는 대규모 당뇨병 임상시험에서 목표를 달성했다. 이 약물은 GLP-1 약물의 개발을 개선할 수 있다.",
+    "summary_ko": "Lilly의 비만 약물 Retatrutide는 대규모 당뇨병 임상시험에서 목표를 달성했다. 이는 GLP-1 약물보다 더 나은 효과를 나타낼 수 있다.",
     "emerging_sector": "비만 약물 개발",
     "leading_companies": [
       "Lilly"
@@ -170,112 +125,5 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Lilly"
-  },
-  {
-    "id": "e6007557ff4975393849bfc30d92b447",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/pharma/after-lilly-az-pledges-novartis-commits-nearly-480m-boost-china-manufacturing-rd\" hreflang=\"en\">Novartis joins Lilly, AZ in China expansion with $480M commitment to boost manufacturing, R&amp;D</a>",
-    "summary": "Novartis is investing more than 3.3 billion Chinese yuan (roughly $480 million) to soup up its manufacturing facility in Beijing and strengthen its R&D campus in Shanghai, where the company’s China headquarters are also located.",
-    "url": "https://www.fiercebiotech.com/pharma/after-lilly-az-pledges-novartis-commits-nearly-480m-boost-china-manufacturing-rd",
-    "published_at": "2026-03-24T05:24:34.410880+00:00",
-    "collected_at": "2026-03-24T05:24:34.410887+00:00",
-    "filter_score": 7,
-    "summary_ko": "노바티스는 중국의 제조 시설과 연구 개발 캠퍼스를 강화하기 위해 480만 달러를 투자할 계획이다.",
-    "emerging_sector": "제약",
-    "leading_companies": [
-      "Novartis",
-      "Lilly",
-      "AZ"
-    ],
-    "category": "macro",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "ARM"
-  },
-  {
-    "id": "b6e3aee9fdd262e85c9c8e6b7c04a249",
-    "source": "Endpoints News",
-    "source_type": "rss",
-    "title": "WuXi AppTec’s bet on the US pays off as revenues dip elsewhere",
-    "summary": "WuXi AppTec’s sales are becoming even more increasingly dependent on the US despite the service provider not yet fully shaking off concerns over its ties with the Chinese military.\n\n The company",
-    "url": "https://endpoints.news/wuxi-apptecs-bet-on-the-us-pays-off-as-revenues-dip-elsewhere/",
-    "published_at": "2026-03-23T15:24:18+00:00",
-    "collected_at": "2026-03-24T05:24:34.656785+00:00",
-    "filter_score": 7,
-    "summary_ko": "WuXi AppTec의 미국 사업이 성공을 거두면서 매출이 증가하고 있습니다. 이는 중국과의 관계에 대한 우려에도 불구하고 미국 시장에서의 성장 가능성을 보여줍니다.",
-    "emerging_sector": "제약 산업",
-    "leading_companies": [
-      "WuXi AppTec"
-    ],
-    "category": "smart_money",
-    "urgency": "medium",
-    "korea_status": "🔥 독점 정보",
-    "korea_news_count": 2,
-    "korea_search_query": "WuXi"
-  },
-  {
-    "id": "f9957c24d262f0b5882db82abcf25c0a",
-    "source": "Endpoints News",
-    "source_type": "rss",
-    "title": "Arikayce could become Insmed’s second blockbuster following late-stage win in lung infection",
-    "summary": "Insmed's Phase 3 trial win for Arikayce in a particular kind of lung infection sets up the drug to expand into the front-line setting — possibly giving the biotech a second projected blockbuster.\n\n The company said ...",
-    "url": "https://endpoints.news/arikayce-could-become-insmeds-second-blockbuster-following-late-stage-win-in-lung-infection/",
-    "published_at": "2026-03-23T11:01:00+00:00",
-    "collected_at": "2026-03-24T05:24:34.656839+00:00",
-    "filter_score": 7,
-    "summary_ko": "Insmed의 Arikayce가 폐 감염 치료에서 3상 시험에 성공하여, 앞으로 시장 확대를 기대할 수 있습니다.",
-    "emerging_sector": "폐 감염 치료",
-    "leading_companies": [
-      "Insmed"
-    ],
-    "category": "tech_trend",
-    "urgency": "high",
-    "korea_status": "🔥 독점 정보",
-    "korea_news_count": 0,
-    "korea_search_query": "Arikayce"
-  },
-  {
-    "id": "8a7fadd5259e5c3eddcff855d379b1ab",
-    "source": "MedCity News",
-    "source_type": "rss",
-    "title": "Why Pure DTC Doesn’t Work in Healthcare, Per Muse Capital",
-    "summary": "Rachel Springate, general partner at Muse Capital, said the next wave of healthcare startups will be driven by consumer demand — but pure direct-to-consumer models rarely work. Companies like Midi Health, Mavida Health and Mahmee are showing a different path: starting with patients, collecting outcomes data, and integrating with clinicians, payers and the broader healthcare system.\nThe post Why Pure DTC Doesn’t Work in Healthcare, Per Muse Capital appeared first on MedCity News.",
-    "url": "https://medcitynews.com/2026/03/dtc-healthcare-muse-capital/",
-    "published_at": "2026-03-23T23:53:39+00:00",
-    "collected_at": "2026-03-24T05:24:34.865097+00:00",
-    "filter_score": 7,
-    "summary_ko": "Muse Capital의 Rachel Springate는 향후 헬스케어 스타트업은 소비자 수요에 의해 주도될 것이라고 말했다. 그러나 순수한 DTC 모델은 잘 작동하지 않는다.",
-    "emerging_sector": "헬스케어 스타트업",
-    "leading_companies": [
-      "Muse Capital"
-    ],
-    "category": "smart_money",
-    "urgency": "medium",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "Pure"
-  },
-  {
-    "id": "43228d8d6e3699720b5ddc861fc61c3d",
-    "source": "MedCity News",
-    "source_type": "rss",
-    "title": "The Saga of Utah’s Rx Refill Bot: A Bold Bet on AI & Researchers Who Cried Foul",
-    "summary": "Utah is piloting an AI system developed by Doctronic to autonomously handle routine prescription refills, aiming to reduce delays and boost medication adherence. But a report from Mindgard AI claiming that there are vulnerabilities in the company’s chatbot underscores the broader challenge regulators and developers face in ensuring healthcare AI systems remain safe and reliable in real-world use.\nThe post The Saga of Utah’s Rx Refill Bot: A Bold Bet on AI & Researchers Who Cried Foul appeared fi",
-    "url": "https://medcitynews.com/2026/03/utah-prescription-medication-ai-doctronic-mindgard/",
-    "published_at": "2026-03-22T16:17:55+00:00",
-    "collected_at": "2026-03-24T05:24:34.865187+00:00",
-    "filter_score": 7,
-    "summary_ko": "유타주는 Doctronic이 개발한 AI 시스템을 사용하여 처방전을 자동으로 처리하는 것을 시도하고 있다. 그러나 일부 연구자들은 이 시스템에 대한 우려를 표명했다.",
-    "emerging_sector": "AI 헬스케어",
-    "leading_companies": [
-      "Doctronic"
-    ],
-    "category": "tech_trend",
-    "urgency": "medium",
-    "korea_status": "🔥 독점 정보",
-    "korea_news_count": 2,
-    "korea_search_query": "Saga"
   }
 ]
