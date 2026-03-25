@@ -1,5 +1,26 @@
 [
   {
+    "id": "3818e72212686e590efd714bc3aa671f",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Can you spot a deepfake X-ray? Neither can your radiologist",
+    "summary": "Deepfake images can mislead viewers, upend elections, and instigate violence. They can also, researchers say, disrupt medical care.",
+    "url": "https://www.statnews.com/2026/03/24/radiologists-cant-detect-deepfake-xrays/?utm_campaign=rss",
+    "published_at": "2026-03-24T14:00:00+00:00",
+    "collected_at": "2026-03-25T07:05:31.612155+00:00",
+    "filter_score": 8,
+    "summary_ko": "의료 분야에서 딥페이크 이미지가 의료 진단을 방해할 수 있다는 연구 결과가 나왔습니다. 이는 의료 분야에서 인공지능 기술의 안전성과 신뢰성에 대한 우려를 높일 수 있습니다.",
+    "emerging_sector": "의료 인공지능",
+    "leading_companies": [
+      "STAT News"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 8,
+    "korea_search_query": "STAT"
+  },
+  {
     "id": "cd4ef86dd264931433b80674d400ff0b",
     "source": "BioPharma Dive",
     "source_type": "rss",
@@ -7,15 +28,15 @@
     "summary": "The prominent investor aims to merge its latest special purpose acquisition company with a&nbsp;Chinese biotech, according to a securities filing.",
     "url": "https://www.biopharmadive.com/news/ra-capital-spac-private-merger-china/815572/",
     "published_at": "2026-03-24T19:00:00+00:00",
-    "collected_at": "2026-03-25T05:24:34.868036+00:00",
+    "collected_at": "2026-03-25T07:05:31.863273+00:00",
     "filter_score": 8,
-    "summary_ko": "RA Capital이 중국의 바이오테크 회사와 합병을 목표로 하는 스팩을 설립했습니다. 이는 중국의 바이오테크 산업이 성장하고 있음을 보여줍니다.",
+    "summary_ko": "RA Capital이 중국의 바이오테크 기업과 합병을 목표로 하는 스페셜 퍼포스 애큐지션 컴퍼니(Special Purpose Acquisition Company, SPAC)를 설립했습니다. 이는 중국의 바이오테크 산업이 점점 더 성장하고 있음을 보여줍니다.",
     "emerging_sector": "중국 바이오테크",
     "leading_companies": [
       "RA Capital"
     ],
     "category": "macro",
-    "urgency": "high",
+    "urgency": "medium",
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "인수합병"
@@ -28,16 +49,16 @@
     "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
     "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
     "published_at": "2026-03-24T14:07:58+00:00",
-    "collected_at": "2026-03-25T05:24:34.868053+00:00",
+    "collected_at": "2026-03-25T07:05:31.863291+00:00",
     "filter_score": 8,
-    "summary_ko": "Gilead가 Ouro Medicines를 인수하여 17억 달러를 투자했습니다. 이는 자가면역질환 치료를 위한 바이스펙틱스 기술에 대한 투자가 증가하고 있음을 보여줍니다.",
+    "summary_ko": "Gilead가 Ouro Medicines를 인수하여 17억 달러를 투자하여 자가면역 질환 치료를 위한 바이스펙틱스 기술을 개발할 계획입니다. 이는 바이오테크 산업에서 자가면역 질환 치료 기술에 대한 관심이 높아지고 있음을 보여줍니다.",
     "emerging_sector": "바이스펙틱스",
     "leading_companies": [
       "Gilead",
       "Ouro Medicines"
     ],
     "category": "tech_trend",
-    "urgency": "high",
+    "urgency": "medium",
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 2,
     "korea_search_query": "Gilead"
@@ -50,9 +71,9 @@
     "summary": "The hefty funding will support a U.S.- and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-25T05:24:34.868150+00:00",
+    "collected_at": "2026-03-25T07:05:31.863412+00:00",
     "filter_score": 8,
-    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs가 7억 8,700만 달러의 자금을 확보했다. 이 자금은 미국과 중국에 기반을 둔 스타트업의 약물 개발을 지원할 예정이다.",
+    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs가 7억 8,700만 달러의 자금을 확보했다. 이 자금은 미국과 중국에 기반을 둔 스타트업의 약물 파이프라인을 지원하고 Sanofi와의 두 가지 수익성 있는 파트너십을 형성하기 위해 사용될 예정이다.",
     "emerging_sector": "AI 기반 의약품 개발",
     "leading_companies": [
       "Earendil Labs",
@@ -65,92 +86,6 @@
     "korea_search_query": "Earendil"
   },
   {
-    "id": "00871d6c20b83be7732ad78b2dec2e17",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gileads-22b-ouro-buyout-delivers-autoimmune-tce-new-purpose-galapagos\" hreflang=\"en\">Gilead's $2.2B Ouro buyout delivers autoimmune T-cell engager, new purpose for Galapagos</a>",
-    "summary": "Gilead is paying $1.68 billion for a T-cell engager company via a front-loaded deal that could also give new meaning to its aimless partner Galapagos.",
-    "url": "https://www.fiercebiotech.com/biotech/gileads-22b-ouro-buyout-delivers-autoimmune-tce-new-purpose-galapagos",
-    "published_at": "2026-03-25T05:24:34.993349+00:00",
-    "collected_at": "2026-03-25T05:24:34.993354+00:00",
-    "filter_score": 8,
-    "summary_ko": "Gilead는 Ouro를 22억 달러에 인수하여 자가 면역 질환을 위한 T 세포 엔게이저를 개발할 수 있게 되었다. 이 거래는 Galapagos에게도 새로운 목적을 제공한다.",
-    "emerging_sector": "자가 면역 질환 치료",
-    "leading_companies": [
-      "Gilead",
-      "Ouro"
-    ],
-    "category": "biotech",
-    "urgency": "high",
-    "korea_status": "🔥 독점 정보",
-    "korea_news_count": 2,
-    "korea_search_query": "Gilead"
-  },
-  {
-    "id": "711620dffa3505682e485d2983cfa3ad",
-    "source": "Endpoints News",
-    "source_type": "rss",
-    "title": "Biotech investors set to meet with key congressional panel",
-    "summary": "A group of biotech investors will meet with members of a congressional commission that's been charged with keeping the US competitive in biotech and protecting national security, amid the rise of China's own life sciences ...",
-    "url": "https://endpoints.news/biotech-investors-set-to-meet-with-key-congressional-panel/",
-    "published_at": "2026-03-24T12:00:02+00:00",
-    "collected_at": "2026-03-25T05:24:35.189753+00:00",
-    "filter_score": 8,
-    "summary_ko": "바이오텍 투자자들은 미국의 바이오텍 경쟁력과 국가 안보를 유지하기 위한 의회 위원회와 회의를 가질 예정이다. 이는 중국의 바이오텍 부상과 관련이 있다.",
-    "emerging_sector": "바이오텍",
-    "leading_companies": [],
-    "category": "smart_money",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 8,
-    "korea_search_query": "Biotech"
-  },
-  {
-    "id": "72e2625aaef001b631756dc20b860adb",
-    "source": "Endpoints News",
-    "source_type": "rss",
-    "title": "Gilead bets $1.68B upfront on Ouro Medicines’ autoimmune program, with Galapagos expected to pitch in",
-    "summary": "Gilead Sciences is set to enter the T cell engager space in an unusual — perhaps even unprecedented — deal arrangement that involves the pharma budgeting about $1.68 billion upfront to buy Ouro Medicines and for Galapagos ...",
-    "url": "https://endpoints.news/gilead-bets-1-68b-upfront-on-ouro-medicines-autoimmune-program-with-galapagos-expected-to-pitch-in/",
-    "published_at": "2026-03-24T10:41:57+00:00",
-    "collected_at": "2026-03-25T05:24:35.189774+00:00",
-    "filter_score": 8,
-    "summary_ko": "Gilead Sciences는 Ouro Medicines의 자가 면역 질환 프로그램에 16.8억 달러를 앞으로 지불하여 투자하기로 결정했다. Galapagos도 개발에 참여할 것으로 예상된다.",
-    "emerging_sector": "자가 면역 질환 치료",
-    "leading_companies": [
-      "Gilead Sciences",
-      "Ouro Medicines",
-      "Galapagos"
-    ],
-    "category": "tech_trend",
-    "urgency": "high",
-    "korea_status": "🔥 독점 정보",
-    "korea_news_count": 0,
-    "korea_search_query": "우주항공 OR 우주산업 ARM"
-  },
-  {
-    "id": "b84a4bb9c3371b958844b110ccdded94",
-    "source": "MedCity News",
-    "source_type": "rss",
-    "title": "Gilead Sciences Gains an Opportunity for Immune System Reset With $1.7B Ouro Acquisition",
-    "summary": "Gilead Sciences is acquiring Ouro Medicines, a startup developing T cell engagers for a range of autoimmune diseases. Separately, Gilead is negotiating a deal with Galapagos to share in the development and potential commercialization of the Ouro drug. \nThe post Gilead Sciences Gains an Opportunity for Immune System Reset With $1.7B Ouro Acquisition appeared first on MedCity News.",
-    "url": "https://medcitynews.com/2026/03/gilead-sciences-ouro-acquisition-inflammation-autoimmune-disease-immune-system-reset-galapagos-gild-glpg/",
-    "published_at": "2026-03-24T20:30:53+00:00",
-    "collected_at": "2026-03-25T05:24:35.388699+00:00",
-    "filter_score": 8,
-    "summary_ko": "Gilead Sciences는 Ouro Medicines를 17억 달러에 인수하여 면역 체계 리셋을 위한 기회를 얻었다.",
-    "emerging_sector": "자가 면역 질환 치료",
-    "leading_companies": [
-      "Gilead Sciences",
-      "Ouro Medicines"
-    ],
-    "category": "tech_trend",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "인수합병"
-  },
-  {
     "id": "f7e65766b08f30521f23fdb4c553f458",
     "source": "STAT News",
     "source_type": "rss",
@@ -158,9 +93,9 @@
     "summary": "The FTC said the settlement will save Americans up to $7 billion in out-of-pocket costs over 10 years.",
     "url": "https://www.statnews.com/pharmalot/2026/03/24/ftc-proposed-deal-cvs-pbm-manipulated-insulin-prices/?utm_campaign=rss",
     "published_at": "2026-03-24T19:50:13+00:00",
-    "collected_at": "2026-03-25T05:24:34.693974+00:00",
+    "collected_at": "2026-03-25T07:05:31.612106+00:00",
     "filter_score": 7,
-    "summary_ko": "FTC가 CVS와의 합의를 발표하여 인슐린 가격 조작과 접근 방해에 대한 제재를 가했다.",
+    "summary_ko": "FTC는 CVS와의 합의로 인슐린 가격 조작과 접근 방해에 대한 제재를 가했다.",
     "emerging_sector": "의료 기술",
     "leading_companies": [
       "CVS"
@@ -179,19 +114,40 @@
     "summary": "In today's Readout newsletter: Gilead to acquire an immunology biotech and Merck partners with Flagship company on IBD targets. Plus: Do you have what it takes to be CBER director?",
     "url": "https://www.statnews.com/2026/03/24/gilead-ouro-galapagos-merck-quotient-ibd-readout-newsletter/?utm_campaign=rss",
     "published_at": "2026-03-24T13:26:23+00:00",
-    "collected_at": "2026-03-25T05:24:34.694039+00:00",
+    "collected_at": "2026-03-25T07:05:31.612177+00:00",
     "filter_score": 7,
-    "summary_ko": "Gilead가 면역학 바이오테크 회사 인수를 통해 Galapagos에 생명선을 제공했습니다. 이는 바이오테크 산업에서 큰 변화가 일어나고 있음을 보여줍니다.",
-    "emerging_sector": "면역학 바이오테크",
+    "summary_ko": "Gilead가 면역학 비otech 기업을 인수하여 Galapagos에 생명선을 제공했습니다. 이는 제약 산업에서 기업 간의 협력과 인수가 점점 더 증가하고 있음을 보여줍니다.",
+    "emerging_sector": "면역학",
     "leading_companies": [
       "Gilead",
       "Galapagos"
     ],
     "category": "macro",
-    "urgency": "high",
+    "urgency": "medium",
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 8,
     "korea_search_query": "STAT"
+  },
+  {
+    "id": "0af2534071c097843869e80eeebecfdf",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Immutrin raises $87M to advance drug for progressive heart disease",
+    "summary": "The fresh funding will help the biotech startup advance a candidate to treat a genetic disorder, &ldquo;ATTR-CM,&rdquo; that has become a battleground for companies like Pfizer, Alnylam and BridgeBio.",
+    "url": "https://www.biopharmadive.com/news/immutrin-raises-87-million-advance-drug-progressive-heart-disease/815553/",
+    "published_at": "2026-03-24T13:57:06+00:00",
+    "collected_at": "2026-03-25T07:05:31.863304+00:00",
+    "filter_score": 7,
+    "summary_ko": "Immutrin이 8700만 달러의 자금을 조달하여 진행성 심장 질환 치료를 위한 약물 개발을 진행할 계획입니다. 이는 바이오테크 산업에서 심장 질환 치료 기술에 대한 관심이 높아지고 있음을 보여줍니다.",
+    "emerging_sector": "심장 질환 치료",
+    "leading_companies": [
+      "Immutrin"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "Immutrin"
   },
   {
     "id": "eee2e2191133248c6059fd9784f8848e",
@@ -200,10 +156,10 @@
     "title": "<a href=\"https://www.fiercebiotech.com/medtech/ge-healthcare-claims-photon-counting-ct-clearance-fda\" hreflang=\"en\">GE HealthCare claims photon-counting CT clearance from FDA</a>",
     "summary": "The new Photonova Spectra aims to capture up to 50 times more data than some of its premium CT predecessors.",
     "url": "https://www.fiercebiotech.com/medtech/ge-healthcare-claims-photon-counting-ct-clearance-fda",
-    "published_at": "2026-03-25T05:24:34.993217+00:00",
-    "collected_at": "2026-03-25T05:24:34.993223+00:00",
+    "published_at": "2026-03-25T07:05:32.106852+00:00",
+    "collected_at": "2026-03-25T07:05:32.106859+00:00",
     "filter_score": 7,
-    "summary_ko": "GE HealthCare는 새로운 Photonova Spectra를 출시했다. 이 제품은 일부 고급 CT 기기의 50배 이상의 데이터를 캡처할 수 있다.",
+    "summary_ko": "GE HealthCare는 새로운 Photonova Spectra를 통해 기존의 고급 CT 기기보다 최대 50배 더 많은 데이터를 캡처할 수 있다고 주장했다. 이 제품은 FDA의 승인을 받았다.",
     "emerging_sector": "Photon-counting CT",
     "leading_companies": [
       "GE HealthCare"
@@ -213,88 +169,5 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "HealthCare"
-  },
-  {
-    "id": "8c5cb4a360eadd6b9eb58366f86d46ca",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/shionogi-pays-apnimed-100m-joint-venture-awaken-sleep-disorder-dream\" hreflang=\"en\">Shionogi pays Apnimed $100M for joint venture to awaken sleep disorder dream</a>",
-    "summary": "Shionogi has struck a deal to take full control of its sleep disorder joint venture, agreeing to pay Apnimed $100 million upfront for its partner’s half of the business.",
-    "url": "https://www.fiercebiotech.com/biotech/shionogi-pays-apnimed-100m-joint-venture-awaken-sleep-disorder-dream",
-    "published_at": "2026-03-25T05:24:34.993280+00:00",
-    "collected_at": "2026-03-25T05:24:34.993288+00:00",
-    "filter_score": 7,
-    "summary_ko": "Shionogi는 Apnimed와의 합작 투자로 수면 장애 치료제를 개발하기 위해 1억 달러를 지불했다. 이 거래는 Shionogi가 합작 투자의 전부를 통제할 수 있게 해준다.",
-    "emerging_sector": "수면 장애 치료",
-    "leading_companies": [
-      "Shionogi",
-      "Apnimed"
-    ],
-    "category": "biotech",
-    "urgency": "high",
-    "korea_status": "🔥 독점 정보",
-    "korea_news_count": 0,
-    "korea_search_query": "Shionogi"
-  },
-  {
-    "id": "8c9cc4dbb006d5e72721c90b816da377",
-    "source": "Endpoints News",
-    "source_type": "rss",
-    "title": "Triangle Health raises $4M as people turn to AI to understand their health",
-    "summary": "Triangle Health raised $4 million to help people understand their health conditions and explore treatment options, Endpoints News learned exclusively.\n\n After a person uploads or syncs their health records, Triangle’s AI can brainstorm and compare ...",
-    "url": "https://endpoints.news/triangle-health-raises-4m-as-people-turn-to-ai-to-understand-their-health/",
-    "published_at": "2026-03-24T13:00:11+00:00",
-    "collected_at": "2026-03-25T05:24:35.189743+00:00",
-    "filter_score": 7,
-    "summary_ko": "Triangle Health는 400만 달러의 자금을 조달하여 인공지능을 활용한 건강 상태 이해와 치료 옵션 탐색을 지원할 계획이다.",
-    "emerging_sector": "인공지능 기반 건강 관리",
-    "leading_companies": [
-      "Triangle Health"
-    ],
-    "category": "tech_trend",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "Triangle"
-  },
-  {
-    "id": "293a1f8fea7157fca78f9d1cec3dd3a1",
-    "source": "MedCity News",
-    "source_type": "rss",
-    "title": "How A Small Rural Hospital Is Using AI to Catch Heart Disease Sooner",
-    "summary": "At Wayne General Hospital in rural Mississippi, clinicians are using Eko Health’s AI-powered digital stethoscope to detect heart conditions earlier in patients with limited access to specialists. \nThe post How A Small Rural Hospital Is Using AI to Catch Heart Disease Sooner appeared first on MedCity News.",
-    "url": "https://medcitynews.com/2026/03/rural-hospital-cardiology/",
-    "published_at": "2026-03-25T00:49:30+00:00",
-    "collected_at": "2026-03-25T05:24:35.388664+00:00",
-    "filter_score": 7,
-    "summary_ko": "미시시피 주의 한 농촌 병원에서 Eko Health의 AI 기반 디지털 청진기를 사용하여 심장 질환을 조기에 발견하고 있다.",
-    "emerging_sector": "의료 AI",
-    "leading_companies": [
-      "Eko Health"
-    ],
-    "category": "tech_trend",
-    "urgency": "medium",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "Small"
-  },
-  {
-    "id": "c9024fd18b872c73af285241a356819d",
-    "source": "MedCity News",
-    "source_type": "rss",
-    "title": "AI Won’t Replace Clinical Trial Teams, But It Fixes the Bottlenecks That Keep Patients Out",
-    "summary": "We don’t have a shortage of willing patients — instead we have a shortage of scalable ways to identify and engage them responsibly. AI, used meaningfully offers a reliable path forward. \nThe post AI Won’t Replace Clinical Trial Teams, But It Fixes the Bottlenecks That Keep Patients Out appeared first on MedCity News.",
-    "url": "https://medcitynews.com/2026/03/ai-wont-replace-clinical-trial-teams-but-it-fixes-the-bottlenecks-that-keep-patients-out/",
-    "published_at": "2026-03-24T13:41:00+00:00",
-    "collected_at": "2026-03-25T05:24:35.388727+00:00",
-    "filter_score": 7,
-    "summary_ko": "AI는 임상 시험 팀을 대체하지는 않지만, 환자를 제외하는 병목 현상을 해결할 수 있다.",
-    "emerging_sector": "의료 AI",
-    "leading_companies": [],
-    "category": "tech_trend",
-    "urgency": "medium",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "Replace"
   }
 ]
