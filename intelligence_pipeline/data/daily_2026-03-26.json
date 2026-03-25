@@ -379,5 +379,47 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "ARM"
+  },
+  {
+    "id": "7b4b5e74bf16377c66c7f8422538715e",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Imminent SpaceX IPO Filing Ignites Rally Across Space-Linked Stocks",
+    "summary": "Imminent SpaceX IPO Filing Ignites Rally Across Space-Linked Stocks \n\n            News that SpaceX may file an initial public offering prospectus with the Securities and Exchange Commission this week or next sparked a rally across SpaceX-linked names, satellite broadband providers, space transportation firms, and even publicly traded closed-end funds that hold private SpaceX shares.\n\nThe Information reports that SpaceX is set to file an IPO prospectus with the SEC this week or next, with plans f",
+    "url": "https://www.zerohedge.com/markets/imminent-spacex-ipo-filing-ignites-rally-across-space-linked-stocks",
+    "published_at": "2026-03-25T19:05:00+00:00",
+    "collected_at": "2026-03-25T20:41:33.711365+00:00",
+    "filter_score": 8,
+    "summary_ko": "스페이스X의 即将到来的 상장으로 우주 관련 주가가 상승했다.",
+    "emerging_sector": "우주 기술",
+    "leading_companies": [
+      "SpaceX"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "IPO OR 상장 우주항공 OR 우주산업 위성"
+  },
+  {
+    "id": "ac25758ba4210045029545a08d624203",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections\" hreflang=\"en\">FDA approves Denali's Hunter syndrome drug, handing rare disease community a win</a>",
+    "summary": "The FDA has approved Denali Therapeutics’ enzyme replacement therapy for a genetic lysosomal storage disease after a string of high-profile rejections for rare disease candidates.",
+    "url": "https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections",
+    "published_at": "2026-03-25T20:41:44.154007+00:00",
+    "collected_at": "2026-03-25T20:41:44.154021+00:00",
+    "filter_score": 8,
+    "summary_ko": "FDA는 Denali Therapeutics의 헌터 증후군 치료 약물을 승인했습니다. 이는 희귀 질환 치료 시장에서 새로운 기회를 창출하는 것으로 보입니다.",
+    "emerging_sector": "희귀 질환 치료",
+    "leading_companies": [
+      "Denali Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "ARM"
   }
 ]
