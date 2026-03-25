@@ -7,12 +7,12 @@
     "summary": "Qualified Health, which helps health systems build and manage artificial intelligence tools, has raised $125 million.",
     "url": "https://www.statnews.com/2026/03/25/qualified-health-raises-125-million-help-hospitals-manage-ai/?utm_campaign=rss",
     "published_at": "2026-03-25T08:30:00+00:00",
-    "collected_at": "2026-03-25T08:55:31.094741+00:00",
+    "collected_at": "2026-03-25T10:52:15.743929+00:00",
     "filter_score": 8,
-    "summary_ko": "건강 시스템을 위한 인공 지능 도구 개발 및 관리를 지원하는 퀄리파이드 헬스(Qualified Health)가 1억 2천 5백만 달러를 투자 받았습니다.",
-    "emerging_sector": "의료 인공 지능",
+    "summary_ko": "헬스케어 시스템을 위한 인공지능 도구 개발을 지원하는 퀄리파이드 헬스가 1억 2천 5백만 달러를 투자받았다.",
+    "emerging_sector": "의료 인공지능",
     "leading_companies": [
-      "Qualified Health"
+      "퀄리파이드 헬스"
     ],
     "category": "tech_trend",
     "urgency": "high"
@@ -25,10 +25,10 @@
     "summary": "The hefty funding will support a U.S.- and China-based startup that&rsquo;s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi.&nbsp;",
     "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
     "published_at": "2026-03-20T17:13:00+00:00",
-    "collected_at": "2026-03-25T08:55:31.325027+00:00",
+    "collected_at": "2026-03-25T10:52:15.907349+00:00",
     "filter_score": 8,
-    "summary_ko": "AI를 활용한 제약회사 Earendil Labs가 7억 8천만 달러의 자금을 유치했다.",
-    "emerging_sector": "AI 제약",
+    "summary_ko": "AI 기반 의약품 개발사 Earendil Labs가 7억 8천만 달러의 자금을 확보했다.",
+    "emerging_sector": "AI 기반 의약품 개발",
     "leading_companies": [
       "Earendil Labs",
       "Sanofi"
@@ -37,39 +37,39 @@
     "urgency": "high"
   },
   {
-    "id": "62a918cacc580a0daf33989342075bdf",
-    "source": "ZeroHedge",
+    "id": "f98d480cc838b5d4f1ecad3fe4e3af18",
+    "source": "Endpoints News",
     "source_type": "rss",
-    "title": "New Details: US Pilot Suffered Shrapnel Wounds After 'Unkillable' F-35 Was Struck By Iran",
-    "summary": "New Details: US Pilot Suffered Shrapnel Wounds After 'Unkillable' F-35 Was Struck By Iran\n\n            Very little is known about last week's incident which forced an 'unkillable' F-35 fighter jet to make an emergency landing at an airbase in the Middle East last week, amid reports it took on Iranian fire.\n\nIranian state media said it was shot and successfully downed. Al Jazeera observed that \"If true, this would be the first time during the war that an F-35, the cornerstone of Washington’s aeri",
-    "url": "https://www.zerohedge.com/geopolitical/new-details-us-pilot-suffered-shrapnel-wounds-after-unkillable-f-35-was-struck-iran",
-    "published_at": "2026-03-25T01:50:00+00:00",
-    "collected_at": "2026-03-25T08:55:26.129820+00:00",
-    "filter_score": 7,
-    "summary_ko": "미국 조종사가 이란의 공격으로 인해 부상",
-    "emerging_sector": "국방 산업",
+    "title": "Merck to buy Terns for $6.7B, taking a leukemia drug that could challenge Novartis' Scemblix",
+    "summary": "Merck is looking to further solidify its oncology pipeline via a $6.7 billion cash acquisition of Terns Pharmaceuticals and its investigational treatment for chronic myeloid leukemia.\n\n The Wednesday morning M&A move gives the New Jersey ...",
+    "url": "https://endpoints.news/merck-to-buy-terns-for-6-7b-taking-a-leukemia-drug-that-could-challenge-novartis-scemblix/",
+    "published_at": "2026-03-25T10:47:34+00:00",
+    "collected_at": "2026-03-25T10:52:16.318087+00:00",
+    "filter_score": 8,
+    "summary_ko": "머크가 67억 달러에 테르스 제약을 인수하여 백혈병 치료제 개발에 진출한다. 이 인수로 머크는 노바티스의 스켐블릭스와 경쟁할 수 있는 백혈병 치료제를 개발할 수 있다.",
+    "emerging_sector": "백혈병 치료제",
     "leading_companies": [
-      "록히드 마틴"
+      "머크",
+      "테르스 제약",
+      "노바티스"
     ],
-    "category": "geopolitics",
+    "category": "tech_trend",
     "urgency": "high"
   },
   {
-    "id": "2969019a638579d8be19604c1c83bc9f",
-    "source": "STAT News",
+    "id": "e19facd29488248188cbe1546b46f834",
+    "source": "ZeroHedge",
     "source_type": "rss",
-    "title": "Opinion: We’re launching a new CMS pilot program to help children with complex conditions",
-    "summary": "CMS wants “to turn this shoddy patchwork of care into a seamless tapestry,” write CMS Administrator Mehmet Oz and Center for Medicare and Medicaid Innovation Director Abe Sutton.",
-    "url": "https://www.statnews.com/2026/03/24/cms-aspire-innovation-model-announcement/?utm_campaign=rss",
-    "published_at": "2026-03-24T20:00:00+00:00",
-    "collected_at": "2026-03-25T08:55:31.094777+00:00",
+    "title": "Israel Seeks To Disrupt Russian-Iranian Arms Transfer Route In The Caspian Sea",
+    "summary": "Israel Seeks To Disrupt Russian-Iranian Arms Transfer Route In The Caspian Sea\n\n            Russia and Iran have long had positive bilateral relations, which deepened in the context of the Ukraine war, and now in the midst of Trump's Operation Epic Fury, where Moscow is said to be sharing vital intelligence and targeting information with Tehran.\n\nFresh reporting in The Wall Street Journal suggests that recent large-scale Israeli attacks in the Caspian Sea could mean flirting with WW3 and potenti",
+    "url": "https://www.zerohedge.com/geopolitical/israel-seeks-disrupt-russian-iranian-arms-transfer-route-caspian-sea",
+    "published_at": "2026-03-25T06:45:00+00:00",
+    "collected_at": "2026-03-25T10:52:14.023889+00:00",
     "filter_score": 7,
-    "summary_ko": "CMS는 복잡한 질환을 가진 어린이들을 지원하기 위한 새로운 파일럿 프로그램을 시작합니다.",
-    "emerging_sector": "의료",
-    "leading_companies": [
-      "CMS"
-    ],
-    "category": "tech_trend",
+    "summary_ko": "이스라엘이 카스피 해에서 러시아-이란 무기 수송로를 방해하려 한다.",
+    "emerging_sector": "방위 산업",
+    "leading_companies": [],
+    "category": "geopolitics",
     "urgency": "high"
   },
   {
@@ -80,7 +80,7 @@
     "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
     "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
     "published_at": "2026-03-24T14:07:58+00:00",
-    "collected_at": "2026-03-25T08:55:31.324929+00:00",
+    "collected_at": "2026-03-25T10:52:15.907253+00:00",
     "filter_score": 7,
     "summary_ko": "Gilead가 Ouro Medicines를 인수하여 17억 달러를 투자했다. 이는 자가면역질환 치료를 위한 바이스펙틱스 개발에 대한 투자이다.",
     "emerging_sector": "바이스펙틱스",
@@ -92,19 +92,56 @@
     "urgency": "high"
   },
   {
-    "id": "100dce5219657e9e4bed6e4abb572fe6",
+    "id": "a4192f24bbb2b78a398ec87a2ab7144e",
     "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisk-prepares-go-global-triple-g-prospect-passes-midphase-diabetes-test-china\" hreflang=\"en\">Novo Nordisk prepares to go global as triple G prospect passes midphase diabetes test in China</a>",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisk-prepares-go-global-triple-g-prospect-passes-midphase-diabetes-test-china\" hreflang=\"en\">Novo Nordisk prepares to go global as triple-G prospect passes midphase diabetes test in China</a>",
     "summary": "Novo Nordisk and its Chinese partner have reported another midphase win for their triple G candidate, sharing diabetes data to add to the momentum generated by an obesity readout. But while the data suggest the asset is competitive, Eli Lilly’s headstart in the space means it remains the company to beat.",
     "url": "https://www.fiercebiotech.com/biotech/novo-nordisk-prepares-go-global-triple-g-prospect-passes-midphase-diabetes-test-china",
-    "published_at": "2026-03-25T08:55:31.409982+00:00",
-    "collected_at": "2026-03-25T08:55:31.409999+00:00",
+    "published_at": "2026-03-25T10:52:16.008716+00:00",
+    "collected_at": "2026-03-25T10:52:16.008732+00:00",
     "filter_score": 7,
-    "summary_ko": "Novo Nordisk의 3중 G 후보물질이 중국에서 중간 단계 임상 시험에서 통과했다.",
+    "summary_ko": "노보 노디스크의 3중 G 후보물질이 중국에서 중기 임상시험에서 통과했다.",
     "emerging_sector": "당뇨병 치료",
     "leading_companies": [
-      "Novo Nordisk"
+      "노보 노디스크"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "c5a16b49a730ead233d1eb9843113777",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Gilgamesh's psychedelics pipeline gets $60M backing after AbbVie deal",
+    "summary": "Investors have pumped $60 million into Gilgamesh Pharma to test a handful of psychedelics and other experimental neuroscience medicines that the biotech hasn't yet promised to a partner.\n\n The New York City biotech",
+    "url": "https://endpoints.news/gilgameshs-psychedelics-pipeline-gets-60m-backing-after-abbvie-deal/",
+    "published_at": "2026-03-25T10:00:55+00:00",
+    "collected_at": "2026-03-25T10:52:16.318103+00:00",
+    "filter_score": 7,
+    "summary_ko": "길게임즈 제약이 6,000만 달러의 투자를 받아 사이케델릭 치료제 개발에 나선다. 이 투자로 길게임즈 제약은 새로운 신경과학 치료제 개발에 집중할 수 있다.",
+    "emerging_sector": "사이케델릭 치료제",
+    "leading_companies": [
+      "길게임즈 제약",
+      "애큐비"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "defa5e24b5f36ed27ae175da46afd21d",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Q&A: Controversial embryo editing entrepreneur Cathy Tie on her new startup",
+    "summary": "Cathy Tie has an audacity more typical of a tech startup founder than a biotech executive. She dropped out of college to start a genetic screening company and later founded a telemedicine startup. The 29-year-old ...",
+    "url": "https://endpoints.news/qa-controversial-embryo-editing-entrepreneur-cathy-tie-on-her-new-startup/",
+    "published_at": "2026-03-24T14:10:54+00:00",
+    "collected_at": "2026-03-25T10:52:16.318159+00:00",
+    "filter_score": 7,
+    "summary_ko": "임신 중 태아 편집 기업가 캐시 티가 새로운 스타트업을 설립했다. 그녀는 대학을 중퇴하고 유전적 스크리닝 회사와 텔레메디신 스타트업을 설립했다.",
+    "emerging_sector": "유전적 편집",
+    "leading_companies": [
+      "캐시 티"
     ],
     "category": "tech_trend",
     "urgency": "medium"
