@@ -1,19 +1,20 @@
 [
   {
-    "id": "b80a945d2e7a04d0825eb4a7b5f8b55a",
-    "source": "STAT News",
+    "id": "bf2ec0b45047954eca99d51f9d184cf5",
+    "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "STAT+: Merck to buy Terns Pharmaceuticals in $6.7B deal",
-    "summary": "On the lookout for its next blockbusters, Merck said it would buy Terns Pharmaceuticals, picking up a promising leukemia treatment.",
-    "url": "https://www.statnews.com/2026/03/25/merck-terns-pharmaceuticals-leukemia-tern701/?utm_campaign=rss",
-    "published_at": "2026-03-25T11:46:25+00:00",
-    "collected_at": "2026-03-25T13:15:41.941396+00:00",
+    "title": "Merck to buy Terns in $6.7B bet on a ‘differentiated’ leukemia drug",
+    "summary": "If consummated, the deal would hand Merck a treatment that could challenge Novartis&rsquo; fast-selling Scemblix. But the low purchase premium may leave room for a competing bid, analysts said.",
+    "url": "https://www.biopharmadive.com/news/merck-terns-acquire-deal-leukemia-drug/815637/",
+    "published_at": "2026-03-25T12:50:02+00:00",
+    "collected_at": "2026-03-25T15:02:14.649502+00:00",
     "filter_score": 8,
-    "summary_ko": "Merck가 Terns Pharmaceuticals를 67억 달러에 인수하여 백혈병 치료제를 확보한 뉴스입니다.",
-    "emerging_sector": "바이오테크",
+    "summary_ko": "Merck는 Terns를 67억 달러에 인수하여 백혈병 치료제 시장에 진출한다.",
+    "emerging_sector": "백혈병 치료제",
     "leading_companies": [
       "Merck",
-      "Terns Pharmaceuticals"
+      "Terns",
+      "Novartis"
     ],
     "category": "smart_money",
     "urgency": "high"
@@ -26,71 +27,52 @@
     "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
     "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
     "published_at": "2026-03-24T14:07:58+00:00",
-    "collected_at": "2026-03-25T13:15:42.133790+00:00",
+    "collected_at": "2026-03-25T15:02:14.649531+00:00",
     "filter_score": 8,
-    "summary_ko": "Gilead가 Ouro Medicines를 17억 달러에 인수하여 자가 면역 질환 치료제 개발에 투자했습니다.",
-    "emerging_sector": "자가 면역 질환 치료제",
+    "summary_ko": "Gilead는 Ouro Medicines를 인수하여 17억 달러를 투자하고 자가면역 질환 치료제 개발에 나선다.",
+    "emerging_sector": "자가면역 질환 치료제",
     "leading_companies": [
-      "Gilead"
-    ],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "b989e91bc6be1cdc652b523fcb28c352",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Gilgamesh's $60M series A; Immutrin raises $87M</a>",
-    "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
-    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-    "published_at": "2026-03-25T13:15:42.259668+00:00",
-    "collected_at": "2026-03-25T13:15:42.259687+00:00",
-    "filter_score": 8,
-    "summary_ko": "Gilgamesh와 Immutrin이 각각 6000만 달러와 8700만 달러의 시리즈 A 투자를 유치하였습니다.",
-    "emerging_sector": "바이오테크 투자",
-    "leading_companies": [
-      "Gilgamesh",
-      "Immutrin"
+      "Gilead",
+      "Ouro Medicines"
     ],
     "category": "smart_money",
     "urgency": "high"
   },
   {
-    "id": "ddfea2eb9516138354040707e106e802",
-    "source": "STAT News",
+    "id": "76f52750110c44fba4a0ef348c2a17a6",
+    "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "STAT+: Qualified Health raises $125 million, as it helps more health systems build and manage AI tools",
-    "summary": "Qualified Health, which helps health systems build and manage artificial intelligence tools, has raised $125 million.",
-    "url": "https://www.statnews.com/2026/03/25/qualified-health-raises-125-million-help-hospitals-manage-ai/?utm_campaign=rss",
-    "published_at": "2026-03-25T08:30:00+00:00",
-    "collected_at": "2026-03-25T13:15:41.941433+00:00",
-    "filter_score": 7,
-    "summary_ko": "Qualified Health가 1억 2500만 달러를 투자받아 의료 시스템에 AI 도구를 구축하고 관리하는 뉴스입니다.",
-    "emerging_sector": "의료 AI",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/endogenex-nets-50m-carry-intestinal-diabetes-procedure-fda\" hreflang=\"en\">Endogenex nets $50M to carry intestinal diabetes procedure to the FDA</a>",
+    "summary": "The fundraising comes after clinical results showed its system met safety goals and led to metabolic improvements in HbA1c, fasting glucose levels and body weight.",
+    "url": "https://www.fiercebiotech.com/medtech/endogenex-nets-50m-carry-intestinal-diabetes-procedure-fda",
+    "published_at": "2026-03-25T15:02:14.824459+00:00",
+    "collected_at": "2026-03-25T15:02:14.824473+00:00",
+    "filter_score": 8,
+    "summary_ko": "Endogenex는 FDA 승인을 위해 소화기 제대루 치료를 개발하기 위해 5000만 달러를 조달했습니다. 임상 결과는 시스템이 안전성 목표를 달성하고 대사 개선을 보였습니다.",
+    "emerging_sector": "제대루 치료",
     "leading_companies": [
-      "Qualified Health"
+      "Endogenex"
     ],
     "category": "tech_trend",
     "urgency": "high"
   },
   {
-    "id": "bf2ec0b45047954eca99d51f9d184cf5",
+    "id": "cd4ef86dd264931433b80674d400ff0b",
     "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "Merck to buy Terns in $6.7B bet on a ‘differentiated’ leukemia drug",
-    "summary": "If consummated, the deal would hand Merck a treatment that could challenge Novartis&rsquo; fast-selling Scemblix. But the low purchase premium may leave room for a competing bid, analysts said.",
-    "url": "https://www.biopharmadive.com/news/merck-terns-acquire-deal-leukemia-drug/815637/",
-    "published_at": "2026-03-25T12:50:02+00:00",
-    "collected_at": "2026-03-25T13:15:42.133757+00:00",
+    "title": "RA Capital targets China with latest SPAC deal",
+    "summary": "The prominent investor aims to merge its latest special purpose acquisition company with a&nbsp;Chinese biotech, according to a securities filing.",
+    "url": "https://www.biopharmadive.com/news/ra-capital-spac-private-merger-china/815572/",
+    "published_at": "2026-03-24T19:00:00+00:00",
+    "collected_at": "2026-03-25T15:02:14.649519+00:00",
     "filter_score": 7,
-    "summary_ko": "Merck가 Terns를 67억 달러에 인수하여 백혈병 치료제 개발에 투자했습니다.",
-    "emerging_sector": "백혈병 치료제",
+    "summary_ko": "RA Capital은 중국의 바이오 테크 회사와 합병을 목표로 하는 SPAC 거래를 발표했다.",
+    "emerging_sector": "중국 바이오 테크",
     "leading_companies": [
-      "Merck",
-      "Novartis"
+      "RA Capital"
     ],
-    "category": "tech_trend",
-    "urgency": "high"
+    "category": "smart_money",
+    "urgency": "medium"
   },
   {
     "id": "a7b64785ac8200cc9f973021a512ce2d",
@@ -100,69 +82,14 @@
     "summary": "Company shares climbed by more than 20% on Phase 2 study results suggesting the therapy could provide sustained relief when administered once every three or six months.",
     "url": "https://www.biopharmadive.com/news/apogee-eczema-drug-data-zumilokibart-atopic-dermatitis/815396/",
     "published_at": "2026-03-23T16:15:00+00:00",
-    "collected_at": "2026-03-25T13:15:42.133840+00:00",
+    "collected_at": "2026-03-25T15:02:14.649581+00:00",
     "filter_score": 7,
-    "summary_ko": "Apogee의 임상시험 결과는 회사의 아토피 치료제가 3개월 또는 6개월마다 투여 시 지속적인 완화를 제공할 수 있음을 보여주었습니다.",
-    "emerging_sector": "피부과학",
+    "summary_ko": "Apogee의 아토피 치료제는 3개월 또는 6개월마다 투여 시 지속적인 완화를 제공할 수 있는 것으로 나타났습니다. 이 결과로 회사 주가는 20% 이상 상승했습니다.",
+    "emerging_sector": "아토피 치료",
     "leading_companies": [
       "Apogee"
     ],
     "category": "tech_trend",
-    "urgency": "medium"
-  },
-  {
-    "id": "a4192f24bbb2b78a398ec87a2ab7144e",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisk-prepares-go-global-triple-g-prospect-passes-midphase-diabetes-test-china\" hreflang=\"en\">Novo Nordisk prepares to go global as triple-G prospect passes midphase diabetes test in China</a>",
-    "summary": "Novo Nordisk and its Chinese partner have reported another midphase win for their triple G candidate, sharing diabetes data to add to the momentum generated by an obesity readout. But while the data suggest the asset is competitive, Eli Lilly’s headstart in the space means it remains the company to beat.",
-    "url": "https://www.fiercebiotech.com/biotech/novo-nordisk-prepares-go-global-triple-g-prospect-passes-midphase-diabetes-test-china",
-    "published_at": "2026-03-25T13:15:42.259700+00:00",
-    "collected_at": "2026-03-25T13:15:42.259708+00:00",
-    "filter_score": 7,
-    "summary_ko": "노보 노디스크의 3중 G 후보물질이 중국에서 중기 임상시험에서 당뇨병 치료에 효과를 보여주었습니다.",
-    "emerging_sector": "당뇨병 치료",
-    "leading_companies": [
-      "노보 노디스크"
-    ],
-    "category": "tech_trend",
-    "urgency": "medium"
-  },
-  {
-    "id": "eee2e2191133248c6059fd9784f8848e",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/ge-healthcare-claims-photon-counting-ct-clearance-fda\" hreflang=\"en\">GE HealthCare claims photon-counting CT clearance from FDA</a>",
-    "summary": "The new Photonova Spectra aims to capture up to 50 times more data than some of its premium CT predecessors.",
-    "url": "https://www.fiercebiotech.com/medtech/ge-healthcare-claims-photon-counting-ct-clearance-fda",
-    "published_at": "2026-03-25T13:15:42.259746+00:00",
-    "collected_at": "2026-03-25T13:15:42.259752+00:00",
-    "filter_score": 7,
-    "summary_ko": "GE HealthCare의 새로운 Photonova Spectra가 FDA의 승인을 받았다. 이 장치는 기존의 고급 CT 장치보다 최대 50배 더 많은 데이터를 캡처할 수 있다.",
-    "emerging_sector": "의료 기기",
-    "leading_companies": [
-      "GE HealthCare"
-    ],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "c476182e72991ebbb1f94acf32d6e1e2",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/quotients-genomics-platform-attracts-merck-22b-ibd-drug-target-deal\" hreflang=\"en\">Merck hands over $20M in IBD drug target deal with Flagship's Quotient</a>",
-    "summary": "Looking to devise new drug targets for inflammatory bowel disease, Merck will pay Flagship Pioneering's Quotient Therapeutics $20 million upfront for access to the biotech’s somatic genomics platform.",
-    "url": "https://www.fiercebiotech.com/biotech/quotients-genomics-platform-attracts-merck-22b-ibd-drug-target-deal",
-    "published_at": "2026-03-25T13:15:42.259802+00:00",
-    "collected_at": "2026-03-25T13:15:42.259807+00:00",
-    "filter_score": 7,
-    "summary_ko": "Merck가 Quotient Therapeutics와의 협약을 통해 2,000만 달러를 지불했다. 이 협약은 염증성 장 질환 치료를 위한 새로운 약물 개발을 목표로 한다.",
-    "emerging_sector": "염증성 장 질환 치료",
-    "leading_companies": [
-      "Merck",
-      "Quotient Therapeutics"
-    ],
-    "category": "smart_money",
     "urgency": "high"
   }
 ]
