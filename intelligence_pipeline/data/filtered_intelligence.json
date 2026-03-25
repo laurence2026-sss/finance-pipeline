@@ -1,23 +1,76 @@
 [
   {
-    "id": "bf2ec0b45047954eca99d51f9d184cf5",
-    "source": "BioPharma Dive",
+    "id": "ad819c1e3a43ba5b3293d91f9e330eb6",
+    "source": "STAT News",
     "source_type": "rss",
-    "title": "Merck to buy Terns in $6.7B bet on a ‘differentiated’ leukemia drug",
-    "summary": "If consummated, the deal would hand Merck a treatment that could challenge Novartis&rsquo; fast-selling Scemblix. But the low purchase premium may leave room for a competing bid, analysts said.",
-    "url": "https://www.biopharmadive.com/news/merck-terns-acquire-deal-leukemia-drug/815637/",
-    "published_at": "2026-03-25T12:50:02+00:00",
-    "collected_at": "2026-03-25T15:02:14.649502+00:00",
+    "title": "STAT+: Pharmalittle: We’re reading about a Merck acquisition, the rise of former Loxo execs at Lilly, and more",
+    "summary": "Merck intends to buy Terns Pharmaceuticals, the developer of a promising leukemia treatment, for $6.7 billion",
+    "url": "https://www.statnews.com/pharmalot/2026/03/25/merck-buying-terns-leukemia-lilly-novo-takeda-cvs-caremark/?utm_campaign=rss",
+    "published_at": "2026-03-25T13:17:44+00:00",
+    "collected_at": "2026-03-25T17:04:54.924705+00:00",
     "filter_score": 8,
-    "summary_ko": "Merck는 Terns를 67억 달러에 인수하여 백혈병 치료제 시장에 진출한다.",
+    "summary_ko": "Merck가 Terns Pharmaceuticals를 67억 달러에 인수할 계획입니다. Terns Pharmaceuticals는 백혈병 치료제를 개발하고 있습니다.",
     "emerging_sector": "백혈병 치료제",
     "leading_companies": [
       "Merck",
-      "Terns",
-      "Novartis"
+      "Terns Pharmaceuticals"
     ],
-    "category": "smart_money",
+    "category": "tech_trend",
     "urgency": "high"
+  },
+  {
+    "id": "293a1f8fea7157fca78f9d1cec3dd3a1",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "How A Small Rural Hospital Is Using AI to Catch Heart Disease Sooner",
+    "summary": "At Wayne General Hospital in rural Mississippi, clinicians are using Eko Health’s AI-powered digital stethoscope to detect heart conditions earlier in patients with limited access to specialists. \nThe post How A Small Rural Hospital Is Using AI to Catch Heart Disease Sooner appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/rural-hospital-cardiology/",
+    "published_at": "2026-03-25T00:49:30+00:00",
+    "collected_at": "2026-03-25T17:04:56.220653+00:00",
+    "filter_score": 8,
+    "summary_ko": "미시시피 주의 한 소규모 농촌 병원은 Eko Health의 인공지능 기반 디지털 청진기를 사용하여 심장 질환을 조기에 발견하고 있다.",
+    "emerging_sector": "의료 인공지능",
+    "leading_companies": [
+      "Eko Health"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "e5b23b82ba4db9f7865eb2d80fe05ca0",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: A 2023 health AI bet that seems to be paying off",
+    "summary": "In this edition of STAT's AI Prognosis: A chat with Qualified Health co-founder and CEO, Justin Norden, as the company raises $125 million.",
+    "url": "https://www.statnews.com/2026/03/25/2023-health-ai-bet-that-seems-paying-off-ai-prognosis/?utm_campaign=rss",
+    "published_at": "2026-03-25T16:01:24+00:00",
+    "collected_at": "2026-03-25T17:04:54.924668+00:00",
+    "filter_score": 7,
+    "summary_ko": "건강 관련 AI 기술에 대한 투자가 성과를 보이고 있습니다. Qualified Health는 1억 2500만 달러를 투자받았습니다.",
+    "emerging_sector": "건강 관련 AI",
+    "leading_companies": [
+      "Qualified Health"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "ddfea2eb9516138354040707e106e802",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Qualified Health raises $125 million, as it helps more health systems build and manage AI tools",
+    "summary": "Qualified Health, which helps health systems build and manage artificial intelligence tools, has raised $125 million.",
+    "url": "https://www.statnews.com/2026/03/25/qualified-health-raises-125-million-help-hospitals-manage-ai/?utm_campaign=rss",
+    "published_at": "2026-03-25T08:30:00+00:00",
+    "collected_at": "2026-03-25T17:04:54.924758+00:00",
+    "filter_score": 7,
+    "summary_ko": "퀄리파이드 헬스가 1억 2500만 달러를 투자받아 의료 시스템에 인공지능 도구를 구축하고 관리하는 사업을 확대할 계획이다.",
+    "emerging_sector": "의료 인공지능",
+    "leading_companies": [
+      "퀄리파이드 헬스"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
   },
   {
     "id": "a41cdc1a8822c8defef60e0e8f606777",
@@ -27,67 +80,70 @@
     "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
     "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
     "published_at": "2026-03-24T14:07:58+00:00",
-    "collected_at": "2026-03-25T15:02:14.649531+00:00",
-    "filter_score": 8,
-    "summary_ko": "Gilead는 Ouro Medicines를 인수하여 17억 달러를 투자하고 자가면역 질환 치료제 개발에 나선다.",
-    "emerging_sector": "자가면역 질환 치료제",
+    "collected_at": "2026-03-25T17:04:55.244753+00:00",
+    "filter_score": 7,
+    "summary_ko": "질레드가 17억 달러를 투자하여 오우로 메디신스를 인수하여 자가 면역 질환 치료를 위한 비스펙시픽스 약물 개발을 추진할 계획이다.",
+    "emerging_sector": "비스펙시픽스 약물",
     "leading_companies": [
-      "Gilead",
-      "Ouro Medicines"
-    ],
-    "category": "smart_money",
-    "urgency": "high"
-  },
-  {
-    "id": "76f52750110c44fba4a0ef348c2a17a6",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/endogenex-nets-50m-carry-intestinal-diabetes-procedure-fda\" hreflang=\"en\">Endogenex nets $50M to carry intestinal diabetes procedure to the FDA</a>",
-    "summary": "The fundraising comes after clinical results showed its system met safety goals and led to metabolic improvements in HbA1c, fasting glucose levels and body weight.",
-    "url": "https://www.fiercebiotech.com/medtech/endogenex-nets-50m-carry-intestinal-diabetes-procedure-fda",
-    "published_at": "2026-03-25T15:02:14.824459+00:00",
-    "collected_at": "2026-03-25T15:02:14.824473+00:00",
-    "filter_score": 8,
-    "summary_ko": "Endogenex는 FDA 승인을 위해 소화기 제대루 치료를 개발하기 위해 5000만 달러를 조달했습니다. 임상 결과는 시스템이 안전성 목표를 달성하고 대사 개선을 보였습니다.",
-    "emerging_sector": "제대루 치료",
-    "leading_companies": [
-      "Endogenex"
+      "질레드",
+      "오우로 메디신스"
     ],
     "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "cd4ef86dd264931433b80674d400ff0b",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "RA Capital targets China with latest SPAC deal",
-    "summary": "The prominent investor aims to merge its latest special purpose acquisition company with a&nbsp;Chinese biotech, according to a securities filing.",
-    "url": "https://www.biopharmadive.com/news/ra-capital-spac-private-merger-china/815572/",
-    "published_at": "2026-03-24T19:00:00+00:00",
-    "collected_at": "2026-03-25T15:02:14.649519+00:00",
-    "filter_score": 7,
-    "summary_ko": "RA Capital은 중국의 바이오 테크 회사와 합병을 목표로 하는 SPAC 거래를 발표했다.",
-    "emerging_sector": "중국 바이오 테크",
-    "leading_companies": [
-      "RA Capital"
-    ],
-    "category": "smart_money",
     "urgency": "medium"
   },
   {
-    "id": "a7b64785ac8200cc9f973021a512ce2d",
+    "id": "0af2534071c097843869e80eeebecfdf",
     "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "Apogee strengthens case for longer-lasting eczema drug",
-    "summary": "Company shares climbed by more than 20% on Phase 2 study results suggesting the therapy could provide sustained relief when administered once every three or six months.",
-    "url": "https://www.biopharmadive.com/news/apogee-eczema-drug-data-zumilokibart-atopic-dermatitis/815396/",
-    "published_at": "2026-03-23T16:15:00+00:00",
-    "collected_at": "2026-03-25T15:02:14.649581+00:00",
+    "title": "Immutrin raises $87M to advance drug for progressive heart disease",
+    "summary": "The fresh funding will help the biotech startup advance a candidate to treat a genetic disorder, &ldquo;ATTR-CM,&rdquo; that has become a battleground for companies like Pfizer, Alnylam and BridgeBio.",
+    "url": "https://www.biopharmadive.com/news/immutrin-raises-87-million-advance-drug-progressive-heart-disease/815553/",
+    "published_at": "2026-03-24T13:57:06+00:00",
+    "collected_at": "2026-03-25T17:04:55.244765+00:00",
     "filter_score": 7,
-    "summary_ko": "Apogee의 아토피 치료제는 3개월 또는 6개월마다 투여 시 지속적인 완화를 제공할 수 있는 것으로 나타났습니다. 이 결과로 회사 주가는 20% 이상 상승했습니다.",
-    "emerging_sector": "아토피 치료",
+    "summary_ko": "Immutrin은 진행성 심장 질환 치료를 위한 신약 개발을 위해 8,700만 달러의 자금을 확보했다. 이 자금은 유전적 장애인 ATTR-CM 치료를 위한 후보물질 개발을 앞당길 것으로 기대된다.",
+    "emerging_sector": "생물의학",
     "leading_companies": [
-      "Apogee"
+      "Immutrin",
+      "Pfizer",
+      "Alnylam",
+      "BridgeBio"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "781556b151403a765088cbd9d80f0646",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-ph-2-readout-analysts-herald-best-class-potential-maze-kidney-candidate-stock\" hreflang=\"en\">After ph. 2 readout, analysts herald 'best-in-class potential' for Maze kidney candidate as stock plummets</a>",
+    "summary": "Maze Therapeutics has revealed topline phase 2 data for its lead kidney disease candidate that has analysts heralding its “best-in-class potential.” But many investors were racing for the exits Wednesday.",
+    "url": "https://www.fiercebiotech.com/biotech/after-ph-2-readout-analysts-herald-best-class-potential-maze-kidney-candidate-stock",
+    "published_at": "2026-03-25T17:04:55.524691+00:00",
+    "collected_at": "2026-03-25T17:04:55.524706+00:00",
+    "filter_score": 7,
+    "summary_ko": "Maze Therapeutics는 신장 질환 치료제의 임상시험 결과를 발표했다. 이 치료제는 분석가들이 '최고의 클래스'로 평가하며, 잠재적으로 신장 질환 치료의 새로운 표준이 될 수 있다.",
+    "emerging_sector": "생물의학",
+    "leading_companies": [
+      "Maze Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "cef8833418f6b19ca122760440046757",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "The FDA Is Fast-Tracking Health AI —Women’s Health Can’t Be Left Behind",
+    "summary": "Our biggest healthcare problems aren’t only cost or access, but the breakdown in how diagnoses are made, especially for women. Digital health’s new era of AI and real-time data is the most promising solution I’ve seen to fix this, but for these tools to work for women, they must be built on data that actually includes them.\nThe post The FDA Is Fast-Tracking Health AI —Women’s Health Can’t Be Left Behind appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/the-fda-is-fast-tracking-health-ai-womens-health-cant-be-left-behind/",
+    "published_at": "2026-03-25T13:27:00+00:00",
+    "collected_at": "2026-03-25T17:04:56.220622+00:00",
+    "filter_score": 7,
+    "summary_ko": "FDA는 건강 인공지능을 빠르게 추진하고 있다. 여성 건강은 인공지능의 발전에 뒤처서는 안 된다.",
+    "emerging_sector": "건강 인공지능",
+    "leading_companies": [
+      "FDA"
     ],
     "category": "tech_trend",
     "urgency": "high"
