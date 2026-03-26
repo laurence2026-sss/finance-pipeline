@@ -297,5 +297,50 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Oral"
+  },
+  {
+    "id": "0e4ce6b84da215bcdc7695eeeb9cca15",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Denali Therapeutics, Corcept Therapeutics win FDA approvals",
+    "summary": "In today's Readout Newsletter, Denali and Corcept win FDA approvals, Sarepta eyes a rebound, and Allogene progresses with an off-the-shelf CAR-T.",
+    "url": "https://www.statnews.com/2026/03/26/denali-corcept-fda-allogene-car-t-readout-newsletter/?utm_campaign=rss",
+    "published_at": "2026-03-26T16:04:26+00:00",
+    "collected_at": "2026-03-26T19:10:00.225631+00:00",
+    "filter_score": 8,
+    "summary_ko": "데날리 테라퓨틱스와 코르셉트 테라퓨틱스가 FDA 승인을 받았다. 이는 바이오 기술 분야에서 중요한 발전이다.",
+    "emerging_sector": "바이오 기술",
+    "leading_companies": [
+      "Denali Therapeutics",
+      "Corcept Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "STAT"
+  },
+  {
+    "id": "56110034abc82a74684cbacac9c4a4ba",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "Eli Lilly’s deal man, Allogene’s off-the-shelf CAR-T, and Merck’s Terns buy",
+    "summary": "This week on \"The Readout LOUD\" podcast: Eli Lilly's deal man, Allogene's off-the-shelf CAR-T, and Merck's Terns buy.",
+    "url": "https://www.statnews.com/2026/03/26/eli-lilly-allogene-merck-terns-readout-loud-podcast/?utm_campaign=rss",
+    "published_at": "2026-03-26T17:55:56+00:00",
+    "collected_at": "2026-03-26T19:10:00.225619+00:00",
+    "filter_score": 7,
+    "summary_ko": "엘리 릴리와 알로진의 CAR-T 기술 및 메르크의 테르نز 인수 등 바이오 기술 분야의 최근 동향이 논의되었다.",
+    "emerging_sector": "바이오 기술",
+    "leading_companies": [
+      "Eli Lilly",
+      "Allogene",
+      "Merck"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Lilly"
   }
 ]
