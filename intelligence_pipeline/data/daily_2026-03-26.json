@@ -769,5 +769,90 @@
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 2,
     "korea_search_query": "인수합병 ARM"
+  },
+  {
+    "id": "1309ca7bb34be0e743f3139245b48f6d",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Russia Launches Springtime Offensive On Ukraine, As \"That Other War\" Drags On",
+    "summary": "Russia Launches Springtime Offensive On Ukraine, As \"That Other War\" Drags On\n\n            Just days after we reported that trilateral peace negotiations between Russia, Ukraine, and the Trump administration had been suspended -  likely indefinitely - thanks to Washington's escalating involvement in the Iran war, Reuters is now confirming the inevitable: Moscow is pressing ahead with a fresh springtime offensive while Kiev scrambles to hold the line.\n\nAs we reported before, from the collapse of ",
+    "url": "https://www.zerohedge.com/markets/russia-launches-springtime-offensive-ukraine-other-war-drags",
+    "published_at": "2026-03-26T02:35:00+00:00",
+    "collected_at": "2026-03-26T05:42:36.333287+00:00",
+    "filter_score": 8,
+    "summary_ko": "러시아는 우크라이나에 대한 봄攻勢를 시작했다. 이는 지구정치적 긴장도를 높인다.",
+    "emerging_sector": "국방",
+    "leading_companies": [
+      "러시아 국방부",
+      "우크라이나 국방부"
+    ],
+    "category": "geopolitics",
+    "urgency": "breaking",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Russia"
+  },
+  {
+    "id": "4dca88f5aae17222c8f6c677ec918407",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Chevron Warns California Facing Historic Fuel Crisis As Diesel Hits Record $7",
+    "summary": "Chevron Warns California Facing Historic Fuel Crisis As Diesel Hits Record $7\n\n            The world's biggest energy execs are currently at the annual CERAWeek conclave in Houston where, understandably, they are dropping bulletin bombs reeking of fire and brimstone, and warning the already critical oil/gas situation will only get worse if the pre-war status quo isn't restored (which incidentally will be great for their bottom lines... until the world is tipped into a recession).\n\nTake US oil gi",
+    "url": "https://www.zerohedge.com/energy/chevron-warns-california-facing-historic-fuel-crisis-diesel-hits-record-7",
+    "published_at": "2026-03-26T02:10:00+00:00",
+    "collected_at": "2026-03-26T05:42:36.333354+00:00",
+    "filter_score": 7,
+    "summary_ko": "Chevron은 캘리포니아가 역사적인 연료 위기를 맞이하고 있다고 경고했다. 디젤 가격은 기록적인 7달러를 기록했다.",
+    "emerging_sector": "에너지",
+    "leading_companies": [
+      "Chevron"
+    ],
+    "category": "macro",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "경기침체"
+  },
+  {
+    "id": "d90a14b6095a9a2df82b4715e01dcb63",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Sarepta Therapeutics shares rise on early promise for rare disease drugs",
+    "summary": "Sarepta Therapeutics’ next crop of medicines for muscular dystrophy appear to be safe and effective in early clinical trials, the company said.",
+    "url": "https://www.statnews.com/2026/03/25/sarepta-therapeutics-fshd-dm1-study-results/?utm_campaign=rss",
+    "published_at": "2026-03-25T14:28:25+00:00",
+    "collected_at": "2026-03-26T05:42:39.696552+00:00",
+    "filter_score": 7,
+    "summary_ko": "Sarepta Therapeutics의 근이영양증 치료제가 초기 임상시험에서 안전성과 효능을 보였다.",
+    "emerging_sector": "근이영양증 치료제",
+    "leading_companies": [
+      "Sarepta Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "STAT"
+  },
+  {
+    "id": "80813646f9534920e15d40d6cd47837b",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Beam posts positive data on base editing treatment for AATD",
+    "summary": "Updated data showed the biotech's approach to the rare lung and liver condition helped restore functional protective proteins in a small study.",
+    "url": "https://www.biopharmadive.com/news/beam-base-gene-editing-clinical-data-aatd/815714/",
+    "published_at": "2026-03-25T17:50:20+00:00",
+    "collected_at": "2026-03-26T05:42:39.848964+00:00",
+    "filter_score": 7,
+    "summary_ko": "Beam의 AATD 치료제가 초기 데이터에서 긍정적인 결과를 보였다.",
+    "emerging_sector": "AATD 치료제",
+    "leading_companies": [
+      "Beam"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 6,
+    "korea_search_query": "Beam"
   }
 ]

@@ -6,8 +6,8 @@
     "title": "🔥 ARM: $157.07 (+16.38%)",
     "summary": "ARM 현재가 157.07, 일간 변동 +16.38%, 거래량 29,484,555 (평균 대비 6.1배 — 자금 이동 포착!)",
     "url": "https://finance.yahoo.com/quote/ARM",
-    "published_at": "2026-03-26T02:31:56.038198+00:00",
-    "collected_at": "2026-03-26T02:31:56.038203+00:00",
+    "published_at": "2026-03-26T05:42:42.150678+00:00",
+    "collected_at": "2026-03-26T05:42:42.150684+00:00",
     "metadata": {
       "ticker": "ARM",
       "price": 157.07,
@@ -18,7 +18,7 @@
       "is_spike": true
     },
     "filter_score": 9,
-    "summary_ko": "ARM의 주가가 16.38% 상승하여 157.07달러에 달했다. 이는 자금 이동의 신호로 볼 수 있다.",
+    "summary_ko": "ARM의 주가가 16.38% 상승하여 157.07달러에 달했습니다. 이는 자금 이동의 신호로 볼 수 있습니다.",
     "emerging_sector": "반도체",
     "leading_companies": [
       "ARM"
@@ -27,23 +27,23 @@
     "urgency": "breaking"
   },
   {
-    "id": "476138e9ff962772b78f30316040201b",
+    "id": "1309ca7bb34be0e743f3139245b48f6d",
     "source": "ZeroHedge",
     "source_type": "rss",
-    "title": "Why Memory Stocks Crashed Today: TurboQuant Just Changed The Game With \"Google's DeepSeek Moment\"",
-    "summary": "Why Memory Stocks Crashed Today: TurboQuant Just Changed The Game With \"Google's DeepSeek Moment\"\n\n            With stocks closing solidly in the green despite some painful wobbles during the day, one sector was a notable laggard: the same sector that had dramatically outperformed the S&P since memory prices soared last October: memory stocks, most notably MU and SNDK.\n\nIn his EOD wrap, Goldman tech specialist Peter Callahan wrote that while there wasn't that much actual \"angst\" out there, his c",
-    "url": "https://www.zerohedge.com/markets/why-memory-stocks-crashed-today-turboquant-just-changed-game-googles-deepseek-moment",
-    "published_at": "2026-03-26T01:45:00+00:00",
-    "collected_at": "2026-03-26T02:31:52.178040+00:00",
+    "title": "Russia Launches Springtime Offensive On Ukraine, As \"That Other War\" Drags On",
+    "summary": "Russia Launches Springtime Offensive On Ukraine, As \"That Other War\" Drags On\n\n            Just days after we reported that trilateral peace negotiations between Russia, Ukraine, and the Trump administration had been suspended -  likely indefinitely - thanks to Washington's escalating involvement in the Iran war, Reuters is now confirming the inevitable: Moscow is pressing ahead with a fresh springtime offensive while Kiev scrambles to hold the line.\n\nAs we reported before, from the collapse of ",
+    "url": "https://www.zerohedge.com/markets/russia-launches-springtime-offensive-ukraine-other-war-drags",
+    "published_at": "2026-03-26T02:35:00+00:00",
+    "collected_at": "2026-03-26T05:42:36.333287+00:00",
     "filter_score": 8,
-    "summary_ko": "TurboQuant의 'Google의 DeepSeek Moment'으로 메모리 스톡이 급락했다. 이는 메모리 기술의 새로운 패러다임을 나타낼 수 있다.",
-    "emerging_sector": "메모리 기술",
+    "summary_ko": "러시아는 우크라이나에 대한 봄攻勢를 시작했다. 이는 지구정치적 긴장도를 높인다.",
+    "emerging_sector": "국방",
     "leading_companies": [
-      "TurboQuant",
-      "Google"
+      "러시아 국방부",
+      "우크라이나 국방부"
     ],
-    "category": "tech_trend",
-    "urgency": "high"
+    "category": "geopolitics",
+    "urgency": "breaking"
   },
   {
     "id": "e5b23b82ba4db9f7865eb2d80fe05ca0",
@@ -53,14 +53,33 @@
     "summary": "In this edition of STAT's AI Prognosis: A chat with Qualified Health co-founder and CEO, Justin Norden, as the company raises $125 million.",
     "url": "https://www.statnews.com/2026/03/25/2023-health-ai-bet-that-seems-paying-off-ai-prognosis/?utm_campaign=rss",
     "published_at": "2026-03-25T16:01:24+00:00",
-    "collected_at": "2026-03-26T02:31:53.924224+00:00",
+    "collected_at": "2026-03-26T05:42:39.696541+00:00",
     "filter_score": 8,
-    "summary_ko": "건강 AI 분야의 스타트업 Qualified Health가 1억 2500만 달러를 투자받았다.",
+    "summary_ko": "건강 AI 분야의 Qualified Health가 1억 2500만 달러의 투자를 유치했다.",
     "emerging_sector": "건강 AI",
     "leading_companies": [
       "Qualified Health"
     ],
     "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "ad819c1e3a43ba5b3293d91f9e330eb6",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Pharmalittle: We’re reading about a Merck acquisition, the rise of former Loxo execs at Lilly, and more",
+    "summary": "Merck intends to buy Terns Pharmaceuticals, the developer of a promising leukemia treatment, for $6.7 billion",
+    "url": "https://www.statnews.com/pharmalot/2026/03/25/merck-buying-terns-leukemia-lilly-novo-takeda-cvs-caremark/?utm_campaign=rss",
+    "published_at": "2026-03-25T13:17:44+00:00",
+    "collected_at": "2026-03-26T05:42:39.696574+00:00",
+    "filter_score": 8,
+    "summary_ko": "Merck가 Terns Pharmaceuticals를 67억 달러에 인수하기로 했다.",
+    "emerging_sector": "백혈병 치료제",
+    "leading_companies": [
+      "Merck",
+      "Terns Pharmaceuticals"
+    ],
+    "category": "macro",
     "urgency": "high"
   },
   {
@@ -71,7 +90,7 @@
     "summary": "If consummated, the deal would hand Merck a treatment that could challenge Novartis&rsquo; fast-selling Scemblix. But the low purchase premium &mdash; which one analyst described as a \"steal\"&nbsp;&mdash; may leave room for a competing bid.",
     "url": "https://www.biopharmadive.com/news/merck-terns-acquire-deal-leukemia-drug/815637/",
     "published_at": "2026-03-25T12:50:02+00:00",
-    "collected_at": "2026-03-26T02:31:54.108286+00:00",
+    "collected_at": "2026-03-26T05:42:39.848991+00:00",
     "filter_score": 8,
     "summary_ko": "Merck가 Terns Pharmaceuticals를 67억 달러에 인수하기로 했다.",
     "emerging_sector": "백혈병 치료제",
@@ -90,11 +109,11 @@
     "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections\" hreflang=\"en\">FDA approves Denali's Hunter syndrome drug, handing rare disease community a win</a>",
     "summary": "The FDA has approved Denali Therapeutics’ enzyme replacement therapy for a genetic lysosomal storage disease after a string of high-profile rejections for rare disease candidates.",
     "url": "https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections",
-    "published_at": "2026-03-26T02:31:54.203553+00:00",
-    "collected_at": "2026-03-26T02:31:54.203570+00:00",
+    "published_at": "2026-03-26T05:42:40.000736+00:00",
+    "collected_at": "2026-03-26T05:42:40.000754+00:00",
     "filter_score": 8,
-    "summary_ko": "FDA는 Denali의 헌터 증후군 치료제를 승인했습니다. 이는 희귀병 치료 시장에서 새로운 기회를 제공할 수 있습니다.",
-    "emerging_sector": "희귀병 치료",
+    "summary_ko": "FDA는 Denali Therapeutics의 헌터 증후군 치료제를 승인하여, 희귀병 치료에 대한 기대가 높아졌습니다.",
+    "emerging_sector": "바이오테크",
     "leading_companies": [
       "Denali Therapeutics"
     ],
@@ -108,8 +127,8 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-flies-toward-promising-cml-asset-67b-terns-acquisition\" hreflang=\"en\">Merck, girding for Keytruda cliff, flies toward promising CML asset with $6.7B Terns acquisition</a>",
     "summary": "Merck and Terns Pharmaceuticals have agreed to a $6.7 billion all-cash buyout that delivers a prized leukemia asset to the New Jersey Big Pharma.",
     "url": "https://www.fiercebiotech.com/biotech/merck-flies-toward-promising-cml-asset-67b-terns-acquisition",
-    "published_at": "2026-03-26T02:31:54.203630+00:00",
-    "collected_at": "2026-03-26T02:31:54.203636+00:00",
+    "published_at": "2026-03-26T05:42:40.000814+00:00",
+    "collected_at": "2026-03-26T05:42:40.000820+00:00",
     "filter_score": 8,
     "summary_ko": "Merck는 Terns Pharmaceuticals를 67억 달러에 인수하여 백혈병 치료 자산을 확보하였다. 이는 Merck의 주요 약물 Keytruda의 수익성 감소에 대비한 전략이다.",
     "emerging_sector": "백혈병 치료 기술",
@@ -121,24 +140,6 @@
     "urgency": "high"
   },
   {
-    "id": "7df2d17c6fcbd89d7c6065bf83921dc3",
-    "source": "Endpoints News",
-    "source_type": "rss",
-    "title": "Microneedle vaccine patch company raises $50M for pivot to GLP-1 delivery",
-    "summary": "Fourteen years ago, a group of Harvard Business School students launched a startup called Vaxess Technologies with a goal to disrupt the vaccine industry by replacing needles with a simple skin patch.\n Getting the technology ...",
-    "url": "https://endpoints.news/microneedle-vaccine-patch-company-raises-50m-for-pivot-to-glp-1-delivery/",
-    "published_at": "2026-03-25T13:00:28+00:00",
-    "collected_at": "2026-03-26T02:31:54.468909+00:00",
-    "filter_score": 8,
-    "summary_ko": "미크로니들 백신 패치 회사인 Vaxess Technologies가 GLP-1 전달로 사업 방향을 전환하기 위해 5,000만 달러를 투자받았다. 이는 백신 산업에서 새로운 기술을 적용하려는 시도이다.",
-    "emerging_sector": "미크로니들 기술",
-    "leading_companies": [
-      "Vaxess Technologies"
-    ],
-    "category": "tech_trend",
-    "urgency": "medium"
-  },
-  {
     "id": "5cc761eaeb379082623910a68a530965",
     "source": "MedCity News",
     "source_type": "rss",
@@ -146,15 +147,15 @@
     "summary": "Adonis raised a $40 million Series C funding round to help hospitals use AI to tackle denied and underpaid claims. Its platform automates manual revenue cycle tasks and provides real-time insights, which allows staff to focus on higher-value work. Customers include Mount Sinai Health System, Baptist Health South Florida, AdventHealth and ApolloMD.\nThe post Adonis Scores $40M for AI Platform Aiming to Boost Hospital Revenue appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/hospital-revenue/",
     "published_at": "2026-03-26T01:29:39+00:00",
-    "collected_at": "2026-03-26T02:31:54.721342+00:00",
+    "collected_at": "2026-03-26T05:42:40.649319+00:00",
     "filter_score": 8,
-    "summary_ko": "Adonis는 병원 수익을 높이기 위한 AI 플랫폼 개발을 위해 4,000만 달러의 시리즈 C 자금을 투자받았다. 이는 의료 분야에서 AI 기술의 적용이 증가하고 있다.",
+    "summary_ko": "Adonis가 AI 플랫폼을 개발하여 병원 수익을 높이는 데 도움을 주고 있으며, 4,000만 달러의 시리즈 C 자금을 조달했습니다.",
     "emerging_sector": "의료 AI",
     "leading_companies": [
       "Adonis"
     ],
     "category": "tech_trend",
-    "urgency": "medium"
+    "urgency": "high"
   },
   {
     "id": "cef8833418f6b19ca122760440046757",
@@ -164,15 +165,15 @@
     "summary": "Our biggest healthcare problems aren’t only cost or access, but the breakdown in how diagnoses are made, especially for women. Digital health’s new era of AI and real-time data is the most promising solution I’ve seen to fix this, but for these tools to work for women, they must be built on data that actually includes them.\nThe post The FDA Is Fast-Tracking Health AI —Women’s Health Can’t Be Left Behind appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/the-fda-is-fast-tracking-health-ai-womens-health-cant-be-left-behind/",
     "published_at": "2026-03-25T13:27:00+00:00",
-    "collected_at": "2026-03-26T02:31:54.721401+00:00",
+    "collected_at": "2026-03-26T05:42:40.649378+00:00",
     "filter_score": 8,
-    "summary_ko": "FDA는 건강 AI를 빠르게 추진하고 있으며, 여성 건강은 뒤처져서는 안 된다. 디지털 헬스의 새로운 시대인 AI와 실시간 데이터는 가장 유망한 해결책이다.",
+    "summary_ko": "FDA가 건강 AI를 빠르게 추진하고 있으며, 여성 건강을 위한 AI 기술이 필요합니다.",
     "emerging_sector": "건강 AI",
     "leading_companies": [
       "FDA"
     ],
     "category": "tech_trend",
-    "urgency": "medium"
+    "urgency": "high"
   },
   {
     "id": "b84a4bb9c3371b958844b110ccdded94",
@@ -182,15 +183,33 @@
     "summary": "Gilead Sciences is acquiring Ouro Medicines, a startup developing T cell engagers for a range of autoimmune diseases. Separately, Gilead is negotiating a deal with Galapagos to share in the development and potential commercialization of the Ouro drug. \nThe post Gilead Sciences Gains an Opportunity for Immune System Reset With $1.7B Ouro Acquisition appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/gilead-sciences-ouro-acquisition-inflammation-autoimmune-disease-immune-system-reset-galapagos-gild-glpg/",
     "published_at": "2026-03-24T20:30:53+00:00",
-    "collected_at": "2026-03-26T02:31:54.721454+00:00",
+    "collected_at": "2026-03-26T05:42:40.649430+00:00",
     "filter_score": 8,
-    "summary_ko": "Gilead Sciences는 Ouro Medicines를 17억 달러에 인수하여 면역계 리셋을 위한 새로운 기회를 얻었다.",
+    "summary_ko": "Gilead Sciences는 Ouro Medicines를 17억 달러에 인수하여 면역계 리셋을 위한 새로운 기회를 얻었습니다.",
     "emerging_sector": "면역계 리셋",
     "leading_companies": [
       "Gilead Sciences",
       "Ouro Medicines"
     ],
     "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "4dca88f5aae17222c8f6c677ec918407",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Chevron Warns California Facing Historic Fuel Crisis As Diesel Hits Record $7",
+    "summary": "Chevron Warns California Facing Historic Fuel Crisis As Diesel Hits Record $7\n\n            The world's biggest energy execs are currently at the annual CERAWeek conclave in Houston where, understandably, they are dropping bulletin bombs reeking of fire and brimstone, and warning the already critical oil/gas situation will only get worse if the pre-war status quo isn't restored (which incidentally will be great for their bottom lines... until the world is tipped into a recession).\n\nTake US oil gi",
+    "url": "https://www.zerohedge.com/energy/chevron-warns-california-facing-historic-fuel-crisis-diesel-hits-record-7",
+    "published_at": "2026-03-26T02:10:00+00:00",
+    "collected_at": "2026-03-26T05:42:36.333354+00:00",
+    "filter_score": 7,
+    "summary_ko": "Chevron은 캘리포니아가 역사적인 연료 위기를 맞이하고 있다고 경고했다. 디젤 가격은 기록적인 7달러를 기록했다.",
+    "emerging_sector": "에너지",
+    "leading_companies": [
+      "Chevron"
+    ],
+    "category": "macro",
     "urgency": "high"
   },
   {
@@ -201,9 +220,9 @@
     "summary": "The FDA approved a new medicine from Denali Therapeutics for Hunter syndrome, a notable decision by the agency after a string of rejections of rare disease drugs.",
     "url": "https://www.statnews.com/2026/03/25/denali-therapeutics-hunter-syndrome-rare-disease/?utm_campaign=rss",
     "published_at": "2026-03-25T16:19:58+00:00",
-    "collected_at": "2026-03-26T02:31:53.924214+00:00",
+    "collected_at": "2026-03-26T05:42:39.696530+00:00",
     "filter_score": 7,
-    "summary_ko": "FDA가 헌터 증후군 치료제를 승인했다.",
+    "summary_ko": "FDA가 Denali Therapeutics의 헌터 증후군 치료제를 승인했다.",
     "emerging_sector": "의료 기술",
     "leading_companies": [
       "Denali Therapeutics"
@@ -212,23 +231,59 @@
     "urgency": "high"
   },
   {
-    "id": "ad819c1e3a43ba5b3293d91f9e330eb6",
+    "id": "d90a14b6095a9a2df82b4715e01dcb63",
     "source": "STAT News",
     "source_type": "rss",
-    "title": "STAT+: Pharmalittle: We’re reading about a Merck acquisition, the rise of former Loxo execs at Lilly, and more",
-    "summary": "Merck intends to buy Terns Pharmaceuticals, the developer of a promising leukemia treatment, for $6.7 billion",
-    "url": "https://www.statnews.com/pharmalot/2026/03/25/merck-buying-terns-leukemia-lilly-novo-takeda-cvs-caremark/?utm_campaign=rss",
-    "published_at": "2026-03-25T13:17:44+00:00",
-    "collected_at": "2026-03-26T02:31:53.924256+00:00",
+    "title": "STAT+: Sarepta Therapeutics shares rise on early promise for rare disease drugs",
+    "summary": "Sarepta Therapeutics’ next crop of medicines for muscular dystrophy appear to be safe and effective in early clinical trials, the company said.",
+    "url": "https://www.statnews.com/2026/03/25/sarepta-therapeutics-fshd-dm1-study-results/?utm_campaign=rss",
+    "published_at": "2026-03-25T14:28:25+00:00",
+    "collected_at": "2026-03-26T05:42:39.696552+00:00",
     "filter_score": 7,
-    "summary_ko": "Merck가 Terns Pharmaceuticals를 67억 달러에 인수하기로 했다.",
-    "emerging_sector": "백혈병 치료제",
+    "summary_ko": "Sarepta Therapeutics의 근이영양증 치료제가 초기 임상시험에서 안전성과 효능을 보였다.",
+    "emerging_sector": "근이영양증 치료제",
     "leading_companies": [
-      "Merck",
-      "Terns Pharmaceuticals"
+      "Sarepta Therapeutics"
     ],
-    "category": "macro",
-    "urgency": "high"
+    "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "80813646f9534920e15d40d6cd47837b",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Beam posts positive data on base editing treatment for AATD",
+    "summary": "Updated data showed the biotech's approach to the rare lung and liver condition helped restore functional protective proteins in a small study.",
+    "url": "https://www.biopharmadive.com/news/beam-base-gene-editing-clinical-data-aatd/815714/",
+    "published_at": "2026-03-25T17:50:20+00:00",
+    "collected_at": "2026-03-26T05:42:39.848964+00:00",
+    "filter_score": 7,
+    "summary_ko": "Beam의 AATD 치료제가 초기 데이터에서 긍정적인 결과를 보였다.",
+    "emerging_sector": "AATD 치료제",
+    "leading_companies": [
+      "Beam"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "5d1b01ee26239811f356a2d1138a6ce7",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Sarepta sees early success with RNAi drugs from Arrowhead",
+    "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta&rsquo;s stock and, according to the company,&nbsp;suggest potential for two medicines to treat muscle-weakening conditions.",
+    "url": "https://www.biopharmadive.com/news/sarepta-arrowhead-trial-data-muscular-dystrophy/815681/",
+    "published_at": "2026-03-25T15:03:53+00:00",
+    "collected_at": "2026-03-26T05:42:39.848976+00:00",
+    "filter_score": 7,
+    "summary_ko": "Sarepta의 RNAi 치료제가 초기 데이터에서 긍정적인 결과를 보였다.",
+    "emerging_sector": "RNAi 치료제",
+    "leading_companies": [
+      "Sarepta",
+      "Arrowhead"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
   },
   {
     "id": "a41cdc1a8822c8defef60e0e8f606777",
@@ -238,10 +293,10 @@
     "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
     "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
     "published_at": "2026-03-24T14:07:58+00:00",
-    "collected_at": "2026-03-26T02:31:54.108308+00:00",
+    "collected_at": "2026-03-26T05:42:39.849014+00:00",
     "filter_score": 7,
-    "summary_ko": "Gilead는 Ouro Medicines를 인수하여 17억 달러를 투자하고, 자가면역질환 치료를 위한 바이스펙틱스 기술에 베팅했습니다. 이는 자가면역질환 치료 시장에서 새로운 기회를 제공할 수 있습니다.",
-    "emerging_sector": "바이스펙틱스",
+    "summary_ko": "Gilead는 Ouro Medicines를 인수하여 17억 달러를 투자하고, 자가면역질환 치료를 위한 바이스펙틱스 개발에 집중하고 있습니다.",
+    "emerging_sector": "바이오테크",
     "leading_companies": [
       "Gilead",
       "Ouro Medicines"
@@ -256,10 +311,10 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/sareptas-big-bet-arrowheads-sirna-assets-yields-early-data\" hreflang=\"en\">Sarepta's big bet on Arrowhead's siRNA assets yields early data</a>",
     "summary": "Sarepta Therapeutics has shared initial clinical data on two siRNA candidates, delivering an early look at the wisdom of its decision to bet big on Arrowhead Pharmaceuticals’ pipeline.",
     "url": "https://www.fiercebiotech.com/biotech/sareptas-big-bet-arrowheads-sirna-assets-yields-early-data",
-    "published_at": "2026-03-26T02:31:54.203644+00:00",
-    "collected_at": "2026-03-26T02:31:54.203651+00:00",
+    "published_at": "2026-03-26T05:42:40.000827+00:00",
+    "collected_at": "2026-03-26T05:42:40.000834+00:00",
     "filter_score": 7,
-    "summary_ko": "Sarepta Therapeutics는 Arrowhead Pharmaceuticals의 siRNA 자산에 대한 초기 임상 데이터를 공개하였다. 이는 Sarepta의 Arrowhead에 대한 투자에 대한 초기 평가이다.",
+    "summary_ko": "Sarepta Therapeutics는 Arrowhead Pharmaceuticals의 siRNA 자산에 대한 초기 임상 데이터를 공개하였다. 이는 Sarepta의 Arrowhead 파이프라인에 대한 투자에 대한 초기 평가이다.",
     "emerging_sector": "RNA 치료 기술",
     "leading_companies": [
       "Sarepta Therapeutics",
@@ -275,34 +330,16 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisk-prepares-go-global-triple-g-prospect-passes-midphase-diabetes-test-china\" hreflang=\"en\">Novo Nordisk prepares to go global as triple-G prospect passes midphase diabetes test in China</a>",
     "summary": "Novo Nordisk and its Chinese partner have reported another midphase win for their triple G candidate, sharing diabetes data to add to the momentum generated by an obesity readout. But while the data suggest the asset is competitive, Eli Lilly’s headstart in the space means it remains the company to beat.",
     "url": "https://www.fiercebiotech.com/biotech/novo-nordisk-prepares-go-global-triple-g-prospect-passes-midphase-diabetes-test-china",
-    "published_at": "2026-03-26T02:31:54.203672+00:00",
-    "collected_at": "2026-03-26T02:31:54.203678+00:00",
+    "published_at": "2026-03-26T05:42:40.000855+00:00",
+    "collected_at": "2026-03-26T05:42:40.000861+00:00",
     "filter_score": 7,
-    "summary_ko": "Novo Nordisk의 3중 G 후보물질은 중간 단계 임상 시험에서 당뇨병 치료 효과를 보여주었다. 이는 Novo Nordisk의 글로벌 시장 진출을 위한 중요한 단계이다.",
+    "summary_ko": "Novo Nordisk의 3중 G 후보물질은 중간 단계 임상 시험에서 당뇨병 치료 효과를 보였다. 이는 Novo Nordisk의 글로벌 시장 진출을 위한 중요한 단계이다.",
     "emerging_sector": "당뇨병 치료 기술",
     "leading_companies": [
       "Novo Nordisk"
     ],
     "category": "tech_trend",
     "urgency": "medium"
-  },
-  {
-    "id": "52e7a4d2f0020284b3bd952daa3f7f1e",
-    "source": "Endpoints News",
-    "source_type": "rss",
-    "title": "After tumultuous year, Sarepta plots rebound with early data on RNA therapies",
-    "summary": "Sarepta Therapeutics reported promise in initial findings from clinical studies of two RNA muscle disease treatments, as the company maps out a future beyond its controversial Duchenne muscular dystrophy therapies.\n\n Sarepta is developing RNA treatments ...",
-    "url": "https://endpoints.news/after-tumultuous-year-sarepta-plots-rebound-with-early-data-on-rna-therapies/",
-    "published_at": "2026-03-25T15:41:06+00:00",
-    "collected_at": "2026-03-26T02:31:54.468866+00:00",
-    "filter_score": 7,
-    "summary_ko": "Sarepta Therapeutics는 RNA 치료제의 초기 결과가 약속을 보여주고 있습니다. 이는 회사의 미래를 위한 중요한 단계입니다.",
-    "emerging_sector": "RNA 치료제",
-    "leading_companies": [
-      "Sarepta Therapeutics"
-    ],
-    "category": "tech_trend",
-    "urgency": "high"
   },
   {
     "id": "2c274c8152290d16c98d936be85c767d",
@@ -312,10 +349,10 @@
     "summary": "Beam Therapeutics has provided a much-awaited update on its therapy that uses a form of CRISPR called base editing to precisely fix a single genetic typo responsible for a rare genetic disease.\n On Wednesday,",
     "url": "https://endpoints.news/beam-looks-to-accelerated-approval-for-aatd-base-editing-after-promising-update/",
     "published_at": "2026-03-25T15:31:38+00:00",
-    "collected_at": "2026-03-26T02:31:54.468876+00:00",
+    "collected_at": "2026-03-26T05:42:40.483288+00:00",
     "filter_score": 7,
-    "summary_ko": "Beam Therapeutics는 희귀 유전병 치료를 위한 기초 편집 기술을 사용하는 치료제의 업데이트 결과를 발표했습니다.",
-    "emerging_sector": "기초 편집 기술",
+    "summary_ko": "Beam Therapeutics는 CRISPR 기술을 이용한 희귀병 치료제의 시험 결과를 발표했다. 이는 가속 승인을 받을 수 있는 가능성이 열렸다는 것을 의미한다.",
+    "emerging_sector": "CRISPR 기술",
     "leading_companies": [
       "Beam Therapeutics"
     ],
@@ -330,16 +367,16 @@
     "summary": "Maze Therapeutics unveiled positive mid-stage data for its genetic kidney disease drug that could spell major competition for Vertex Pharmaceuticals’ program that has the same target.\n\n Maze’s candidate, codenamed MZE829, produced an average 35.6% reduction ...",
     "url": "https://endpoints.news/maze-meets-own-expectations-in-phase-2-kidney-disease-trial-in-the-same-arena-as-vertex/",
     "published_at": "2026-03-25T11:02:18+00:00",
-    "collected_at": "2026-03-26T02:31:54.468920+00:00",
+    "collected_at": "2026-03-26T05:42:40.483329+00:00",
     "filter_score": 7,
-    "summary_ko": "Maze Therapeutics는 Vertex Pharmaceuticals와 같은 목표를 가진 유전자 신장 질환 약물에 대한 중간 단계 데이터를 공개했다. 이는 신장 질환 치료 분야에서 새로운 경쟁자가 등장할 수 있다.",
+    "summary_ko": "Maze Therapeutics가 Vertex Pharmaceuticals와 같은 목표를 가진 유전자 신장 질환 치료제에 대한 중간 단계 데이터를 공개하여 경쟁을 예고했습니다.",
     "emerging_sector": "유전자 신장 질환 치료",
     "leading_companies": [
       "Maze Therapeutics",
       "Vertex Pharmaceuticals"
     ],
     "category": "tech_trend",
-    "urgency": "medium"
+    "urgency": "high"
   },
   {
     "id": "4b312b9205fe266fa8e807147a0697d3",
@@ -349,10 +386,10 @@
     "summary": "Merck has been acquiring assets that could help make up for the coming revenue decline as its top product, the cancer drug Keytruda, drops off the patent cliff.  Terns Pharmaceuticals’ lead product candidate, in development for treating a type of leukemia, could offer dosing and efficacy advantages over the Novartis drug Scemblix.\nThe post Merck’s $6.7B Terns Acquisition Positions It to Challenge a Blockbuster Novartis Cancer Drug appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/merck-terns-pharma-acquisition-cancer-chronic-myeloid-leukemia-cml-tern-mrk/",
     "published_at": "2026-03-25T17:53:12+00:00",
-    "collected_at": "2026-03-26T02:31:54.721359+00:00",
+    "collected_at": "2026-03-26T05:42:40.649336+00:00",
     "filter_score": 7,
-    "summary_ko": "Merck는 Terns Pharmaceuticals를 67억 달러에 인수하여 노바티스사의 암 치료 약물에 도전할 수 있는 자리를 마련했다.",
-    "emerging_sector": "암 치료",
+    "summary_ko": "Merck가 Terns Pharmaceuticals를 6.7억 달러에 인수하여 노바티스사의 암 치료제와 경쟁할 수 있는 자산을 확보했습니다.",
+    "emerging_sector": "암 치료제",
     "leading_companies": [
       "Merck",
       "Terns Pharmaceuticals",
@@ -369,9 +406,9 @@
     "summary": "At Wayne General Hospital in rural Mississippi, clinicians are using Eko Health’s AI-powered digital stethoscope to detect heart conditions earlier in patients with limited access to specialists. \nThe post How A Small Rural Hospital Is Using AI to Catch Heart Disease Sooner appeared first on MedCity News.",
     "url": "https://medcitynews.com/2026/03/rural-hospital-cardiology/",
     "published_at": "2026-03-25T00:49:30+00:00",
-    "collected_at": "2026-03-26T02:31:54.721428+00:00",
+    "collected_at": "2026-03-26T05:42:40.649404+00:00",
     "filter_score": 7,
-    "summary_ko": "미시시피 주의 한 소규모 시골 병원이 AI를 사용하여 심장 질환을 조기에 발견하고 있다.",
+    "summary_ko": "미시시피 주의 한 소규모 시골 병원에서 AI를 사용하여 심장 질환을 조기에 발견하고 있습니다.",
     "emerging_sector": "의료 AI",
     "leading_companies": [
       "Eko Health"
