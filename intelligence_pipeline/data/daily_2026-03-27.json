@@ -170,5 +170,132 @@
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 1,
     "korea_search_query": "OrbiMed"
+  },
+  {
+    "id": "deb4ae995aca6eba9061b40e881a9669",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "FDA clears Denali drug in ‘clear step’ for rare disease biotechs",
+    "summary": "The approval of Denali&rsquo;s Hunter syndrome treatment, Avlayah, comes after a series of drug rejections and delays that had led to criticism of the FDA&rsquo;s stance on rare disease therapies.",
+    "url": "https://www.biopharmadive.com/news/denali-fda-hunter-syndrome-avlayah-approve-rare-disease/815766/",
+    "published_at": "2026-03-26T15:16:00+00:00",
+    "collected_at": "2026-03-26T17:05:00.498668+00:00",
+    "filter_score": 8,
+    "summary_ko": "FDA의 Denali 약물 승인은 희귀 질환 바이오텍 산업에 긍정적인 영향을 미칩니다.",
+    "emerging_sector": "희귀 질환 치료",
+    "leading_companies": [
+      "Denali"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 7,
+    "korea_search_query": "Denali"
+  },
+  {
+    "id": "61e78e4db7bf0bc2142e8da1282dafff",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Limbic aims to show AI beats humans in delivering therapy",
+    "summary": "A March study in Nature Medicine showed that AI designed for therapy can deliver better care than human clinicians in a specific type of therapy.\n\n UK-based Limbic led the study. The ...",
+    "url": "https://endpoints.news/limbic-aims-to-show-ai-beats-humans-in-delivering-therapy/",
+    "published_at": "2026-03-26T14:19:17+00:00",
+    "collected_at": "2026-03-26T17:05:00.861218+00:00",
+    "filter_score": 8,
+    "summary_ko": "Limbic은 AI를 사용한 치료가 인간의 치료보다 더好的 결과를 보여줄 수 있다는 연구 결과를 발표했습니다. 이 연구는 AI를 사용한 치료의 가능성을 보여줍니다.",
+    "emerging_sector": "AI를 사용한 치료",
+    "leading_companies": [
+      "Limbic"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "Limbic"
+  },
+  {
+    "id": "49904dd4c96c950bd3b585b36ebe251f",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Merck’s deal for Terns sparks debate over a possible biotech bidding war",
+    "summary": "Some investors and analysts believe the pharma&rsquo;s $6.7 billion offer is justified given Terns&rsquo; recent stock run. Others are convinced a better proposal is coming.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/merck-terns-buyout-valuation-debate/815812/",
+    "published_at": "2026-03-26T16:10:00+00:00",
+    "collected_at": "2026-03-26T17:05:00.498649+00:00",
+    "filter_score": 7,
+    "summary_ko": "Merck의 Terns 인수는 바이오텍 산업에서 입찰 전쟁을 예고합니다.",
+    "emerging_sector": "바이오텍",
+    "leading_companies": [
+      "Merck",
+      "Terns"
+    ],
+    "category": "smart_money",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "ARM"
+  },
+  {
+    "id": "44190ce87aad46de0ebafc2385424fb3",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/cmr-surgical-kicks-versius-plus-robots-us-commercial-launch\" hreflang=\"en\">CMR Surgical kicks off Versius Plus robot’s US commercial launch</a>",
+    "summary": "Following an FDA green light last December for its upgraded robot, CMR Surgical has begun rolling out its Versius Plus platform to the U.S.",
+    "url": "https://www.fiercebiotech.com/medtech/cmr-surgical-kicks-versius-plus-robots-us-commercial-launch",
+    "published_at": "2026-03-26T17:05:00.659814+00:00",
+    "collected_at": "2026-03-26T17:05:00.659830+00:00",
+    "filter_score": 7,
+    "summary_ko": "CMR Surgical은 FDA의 승인을 받은 Versius Plus 로봇을 미국 시장에 출시했습니다.",
+    "emerging_sector": "로봇 수술",
+    "leading_companies": [
+      "CMR Surgical"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 7,
+    "korea_search_query": "Surgical"
+  },
+  {
+    "id": "6487340f30cd5395018eab58ebd0b54a",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Kodiak’s Phase 3 eye drug success; Innate discontinues anti-CD20 program",
+    "summary": "Plus, news about Astellas' setidegrasib and Anavex:\n\n 📈 Kodiak’s eye drug win: The biotech’s experimental drug Zenkuda, whose scientific name is tarcocimab tedromer, beat a sham procedure in patients ...",
+    "url": "https://endpoints.news/kodiaks-phase-3-eye-drug-success-innate-discontinues-anti-cd20-program/",
+    "published_at": "2026-03-26T14:28:58+00:00",
+    "collected_at": "2026-03-26T17:05:00.861207+00:00",
+    "filter_score": 7,
+    "summary_ko": "Kodiak의 실험용 약물 Zenkuda는 임상 시험에서 성공을 거두었습니다. 이 약물은 안과 질환 치료를 위한 새로운 가능성을 열어줍니다.",
+    "emerging_sector": "안과 약물",
+    "leading_companies": [
+      "Kodiak"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "Kodiak"
+  },
+  {
+    "id": "8e05fea73af85947d84380b626d73121",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Oral peptides biotech Pinnacle Medicines gets $89M from US, China investors",
+    "summary": "The pill version of Novo Nordisk's blockbuster Wegovy showed what was possible when drug chemists turned peptides into oral molecules. Now investors have found their next related bet.\n\n Pinnacle Medicines, a two-year-old startup based in ...",
+    "url": "https://endpoints.news/oral-peptides-biotech-pinnacle-medicines-gets-89m-from-us-china-investors/",
+    "published_at": "2026-03-26T11:30:18+00:00",
+    "collected_at": "2026-03-26T17:05:00.861239+00:00",
+    "filter_score": 7,
+    "summary_ko": "Pinnacle Medicines는 구강 펩타이드 바이오테크 회사로 8,900만 달러의 투자를 받았습니다. 이 회사는 펩타이드를 구강용 분자로 전환하는 기술을 개발하고 있습니다.",
+    "emerging_sector": "구강 펩타이드",
+    "leading_companies": [
+      "Pinnacle Medicines"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Oral"
   }
 ]

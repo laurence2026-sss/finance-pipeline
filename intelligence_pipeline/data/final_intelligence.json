@@ -1,24 +1,24 @@
 [
   {
-    "id": "61f47b767a75542e878c42c106a91c1b",
-    "source": "STAT News",
+    "id": "deb4ae995aca6eba9061b40e881a9669",
+    "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "STAT+: Allogene’s off-the-shelf CAR-T is nearing an early but pivotal study readout",
-    "summary": "A preliminary readout from a study could vindicate Allogene Therapeutics' stubborn belief in its off-the-shelf CAR-T treatment.",
-    "url": "https://www.statnews.com/2026/03/26/allogene-car-t-lymphoma-treatment-study/?utm_campaign=rss",
-    "published_at": "2026-03-26T10:30:00+00:00",
-    "collected_at": "2026-03-26T15:07:04.845889+00:00",
+    "title": "FDA clears Denali drug in ‘clear step’ for rare disease biotechs",
+    "summary": "The approval of Denali&rsquo;s Hunter syndrome treatment, Avlayah, comes after a series of drug rejections and delays that had led to criticism of the FDA&rsquo;s stance on rare disease therapies.",
+    "url": "https://www.biopharmadive.com/news/denali-fda-hunter-syndrome-avlayah-approve-rare-disease/815766/",
+    "published_at": "2026-03-26T15:16:00+00:00",
+    "collected_at": "2026-03-26T17:05:00.498668+00:00",
     "filter_score": 8,
-    "summary_ko": "Allogene의 오프-더-쉘프 CAR-T 치료제가 임상 시험 결과를 발표할 예정이다.",
-    "emerging_sector": "면역 요법",
+    "summary_ko": "FDA의 Denali 약물 승인은 희귀 질환 바이오텍 산업에 긍정적인 영향을 미칩니다.",
+    "emerging_sector": "희귀 질환 치료",
     "leading_companies": [
-      "Allogene"
+      "Denali"
     ],
     "category": "tech_trend",
     "urgency": "high",
     "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "STAT"
+    "korea_news_count": 7,
+    "korea_search_query": "Denali"
   },
   {
     "id": "bf2ec0b45047954eca99d51f9d184cf5",
@@ -28,14 +28,13 @@
     "summary": "If consummated, the deal would hand Merck a treatment that could challenge Novartis&rsquo; fast-selling Scemblix. But the low purchase premium &mdash; which one analyst described as a \"steal\"&nbsp;&mdash; may leave room for a competing bid.",
     "url": "https://www.biopharmadive.com/news/merck-terns-acquire-deal-leukemia-drug/815637/",
     "published_at": "2026-03-25T12:50:02+00:00",
-    "collected_at": "2026-03-26T15:07:05.087441+00:00",
+    "collected_at": "2026-03-26T17:05:00.498729+00:00",
     "filter_score": 8,
-    "summary_ko": "Merck는 Terns를 67억 달러에 인수하여 백혈병 치료제를 개발하고자 한다.",
+    "summary_ko": "Merck는 Terns를 6.7억 달러에 인수하여 구별되는 백혈병 약물을 개발할 계획입니다. 이 거래는 Novartis의 Scemblix와 경쟁할 수 있는 약물을 제공할 수 있습니다.",
     "emerging_sector": "백혈병 치료",
     "leading_companies": [
       "Merck",
-      "Terns",
-      "Novartis"
+      "Terns"
     ],
     "category": "smart_money",
     "urgency": "high",
@@ -44,26 +43,47 @@
     "korea_search_query": "Merck"
   },
   {
-    "id": "0a86f2d848a82f4a0eba49d1955f3b13",
-    "source": "FierceBiotech",
+    "id": "a41cdc1a8822c8defef60e0e8f606777",
+    "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance\" hreflang=\"en\">Philips AI cath lab copilot nets FDA clearance</a>",
-    "summary": "Developed with Edwards Lifesciences, DeviceGuide is aimed at the challenging task of transcatheter mitral valve repair.",
-    "url": "https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance",
-    "published_at": "2026-03-26T15:07:05.247910+00:00",
-    "collected_at": "2026-03-26T15:07:05.247930+00:00",
+    "title": "Gilead, with Ouro deal, wagers $1.7B on bispecifics for autoimmune diseases",
+    "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
+    "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
+    "published_at": "2026-03-24T14:07:58+00:00",
+    "collected_at": "2026-03-26T17:05:00.498751+00:00",
     "filter_score": 8,
-    "summary_ko": "Philips의 AI 카테터 실험실 코파일럿이 FDA 승인을 받았습니다. 이는 의료기기 기술의 발전에 중요한 단계입니다.",
-    "emerging_sector": "의료기기 AI",
+    "summary_ko": "Gilead는 Ouro Medicines를 인수하여 1.7억 달러를 투자하여 자가면역 질환을 치료하는 바이시펙틱스 약물을 개발할 계획입니다.",
+    "emerging_sector": "바이시펙틱스 기술",
     "leading_companies": [
-      "Philips",
-      "Edwards Lifesciences"
+      "Gilead",
+      "Ouro Medicines"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚡ 초기 반영",
+    "korea_news_count": 3,
+    "korea_search_query": "Gilead"
+  },
+  {
+    "id": "61e78e4db7bf0bc2142e8da1282dafff",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Limbic aims to show AI beats humans in delivering therapy",
+    "summary": "A March study in Nature Medicine showed that AI designed for therapy can deliver better care than human clinicians in a specific type of therapy.\n\n UK-based Limbic led the study. The ...",
+    "url": "https://endpoints.news/limbic-aims-to-show-ai-beats-humans-in-delivering-therapy/",
+    "published_at": "2026-03-26T14:19:17+00:00",
+    "collected_at": "2026-03-26T17:05:00.861218+00:00",
+    "filter_score": 8,
+    "summary_ko": "Limbic은 AI를 사용한 치료가 인간의 치료보다 더好的 결과를 보여줄 수 있다는 연구 결과를 발표했습니다. 이 연구는 AI를 사용한 치료의 가능성을 보여줍니다.",
+    "emerging_sector": "AI를 사용한 치료",
+    "leading_companies": [
+      "Limbic"
     ],
     "category": "tech_trend",
     "urgency": "high",
     "korea_status": "🔥 독점 정보",
-    "korea_news_count": 1,
-    "korea_search_query": "Philips"
+    "korea_news_count": 0,
+    "korea_search_query": "Limbic"
   },
   {
     "id": "91a7f1a2f4c533b5ae26116221bb8180",
@@ -73,10 +93,10 @@
     "summary": "In this edition of STAT Health Tech: More people use chatbots for health advice, a health AI startup raises $125 million, and all about deepfaked medical images.",
     "url": "https://www.statnews.com/2026/03/26/data-show-people-racing-to-chatbots-health-tech/?utm_campaign=rss",
     "published_at": "2026-03-26T13:44:53+00:00",
-    "collected_at": "2026-03-26T15:07:04.845865+00:00",
+    "collected_at": "2026-03-26T17:05:00.360863+00:00",
     "filter_score": 7,
-    "summary_ko": "사람들이 건강 상담을 위해 챗봇을 사용하는 것이 증가하고 있다.",
-    "emerging_sector": "의료 기술",
+    "summary_ko": "사람들이 건강 상담을 위해 챗봇을 사용하는 추세가 증가하고 있다.",
+    "emerging_sector": "건강 챗봇",
     "leading_companies": [],
     "category": "tech_trend",
     "urgency": "medium",
@@ -85,25 +105,26 @@
     "korea_search_query": "STAT"
   },
   {
-    "id": "80813646f9534920e15d40d6cd47837b",
+    "id": "49904dd4c96c950bd3b585b36ebe251f",
     "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "Beam posts positive data on base editing treatment for AATD",
-    "summary": "Updated data showed the biotech's approach to the rare lung and liver condition helped restore functional protective proteins in a small study.",
-    "url": "https://www.biopharmadive.com/news/beam-base-gene-editing-clinical-data-aatd/815714/",
-    "published_at": "2026-03-25T17:50:20+00:00",
-    "collected_at": "2026-03-26T15:07:05.087413+00:00",
+    "title": "Merck’s deal for Terns sparks debate over a possible biotech bidding war",
+    "summary": "Some investors and analysts believe the pharma&rsquo;s $6.7 billion offer is justified given Terns&rsquo; recent stock run. Others are convinced a better proposal is coming.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/merck-terns-buyout-valuation-debate/815812/",
+    "published_at": "2026-03-26T16:10:00+00:00",
+    "collected_at": "2026-03-26T17:05:00.498649+00:00",
     "filter_score": 7,
-    "summary_ko": "Beam의 베이스 에디팅 치료법이 AATD 환자에서 긍정적인 결과를 보여주었다.",
-    "emerging_sector": "유전자 편집",
+    "summary_ko": "Merck의 Terns 인수는 바이오텍 산업에서 입찰 전쟁을 예고합니다.",
+    "emerging_sector": "바이오텍",
     "leading_companies": [
-      "Beam"
+      "Merck",
+      "Terns"
     ],
-    "category": "tech_trend",
+    "category": "smart_money",
     "urgency": "high",
-    "korea_status": "⚡ 초기 반영",
-    "korea_news_count": 5,
-    "korea_search_query": "Beam"
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "ARM"
   },
   {
     "id": "5d1b01ee26239811f356a2d1138a6ce7",
@@ -113,9 +134,9 @@
     "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta&rsquo;s stock and, according to the company,&nbsp;suggest potential for two medicines to treat muscle-weakening conditions.",
     "url": "https://www.biopharmadive.com/news/sarepta-arrowhead-trial-data-muscular-dystrophy/815681/",
     "published_at": "2026-03-25T15:03:53+00:00",
-    "collected_at": "2026-03-26T15:07:05.087426+00:00",
+    "collected_at": "2026-03-26T17:05:00.498716+00:00",
     "filter_score": 7,
-    "summary_ko": "Sarepta의 RNAi 신약이 초기 성공을 거두었으며, 두 가지 약물이 근무약화 질환을 치료할 수 있는 잠재력을 보였다.",
+    "summary_ko": "Sarepta는 Arrowhead의 RNAi 약물에 대한 초기 성공을 보였습니다. 이 결과는 Sarepta의 주가를 올렸으며, 두 가지 약물이 근무력 질환을 치료할 수 있는 잠재력을 보입니다.",
     "emerging_sector": "RNAi 기술",
     "leading_companies": [
       "Sarepta",
@@ -128,47 +149,88 @@
     "korea_search_query": "Sarepta"
   },
   {
-    "id": "a41cdc1a8822c8defef60e0e8f606777",
-    "source": "BioPharma Dive",
+    "id": "44190ce87aad46de0ebafc2385424fb3",
+    "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "Gilead, with Ouro deal, wagers $1.7B on bispecifics for autoimmune diseases",
-    "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
-    "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
-    "published_at": "2026-03-24T14:07:58+00:00",
-    "collected_at": "2026-03-26T15:07:05.087464+00:00",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/cmr-surgical-kicks-versius-plus-robots-us-commercial-launch\" hreflang=\"en\">CMR Surgical kicks off Versius Plus robot’s US commercial launch</a>",
+    "summary": "Following an FDA green light last December for its upgraded robot, CMR Surgical has begun rolling out its Versius Plus platform to the U.S.",
+    "url": "https://www.fiercebiotech.com/medtech/cmr-surgical-kicks-versius-plus-robots-us-commercial-launch",
+    "published_at": "2026-03-26T17:05:00.659814+00:00",
+    "collected_at": "2026-03-26T17:05:00.659830+00:00",
     "filter_score": 7,
-    "summary_ko": "Gilead는 Ouro Medicines를 인수하여 17억 달러를 투자하고, 자가면역질환 치료를 위한 비스펙티프 항체 개발에 집중하고 있습니다.",
-    "emerging_sector": "비스펙티프 항체",
+    "summary_ko": "CMR Surgical은 FDA의 승인을 받은 Versius Plus 로봇을 미국 시장에 출시했습니다.",
+    "emerging_sector": "로봇 수술",
     "leading_companies": [
-      "Gilead",
-      "Ouro Medicines"
+      "CMR Surgical"
     ],
     "category": "tech_trend",
     "urgency": "high",
-    "korea_status": "⚡ 초기 반영",
-    "korea_news_count": 3,
-    "korea_search_query": "Gilead"
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 7,
+    "korea_search_query": "Surgical"
   },
   {
-    "id": "9dee84b67bcb4fb353e0542c98e8cb04",
+    "id": "0a86f2d848a82f4a0eba49d1955f3b13",
     "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/orbimed-backed-pinnacle-adds-89m-series-b-power-oral-peptide-pipeline\" hreflang=\"en\">OrbiMed-backed Pinnacle adds $89M series B to power oral peptide pipeline</a>",
-    "summary": "Oral peptide specialist Pinnacle Medicines has secured an $89 million series B with backing from investors in the U.S. and China, bringing the company’s total fundraising haul to $134 million.",
-    "url": "https://www.fiercebiotech.com/biotech/orbimed-backed-pinnacle-adds-89m-series-b-power-oral-peptide-pipeline",
-    "published_at": "2026-03-26T15:07:05.247943+00:00",
-    "collected_at": "2026-03-26T15:07:05.247951+00:00",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance\" hreflang=\"en\">Philips AI cath lab copilot nets FDA clearance</a>",
+    "summary": "Developed with Edwards Lifesciences, DeviceGuide is aimed at the challenging task of transcatheter mitral valve repair.",
+    "url": "https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance",
+    "published_at": "2026-03-26T17:05:00.659844+00:00",
+    "collected_at": "2026-03-26T17:05:00.659851+00:00",
     "filter_score": 7,
-    "summary_ko": "OrbiMed-backed Pinnacle Medicines는 구강 펩타이드 파이프라인 개발을 위한 8900만 달러의 시리즈 B 자금을 조달했습니다.",
-    "emerging_sector": "구강 펩타이드",
+    "summary_ko": "Philips는 Edwards Lifesciences와 함께 개발한 AI 카테터 랩 코파일럿이 FDA의 승인을 받았습니다.",
+    "emerging_sector": "의료 기기 AI",
     "leading_companies": [
-      "Pinnacle Medicines",
-      "OrbiMed"
+      "Philips",
+      "Edwards Lifesciences"
     ],
-    "category": "smart_money",
-    "urgency": "medium",
+    "category": "tech_trend",
+    "urgency": "high",
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 1,
-    "korea_search_query": "OrbiMed"
+    "korea_search_query": "Philips"
+  },
+  {
+    "id": "6487340f30cd5395018eab58ebd0b54a",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Kodiak’s Phase 3 eye drug success; Innate discontinues anti-CD20 program",
+    "summary": "Plus, news about Astellas' setidegrasib and Anavex:\n\n 📈 Kodiak’s eye drug win: The biotech’s experimental drug Zenkuda, whose scientific name is tarcocimab tedromer, beat a sham procedure in patients ...",
+    "url": "https://endpoints.news/kodiaks-phase-3-eye-drug-success-innate-discontinues-anti-cd20-program/",
+    "published_at": "2026-03-26T14:28:58+00:00",
+    "collected_at": "2026-03-26T17:05:00.861207+00:00",
+    "filter_score": 7,
+    "summary_ko": "Kodiak의 실험용 약물 Zenkuda는 임상 시험에서 성공을 거두었습니다. 이 약물은 안과 질환 치료를 위한 새로운 가능성을 열어줍니다.",
+    "emerging_sector": "안과 약물",
+    "leading_companies": [
+      "Kodiak"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "Kodiak"
+  },
+  {
+    "id": "8e05fea73af85947d84380b626d73121",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Oral peptides biotech Pinnacle Medicines gets $89M from US, China investors",
+    "summary": "The pill version of Novo Nordisk's blockbuster Wegovy showed what was possible when drug chemists turned peptides into oral molecules. Now investors have found their next related bet.\n\n Pinnacle Medicines, a two-year-old startup based in ...",
+    "url": "https://endpoints.news/oral-peptides-biotech-pinnacle-medicines-gets-89m-from-us-china-investors/",
+    "published_at": "2026-03-26T11:30:18+00:00",
+    "collected_at": "2026-03-26T17:05:00.861239+00:00",
+    "filter_score": 7,
+    "summary_ko": "Pinnacle Medicines는 구강 펩타이드 바이오테크 회사로 8,900만 달러의 투자를 받았습니다. 이 회사는 펩타이드를 구강용 분자로 전환하는 기술을 개발하고 있습니다.",
+    "emerging_sector": "구강 펩타이드",
+    "leading_companies": [
+      "Pinnacle Medicines"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Oral"
   }
 ]
