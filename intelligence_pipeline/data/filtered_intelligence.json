@@ -1,41 +1,5 @@
 [
   {
-    "id": "bf2ec0b45047954eca99d51f9d184cf5",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "Merck to buy Terns in $6.7B bet on a ‘differentiated’ leukemia drug",
-    "summary": "If consummated, the deal would hand Merck a treatment that could challenge Novartis&rsquo; fast-selling Scemblix. But the low purchase premium &mdash; which one analyst described as a \"steal\"&nbsp;&mdash; may leave room for a competing bid.",
-    "url": "https://www.biopharmadive.com/news/merck-terns-acquire-deal-leukemia-drug/815637/",
-    "published_at": "2026-03-25T12:50:02+00:00",
-    "collected_at": "2026-03-26T13:20:43.511837+00:00",
-    "filter_score": 9,
-    "summary_ko": "Merck는 Terns를 67억 달러에 인수하여 백혈병 치료를 위한 새로운 약물을 개발할 계획입니다. 이는 Novartis의 Scemblix와 경쟁할 수 있는 약물입니다.",
-    "emerging_sector": "백혈병 치료",
-    "leading_companies": [
-      "Merck",
-      "Terns",
-      "Novartis"
-    ],
-    "category": "smart_money",
-    "urgency": "breaking"
-  },
-  {
-    "id": "6b54b7b8367f5ce533555d40bf73e166",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Net Zero Activists Stumped By Shock New Evidence Showing No Link Between CO2 & Temperature Over Last Three Million Years",
-    "summary": "Net Zero Activists Stumped By Shock New Evidence Showing No Link Between CO2 & Temperature Over Last Three Million Years\n\n            Authored by Chris Morrison via DailySceptic.org,\n\nThe climate science world (‘settled’ division) is in shock following the discovery in ancient ice cores that levels of carbon dioxide remained stable as the world plunged into an ice age around 2.7 million years ago. Levels of CO2 at around 250 parts per million (ppm) were said to be lower than often assumed with j",
-    "url": "https://www.zerohedge.com/weather/net-zero-activists-stumped-shock-new-evidence-showing-no-link-between-co2-temperature-over",
-    "published_at": "2026-03-26T10:30:00+00:00",
-    "collected_at": "2026-03-26T13:20:33.328990+00:00",
-    "filter_score": 8,
-    "summary_ko": "새로운 연구에 따르면 지난 300만 년 동안 이산화탄소와 기온 사이에 상관관계가 없다는 것이 밝혀졌다. 이는 기후 변화 정책에 영향을 미칠 수 있다.",
-    "emerging_sector": "기후 과학",
-    "leading_companies": [],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
     "id": "61f47b767a75542e878c42c106a91c1b",
     "source": "STAT News",
     "source_type": "rss",
@@ -43,104 +7,70 @@
     "summary": "A preliminary readout from a study could vindicate Allogene Therapeutics' stubborn belief in its off-the-shelf CAR-T treatment.",
     "url": "https://www.statnews.com/2026/03/26/allogene-car-t-lymphoma-treatment-study/?utm_campaign=rss",
     "published_at": "2026-03-26T10:30:00+00:00",
-    "collected_at": "2026-03-26T13:20:43.282743+00:00",
+    "collected_at": "2026-03-26T15:07:04.845889+00:00",
     "filter_score": 8,
-    "summary_ko": "Allogene Therapeutics의 오프-더-쉘프 CAR-T 치료제가 임상 시험에서 초기 nhưng 중요한 결과를 나타낼 수 있습니다. 이는 새로운 의료 기술에 대한 유망한 뉴스입니다.",
-    "emerging_sector": "CAR-T 치료제",
+    "summary_ko": "Allogene의 오프-더-쉘프 CAR-T 치료제가 임상 시험 결과를 발표할 예정이다.",
+    "emerging_sector": "면역 요법",
     "leading_companies": [
-      "Allogene Therapeutics"
+      "Allogene"
     ],
     "category": "tech_trend",
-    "urgency": "medium"
-  },
-  {
-    "id": "e5b23b82ba4db9f7865eb2d80fe05ca0",
-    "source": "STAT News",
-    "source_type": "rss",
-    "title": "STAT+: A 2023 health AI bet that seems to be paying off",
-    "summary": "In this edition of STAT's AI Prognosis: A chat with Qualified Health co-founder and CEO, Justin Norden, as the company raises $125 million.",
-    "url": "https://www.statnews.com/2026/03/25/2023-health-ai-bet-that-seems-paying-off-ai-prognosis/?utm_campaign=rss",
-    "published_at": "2026-03-25T16:01:24+00:00",
-    "collected_at": "2026-03-26T13:20:43.282836+00:00",
-    "filter_score": 8,
-    "summary_ko": "건강 관련 AI 기술에 대한 투자가 성과를 보이고 있습니다. Qualified Health는 1억 2500만 달러를 투자받았습니다.",
-    "emerging_sector": "건강 관련 AI",
-    "leading_companies": [
-      "Qualified Health"
-    ],
-    "category": "smart_money",
     "urgency": "high"
   },
   {
-    "id": "034aba0e1e7655304fd2dcd0299f4a06",
-    "source": "FierceBiotech",
+    "id": "bf2ec0b45047954eca99d51f9d184cf5",
+    "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biopharma-doubles-down-big-bets-and-china-ipos-hit-10-year-low\" hreflang=\"en\">Biopharma funding dropped 20% in 2025 as companies doubled down on big bets: IQVIA</a>",
-    "summary": "Biopharma funding fell 20% last year, reversing the post-pandemic recovery as the IPO haul dropped to the lowest level of the past 10 years, according to an IQVIA analysis.",
-    "url": "https://www.fiercebiotech.com/biotech/biopharma-doubles-down-big-bets-and-china-ipos-hit-10-year-low",
-    "published_at": "2026-03-26T13:20:43.676770+00:00",
-    "collected_at": "2026-03-26T13:20:43.676788+00:00",
+    "title": "Merck to buy Terns in $6.7B bet on a ‘differentiated’ leukemia drug",
+    "summary": "If consummated, the deal would hand Merck a treatment that could challenge Novartis&rsquo; fast-selling Scemblix. But the low purchase premium &mdash; which one analyst described as a \"steal\"&nbsp;&mdash; may leave room for a competing bid.",
+    "url": "https://www.biopharmadive.com/news/merck-terns-acquire-deal-leukemia-drug/815637/",
+    "published_at": "2026-03-25T12:50:02+00:00",
+    "collected_at": "2026-03-26T15:07:05.087441+00:00",
     "filter_score": 8,
-    "summary_ko": "바이오파마 산업의 자금 조달은 2025년에 20% 감소했습니다. 이는 바이오파마 산업의 성장 둔화로 보입니다.",
-    "emerging_sector": "바이오파마",
-    "leading_companies": [],
-    "category": "macro",
-    "urgency": "high"
-  },
-  {
-    "id": "b85a9d58f5da05c879158b3812da4435",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-flies-toward-promising-cml-asset-67b-terns-acquisition\" hreflang=\"en\">Merck, girding for Keytruda cliff, flies toward promising CML asset with $6.7B Terns acquisition</a>",
-    "summary": "Merck and Terns Pharmaceuticals have agreed to a $6.7 billion all-cash buyout that delivers a prized leukemia asset to the New Jersey Big Pharma.",
-    "url": "https://www.fiercebiotech.com/biotech/merck-flies-toward-promising-cml-asset-67b-terns-acquisition",
-    "published_at": "2026-03-26T13:20:43.676873+00:00",
-    "collected_at": "2026-03-26T13:20:43.676878+00:00",
-    "filter_score": 8,
-    "summary_ko": "Merck는 Terns Pharmaceuticals를 67억 달러에 인수하여 백혈병 치료제를 확보하였습니다. 이는 Merck의 주요 약물 Keytruda의 판매 감소에 대비하는 전략입니다.",
+    "summary_ko": "Merck는 Terns를 67억 달러에 인수하여 백혈병 치료제를 개발하고자 한다.",
     "emerging_sector": "백혈병 치료",
     "leading_companies": [
       "Merck",
-      "Terns Pharmaceuticals"
+      "Terns",
+      "Novartis"
     ],
     "category": "smart_money",
     "urgency": "high"
   },
   {
-    "id": "b3d8736f42a9dbfeafcad5a6945813a4",
-    "source": "ZeroHedge",
+    "id": "0a86f2d848a82f4a0eba49d1955f3b13",
+    "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "The US Shows A Way Out Of Germany's Energy Trap",
-    "summary": "The US Shows A Way Out Of Germany's Energy Trap\n\n            Submitted by Thomas Kolbe\n\nBig developments are underway in Tennessee and Alabama. Over the next five years, the joint Japanese-American project will bring several so-called small modular reactors (SMRs) of the BWRX-300 type online. Almost one percent of U.S. electricity production—slightly more than three gigawatts—will be added to the existing energy mix by reactors designed by Hitachi and GE Vernova.\n\nA caveat for purists of market ",
-    "url": "https://www.zerohedge.com/markets/us-shows-way-out-germanys-energy-trap",
-    "published_at": "2026-03-26T09:00:00+00:00",
-    "collected_at": "2026-03-26T13:20:33.329088+00:00",
-    "filter_score": 7,
-    "summary_ko": "미국은 독일의 에너지 문제를 해결하는 방법을 제시했다. 이는 에너지 시장에 새로운 기회를 제공할 수 있다.",
-    "emerging_sector": "에너지 기술",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance\" hreflang=\"en\">Philips AI cath lab copilot nets FDA clearance</a>",
+    "summary": "Developed with Edwards Lifesciences, DeviceGuide is aimed at the challenging task of transcatheter mitral valve repair.",
+    "url": "https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance",
+    "published_at": "2026-03-26T15:07:05.247910+00:00",
+    "collected_at": "2026-03-26T15:07:05.247930+00:00",
+    "filter_score": 8,
+    "summary_ko": "Philips의 AI 카테터 실험실 코파일럿이 FDA 승인을 받았습니다. 이는 의료기기 기술의 발전에 중요한 단계입니다.",
+    "emerging_sector": "의료기기 AI",
     "leading_companies": [
-      "일본-미국 공동 프로젝트"
-    ],
-    "category": "tech_trend",
-    "urgency": "medium"
-  },
-  {
-    "id": "5eb7939fc60db9f381e3fc0c1a95d8da",
-    "source": "STAT News",
-    "source_type": "rss",
-    "title": "STAT+: FDA approves Denali Therapeutics drug for Hunter syndrome",
-    "summary": "The FDA approved a new medicine from Denali Therapeutics for Hunter syndrome, a notable decision by the agency after a string of rejections of rare disease drugs.",
-    "url": "https://www.statnews.com/2026/03/25/denali-therapeutics-hunter-syndrome-rare-disease/?utm_campaign=rss",
-    "published_at": "2026-03-25T16:19:58+00:00",
-    "collected_at": "2026-03-26T13:20:43.282826+00:00",
-    "filter_score": 7,
-    "summary_ko": "FDA는 Hunter 증후군 치료를 위한 Denali Therapeutics의 새로운 약물을 승인했습니다. 이는 희귀 질환 약물에 대한 FDA의 최근 거부 결정에 대한 주목할 만한 결정입니다.",
-    "emerging_sector": "희귀 질환 치료",
-    "leading_companies": [
-      "Denali Therapeutics"
+      "Philips",
+      "Edwards Lifesciences"
     ],
     "category": "tech_trend",
     "urgency": "high"
+  },
+  {
+    "id": "91a7f1a2f4c533b5ae26116221bb8180",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Data show people racing to chatbots for health advice",
+    "summary": "In this edition of STAT Health Tech: More people use chatbots for health advice, a health AI startup raises $125 million, and all about deepfaked medical images.",
+    "url": "https://www.statnews.com/2026/03/26/data-show-people-racing-to-chatbots-health-tech/?utm_campaign=rss",
+    "published_at": "2026-03-26T13:44:53+00:00",
+    "collected_at": "2026-03-26T15:07:04.845865+00:00",
+    "filter_score": 7,
+    "summary_ko": "사람들이 건강 상담을 위해 챗봇을 사용하는 것이 증가하고 있다.",
+    "emerging_sector": "의료 기술",
+    "leading_companies": [],
+    "category": "tech_trend",
+    "urgency": "medium"
   },
   {
     "id": "80813646f9534920e15d40d6cd47837b",
@@ -150,10 +80,10 @@
     "summary": "Updated data showed the biotech's approach to the rare lung and liver condition helped restore functional protective proteins in a small study.",
     "url": "https://www.biopharmadive.com/news/beam-base-gene-editing-clinical-data-aatd/815714/",
     "published_at": "2026-03-25T17:50:20+00:00",
-    "collected_at": "2026-03-26T13:20:43.511811+00:00",
+    "collected_at": "2026-03-26T15:07:05.087413+00:00",
     "filter_score": 7,
-    "summary_ko": "Beam의 AATD 치료를 위한 기초 편집 기술이 초기 임상 시험에서 긍정적인 결과를 보여주었습니다.",
-    "emerging_sector": "기초 편집 기술",
+    "summary_ko": "Beam의 베이스 에디팅 치료법이 AATD 환자에서 긍정적인 결과를 보여주었다.",
+    "emerging_sector": "유전자 편집",
     "leading_companies": [
       "Beam"
     ],
@@ -168,12 +98,12 @@
     "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta&rsquo;s stock and, according to the company,&nbsp;suggest potential for two medicines to treat muscle-weakening conditions.",
     "url": "https://www.biopharmadive.com/news/sarepta-arrowhead-trial-data-muscular-dystrophy/815681/",
     "published_at": "2026-03-25T15:03:53+00:00",
-    "collected_at": "2026-03-26T13:20:43.511823+00:00",
+    "collected_at": "2026-03-26T15:07:05.087426+00:00",
     "filter_score": 7,
-    "summary_ko": "Sarepta Therapeutics의 Arrowhead와의 협력을 통해 개발된 RNAi 약물이 근위축증 치료를 위한 잠재력을 보여주었습니다.",
+    "summary_ko": "Sarepta의 RNAi 신약이 초기 성공을 거두었으며, 두 가지 약물이 근무약화 질환을 치료할 수 있는 잠재력을 보였다.",
     "emerging_sector": "RNAi 기술",
     "leading_companies": [
-      "Sarepta Therapeutics",
+      "Sarepta",
       "Arrowhead"
     ],
     "category": "tech_trend",
@@ -187,10 +117,10 @@
     "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
     "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
     "published_at": "2026-03-24T14:07:58+00:00",
-    "collected_at": "2026-03-26T13:20:43.511861+00:00",
+    "collected_at": "2026-03-26T15:07:05.087464+00:00",
     "filter_score": 7,
-    "summary_ko": "Gilead는 Ouro Medicines를 인수하여 17억 달러를 투자하고, 자가면역질환 치료를 위한 바이스펙틱스 기술에 베팅했습니다. 이는 자가면역질환 치료 시장에서 경쟁력을 높이는 것으로 보입니다.",
-    "emerging_sector": "바이스펙틱스",
+    "summary_ko": "Gilead는 Ouro Medicines를 인수하여 17억 달러를 투자하고, 자가면역질환 치료를 위한 비스펙티프 항체 개발에 집중하고 있습니다.",
+    "emerging_sector": "비스펙티프 항체",
     "leading_companies": [
       "Gilead",
       "Ouro Medicines"
@@ -199,39 +129,22 @@
     "urgency": "high"
   },
   {
-    "id": "ac25758ba4210045029545a08d624203",
+    "id": "9dee84b67bcb4fb353e0542c98e8cb04",
     "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections\" hreflang=\"en\">FDA approves Denali's Hunter syndrome drug, handing rare disease community a win</a>",
-    "summary": "The FDA has approved Denali Therapeutics’ enzyme replacement therapy for a genetic lysosomal storage disease after a string of high-profile rejections for rare disease candidates.",
-    "url": "https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections",
-    "published_at": "2026-03-26T13:20:43.676817+00:00",
-    "collected_at": "2026-03-26T13:20:43.676823+00:00",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/orbimed-backed-pinnacle-adds-89m-series-b-power-oral-peptide-pipeline\" hreflang=\"en\">OrbiMed-backed Pinnacle adds $89M series B to power oral peptide pipeline</a>",
+    "summary": "Oral peptide specialist Pinnacle Medicines has secured an $89 million series B with backing from investors in the U.S. and China, bringing the company’s total fundraising haul to $134 million.",
+    "url": "https://www.fiercebiotech.com/biotech/orbimed-backed-pinnacle-adds-89m-series-b-power-oral-peptide-pipeline",
+    "published_at": "2026-03-26T15:07:05.247943+00:00",
+    "collected_at": "2026-03-26T15:07:05.247951+00:00",
     "filter_score": 7,
-    "summary_ko": "FDA는 Denali Therapeutics의 헌터 증후군 치료제를 승인하여 희귀병 치료 분야에서 중요한 승리를 거두었습니다. 이 승인은 최근에 거절된 몇몇 희귀병 치료제에 대한 승인을 의미합니다.",
-    "emerging_sector": "희귀병 치료",
+    "summary_ko": "OrbiMed-backed Pinnacle Medicines는 구강 펩타이드 파이프라인 개발을 위한 8900만 달러의 시리즈 B 자금을 조달했습니다.",
+    "emerging_sector": "구강 펩타이드",
     "leading_companies": [
-      "Denali Therapeutics"
+      "Pinnacle Medicines",
+      "OrbiMed"
     ],
-    "category": "tech_trend",
-    "urgency": "medium"
-  },
-  {
-    "id": "a4192f24bbb2b78a398ec87a2ab7144e",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisk-prepares-go-global-triple-g-prospect-passes-midphase-diabetes-test-china\" hreflang=\"en\">Novo Nordisk prepares to go global as triple-G prospect passes midphase diabetes test in China</a>",
-    "summary": "Novo Nordisk and its Chinese partner have reported another midphase win for their triple G candidate, sharing diabetes data to add to the momentum generated by an obesity readout. But while the data suggest the asset is competitive, Eli Lilly’s headstart in the space means it remains the company to beat.",
-    "url": "https://www.fiercebiotech.com/biotech/novo-nordisk-prepares-go-global-triple-g-prospect-passes-midphase-diabetes-test-china",
-    "published_at": "2026-03-26T13:20:43.676917+00:00",
-    "collected_at": "2026-03-26T13:20:43.676938+00:00",
-    "filter_score": 7,
-    "summary_ko": "Novo Nordisk는 중국에서 중간 단계 임상 시험을 통과한 3중 G 후보물질을 통해 글로벌 시장 진출을 준비하고 있습니다. 이는 당뇨병 치료 분야에서 중요한 발전입니다.",
-    "emerging_sector": "당뇨병 치료",
-    "leading_companies": [
-      "Novo Nordisk"
-    ],
-    "category": "tech_trend",
+    "category": "smart_money",
     "urgency": "medium"
   }
 ]
