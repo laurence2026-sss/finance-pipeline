@@ -894,5 +894,45 @@
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 0,
     "korea_search_query": "IPO OR 상장 ARM"
+  },
+  {
+    "id": "6b54b7b8367f5ce533555d40bf73e166",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Net Zero Activists Stumped By Shock New Evidence Showing No Link Between CO2 & Temperature Over Last Three Million Years",
+    "summary": "Net Zero Activists Stumped By Shock New Evidence Showing No Link Between CO2 & Temperature Over Last Three Million Years\n\n            Authored by Chris Morrison via DailySceptic.org,\n\nThe climate science world (‘settled’ division) is in shock following the discovery in ancient ice cores that levels of carbon dioxide remained stable as the world plunged into an ice age around 2.7 million years ago. Levels of CO2 at around 250 parts per million (ppm) were said to be lower than often assumed with j",
+    "url": "https://www.zerohedge.com/weather/net-zero-activists-stumped-shock-new-evidence-showing-no-link-between-co2-temperature-over",
+    "published_at": "2026-03-26T10:30:00+00:00",
+    "collected_at": "2026-03-26T13:20:33.328990+00:00",
+    "filter_score": 8,
+    "summary_ko": "새로운 연구에 따르면 지난 300만 년 동안 이산화탄소와 기온 사이에 상관관계가 없다는 것이 밝혀졌다. 이는 기후 변화 정책에 영향을 미칠 수 있다.",
+    "emerging_sector": "기후 과학",
+    "leading_companies": [],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Zero"
+  },
+  {
+    "id": "b3d8736f42a9dbfeafcad5a6945813a4",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "The US Shows A Way Out Of Germany's Energy Trap",
+    "summary": "The US Shows A Way Out Of Germany's Energy Trap\n\n            Submitted by Thomas Kolbe\n\nBig developments are underway in Tennessee and Alabama. Over the next five years, the joint Japanese-American project will bring several so-called small modular reactors (SMRs) of the BWRX-300 type online. Almost one percent of U.S. electricity production—slightly more than three gigawatts—will be added to the existing energy mix by reactors designed by Hitachi and GE Vernova.\n\nA caveat for purists of market ",
+    "url": "https://www.zerohedge.com/markets/us-shows-way-out-germanys-energy-trap",
+    "published_at": "2026-03-26T09:00:00+00:00",
+    "collected_at": "2026-03-26T13:20:33.329088+00:00",
+    "filter_score": 7,
+    "summary_ko": "미국은 독일의 에너지 문제를 해결하는 방법을 제시했다. 이는 에너지 시장에 새로운 기회를 제공할 수 있다.",
+    "emerging_sector": "에너지 기술",
+    "leading_companies": [
+      "일본-미국 공동 프로젝트"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "소형모듈원전 OR SMR"
   }
 ]
