@@ -1,51 +1,5 @@
 [
   {
-    "id": "0e4ce6b84da215bcdc7695eeeb9cca15",
-    "source": "STAT News",
-    "source_type": "rss",
-    "title": "STAT+: Denali Therapeutics, Corcept Therapeutics win FDA approvals",
-    "summary": "In today's Readout Newsletter, Denali and Corcept win FDA approvals, Sarepta eyes a rebound, and Allogene progresses with an off-the-shelf CAR-T.",
-    "url": "https://www.statnews.com/2026/03/26/denali-corcept-fda-allogene-car-t-readout-newsletter/?utm_campaign=rss",
-    "published_at": "2026-03-26T16:04:26+00:00",
-    "collected_at": "2026-03-26T20:38:59.131165+00:00",
-    "filter_score": 8,
-    "summary_ko": "데날리 테라퓨틱스와 코르셉트 테라퓨틱스가 FDA 승인을 받았다. 또한 사레프타와 알로젠의 CAR-T 기술에 대한 소식도 있다.",
-    "emerging_sector": "생명 공학",
-    "leading_companies": [
-      "Denali Therapeutics",
-      "Corcept Therapeutics",
-      "Sarepta",
-      "Allogene"
-    ],
-    "category": "tech_trend",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "STAT"
-  },
-  {
-    "id": "49904dd4c96c950bd3b585b36ebe251f",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "Merck’s deal for Terns sparks debate over a possible biotech bidding war",
-    "summary": "Some investors and analysts believe the pharma&rsquo;s $6.7 billion offer is justified given Terns&rsquo; recent stock run. Others are convinced a better proposal is coming.&nbsp;",
-    "url": "https://www.biopharmadive.com/news/merck-terns-buyout-valuation-debate/815812/",
-    "published_at": "2026-03-26T16:10:00+00:00",
-    "collected_at": "2026-03-26T20:38:59.333586+00:00",
-    "filter_score": 8,
-    "summary_ko": "Merck의 Terns 인수는 바이오텍 산업에서 입찰 전쟁의 가능성을 논의하게 만들었습니다.",
-    "emerging_sector": "Biotech M&A",
-    "leading_companies": [
-      "Merck",
-      "Terns"
-    ],
-    "category": "smart_money",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "ARM"
-  },
-  {
     "id": "56110034abc82a74684cbacac9c4a4ba",
     "source": "STAT News",
     "source_type": "rss",
@@ -53,14 +7,14 @@
     "summary": "This week on \"The Readout LOUD\" podcast: Eli Lilly's deal man, Allogene's off-the-shelf CAR-T, and Merck's Terns buy.",
     "url": "https://www.statnews.com/2026/03/26/eli-lilly-allogene-merck-terns-readout-loud-podcast/?utm_campaign=rss",
     "published_at": "2026-03-26T17:55:56+00:00",
-    "collected_at": "2026-03-26T20:38:59.131152+00:00",
+    "collected_at": "2026-03-26T22:19:56.172572+00:00",
     "filter_score": 7,
-    "summary_ko": "엘리 릴리와 알로젠의 CAR-T 기술에 대한 논의가 진행 중이다. 또한 머크의 테르نز 인수에 대한 소식도 있다.",
-    "emerging_sector": "생명 공학",
+    "summary_ko": "엘리 릴리, 알로게네, 머크 등 제약 회사들의 최근 동향을介绍한다.",
+    "emerging_sector": "제약",
     "leading_companies": [
-      "Eli Lilly",
-      "Allogene",
-      "Merck"
+      "엘리 릴리",
+      "알로게네",
+      "머크"
     ],
     "category": "tech_trend",
     "urgency": "medium",
@@ -69,22 +23,23 @@
     "korea_search_query": "Lilly"
   },
   {
-    "id": "61f47b767a75542e878c42c106a91c1b",
+    "id": "0e4ce6b84da215bcdc7695eeeb9cca15",
     "source": "STAT News",
     "source_type": "rss",
-    "title": "STAT+: Allogene’s off-the-shelf CAR-T is nearing an early but pivotal study readout",
-    "summary": "A preliminary readout from a study could vindicate Allogene Therapeutics' stubborn belief in its off-the-shelf CAR-T treatment.",
-    "url": "https://www.statnews.com/2026/03/26/allogene-car-t-lymphoma-treatment-study/?utm_campaign=rss",
-    "published_at": "2026-03-26T10:30:00+00:00",
-    "collected_at": "2026-03-26T20:38:59.131236+00:00",
+    "title": "STAT+: Denali Therapeutics, Corcept Therapeutics win FDA approvals",
+    "summary": "In today's Readout Newsletter, Denali and Corcept win FDA approvals, Sarepta eyes a rebound, and Allogene progresses with an off-the-shelf CAR-T.",
+    "url": "https://www.statnews.com/2026/03/26/denali-corcept-fda-allogene-car-t-readout-newsletter/?utm_campaign=rss",
+    "published_at": "2026-03-26T16:04:26+00:00",
+    "collected_at": "2026-03-26T22:19:56.172584+00:00",
     "filter_score": 7,
-    "summary_ko": "Allogene Therapeutics의 오프-더-쉘프 CAR-T 치료제가 초기 연구 결과를 발표할 예정이며, 이는 회사의 신념을 입증할 수 있을 것입니다.",
-    "emerging_sector": "CAR-T Treatment",
+    "summary_ko": "데날리 테라퓨틱스와 코르셉트 테라퓨틱스가 FDA 승인을 받았다.",
+    "emerging_sector": "제약",
     "leading_companies": [
-      "Allogene Therapeutics"
+      "데날리 테라퓨틱스",
+      "코르셉트 테라퓨틱스"
     ],
     "category": "tech_trend",
-    "urgency": "high",
+    "urgency": "medium",
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "STAT"
