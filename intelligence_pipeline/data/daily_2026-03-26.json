@@ -501,5 +501,273 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Heart"
+  },
+  {
+    "id": "9554785f1d98a3ece5f8d940b3a2ed2e",
+    "source": "Yahoo Finance (ARM)",
+    "source_type": "finance",
+    "title": "🔥 ARM: $157.07 (+16.38%)",
+    "summary": "ARM 현재가 157.07, 일간 변동 +16.38%, 거래량 29,484,555 (평균 대비 6.1배 — 자금 이동 포착!)",
+    "url": "https://finance.yahoo.com/quote/ARM",
+    "published_at": "2026-03-26T02:31:56.038198+00:00",
+    "collected_at": "2026-03-26T02:31:56.038203+00:00",
+    "metadata": {
+      "ticker": "ARM",
+      "price": 157.07,
+      "daily_change_pct": 16.38,
+      "volume": 29484555,
+      "avg_volume": 4867757,
+      "volume_ratio": 6.06,
+      "is_spike": true
+    },
+    "filter_score": 9,
+    "summary_ko": "ARM의 주가가 16.38% 상승하여 157.07달러에 달했다. 이는 자금 이동의 신호로 볼 수 있다.",
+    "emerging_sector": "반도체",
+    "leading_companies": [
+      "ARM"
+    ],
+    "category": "smart_money",
+    "urgency": "breaking",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "ARM"
+  },
+  {
+    "id": "476138e9ff962772b78f30316040201b",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Why Memory Stocks Crashed Today: TurboQuant Just Changed The Game With \"Google's DeepSeek Moment\"",
+    "summary": "Why Memory Stocks Crashed Today: TurboQuant Just Changed The Game With \"Google's DeepSeek Moment\"\n\n            With stocks closing solidly in the green despite some painful wobbles during the day, one sector was a notable laggard: the same sector that had dramatically outperformed the S&P since memory prices soared last October: memory stocks, most notably MU and SNDK.\n\nIn his EOD wrap, Goldman tech specialist Peter Callahan wrote that while there wasn't that much actual \"angst\" out there, his c",
+    "url": "https://www.zerohedge.com/markets/why-memory-stocks-crashed-today-turboquant-just-changed-game-googles-deepseek-moment",
+    "published_at": "2026-03-26T01:45:00+00:00",
+    "collected_at": "2026-03-26T02:31:52.178040+00:00",
+    "filter_score": 8,
+    "summary_ko": "TurboQuant의 'Google의 DeepSeek Moment'으로 메모리 스톡이 급락했다. 이는 메모리 기술의 새로운 패러다임을 나타낼 수 있다.",
+    "emerging_sector": "메모리 기술",
+    "leading_companies": [
+      "TurboQuant",
+      "Google"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "폭락"
+  },
+  {
+    "id": "b85a9d58f5da05c879158b3812da4435",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-flies-toward-promising-cml-asset-67b-terns-acquisition\" hreflang=\"en\">Merck, girding for Keytruda cliff, flies toward promising CML asset with $6.7B Terns acquisition</a>",
+    "summary": "Merck and Terns Pharmaceuticals have agreed to a $6.7 billion all-cash buyout that delivers a prized leukemia asset to the New Jersey Big Pharma.",
+    "url": "https://www.fiercebiotech.com/biotech/merck-flies-toward-promising-cml-asset-67b-terns-acquisition",
+    "published_at": "2026-03-26T02:31:54.203630+00:00",
+    "collected_at": "2026-03-26T02:31:54.203636+00:00",
+    "filter_score": 8,
+    "summary_ko": "Merck는 Terns Pharmaceuticals를 67억 달러에 인수하여 백혈병 치료 자산을 확보하였다. 이는 Merck의 주요 약물 Keytruda의 수익성 감소에 대비한 전략이다.",
+    "emerging_sector": "백혈병 치료 기술",
+    "leading_companies": [
+      "Merck",
+      "Terns Pharmaceuticals"
+    ],
+    "category": "smart_money",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 2,
+    "korea_search_query": "인수합병 ARM"
+  },
+  {
+    "id": "7df2d17c6fcbd89d7c6065bf83921dc3",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Microneedle vaccine patch company raises $50M for pivot to GLP-1 delivery",
+    "summary": "Fourteen years ago, a group of Harvard Business School students launched a startup called Vaxess Technologies with a goal to disrupt the vaccine industry by replacing needles with a simple skin patch.\n Getting the technology ...",
+    "url": "https://endpoints.news/microneedle-vaccine-patch-company-raises-50m-for-pivot-to-glp-1-delivery/",
+    "published_at": "2026-03-25T13:00:28+00:00",
+    "collected_at": "2026-03-26T02:31:54.468909+00:00",
+    "filter_score": 8,
+    "summary_ko": "미크로니들 백신 패치 회사인 Vaxess Technologies가 GLP-1 전달로 사업 방향을 전환하기 위해 5,000만 달러를 투자받았다. 이는 백신 산업에서 새로운 기술을 적용하려는 시도이다.",
+    "emerging_sector": "미크로니들 기술",
+    "leading_companies": [
+      "Vaxess Technologies"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 2,
+    "korea_search_query": "Microneedle"
+  },
+  {
+    "id": "5cc761eaeb379082623910a68a530965",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Adonis Scores $40M for AI Platform Aiming to Boost Hospital Revenue",
+    "summary": "Adonis raised a $40 million Series C funding round to help hospitals use AI to tackle denied and underpaid claims. Its platform automates manual revenue cycle tasks and provides real-time insights, which allows staff to focus on higher-value work. Customers include Mount Sinai Health System, Baptist Health South Florida, AdventHealth and ApolloMD.\nThe post Adonis Scores $40M for AI Platform Aiming to Boost Hospital Revenue appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/hospital-revenue/",
+    "published_at": "2026-03-26T01:29:39+00:00",
+    "collected_at": "2026-03-26T02:31:54.721342+00:00",
+    "filter_score": 8,
+    "summary_ko": "Adonis는 병원 수익을 높이기 위한 AI 플랫폼 개발을 위해 4,000만 달러의 시리즈 C 자금을 투자받았다. 이는 의료 분야에서 AI 기술의 적용이 증가하고 있다.",
+    "emerging_sector": "의료 AI",
+    "leading_companies": [
+      "Adonis"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "Adonis"
+  },
+  {
+    "id": "b84a4bb9c3371b958844b110ccdded94",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Gilead Sciences Gains an Opportunity for Immune System Reset With $1.7B Ouro Acquisition",
+    "summary": "Gilead Sciences is acquiring Ouro Medicines, a startup developing T cell engagers for a range of autoimmune diseases. Separately, Gilead is negotiating a deal with Galapagos to share in the development and potential commercialization of the Ouro drug. \nThe post Gilead Sciences Gains an Opportunity for Immune System Reset With $1.7B Ouro Acquisition appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/gilead-sciences-ouro-acquisition-inflammation-autoimmune-disease-immune-system-reset-galapagos-gild-glpg/",
+    "published_at": "2026-03-24T20:30:53+00:00",
+    "collected_at": "2026-03-26T02:31:54.721454+00:00",
+    "filter_score": 8,
+    "summary_ko": "Gilead Sciences는 Ouro Medicines를 17억 달러에 인수하여 면역계 리셋을 위한 새로운 기회를 얻었다.",
+    "emerging_sector": "면역계 리셋",
+    "leading_companies": [
+      "Gilead Sciences",
+      "Ouro Medicines"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "인수합병"
+  },
+  {
+    "id": "4e8251ed67e41c7605de5c79512dc783",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/sareptas-big-bet-arrowheads-sirna-assets-yields-early-data\" hreflang=\"en\">Sarepta's big bet on Arrowhead's siRNA assets yields early data</a>",
+    "summary": "Sarepta Therapeutics has shared initial clinical data on two siRNA candidates, delivering an early look at the wisdom of its decision to bet big on Arrowhead Pharmaceuticals’ pipeline.",
+    "url": "https://www.fiercebiotech.com/biotech/sareptas-big-bet-arrowheads-sirna-assets-yields-early-data",
+    "published_at": "2026-03-26T02:31:54.203644+00:00",
+    "collected_at": "2026-03-26T02:31:54.203651+00:00",
+    "filter_score": 7,
+    "summary_ko": "Sarepta Therapeutics는 Arrowhead Pharmaceuticals의 siRNA 자산에 대한 초기 임상 데이터를 공개하였다. 이는 Sarepta의 Arrowhead에 대한 투자에 대한 초기 평가이다.",
+    "emerging_sector": "RNA 치료 기술",
+    "leading_companies": [
+      "Sarepta Therapeutics",
+      "Arrowhead Pharmaceuticals"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "ARM"
+  },
+  {
+    "id": "a4192f24bbb2b78a398ec87a2ab7144e",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisk-prepares-go-global-triple-g-prospect-passes-midphase-diabetes-test-china\" hreflang=\"en\">Novo Nordisk prepares to go global as triple-G prospect passes midphase diabetes test in China</a>",
+    "summary": "Novo Nordisk and its Chinese partner have reported another midphase win for their triple G candidate, sharing diabetes data to add to the momentum generated by an obesity readout. But while the data suggest the asset is competitive, Eli Lilly’s headstart in the space means it remains the company to beat.",
+    "url": "https://www.fiercebiotech.com/biotech/novo-nordisk-prepares-go-global-triple-g-prospect-passes-midphase-diabetes-test-china",
+    "published_at": "2026-03-26T02:31:54.203672+00:00",
+    "collected_at": "2026-03-26T02:31:54.203678+00:00",
+    "filter_score": 7,
+    "summary_ko": "Novo Nordisk의 3중 G 후보물질은 중간 단계 임상 시험에서 당뇨병 치료 효과를 보여주었다. 이는 Novo Nordisk의 글로벌 시장 진출을 위한 중요한 단계이다.",
+    "emerging_sector": "당뇨병 치료 기술",
+    "leading_companies": [
+      "Novo Nordisk"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "우주항공 OR 우주산업"
+  },
+  {
+    "id": "52e7a4d2f0020284b3bd952daa3f7f1e",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "After tumultuous year, Sarepta plots rebound with early data on RNA therapies",
+    "summary": "Sarepta Therapeutics reported promise in initial findings from clinical studies of two RNA muscle disease treatments, as the company maps out a future beyond its controversial Duchenne muscular dystrophy therapies.\n\n Sarepta is developing RNA treatments ...",
+    "url": "https://endpoints.news/after-tumultuous-year-sarepta-plots-rebound-with-early-data-on-rna-therapies/",
+    "published_at": "2026-03-25T15:41:06+00:00",
+    "collected_at": "2026-03-26T02:31:54.468866+00:00",
+    "filter_score": 7,
+    "summary_ko": "Sarepta Therapeutics는 RNA 치료제의 초기 결과가 약속을 보여주고 있습니다. 이는 회사의 미래를 위한 중요한 단계입니다.",
+    "emerging_sector": "RNA 치료제",
+    "leading_companies": [
+      "Sarepta Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "After"
+  },
+  {
+    "id": "2c274c8152290d16c98d936be85c767d",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Beam looks to accelerated approval for AATD base editing after promising update",
+    "summary": "Beam Therapeutics has provided a much-awaited update on its therapy that uses a form of CRISPR called base editing to precisely fix a single genetic typo responsible for a rare genetic disease.\n On Wednesday,",
+    "url": "https://endpoints.news/beam-looks-to-accelerated-approval-for-aatd-base-editing-after-promising-update/",
+    "published_at": "2026-03-25T15:31:38+00:00",
+    "collected_at": "2026-03-26T02:31:54.468876+00:00",
+    "filter_score": 7,
+    "summary_ko": "Beam Therapeutics는 희귀 유전병 치료를 위한 기초 편집 기술을 사용하는 치료제의 업데이트 결과를 발표했습니다.",
+    "emerging_sector": "기초 편집 기술",
+    "leading_companies": [
+      "Beam Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 7,
+    "korea_search_query": "Beam"
+  },
+  {
+    "id": "e333c12c3753ec1c42a14d9a5aa0ebde",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Maze meets own expectations in Phase 2 kidney disease trial in the same arena as Vertex",
+    "summary": "Maze Therapeutics unveiled positive mid-stage data for its genetic kidney disease drug that could spell major competition for Vertex Pharmaceuticals’ program that has the same target.\n\n Maze’s candidate, codenamed MZE829, produced an average 35.6% reduction ...",
+    "url": "https://endpoints.news/maze-meets-own-expectations-in-phase-2-kidney-disease-trial-in-the-same-arena-as-vertex/",
+    "published_at": "2026-03-25T11:02:18+00:00",
+    "collected_at": "2026-03-26T02:31:54.468920+00:00",
+    "filter_score": 7,
+    "summary_ko": "Maze Therapeutics는 Vertex Pharmaceuticals와 같은 목표를 가진 유전자 신장 질환 약물에 대한 중간 단계 데이터를 공개했다. 이는 신장 질환 치료 분야에서 새로운 경쟁자가 등장할 수 있다.",
+    "emerging_sector": "유전자 신장 질환 치료",
+    "leading_companies": [
+      "Maze Therapeutics",
+      "Vertex Pharmaceuticals"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "ARM"
+  },
+  {
+    "id": "4b312b9205fe266fa8e807147a0697d3",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Merck’s $6.7B Terns Acquisition Positions It to Challenge a Blockbuster Novartis Cancer Drug",
+    "summary": "Merck has been acquiring assets that could help make up for the coming revenue decline as its top product, the cancer drug Keytruda, drops off the patent cliff.  Terns Pharmaceuticals’ lead product candidate, in development for treating a type of leukemia, could offer dosing and efficacy advantages over the Novartis drug Scemblix.\nThe post Merck’s $6.7B Terns Acquisition Positions It to Challenge a Blockbuster Novartis Cancer Drug appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/merck-terns-pharma-acquisition-cancer-chronic-myeloid-leukemia-cml-tern-mrk/",
+    "published_at": "2026-03-25T17:53:12+00:00",
+    "collected_at": "2026-03-26T02:31:54.721359+00:00",
+    "filter_score": 7,
+    "summary_ko": "Merck는 Terns Pharmaceuticals를 67억 달러에 인수하여 노바티스사의 암 치료 약물에 도전할 수 있는 자리를 마련했다.",
+    "emerging_sector": "암 치료",
+    "leading_companies": [
+      "Merck",
+      "Terns Pharmaceuticals",
+      "Novartis"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 2,
+    "korea_search_query": "인수합병 ARM"
   }
 ]
