@@ -854,5 +854,45 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 6,
     "korea_search_query": "Beam"
+  },
+  {
+    "id": "61f47b767a75542e878c42c106a91c1b",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Allogene’s off-the-shelf CAR-T is nearing an early but pivotal study readout",
+    "summary": "A preliminary readout from a study could vindicate Allogene Therapeutics' stubborn belief in its off-the-shelf CAR-T treatment.",
+    "url": "https://www.statnews.com/2026/03/26/allogene-car-t-lymphoma-treatment-study/?utm_campaign=rss",
+    "published_at": "2026-03-26T10:30:00+00:00",
+    "collected_at": "2026-03-26T10:54:29.018518+00:00",
+    "filter_score": 8,
+    "summary_ko": "Allogene Therapeutics의 오프-더-셸프 CAR-T 치료법에 대한 예비 연구 결과가 곧 발표될 예정이다.",
+    "emerging_sector": "CAR-T 치료법",
+    "leading_companies": [
+      "Allogene Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "STAT"
+  },
+  {
+    "id": "034aba0e1e7655304fd2dcd0299f4a06",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biopharma-doubles-down-big-bets-and-china-ipos-hit-10-year-low\" hreflang=\"en\">Biopharma funding dropped 20% in 2025 as companies doubled down on big bets: IQVIA</a>",
+    "summary": "Biopharma funding fell 20% last year, reversing the post-pandemic recovery as the IPO haul dropped to the lowest level of the past 10 years, according to an IQVIA analysis.",
+    "url": "https://www.fiercebiotech.com/biotech/biopharma-doubles-down-big-bets-and-china-ipos-hit-10-year-low",
+    "published_at": "2026-03-26T10:54:29.368503+00:00",
+    "collected_at": "2026-03-26T10:54:29.368516+00:00",
+    "filter_score": 8,
+    "summary_ko": "바이오파마 투자금은 2025년에 20% 감소했으며, 이는 IPO 수익이 10년 만에 최저치에 도달한 것으로 나타났습니다.",
+    "emerging_sector": "바이오파마 투자",
+    "leading_companies": [],
+    "category": "macro",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "IPO OR 상장 ARM"
   }
 ]

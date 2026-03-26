@@ -1,21 +1,5 @@
 [
   {
-    "id": "39a50ec23416a39399b6e15fe903c109",
-    "source": "STAT News",
-    "source_type": "rss",
-    "title": "Heart failure is common. A quick MRI could improve diagnosis and guide treatment",
-    "summary": "A new MRI method measures cardiac oxygen use in three minutes without catheters or radiation, offering a simpler way to study heart failure and metabolism.",
-    "url": "https://www.statnews.com/2026/03/25/heart-failure-diagnosis-new-3-minute-mri-measures-oxygen/?utm_campaign=rss",
-    "published_at": "2026-03-25T18:00:00+00:00",
-    "collected_at": "2026-03-26T09:00:02.314555+00:00",
-    "filter_score": 8,
-    "summary_ko": "심장 결손증을 진단하고 치료하기 위한 새로운 MRI 방법이 개발되었다.",
-    "emerging_sector": "의료 기술",
-    "leading_companies": [],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
     "id": "bf2ec0b45047954eca99d51f9d184cf5",
     "source": "BioPharma Dive",
     "source_type": "rss",
@@ -23,34 +7,16 @@
     "summary": "If consummated, the deal would hand Merck a treatment that could challenge Novartis&rsquo; fast-selling Scemblix. But the low purchase premium &mdash; which one analyst described as a \"steal\"&nbsp;&mdash; may leave room for a competing bid.",
     "url": "https://www.biopharmadive.com/news/merck-terns-acquire-deal-leukemia-drug/815637/",
     "published_at": "2026-03-25T12:50:02+00:00",
-    "collected_at": "2026-03-26T09:00:02.559027+00:00",
-    "filter_score": 8,
-    "summary_ko": "Merck가 Terns를 67억 달러에 인수하여 백혈병 치료제 시장에 진출할 예정이다.",
-    "emerging_sector": "백혈병 치료제",
+    "collected_at": "2026-03-26T10:54:29.267063+00:00",
+    "filter_score": 9,
+    "summary_ko": "Merck가 Terns를 67억 달러에 인수하기로 했습니다. 이는 백혈병 치료제 시장에 대한 새로운 기회를 열어줍니다.",
+    "emerging_sector": "백혈병 치료",
     "leading_companies": [
       "Merck",
       "Terns",
       "Novartis"
     ],
     "category": "smart_money",
-    "urgency": "high"
-  },
-  {
-    "id": "ac25758ba4210045029545a08d624203",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections\" hreflang=\"en\">FDA approves Denali's Hunter syndrome drug, handing rare disease community a win</a>",
-    "summary": "The FDA has approved Denali Therapeutics’ enzyme replacement therapy for a genetic lysosomal storage disease after a string of high-profile rejections for rare disease candidates.",
-    "url": "https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections",
-    "published_at": "2026-03-26T09:00:02.710707+00:00",
-    "collected_at": "2026-03-26T09:00:02.710727+00:00",
-    "filter_score": 8,
-    "summary_ko": "FDA는 Denali의 헌터 증후군 치료제를 승인하여 희귀병 치료에 새로운 기회를 제공했습니다.",
-    "emerging_sector": "희귀병 치료",
-    "leading_companies": [
-      "Denali Therapeutics"
-    ],
-    "category": "tech_trend",
     "urgency": "high"
   },
   {
@@ -61,28 +27,49 @@
     "summary": "Russia Launches Springtime Offensive On Ukraine, As \"That Other War\" Drags On\n\n            Just days after we reported that trilateral peace negotiations between Russia, Ukraine, and the Trump administration had been suspended -  likely indefinitely - thanks to Washington's escalating involvement in the Iran war, Reuters is now confirming the inevitable: Moscow is pressing ahead with a fresh springtime offensive while Kiev scrambles to hold the line.\n\nAs we reported before, from the collapse of ",
     "url": "https://www.zerohedge.com/markets/russia-launches-springtime-offensive-ukraine-other-war-drags",
     "published_at": "2026-03-26T02:35:00+00:00",
-    "collected_at": "2026-03-26T08:59:59.256523+00:00",
-    "filter_score": 7,
-    "summary_ko": "러시아가 우크라이나에 대한 봄攻勢를 시작했다. 이는 지구정치적 긴장을 높이는 상황이다.",
-    "emerging_sector": "지구정치",
-    "leading_companies": [],
+    "collected_at": "2026-03-26T10:54:27.481574+00:00",
+    "filter_score": 8,
+    "summary_ko": "러시아가 우크라이나에 대한 봄攻勢를 시작했습니다. 이는 정치적, 군사적 문제로 인해 발생하는 것 같습니다.",
+    "emerging_sector": "국제 관계",
+    "leading_companies": [
+      "러시아",
+      "우크라이나"
+    ],
     "category": "geopolitics",
-    "urgency": "high"
+    "urgency": "breaking"
   },
   {
-    "id": "e5b23b82ba4db9f7865eb2d80fe05ca0",
+    "id": "61f47b767a75542e878c42c106a91c1b",
     "source": "STAT News",
     "source_type": "rss",
-    "title": "STAT+: A 2023 health AI bet that seems to be paying off",
-    "summary": "In this edition of STAT's AI Prognosis: A chat with Qualified Health co-founder and CEO, Justin Norden, as the company raises $125 million.",
-    "url": "https://www.statnews.com/2026/03/25/2023-health-ai-bet-that-seems-paying-off-ai-prognosis/?utm_campaign=rss",
-    "published_at": "2026-03-25T16:01:24+00:00",
-    "collected_at": "2026-03-26T09:00:02.314574+00:00",
-    "filter_score": 7,
-    "summary_ko": "Qualified Health는 1억 2천 5백만 달러를 투자받았다. 이는 2023년 건강 인공지능 베팅이 성공적으로 돌아오고 있다.",
-    "emerging_sector": "건강 인공지능",
+    "title": "STAT+: Allogene’s off-the-shelf CAR-T is nearing an early but pivotal study readout",
+    "summary": "A preliminary readout from a study could vindicate Allogene Therapeutics' stubborn belief in its off-the-shelf CAR-T treatment.",
+    "url": "https://www.statnews.com/2026/03/26/allogene-car-t-lymphoma-treatment-study/?utm_campaign=rss",
+    "published_at": "2026-03-26T10:30:00+00:00",
+    "collected_at": "2026-03-26T10:54:29.018518+00:00",
+    "filter_score": 8,
+    "summary_ko": "Allogene Therapeutics의 오프-더-셸프 CAR-T 치료법에 대한 예비 연구 결과가 곧 발표될 예정이다.",
+    "emerging_sector": "CAR-T 치료법",
     "leading_companies": [
-      "Qualified Health"
+      "Allogene Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "5eb7939fc60db9f381e3fc0c1a95d8da",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: FDA approves Denali Therapeutics drug for Hunter syndrome",
+    "summary": "The FDA approved a new medicine from Denali Therapeutics for Hunter syndrome, a notable decision by the agency after a string of rejections of rare disease drugs.",
+    "url": "https://www.statnews.com/2026/03/25/denali-therapeutics-hunter-syndrome-rare-disease/?utm_campaign=rss",
+    "published_at": "2026-03-25T16:19:58+00:00",
+    "collected_at": "2026-03-26T10:54:29.018596+00:00",
+    "filter_score": 8,
+    "summary_ko": "FDA가 Hunter 증후군 치료제를 승인했습니다. 이는 희귀병 치료제에 대한 승인이며, 의료 기술의 발전에 새로운 기회를 제공합니다.",
+    "emerging_sector": "희귀병 치료",
+    "leading_companies": [
+      "Denali Therapeutics"
     ],
     "category": "tech_trend",
     "urgency": "high"
@@ -95,15 +82,87 @@
     "summary": "Updated data showed the biotech's approach to the rare lung and liver condition helped restore functional protective proteins in a small study.",
     "url": "https://www.biopharmadive.com/news/beam-base-gene-editing-clinical-data-aatd/815714/",
     "published_at": "2026-03-25T17:50:20+00:00",
-    "collected_at": "2026-03-26T09:00:02.558999+00:00",
-    "filter_score": 7,
-    "summary_ko": "Beam의 베이스 에디팅 치료법이 희귀 폐 및 간 질환에 효과적임을 보였다.",
-    "emerging_sector": "베이스 에디팅",
+    "collected_at": "2026-03-26T10:54:29.267018+00:00",
+    "filter_score": 8,
+    "summary_ko": "Beam의 AATD 치료제가 초기 임상 시험에서 긍정적인 결과를 보여주었습니다.",
+    "emerging_sector": "AATD 치료",
     "leading_companies": [
       "Beam"
     ],
     "category": "tech_trend",
     "urgency": "high"
+  },
+  {
+    "id": "034aba0e1e7655304fd2dcd0299f4a06",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biopharma-doubles-down-big-bets-and-china-ipos-hit-10-year-low\" hreflang=\"en\">Biopharma funding dropped 20% in 2025 as companies doubled down on big bets: IQVIA</a>",
+    "summary": "Biopharma funding fell 20% last year, reversing the post-pandemic recovery as the IPO haul dropped to the lowest level of the past 10 years, according to an IQVIA analysis.",
+    "url": "https://www.fiercebiotech.com/biotech/biopharma-doubles-down-big-bets-and-china-ipos-hit-10-year-low",
+    "published_at": "2026-03-26T10:54:29.368503+00:00",
+    "collected_at": "2026-03-26T10:54:29.368516+00:00",
+    "filter_score": 8,
+    "summary_ko": "바이오파마 투자금은 2025년에 20% 감소했으며, 이는 IPO 수익이 10년 만에 최저치에 도달한 것으로 나타났습니다.",
+    "emerging_sector": "바이오파마 투자",
+    "leading_companies": [],
+    "category": "macro",
+    "urgency": "high"
+  },
+  {
+    "id": "b84a4bb9c3371b958844b110ccdded94",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Gilead Sciences Gains an Opportunity for Immune System Reset With $1.7B Ouro Acquisition",
+    "summary": "Gilead Sciences is acquiring Ouro Medicines, a startup developing T cell engagers for a range of autoimmune diseases. Separately, Gilead is negotiating a deal with Galapagos to share in the development and potential commercialization of the Ouro drug. \nThe post Gilead Sciences Gains an Opportunity for Immune System Reset With $1.7B Ouro Acquisition appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/gilead-sciences-ouro-acquisition-inflammation-autoimmune-disease-immune-system-reset-galapagos-gild-glpg/",
+    "published_at": "2026-03-24T20:30:53+00:00",
+    "collected_at": "2026-03-26T10:54:29.911959+00:00",
+    "filter_score": 8,
+    "summary_ko": "Gilead Sciences는 Ouro Medicines를 17억 달러에 인수하여 면역계 리셋 기술을 확보하고, Galapagos와의 개발 협력을 논의 중이다.",
+    "emerging_sector": "면역계 리셋",
+    "leading_companies": [
+      "Gilead Sciences",
+      "Ouro Medicines",
+      "Galapagos"
+    ],
+    "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "39a50ec23416a39399b6e15fe903c109",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "Heart failure is common. A quick MRI could improve diagnosis and guide treatment",
+    "summary": "A new MRI method measures cardiac oxygen use in three minutes without catheters or radiation, offering a simpler way to study heart failure and metabolism.",
+    "url": "https://www.statnews.com/2026/03/25/heart-failure-diagnosis-new-3-minute-mri-measures-oxygen/?utm_campaign=rss",
+    "published_at": "2026-03-25T18:00:00+00:00",
+    "collected_at": "2026-03-26T10:54:29.018586+00:00",
+    "filter_score": 7,
+    "summary_ko": "MRI를 이용한 새로운 심장 질환 진단 방법이 개발되었습니다. 이 방법은 3분 만에 심장의 산소 사용량을 측정할 수 있으며, 심장 질환과 대사 장애의 연구에 새로운 가능성을 열어줍니다.",
+    "emerging_sector": "의료 기기",
+    "leading_companies": [
+      "Denali Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "d90a14b6095a9a2df82b4715e01dcb63",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Sarepta Therapeutics shares rise on early promise for rare disease drugs",
+    "summary": "Sarepta Therapeutics’ next crop of medicines for muscular dystrophy appear to be safe and effective in early clinical trials, the company said.",
+    "url": "https://www.statnews.com/2026/03/25/sarepta-therapeutics-fshd-dm1-study-results/?utm_campaign=rss",
+    "published_at": "2026-03-25T14:28:25+00:00",
+    "collected_at": "2026-03-26T10:54:29.018617+00:00",
+    "filter_score": 7,
+    "summary_ko": "Sarepta Therapeutics의 근이영양증 치료제가 초기 임상 시험에서 안전성과 효능을 보여주었습니다.",
+    "emerging_sector": "근이영양증 치료",
+    "leading_companies": [
+      "Sarepta Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
   },
   {
     "id": "5d1b01ee26239811f356a2d1138a6ce7",
@@ -113,16 +172,16 @@
     "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta&rsquo;s stock and, according to the company,&nbsp;suggest potential for two medicines to treat muscle-weakening conditions.",
     "url": "https://www.biopharmadive.com/news/sarepta-arrowhead-trial-data-muscular-dystrophy/815681/",
     "published_at": "2026-03-25T15:03:53+00:00",
-    "collected_at": "2026-03-26T09:00:02.559012+00:00",
+    "collected_at": "2026-03-26T10:54:29.267031+00:00",
     "filter_score": 7,
-    "summary_ko": "Sarepta의 RNAi 치료제가 근이영양증 치료에 потен셜을 보였다.",
-    "emerging_sector": "RNAi",
+    "summary_ko": "Sarepta Therapeutics의 RNAi 치료제가 초기 임상 시험에서 근이영양증 치료에 대한 가능성을 보여주었습니다.",
+    "emerging_sector": "RNAi 치료",
     "leading_companies": [
-      "Sarepta",
+      "Sarepta Therapeutics",
       "Arrowhead"
     ],
     "category": "tech_trend",
-    "urgency": "high"
+    "urgency": "medium"
   },
   {
     "id": "a41cdc1a8822c8defef60e0e8f606777",
@@ -132,9 +191,9 @@
     "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
     "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
     "published_at": "2026-03-24T14:07:58+00:00",
-    "collected_at": "2026-03-26T09:00:02.559050+00:00",
+    "collected_at": "2026-03-26T10:54:29.267088+00:00",
     "filter_score": 7,
-    "summary_ko": "Gilead는 Ouro Medicines를 인수하여 17억 달러를 투자하고, 자가면역질환 치료를 위한 새로운 항체 개발에 집중하고 있습니다.",
+    "summary_ko": "Gilead는 Ouro Medicines를 인수하여 17억 달러를 투자하고, 자가면역질환 치료를 위한 비스펙시픽 항체 개발에 집중하고 있습니다.",
     "emerging_sector": "자가면역질환 치료",
     "leading_companies": [
       "Gilead",
@@ -142,5 +201,23 @@
     ],
     "category": "tech_trend",
     "urgency": "high"
+  },
+  {
+    "id": "293a1f8fea7157fca78f9d1cec3dd3a1",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "How A Small Rural Hospital Is Using AI to Catch Heart Disease Sooner",
+    "summary": "At Wayne General Hospital in rural Mississippi, clinicians are using Eko Health’s AI-powered digital stethoscope to detect heart conditions earlier in patients with limited access to specialists. \nThe post How A Small Rural Hospital Is Using AI to Catch Heart Disease Sooner appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/rural-hospital-cardiology/",
+    "published_at": "2026-03-25T00:49:30+00:00",
+    "collected_at": "2026-03-26T10:54:29.911933+00:00",
+    "filter_score": 7,
+    "summary_ko": "미시시피 주의 한 소규모 시골 병원이 Eko Health의 AI 기반 디지털 청진기(stethoscope)를 사용하여 전문가에 접근하기 어려운 환자에서 심장 질환을 조기에 발견하고 있다.",
+    "emerging_sector": "의료 AI",
+    "leading_companies": [
+      "Eko Health"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
   }
 ]
