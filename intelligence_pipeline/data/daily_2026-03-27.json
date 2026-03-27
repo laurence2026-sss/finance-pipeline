@@ -533,5 +533,26 @@
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 1,
     "korea_search_query": "Recordati"
+  },
+  {
+    "id": "4c584dd511a360bf10ed8da73af902cf",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "AirGas Declares Force Majeure On Helium Shipments As Qatar Production Collapses",
+    "summary": "AirGas Declares Force Majeure On Helium Shipments As Qatar Production Collapses\n\n            Earlier this week we reported that global chip production was in peril as \"Qatar Warns Helium Exports Set To Collapse.\" Best known as the gas that makes party balloons float, helium is far more important as a key input in chipmaking, space rockets and medical imaging. The problem is that Qatar supplies a third of the world’s helium, and the Gulf nation had to halt production after Iranian strikes against",
+    "url": "https://www.zerohedge.com/markets/airgas-declares-force-majeure-helium-shipments-qatar-production-collapses",
+    "published_at": "2026-03-27T01:25:00+00:00",
+    "collected_at": "2026-03-27T07:11:42.253557+00:00",
+    "filter_score": 7,
+    "summary_ko": "AirGas가 헬륨 수출을 중단하고 생산이 붕괴된 카타르에서 강제 조치 선언했습니다.",
+    "emerging_sector": "헬륨",
+    "leading_companies": [
+      "AirGas"
+    ],
+    "category": "macro",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 2,
+    "korea_search_query": "우주항공 OR 우주산업"
   }
 ]
