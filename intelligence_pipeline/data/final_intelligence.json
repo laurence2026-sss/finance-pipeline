@@ -1,24 +1,5 @@
 [
   {
-    "id": "bf11c5d6c15ccc17f7286789befd4d54",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Someone Tell Lloyd Blankfein The Fire In Private Credit Has Already Started",
-    "summary": "Someone Tell Lloyd Blankfein The Fire In Private Credit Has Already Started\n\n            Submitted by QTR's Fringe Finance\n\nAs I’ve been writing about, private credit has been under immense stress for months, with liquidity strains, redemption pressure, and growing questions around valuations all surfacing at once. And now with things on the verge of imminent collapse and literally all of f*cking Wall Street already on notice, one former major banking CEO has decided to offer up the King Solomon",
-    "url": "https://www.zerohedge.com/markets/someone-tell-lloyd-blankfein-fire-private-credit-has-already-started",
-    "published_at": "2026-03-27T14:50:00+00:00",
-    "collected_at": "2026-03-27T16:58:14.182362+00:00",
-    "filter_score": 8,
-    "summary_ko": "개인 신용 시장에서 이미 불이 시작되었다는 내용의 기사이다. 개인 신용 시장은 이미 큰 스트레스를 받고 있으며, 이는 금융 시장에 큰 영향을 미칠 수 있다.",
-    "emerging_sector": "개인 신용",
-    "leading_companies": [],
-    "category": "smart_money",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "Someone"
-  },
-  {
     "id": "c8cb895e1132595d8413182a5e481d68",
     "source": "STAT News",
     "source_type": "rss",
@@ -26,78 +7,18 @@
     "summary": "In today's Readout newsletter, how China's biotech boom is rewriting everything and how an NIH crackdown is disrupting global science collaboration.",
     "url": "https://www.statnews.com/2026/03/27/china-biotech-boom-nih-crackdown-foreign-grants-readout-newsletter/?utm_campaign=rss",
     "published_at": "2026-03-27T14:07:49+00:00",
-    "collected_at": "2026-03-27T16:58:16.979249+00:00",
+    "collected_at": "2026-03-27T18:59:04.055508+00:00",
     "filter_score": 8,
-    "summary_ko": "중국의 바이오테크 산업이 급성장하고 있다. 중국의 바이오테크 붐은 모든 것을 재정의하고 있다.",
+    "summary_ko": "중국의 바이오테크 산업은 급격하게 성장하고 있으며, 이는 전 세계적인 과학 협력을 변화시키고 있다.",
     "emerging_sector": "바이오테크",
-    "leading_companies": [],
+    "leading_companies": [
+      "중국 바이오테크 기업들"
+    ],
     "category": "tech_trend",
-    "urgency": "medium",
+    "urgency": "high",
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "STAT"
-  },
-  {
-    "id": "d7d081d6e09cd0c0d8c57713837d857f",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "Novartis targets Xolair successor in buyout of startup Excellergy",
-    "summary": "Worth up to $2 billion, the deal is centered around a drug that could lead to faster and more complete control of allergic conditions than Novartis and Roche&rsquo;s popular medicine.&nbsp;",
-    "url": "https://www.biopharmadive.com/news/novartis-excellergy-allergy-drugs-deal-xolair/815956/",
-    "published_at": "2026-03-27T15:22:00+00:00",
-    "collected_at": "2026-03-27T16:58:17.283051+00:00",
-    "filter_score": 8,
-    "summary_ko": "노바티스는 엑셀러지社를 인수하여 알레르기 치료제를 개발 중이다.",
-    "emerging_sector": "알레르기 치료",
-    "leading_companies": [
-      "노바티스",
-      "엑셀러지"
-    ],
-    "category": "smart_money",
-    "urgency": "high",
-    "korea_status": "⚡ 초기 반영",
-    "korea_news_count": 4,
-    "korea_search_query": "Novartis"
-  },
-  {
-    "id": "d8c5ccd8c89892ae854a9f7d1ac3fd11",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazenecas-vivo-car-t-bet-eradicates-cancer-3-5-patients-death-mars-dataset\" hreflang=\"en\">AstraZeneca’s in vivo CAR-T bet eradicates cancer in 3 of 5 patients, but death mars dataset</a>",
-    "summary": "AstraZeneca isn’t letting a death in a China trial detract from the potential of its $1 billion in vivo bet, even as the candidate’s safety and efficacy profile have so far failed to separate it from traditional CAR-T therapies.",
-    "url": "https://www.fiercebiotech.com/biotech/astrazenecas-vivo-car-t-bet-eradicates-cancer-3-5-patients-death-mars-dataset",
-    "published_at": "2026-03-27T16:58:17.507233+00:00",
-    "collected_at": "2026-03-27T16:58:17.507241+00:00",
-    "filter_score": 8,
-    "summary_ko": "아스트라제네카의 인 비보 CAR-T 치료제가 5명 중 3명의 환자에서 암을 완치하였지만, 1명의 사망 사례가 보고되었다.",
-    "emerging_sector": "CAR-T 치료제",
-    "leading_companies": [
-      "아스트라제네카"
-    ],
-    "category": "tech_trend",
-    "urgency": "high",
-    "korea_status": "🔥 독점 정보",
-    "korea_news_count": 1,
-    "korea_search_query": "AstraZeneca"
-  },
-  {
-    "id": "e51f5548ab8975a956447f0fb24ce38c",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "Iran Threatens Industrial Sites Across Gulf-Region After Its Nuclear & Largest Steel Plants Attacked",
-    "summary": "Iran Threatens Industrial Sites Across Gulf-Region After Its Nuclear & Largest Steel Plants Attacked\n\n            Summary\n\n\n\tNo pause from Tehran, war footing deepens: Iran denies requesting Donald Trump’s 10-day halt; Israel attacks steel & industrial sites. Also, Khondab Heavy Water Research Reactor, part of the Arak Nuclear Complex, targeted. Yellow Cake factory in Yazd province hit.\n\t\n\t\n\tEscalation on all fronts: IRGC HQ targeted by US-Israsel; Iran signals expansion by naming UAE targets, h",
-    "url": "https://www.zerohedge.com/geopolitical/escalation-all-fronts-mediators-say-iran-hasnt-requested-pause-us-energy-strikes",
-    "published_at": "2026-03-27T16:25:00+00:00",
-    "collected_at": "2026-03-27T16:58:14.182145+00:00",
-    "filter_score": 7,
-    "summary_ko": "이란은 핵 시설과钢鉄 공장을 공격받은 후 걸프 지역의 산업 시설을 위협하고 있다. 이란은 전쟁 준비를 강화하고 있다.",
-    "emerging_sector": "에너지 안보",
-    "leading_companies": [],
-    "category": "geopolitics",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "Iran"
   },
   {
     "id": "6bf377e8d21f1df0ee028e66ca6be319",
@@ -107,19 +28,79 @@
     "summary": "The buyout, which includes another $525 million in floated payouts, hands Otsuka a medicine it sees as a possibly &ldquo;paradigm-shifting therapy&rdquo; in psychiatry.",
     "url": "https://www.biopharmadive.com/news/otsuka-transcend-deal-acquisition-neurology-psychiatry-neuroscience/815985/",
     "published_at": "2026-03-27T16:19:00+00:00",
-    "collected_at": "2026-03-27T16:58:17.283019+00:00",
-    "filter_score": 7,
-    "summary_ko": "오쓰카가 PTSD 치료제를 개발 중인 트랜스센드社를 7억 달러에 인수했다.",
+    "collected_at": "2026-03-27T18:59:04.213738+00:00",
+    "filter_score": 8,
+    "summary_ko": "오쓰카 제약이 PTSD 치료제를 개발 중인 트랜스센드(Transcend)를 7억 달러에 인수하였습니다. 이는 정신과 치료제 개발에 대한 기대가 높아지는 상황입니다.",
     "emerging_sector": "정신과 치료제",
     "leading_companies": [
-      "오쓰카",
-      "트랜스센드"
+      "오쓰카 제약"
     ],
     "category": "smart_money",
     "urgency": "high",
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 0,
     "korea_search_query": "Otsuka"
+  },
+  {
+    "id": "d7d081d6e09cd0c0d8c57713837d857f",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Novartis targets Xolair successor in buyout of startup Excellergy",
+    "summary": "Worth up to $2 billion, the deal is centered around a drug that could lead to faster and more complete control of allergic conditions than Novartis and Roche&rsquo;s popular medicine.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/novartis-excellergy-allergy-drugs-deal-xolair/815956/",
+    "published_at": "2026-03-27T15:22:00+00:00",
+    "collected_at": "2026-03-27T18:59:04.213780+00:00",
+    "filter_score": 8,
+    "summary_ko": "노바티스 제약이 알러지 치료제 개발 중인 엑셀러지(Excellergy)를 인수하였습니다. 이는 노바티스와 로슈의 인기 치료제의 후속 제품이 될 수 있습니다.",
+    "emerging_sector": "알러지 치료제",
+    "leading_companies": [
+      "노바티스 제약"
+    ],
+    "category": "smart_money",
+    "urgency": "high",
+    "korea_status": "⚡ 초기 반영",
+    "korea_news_count": 4,
+    "korea_search_query": "Novartis"
+  },
+  {
+    "id": "4873e332028a0102d0f729b3295b5404",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/research/pig-semen-extract-enables-eye-drops-kill-eye-cancer-mice\" hreflang=\"en\">Scientists turn pig semen extract into eye drops that kill cancer in mice</a>",
+    "summary": "The human eye is like an immunological fortress, with its ability to exclude unwanted intruders a boon when preventing infection but a burden when trying to deliver vital medicines. Researchers in China have now turned to an unusual source—pig semen—to develop eye drops that can deliver cancer drugs to the back of the eye.",
+    "url": "https://www.fiercebiotech.com/research/pig-semen-extract-enables-eye-drops-kill-eye-cancer-mice",
+    "published_at": "2026-03-27T18:59:04.330154+00:00",
+    "collected_at": "2026-03-27T18:59:04.330173+00:00",
+    "filter_score": 8,
+    "summary_ko": "과학자들이 돼지 정자 추출물을 이용하여 눈 질환을 치료하는 안약을 개발하였다.",
+    "emerging_sector": "안약",
+    "leading_companies": [],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Scientists"
+  },
+  {
+    "id": "f6794e7b3ae8572165722c1573a2d056",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "AstraZeneca lung drug gets ‘surprise’ win in COPD trials",
+    "summary": "The treatment, tozorakimab, succeeded where other similar therapies failed and could help a broader group of COPD patients than Dupixent.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/astrazeneca-lung-drug-gets-surprise-win-in-copd-trials/815949/",
+    "published_at": "2026-03-27T15:56:00+00:00",
+    "collected_at": "2026-03-27T18:59:04.213765+00:00",
+    "filter_score": 7,
+    "summary_ko": "아스트라제네카의 폐질환 치료제 토조라키마브(Tozorakimab)가 임상 시험에서 성공을 거두었습니다. 이는 더 많은 폐질환 환자에게 도움이 될 수 있습니다.",
+    "emerging_sector": "폐질환 치료제",
+    "leading_companies": [
+      "아스트라제네카"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 2,
+    "korea_search_query": "AstraZeneca"
   },
   {
     "id": "deb4ae995aca6eba9061b40e881a9669",
@@ -129,10 +110,10 @@
     "summary": "The approval of Denali&rsquo;s Hunter syndrome treatment, Avlayah, comes after a series of drug rejections and delays that had led to criticism of the FDA&rsquo;s stance on rare disease therapies.",
     "url": "https://www.biopharmadive.com/news/denali-fda-hunter-syndrome-avlayah-approve-rare-disease/815766/",
     "published_at": "2026-03-26T15:16:00+00:00",
-    "collected_at": "2026-03-27T16:58:17.283086+00:00",
+    "collected_at": "2026-03-27T18:59:04.213816+00:00",
     "filter_score": 7,
-    "summary_ko": "FDA가 데날리의 헌터 증후군 치료제를 승인함으로써, 드문 질병 치료제 개발에 대한 기대가 높아지고 있다.",
-    "emerging_sector": "드문 질병 치료제",
+    "summary_ko": "FDA가 데날리의 헌터 증후군 치료제를 승인함으로써, 드문 질병을 치료하는 바이오테크 기업들에게 새로운 기회가 열렸으며, 이는 FDA의 드문 질병 치료제에 대한 입장에 대한 비판을 받은 후에 나온 결정이다.",
+    "emerging_sector": "드문 질병 치료",
     "leading_companies": [
       "데날리"
     ],
@@ -150,38 +131,17 @@
     "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta&rsquo;s stock and, according to the company,&nbsp;suggest potential for two medicines to treat muscle-weakening conditions.",
     "url": "https://www.biopharmadive.com/news/sarepta-arrowhead-trial-data-muscular-dystrophy/815681/",
     "published_at": "2026-03-25T15:03:53+00:00",
-    "collected_at": "2026-03-27T16:58:17.283131+00:00",
+    "collected_at": "2026-03-27T18:59:04.213863+00:00",
     "filter_score": 7,
-    "summary_ko": "사레프타의 RNAi 치료제가 초기 성공을 거두었으며, 근육 약화 질환 치료에 잠재력을 보여주었다.",
-    "emerging_sector": "RNAi 치료제",
+    "summary_ko": "세렙타의 RNAi 치료제가 근무력 질환을 치료하는 데 효과가 있음을 보여주었다.",
+    "emerging_sector": "RNAi 치료",
     "leading_companies": [
-      "사레프타"
+      "세렙타"
     ],
     "category": "tech_trend",
     "urgency": "high",
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 0,
     "korea_search_query": "Sarepta"
-  },
-  {
-    "id": "ccf29468040074e694a1bc54c6ee1aea",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pens-2b-deal-allergy-biotech-potential-xolair-successor\" hreflang=\"en\">Novartis pens $2B deal for allergy biotech with potential Xolair successor</a>",
-    "summary": "Novartis has penned a $2 billion deal for a biotech whose next-gen anti-IgE program could offer a worthy successor to Xolair.",
-    "url": "https://www.fiercebiotech.com/biotech/novartis-pens-2b-deal-allergy-biotech-potential-xolair-successor",
-    "published_at": "2026-03-27T16:58:17.507309+00:00",
-    "collected_at": "2026-03-27T16:58:17.507314+00:00",
-    "filter_score": 7,
-    "summary_ko": "노바티스는 알러지 바이오테크 회사와 20억 달러의 계약을 체결했다. 이는 노바티스의 알러지 치료제 개발에 큰 역할을 할 것으로 기대된다.",
-    "emerging_sector": "알러지 치료",
-    "leading_companies": [
-      "Novartis"
-    ],
-    "category": "tech_trend",
-    "urgency": "high",
-    "korea_status": "⚡ 초기 반영",
-    "korea_news_count": 4,
-    "korea_search_query": "Novartis"
   }
 ]
