@@ -1,20 +1,18 @@
 [
   {
-    "id": "4da5165906eb6e8183c200eb6050a5e5",
+    "id": "bf11c5d6c15ccc17f7286789befd4d54",
     "source": "ZeroHedge",
     "source_type": "rss",
-    "title": "AI Disruption Returns: Cybersecurity Stocks Tumble On Report Of New Anthropic \"Step Change\" AI Model",
-    "summary": "AI Disruption Returns: Cybersecurity Stocks Tumble On Report Of New Anthropic \"Step Change\" AI Model\n\n            Cybersecurity stocks are slumping in premarket trading on Friday as the AI disruption trade returns after a Fortune report said Anthropic is testing a new AI model that “poses significant cybersecurity risks.”\n\nAccording to the report, Anthropic is \"developing and has begun testing with early access customers a new AI model more capable than any it has released previously,\" the compa",
-    "url": "https://www.zerohedge.com/markets/ai-disruption-returns-cybersecurity-stocks-tumble-report-new-anthropic-step-change-ai-model",
-    "published_at": "2026-03-27T13:01:26+00:00",
-    "collected_at": "2026-03-27T14:52:50.615288+00:00",
+    "title": "Someone Tell Lloyd Blankfein The Fire In Private Credit Has Already Started",
+    "summary": "Someone Tell Lloyd Blankfein The Fire In Private Credit Has Already Started\n\n            Submitted by QTR's Fringe Finance\n\nAs I’ve been writing about, private credit has been under immense stress for months, with liquidity strains, redemption pressure, and growing questions around valuations all surfacing at once. And now with things on the verge of imminent collapse and literally all of f*cking Wall Street already on notice, one former major banking CEO has decided to offer up the King Solomon",
+    "url": "https://www.zerohedge.com/markets/someone-tell-lloyd-blankfein-fire-private-credit-has-already-started",
+    "published_at": "2026-03-27T14:50:00+00:00",
+    "collected_at": "2026-03-27T16:58:14.182362+00:00",
     "filter_score": 8,
-    "summary_ko": "신규 AI 모델의 개발로 인해 사이버 보안 스톡이 하락하고 있으며, 이는 AI 기술의 발전과 함께 사이버 보안 산업에 큰 변화를 가져올 수 있다.",
-    "emerging_sector": "AI",
-    "leading_companies": [
-      "Anthropic"
-    ],
-    "category": "tech_trend",
+    "summary_ko": "개인 신용 시장에서 이미 불이 시작되었다는 내용의 기사이다. 개인 신용 시장은 이미 큰 스트레스를 받고 있으며, 이는 금융 시장에 큰 영향을 미칠 수 있다.",
+    "emerging_sector": "개인 신용",
+    "leading_companies": [],
+    "category": "smart_money",
     "urgency": "high"
   },
   {
@@ -25,88 +23,82 @@
     "summary": "In today's Readout newsletter, how China's biotech boom is rewriting everything and how an NIH crackdown is disrupting global science collaboration.",
     "url": "https://www.statnews.com/2026/03/27/china-biotech-boom-nih-crackdown-foreign-grants-readout-newsletter/?utm_campaign=rss",
     "published_at": "2026-03-27T14:07:49+00:00",
-    "collected_at": "2026-03-27T14:52:51.816610+00:00",
+    "collected_at": "2026-03-27T16:58:16.979249+00:00",
     "filter_score": 8,
-    "summary_ko": "중국의 바이오테크 산업이 급성장하며 새로운 기술과 투자 기회를 창출하고 있다.",
+    "summary_ko": "중국의 바이오테크 산업이 급성장하고 있다. 중국의 바이오테크 붐은 모든 것을 재정의하고 있다.",
     "emerging_sector": "바이오테크",
-    "leading_companies": [
-      "중국 바이오테크 기업들"
-    ],
+    "leading_companies": [],
     "category": "tech_trend",
-    "urgency": "high"
+    "urgency": "medium"
   },
   {
-    "id": "5d1b01ee26239811f356a2d1138a6ce7",
+    "id": "d7d081d6e09cd0c0d8c57713837d857f",
     "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "Sarepta sees early success with RNAi drugs from Arrowhead",
-    "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta&rsquo;s stock and, according to the company,&nbsp;suggest potential for two medicines to treat muscle-weakening conditions.",
-    "url": "https://www.biopharmadive.com/news/sarepta-arrowhead-trial-data-muscular-dystrophy/815681/",
-    "published_at": "2026-03-25T15:03:53+00:00",
-    "collected_at": "2026-03-27T14:52:51.907273+00:00",
+    "title": "Novartis targets Xolair successor in buyout of startup Excellergy",
+    "summary": "Worth up to $2 billion, the deal is centered around a drug that could lead to faster and more complete control of allergic conditions than Novartis and Roche&rsquo;s popular medicine.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/novartis-excellergy-allergy-drugs-deal-xolair/815956/",
+    "published_at": "2026-03-27T15:22:00+00:00",
+    "collected_at": "2026-03-27T16:58:17.283051+00:00",
     "filter_score": 8,
-    "summary_ko": "Sarepta의 RNAi 약물이 근무약화 질환 치료에 잠재력을 보였습니다.",
-    "emerging_sector": "RNAi 기술",
+    "summary_ko": "노바티스는 엑셀러지社를 인수하여 알레르기 치료제를 개발 중이다.",
+    "emerging_sector": "알레르기 치료",
     "leading_companies": [
-      "Sarepta",
-      "Arrowhead"
-    ],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "bf2ec0b45047954eca99d51f9d184cf5",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "Merck to buy Terns in $6.7B bet on a ‘differentiated’ leukemia drug",
-    "summary": "If consummated, the deal would hand Merck a treatment that could challenge Novartis&rsquo; fast-selling Scemblix. But the low purchase premium &mdash; which one analyst described as a \"steal\"&nbsp;&mdash; may leave room for a competing bid.",
-    "url": "https://www.biopharmadive.com/news/merck-terns-acquire-deal-leukemia-drug/815637/",
-    "published_at": "2026-03-25T12:50:02+00:00",
-    "collected_at": "2026-03-27T14:52:51.907286+00:00",
-    "filter_score": 8,
-    "summary_ko": "Merck가 Terns를 6.7억 달러에 인수하여 백혈병 치료제 시장에 진출합니다.",
-    "emerging_sector": "백혈병 치료",
-    "leading_companies": [
-      "Merck",
-      "Terns"
+      "노바티스",
+      "엑셀러지"
     ],
     "category": "smart_money",
     "urgency": "high"
   },
   {
-    "id": "a41cdc1a8822c8defef60e0e8f606777",
-    "source": "BioPharma Dive",
+    "id": "d8c5ccd8c89892ae854a9f7d1ac3fd11",
+    "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "Gilead, with Ouro deal, wagers $1.7B on bispecifics for autoimmune diseases",
-    "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
-    "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
-    "published_at": "2026-03-24T14:07:58+00:00",
-    "collected_at": "2026-03-27T14:52:51.907310+00:00",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazenecas-vivo-car-t-bet-eradicates-cancer-3-5-patients-death-mars-dataset\" hreflang=\"en\">AstraZeneca’s in vivo CAR-T bet eradicates cancer in 3 of 5 patients, but death mars dataset</a>",
+    "summary": "AstraZeneca isn’t letting a death in a China trial detract from the potential of its $1 billion in vivo bet, even as the candidate’s safety and efficacy profile have so far failed to separate it from traditional CAR-T therapies.",
+    "url": "https://www.fiercebiotech.com/biotech/astrazenecas-vivo-car-t-bet-eradicates-cancer-3-5-patients-death-mars-dataset",
+    "published_at": "2026-03-27T16:58:17.507233+00:00",
+    "collected_at": "2026-03-27T16:58:17.507241+00:00",
     "filter_score": 8,
-    "summary_ko": "Gilead가 Ouro Medicines를 인수하여 자가면역 질환 치료를 위한 비스펙시픽스 기술을 확보했습니다.",
-    "emerging_sector": "비스펙시픽스",
+    "summary_ko": "아스트라제네카의 인 비보 CAR-T 치료제가 5명 중 3명의 환자에서 암을 완치하였지만, 1명의 사망 사례가 보고되었다.",
+    "emerging_sector": "CAR-T 치료제",
     "leading_companies": [
-      "Gilead",
-      "Ouro Medicines"
+      "아스트라제네카"
     ],
     "category": "tech_trend",
     "urgency": "high"
   },
   {
-    "id": "49904dd4c96c950bd3b585b36ebe251f",
+    "id": "e51f5548ab8975a956447f0fb24ce38c",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Iran Threatens Industrial Sites Across Gulf-Region After Its Nuclear & Largest Steel Plants Attacked",
+    "summary": "Iran Threatens Industrial Sites Across Gulf-Region After Its Nuclear & Largest Steel Plants Attacked\n\n            Summary\n\n\n\tNo pause from Tehran, war footing deepens: Iran denies requesting Donald Trump’s 10-day halt; Israel attacks steel & industrial sites. Also, Khondab Heavy Water Research Reactor, part of the Arak Nuclear Complex, targeted. Yellow Cake factory in Yazd province hit.\n\t\n\t\n\tEscalation on all fronts: IRGC HQ targeted by US-Israsel; Iran signals expansion by naming UAE targets, h",
+    "url": "https://www.zerohedge.com/geopolitical/escalation-all-fronts-mediators-say-iran-hasnt-requested-pause-us-energy-strikes",
+    "published_at": "2026-03-27T16:25:00+00:00",
+    "collected_at": "2026-03-27T16:58:14.182145+00:00",
+    "filter_score": 7,
+    "summary_ko": "이란은 핵 시설과钢鉄 공장을 공격받은 후 걸프 지역의 산업 시설을 위협하고 있다. 이란은 전쟁 준비를 강화하고 있다.",
+    "emerging_sector": "에너지 안보",
+    "leading_companies": [],
+    "category": "geopolitics",
+    "urgency": "high"
+  },
+  {
+    "id": "6bf377e8d21f1df0ee028e66ca6be319",
     "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "Merck’s deal for Terns sparks debate over a possible biotech bidding war",
-    "summary": "Some investors and analysts believe the pharma&rsquo;s $6.7 billion offer is justified given Terns&rsquo; recent stock run. Others are convinced a better proposal is coming.&nbsp;",
-    "url": "https://www.biopharmadive.com/news/merck-terns-buyout-valuation-debate/815812/",
-    "published_at": "2026-03-26T16:10:00+00:00",
-    "collected_at": "2026-03-27T14:52:51.907212+00:00",
+    "title": "Otsuka picks up PTSD drug with $700M Transcend buy",
+    "summary": "The buyout, which includes another $525 million in floated payouts, hands Otsuka a medicine it sees as a possibly &ldquo;paradigm-shifting therapy&rdquo; in psychiatry.",
+    "url": "https://www.biopharmadive.com/news/otsuka-transcend-deal-acquisition-neurology-psychiatry-neuroscience/815985/",
+    "published_at": "2026-03-27T16:19:00+00:00",
+    "collected_at": "2026-03-27T16:58:17.283019+00:00",
     "filter_score": 7,
-    "summary_ko": "Merck의 Terns 인수 제안이 바이오텍 업계에서 인수 전쟁을 촉발할 수 있다.",
-    "emerging_sector": "바이오텍",
+    "summary_ko": "오쓰카가 PTSD 치료제를 개발 중인 트랜스센드社를 7억 달러에 인수했다.",
+    "emerging_sector": "정신과 치료제",
     "leading_companies": [
-      "Merck",
-      "Terns"
+      "오쓰카",
+      "트랜스센드"
     ],
     "category": "smart_money",
     "urgency": "high"
@@ -119,48 +111,48 @@
     "summary": "The approval of Denali&rsquo;s Hunter syndrome treatment, Avlayah, comes after a series of drug rejections and delays that had led to criticism of the FDA&rsquo;s stance on rare disease therapies.",
     "url": "https://www.biopharmadive.com/news/denali-fda-hunter-syndrome-avlayah-approve-rare-disease/815766/",
     "published_at": "2026-03-26T15:16:00+00:00",
-    "collected_at": "2026-03-27T14:52:51.907226+00:00",
+    "collected_at": "2026-03-27T16:58:17.283086+00:00",
     "filter_score": 7,
-    "summary_ko": "Denali의 Hunter 증후군 치료제 Avlayah가 FDA 승인을 받았다. 이는 희귀병 치료제 개발에 긍정적인 신호이다.",
-    "emerging_sector": "희귀병 치료제",
+    "summary_ko": "FDA가 데날리의 헌터 증후군 치료제를 승인함으로써, 드문 질병 치료제 개발에 대한 기대가 높아지고 있다.",
+    "emerging_sector": "드문 질병 치료제",
     "leading_companies": [
-      "Denali"
-    ],
-    "category": "tech_trend",
-    "urgency": "medium"
-  },
-  {
-    "id": "80813646f9534920e15d40d6cd47837b",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "Beam posts positive data on base editing treatment for AATD",
-    "summary": "Updated data showed the biotech's approach to the rare lung and liver condition helped restore functional protective proteins in a small study.",
-    "url": "https://www.biopharmadive.com/news/beam-base-gene-editing-clinical-data-aatd/815714/",
-    "published_at": "2026-03-25T17:50:20+00:00",
-    "collected_at": "2026-03-27T14:52:51.907262+00:00",
-    "filter_score": 7,
-    "summary_ko": "Beam의 베이스 에디팅 치료법이 희귀한 폐와 간 질환인 AATD에서 긍정적인 결과를 보였습니다.",
-    "emerging_sector": "베이스 에디팅",
-    "leading_companies": [
-      "Beam"
+      "데날리"
     ],
     "category": "tech_trend",
     "urgency": "high"
   },
   {
-    "id": "7ba2328bdf1c90ca369f82ddacd6aa51",
+    "id": "5d1b01ee26239811f356a2d1138a6ce7",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Sarepta sees early success with RNAi drugs from Arrowhead",
+    "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta&rsquo;s stock and, according to the company,&nbsp;suggest potential for two medicines to treat muscle-weakening conditions.",
+    "url": "https://www.biopharmadive.com/news/sarepta-arrowhead-trial-data-muscular-dystrophy/815681/",
+    "published_at": "2026-03-25T15:03:53+00:00",
+    "collected_at": "2026-03-27T16:58:17.283131+00:00",
+    "filter_score": 7,
+    "summary_ko": "사레프타의 RNAi 치료제가 초기 성공을 거두었으며, 근육 약화 질환 치료에 잠재력을 보여주었다.",
+    "emerging_sector": "RNAi 치료제",
+    "leading_companies": [
+      "사레프타"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "ccf29468040074e694a1bc54c6ee1aea",
     "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/after-local-tumor-approval-novocure-touts-positive-data-metastatic-pancreatic-cancer\" hreflang=\"en\">After local tumor approval, Novocure touts positive data in metastatic pancreatic cancer</a>",
-    "summary": "After collecting an FDA approval earlier this year for local pancreatic cancer, Novocure is putting forward positive clinical data for its electric field-based treatment in metastatic cases of the aggressive disease.",
-    "url": "https://www.fiercebiotech.com/medtech/after-local-tumor-approval-novocure-touts-positive-data-metastatic-pancreatic-cancer",
-    "published_at": "2026-03-27T14:52:52.009116+00:00",
-    "collected_at": "2026-03-27T14:52:52.009141+00:00",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pens-2b-deal-allergy-biotech-potential-xolair-successor\" hreflang=\"en\">Novartis pens $2B deal for allergy biotech with potential Xolair successor</a>",
+    "summary": "Novartis has penned a $2 billion deal for a biotech whose next-gen anti-IgE program could offer a worthy successor to Xolair.",
+    "url": "https://www.fiercebiotech.com/biotech/novartis-pens-2b-deal-allergy-biotech-potential-xolair-successor",
+    "published_at": "2026-03-27T16:58:17.507309+00:00",
+    "collected_at": "2026-03-27T16:58:17.507314+00:00",
     "filter_score": 7,
-    "summary_ko": "Novocure의 전기장 기반 치료법이 전이성 췌장암에서 긍정적인 결과를 보였습니다.",
-    "emerging_sector": "전이성 췌장암 치료",
+    "summary_ko": "노바티스는 알러지 바이오테크 회사와 20억 달러의 계약을 체결했다. 이는 노바티스의 알러지 치료제 개발에 큰 역할을 할 것으로 기대된다.",
+    "emerging_sector": "알러지 치료",
     "leading_companies": [
-      "Novocure"
+      "Novartis"
     ],
     "category": "tech_trend",
     "urgency": "high"
