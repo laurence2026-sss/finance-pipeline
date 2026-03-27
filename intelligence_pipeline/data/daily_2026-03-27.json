@@ -619,5 +619,24 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "ARM"
+  },
+  {
+    "id": "034aba0e1e7655304fd2dcd0299f4a06",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biopharma-doubles-down-big-bets-and-china-ipos-hit-10-year-low\" hreflang=\"en\">Biopharma funding dropped 20% in 2025 as companies doubled down on big bets: IQVIA</a>",
+    "summary": "Biopharma funding fell 20% last year, reversing the post-pandemic recovery as the IPO haul dropped to the lowest level of the past 10 years, according to an IQVIA analysis.",
+    "url": "https://www.fiercebiotech.com/biotech/biopharma-doubles-down-big-bets-and-china-ipos-hit-10-year-low",
+    "published_at": "2026-03-27T13:11:21.840872+00:00",
+    "collected_at": "2026-03-27T13:11:21.840878+00:00",
+    "filter_score": 7,
+    "summary_ko": "바이오제약 투자가 2025년에 20% 감소하였습니다. 이는 IPO가 10년 만에 최저 수준으로 떨어진 결과입니다.",
+    "emerging_sector": "바이오제약",
+    "leading_companies": [],
+    "category": "macro",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "IPO OR 상장 ARM"
   }
 ]

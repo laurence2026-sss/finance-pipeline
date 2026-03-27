@@ -7,9 +7,9 @@
     "summary": "If consummated, the deal would hand Merck a treatment that could challenge Novartis&rsquo; fast-selling Scemblix. But the low purchase premium &mdash; which one analyst described as a \"steal\"&nbsp;&mdash; may leave room for a competing bid.",
     "url": "https://www.biopharmadive.com/news/merck-terns-acquire-deal-leukemia-drug/815637/",
     "published_at": "2026-03-25T12:50:02+00:00",
-    "collected_at": "2026-03-27T10:52:52.891047+00:00",
+    "collected_at": "2026-03-27T13:11:21.680900+00:00",
     "filter_score": 8,
-    "summary_ko": "Merck는 Terns를 6.7억 달러에 인수하여 백혈병 치료를 확대합니다. 이 거래는 Novartis의 Scemblix와 경쟁할 수 있습니다.",
+    "summary_ko": "Merck는 Terns를 6.7억 달러에 인수하여 구별되는 백혈병 약물에 대한 베팅을 했습니다. 이 거래는 Merck에게 Novartis의 Scemblix와 경쟁할 수 있는 약물을 제공할 수 있습니다.",
     "emerging_sector": "백혈병 치료",
     "leading_companies": [
       "Merck",
@@ -20,19 +20,20 @@
     "urgency": "high"
   },
   {
-    "id": "3b9cb853d5ca3df06f52f2456b98d107",
-    "source": "FierceBiotech",
+    "id": "a41cdc1a8822c8defef60e0e8f606777",
+    "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-delivers-dream-result-phase-3-copd-hits-breathe-life-class-rocked-flops\" hreflang=\"en\">AstraZeneca delivers dream result as phase 3 COPD hits breathe life into class rocked by flops</a>",
-    "summary": "AstraZeneca’s chronic obstructive pulmonary disease drug candidate has hit the mark in a pair of phase 3 trials, delivering broad efficacy with a mechanism that yielded mixed data for Roche and Sanofi.",
-    "url": "https://www.fiercebiotech.com/biotech/astrazeneca-delivers-dream-result-phase-3-copd-hits-breathe-life-class-rocked-flops",
-    "published_at": "2026-03-27T10:52:52.964580+00:00",
-    "collected_at": "2026-03-27T10:52:52.964598+00:00",
+    "title": "Gilead, with Ouro deal, wagers $1.7B on bispecifics for autoimmune diseases",
+    "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
+    "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
+    "published_at": "2026-03-24T14:07:58+00:00",
+    "collected_at": "2026-03-27T13:11:21.680923+00:00",
     "filter_score": 8,
-    "summary_ko": "AstraZeneca의 만성 폐질환 치료 약물 후보는 3상 임상 시험에서 긍정적인 결과를 보였습니다. 이 결과는 Roche와 Sanofi의 이전 실험과는 다릅니다.",
-    "emerging_sector": "만성 폐질환 치료",
+    "summary_ko": "Gilead는 Ouro Medicines를 인수하여 1.7억 달러를 자율 면역 질환의 비스펙시픽스에 투자했습니다. 이 인수는 Gilead에게 BCMA와 CD3를 대상으로 하는 항체를 제공했습니다.",
+    "emerging_sector": "자율 면역 질환 치료",
     "leading_companies": [
-      "AstraZeneca"
+      "Gilead",
+      "Ouro Medicines"
     ],
     "category": "tech_trend",
     "urgency": "high"
@@ -44,35 +45,33 @@
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pens-2b-deal-allergy-biotech-potential-xolair-successor\" hreflang=\"en\">Novartis pens $2B deal for allergy biotech with potential Xolair successor</a>",
     "summary": "Novartis has penned a $2 billion deal for a biotech whose next-gen anti-IgE program could offer a worthy successor to Xolair.",
     "url": "https://www.fiercebiotech.com/biotech/novartis-pens-2b-deal-allergy-biotech-potential-xolair-successor",
-    "published_at": "2026-03-27T10:52:52.964612+00:00",
-    "collected_at": "2026-03-27T10:52:52.964619+00:00",
+    "published_at": "2026-03-27T13:11:21.840784+00:00",
+    "collected_at": "2026-03-27T13:11:21.840790+00:00",
     "filter_score": 8,
-    "summary_ko": "Novartis는 알러지 바이오테크 회사와 20억 달러의 거래를 체결했습니다. 이 거래는 Xolair의 후속 제품을 개발하는 데 도움이 될 수 있습니다.",
-    "emerging_sector": "알러지 치료",
+    "summary_ko": "노바티스(Novartis)가 알러지 바이오테크 회사와 20억 달러의 계약을 체결하였습니다. 이 계약은 노바티스의 Xolair의 후속 제품을 개발하는 데 목적이 있습니다.",
+    "emerging_sector": "알러지 바이오테크",
     "leading_companies": [
-      "Novartis"
+      "노바티스"
     ],
-    "category": "smart_money",
+    "category": "tech_trend",
     "urgency": "high"
   },
   {
-    "id": "aa1879172e63217e28b5ffbf353b6661",
-    "source": "ZeroHedge",
+    "id": "0a86f2d848a82f4a0eba49d1955f3b13",
+    "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "Eurasia Energy War?",
-    "summary": "Eurasia Energy War? \n\n            As analysts and traders continue to assess the Gulf energy shock and its implications for the global economy, another alarming development has emerged across the energy sector: Ukrainian kamikaze drone strikes have reportedly disrupted a significant portion of Russia's oil export capacity, according to Reuters.\n\nReuters calculates that recent Ukrainian drone strikes on Russia's oil and fuel export infrastructure, including attacks on all three of Russia's major ",
-    "url": "https://www.zerohedge.com/energy/eurasia-energy-war",
-    "published_at": "2026-03-27T03:05:00+00:00",
-    "collected_at": "2026-03-27T10:52:49.731153+00:00",
-    "filter_score": 7,
-    "summary_ko": "유라시아 에너지 전쟁이 발생할 수 있는 상황이다.",
-    "emerging_sector": "Energy Security",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance\" hreflang=\"en\">Philips AI cath lab copilot nets FDA clearance</a>",
+    "summary": "Developed with Edwards Lifesciences, DeviceGuide is aimed at the challenging task of transcatheter mitral valve repair.",
+    "url": "https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance",
+    "published_at": "2026-03-27T13:11:21.840817+00:00",
+    "collected_at": "2026-03-27T13:11:21.840823+00:00",
+    "filter_score": 8,
+    "summary_ko": "필립스(Philips)가 개발한 AI 카테터 랩 코파일럿이 FDA의 승인을 받았습니다. 이 기술은 심장 질환 치료를 위한 새로운 방법입니다.",
+    "emerging_sector": "의료 AI",
     "leading_companies": [
-      "Gazprom",
-      "Rosneft",
-      "Saudi Aramco"
+      "필립스"
     ],
-    "category": "macro",
+    "category": "tech_trend",
     "urgency": "high"
   },
   {
@@ -83,7 +82,7 @@
     "summary": "Some investors and analysts believe the pharma&rsquo;s $6.7 billion offer is justified given Terns&rsquo; recent stock run. Others are convinced a better proposal is coming.&nbsp;",
     "url": "https://www.biopharmadive.com/news/merck-terns-buyout-valuation-debate/815812/",
     "published_at": "2026-03-26T16:10:00+00:00",
-    "collected_at": "2026-03-27T10:52:52.890967+00:00",
+    "collected_at": "2026-03-27T13:11:21.680815+00:00",
     "filter_score": 7,
     "summary_ko": "Merck의 Terns 인수에 대한 입찰 전쟁 논란",
     "emerging_sector": "바이오테크",
@@ -102,10 +101,10 @@
     "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta&rsquo;s stock and, according to the company,&nbsp;suggest potential for two medicines to treat muscle-weakening conditions.",
     "url": "https://www.biopharmadive.com/news/sarepta-arrowhead-trial-data-muscular-dystrophy/815681/",
     "published_at": "2026-03-25T15:03:53+00:00",
-    "collected_at": "2026-03-27T10:52:52.891034+00:00",
+    "collected_at": "2026-03-27T13:11:21.680886+00:00",
     "filter_score": 7,
-    "summary_ko": "Sarepta는 Arrowhead의 RNAi 약물에 대한 초기 성공을 보였습니다. 이 약물은 근육 약화 질환을 치료하는 데 잠재력이 있습니다.",
-    "emerging_sector": "RNAi 치료",
+    "summary_ko": "Sarepta는 Arrowhead의 RNAi 약물에 대한 초기 성공을 보였습니다. 이 결과는 Sarepta의 주가 상승과 함께 두 가지 약물이 근육 약화 질환을 치료할 수 있는 잠재력을 보여주었습니다.",
+    "emerging_sector": "RNAi 기술",
     "leading_companies": [
       "Sarepta",
       "Arrowhead"
@@ -114,40 +113,57 @@
     "urgency": "high"
   },
   {
-    "id": "a41cdc1a8822c8defef60e0e8f606777",
-    "source": "BioPharma Dive",
+    "id": "3b9cb853d5ca3df06f52f2456b98d107",
+    "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "Gilead, with Ouro deal, wagers $1.7B on bispecifics for autoimmune diseases",
-    "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
-    "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
-    "published_at": "2026-03-24T14:07:58+00:00",
-    "collected_at": "2026-03-27T10:52:52.891105+00:00",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-delivers-dream-result-phase-3-copd-hits-breathe-life-class-rocked-flops\" hreflang=\"en\">AstraZeneca delivers dream result as phase 3 COPD hits breathe life into class rocked by flops</a>",
+    "summary": "AstraZeneca’s chronic obstructive pulmonary disease drug candidate has hit the mark in a pair of phase 3 trials, delivering broad efficacy with a mechanism that yielded mixed data for Roche and Sanofi.",
+    "url": "https://www.fiercebiotech.com/biotech/astrazeneca-delivers-dream-result-phase-3-copd-hits-breathe-life-class-rocked-flops",
+    "published_at": "2026-03-27T13:11:21.840766+00:00",
+    "collected_at": "2026-03-27T13:11:21.840774+00:00",
     "filter_score": 7,
-    "summary_ko": "Gilead는 Ouro Medicines를 17억 달러에 인수하여 자가면역 질환 치료를 확대합니다. 이 거래는 Gilead의 바이오시스틱스 포트폴리오를 강화합니다.",
-    "emerging_sector": "바이오시스틱스",
+    "summary_ko": "AstraZeneca의 만성 폐쇄성 폐질환 약물 후보는 3상 임상 시험에서 목표를 달성하여 이 분야에서 혼조된 결과를 보인 Roche와 Sanofi와는 다른 메커니즘을 보여주었습니다.",
+    "emerging_sector": "만성 폐쇄성 폐질환 치료",
     "leading_companies": [
-      "Gilead",
-      "Ouro Medicines"
+      "AstraZeneca",
+      "Roche",
+      "Sanofi"
     ],
-    "category": "smart_money",
+    "category": "tech_trend",
     "urgency": "high"
   },
   {
-    "id": "ac25758ba4210045029545a08d624203",
+    "id": "44190ce87aad46de0ebafc2385424fb3",
     "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections\" hreflang=\"en\">FDA approves Denali's Hunter syndrome drug, handing rare disease community a win</a>",
-    "summary": "The FDA has approved Denali Therapeutics’ enzyme replacement therapy for a genetic lysosomal storage disease after a string of high-profile rejections for rare disease candidates.",
-    "url": "https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections",
-    "published_at": "2026-03-27T10:52:52.964726+00:00",
-    "collected_at": "2026-03-27T10:52:52.964732+00:00",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/cmr-surgical-kicks-versius-plus-robots-us-commercial-launch\" hreflang=\"en\">CMR Surgical kicks off Versius Plus robot’s US commercial launch</a>",
+    "summary": "Following FDA approval last December for its upgraded robot, CMR Surgical has begun rolling out its Versius Plus platform in the U.S.",
+    "url": "https://www.fiercebiotech.com/medtech/cmr-surgical-kicks-versius-plus-robots-us-commercial-launch",
+    "published_at": "2026-03-27T13:11:21.840802+00:00",
+    "collected_at": "2026-03-27T13:11:21.840808+00:00",
     "filter_score": 7,
-    "summary_ko": "FDA가 Denali Therapeutics의 헌터 증후군 치료제를 승인했습니다. 이는 희귀 질환 치료 분야에서 중요한 발전입니다.",
-    "emerging_sector": "희귀 질환 치료",
+    "summary_ko": "CMR Surgical의 Versius Plus 로봇이 미국에서 상업적으로 출시되었습니다. 이 로봇은 FDA의 승인을 받은 후 미국 시장에 진출하였습니다.",
+    "emerging_sector": "의료 로봇",
     "leading_companies": [
-      "Denali Therapeutics"
+      "CMR Surgical"
     ],
     "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "034aba0e1e7655304fd2dcd0299f4a06",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biopharma-doubles-down-big-bets-and-china-ipos-hit-10-year-low\" hreflang=\"en\">Biopharma funding dropped 20% in 2025 as companies doubled down on big bets: IQVIA</a>",
+    "summary": "Biopharma funding fell 20% last year, reversing the post-pandemic recovery as the IPO haul dropped to the lowest level of the past 10 years, according to an IQVIA analysis.",
+    "url": "https://www.fiercebiotech.com/biotech/biopharma-doubles-down-big-bets-and-china-ipos-hit-10-year-low",
+    "published_at": "2026-03-27T13:11:21.840872+00:00",
+    "collected_at": "2026-03-27T13:11:21.840878+00:00",
+    "filter_score": 7,
+    "summary_ko": "바이오제약 투자가 2025년에 20% 감소하였습니다. 이는 IPO가 10년 만에 최저 수준으로 떨어진 결과입니다.",
+    "emerging_sector": "바이오제약",
+    "leading_companies": [],
+    "category": "macro",
     "urgency": "high"
   }
 ]
