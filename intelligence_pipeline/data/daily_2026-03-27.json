@@ -342,5 +342,152 @@
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Lilly"
+  },
+  {
+    "id": "4e481421dd0537d13722204ce93a0d88",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: FDA approves Rocket gene therapy for rare immune disorder",
+    "summary": "Kresladi has been tested in just nine patients but has had positive results.",
+    "url": "https://www.statnews.com/2026/03/26/rocket-pharma-kresladi-lad-1-fda-approval/?utm_campaign=rss",
+    "published_at": "2026-03-27T00:42:07+00:00",
+    "collected_at": "2026-03-27T02:33:25.078633+00:00",
+    "filter_score": 8,
+    "summary_ko": "FDA에서 Rocket gene therapy를 희귀한 면역 질환 치료를 위한 승인을 받았다.",
+    "emerging_sector": "Gene Therapy",
+    "leading_companies": [
+      "Rocket"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "STAT"
+  },
+  {
+    "id": "60a1ec56464ee879a867cf5d0dbe9c83",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "FDA Approval for Denali Therapeutics Blazes a New Trail for Brain-Penetrating Drugs",
+    "summary": "Denali Therapeutics’ Avlayah received FDA approval for treating Hunter syndrome, a rare neurological disorder. The biologic medicine uses Denali’s proprietary drug delivery technology to cross the protective blood-brain barrier. \nThe post FDA Approval for Denali Therapeutics Blazes a New Trail for Brain-Penetrating Drugs appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/fda-approval-denali-therapeutics-hunter-syndrome-rare-disease-avlayah-ert-blood-brain-barrier-dnli/",
+    "published_at": "2026-03-26T21:58:27+00:00",
+    "collected_at": "2026-03-27T02:33:26.152370+00:00",
+    "filter_score": 8,
+    "summary_ko": "데날리 테라퓨틱스의 아블라야는 FDA의 승인을 받아 새로운 뇌 침투성 약물의 길을 열었다. 이는 희귀한 신경계 질환인 헌터 증후군의 치료에 사용된다.",
+    "emerging_sector": "Brain-Penetrating Drugs",
+    "leading_companies": [
+      "Denali Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Approval"
+  },
+  {
+    "id": "ac25758ba4210045029545a08d624203",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections\" hreflang=\"en\">FDA approves Denali's Hunter syndrome drug, handing rare disease community a win</a>",
+    "summary": "The FDA has approved Denali Therapeutics’ enzyme replacement therapy for a genetic lysosomal storage disease after a string of high-profile rejections for rare disease candidates.",
+    "url": "https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections",
+    "published_at": "2026-03-27T02:33:25.555422+00:00",
+    "collected_at": "2026-03-27T02:33:25.555428+00:00",
+    "filter_score": 7,
+    "summary_ko": "FDA는 Denali Therapeutics의 헌터 증후군 치료제를 승인했습니다. 이는 희귀 질환 치료 분야에서 새로운 기회를 열어주는 것으로 보입니다.",
+    "emerging_sector": "Rare Disease Treatment",
+    "leading_companies": [
+      "Denali Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "ARM"
+  },
+  {
+    "id": "c6a0510ea013447e7dc7205d49d63071",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "UCB picks Georgia for $2B biologics site; AbbVie exec visits China",
+    "summary": "UCB has selected Gwinnett County, GA, as the location for its new biologics factory. The 460,000-square-foot facility is expected to cost $2 billion and will supply biologics to the US market ...",
+    "url": "https://endpoints.news/ucb-picks-georgia-for-2b-biologics-site-abbvie-exec-visits-china/",
+    "published_at": "2026-03-26T16:36:26+00:00",
+    "collected_at": "2026-03-27T02:33:25.874473+00:00",
+    "filter_score": 7,
+    "summary_ko": "UCB가 조지아에 20억 달러의 바이오로직스 공장을 건설할 계획입니다. 이 공장은 460,000 제곱피트 규모로 미국 시장에 바이오로직스를 공급할 예정입니다.",
+    "emerging_sector": "바이오로직스",
+    "leading_companies": [
+      "UCB"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Georgia"
+  },
+  {
+    "id": "50e7a3e5dbf83b0d6232c851a26e6d24",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "FDA gives Denali accelerated approval for rare disease drug",
+    "summary": "The FDA granted accelerated approval to Denali Therapeutics’ rare disease drug Avlayah, bucking a recent trend of rejections in the space that has put the agency under political pressure.\n\n Avlayah, whose generic name is tividenofusp ...",
+    "url": "https://endpoints.news/fda-gives-denali-accelerated-approval-for-rare-disease-drug/",
+    "published_at": "2026-03-25T19:24:58+00:00",
+    "collected_at": "2026-03-27T02:33:25.874551+00:00",
+    "filter_score": 7,
+    "summary_ko": "FDA는 데날리 테라퓨틱스(Denali Therapeutics)의 희귀병 치료제 아블라야(Avlayah)에 대해 가속 승인을 부여했다. 이는 최근 거부되는 추세를 깨는 것으로 정치적 압력을 받고 있는 기관에 대한 승인이다.",
+    "emerging_sector": "Rare Disease Treatment",
+    "leading_companies": [
+      "Denali Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 2,
+    "korea_search_query": "우주항공 OR 우주산업"
+  },
+  {
+    "id": "60920108716aad0ed5412d109f097e37",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Frozen Does Not Mean Stable: Rethinking Cryopreservation in Cell and Gene Therapy Manufacturing",
+    "summary": "As cell-based therapies grow more complex and manufacturing networks expand, resilience can’t be an afterthought, and cryopreservation can no longer just be a step that gets validated during development and left alone. It needs to play an ongoing role in product consistency, potency, and reliability.\nThe post Frozen Does Not Mean Stable: Rethinking Cryopreservation in Cell and Gene Therapy Manufacturing appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/frozen-does-not-mean-stable-rethinking-cryopreservation-in-cell-and-gene-therapy-manufacturing/",
+    "published_at": "2026-03-26T14:04:14+00:00",
+    "collected_at": "2026-03-27T02:33:26.152401+00:00",
+    "filter_score": 7,
+    "summary_ko": "세포 및 유전자 치료제 제조에서 동결 보존은 더 이상 개발 중에 검증되는 단계가 될 수 없다. 복잡한 치료법과 제조 네트워크의 확장으로 인해 회복力은 사후 고려 사항이 될 수 없다.",
+    "emerging_sector": "Cell and Gene Therapy Manufacturing",
+    "leading_companies": [],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Frozen"
+  },
+  {
+    "id": "4b312b9205fe266fa8e807147a0697d3",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Merck’s $6.7B Terns Acquisition Positions It to Challenge a Blockbuster Novartis Cancer Drug",
+    "summary": "Merck has been acquiring assets that could help make up for the coming revenue decline as its top product, the cancer drug Keytruda, drops off the patent cliff.  Terns Pharmaceuticals’ lead product candidate, in development for treating a type of leukemia, could offer dosing and efficacy advantages over the Novartis drug Scemblix.\nThe post Merck’s $6.7B Terns Acquisition Positions It to Challenge a Blockbuster Novartis Cancer Drug appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/merck-terns-pharma-acquisition-cancer-chronic-myeloid-leukemia-cml-tern-mrk/",
+    "published_at": "2026-03-25T17:53:12+00:00",
+    "collected_at": "2026-03-27T02:33:26.152470+00:00",
+    "filter_score": 7,
+    "summary_ko": "Merck가 Terns Pharmaceuticals를 67억 달러에 인수하여 노바티스의 암 치료제에 도전할 수 있는 자리를 잡았다. Terns의 주요 제품은 Merck의 암 치료제 키트루다의 특허 만료에 대비하여 수익을 보충할 수 있을 것이다.",
+    "emerging_sector": "암 치료제",
+    "leading_companies": [
+      "Merck",
+      "Terns Pharmaceuticals",
+      "Novartis"
+    ],
+    "category": "smart_money",
+    "urgency": "medium",
+    "korea_status": "⚡ 초기 반영",
+    "korea_news_count": 3,
+    "korea_search_query": "인수합병 ARM"
   }
 ]

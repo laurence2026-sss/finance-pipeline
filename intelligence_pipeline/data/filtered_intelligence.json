@@ -1,1 +1,315 @@
-[]
+[
+  {
+    "id": "61e78e4db7bf0bc2142e8da1282dafff",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Limbic aims to show AI beats humans in delivering therapy",
+    "summary": "A March study in Nature Medicine showed that AI designed for therapy can deliver better care than human clinicians in a specific type of therapy.\n\n UK-based Limbic led the study. The ...",
+    "url": "https://endpoints.news/limbic-aims-to-show-ai-beats-humans-in-delivering-therapy/",
+    "published_at": "2026-03-26T14:19:17+00:00",
+    "collected_at": "2026-03-27T02:33:25.874519+00:00",
+    "filter_score": 9,
+    "summary_ko": "Limbic이 AI를 이용한 치료가 인간보다 더好的 치료를 제공할 수 있다는 연구 결과를 발표했습니다. 이는 의료 분야에서 AI의 잠재력을 강조합니다.",
+    "emerging_sector": "AI 기반 치료",
+    "leading_companies": [
+      "Limbic"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "4e481421dd0537d13722204ce93a0d88",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: FDA approves Rocket gene therapy for rare immune disorder",
+    "summary": "Kresladi has been tested in just nine patients but has had positive results.",
+    "url": "https://www.statnews.com/2026/03/26/rocket-pharma-kresladi-lad-1-fda-approval/?utm_campaign=rss",
+    "published_at": "2026-03-27T00:42:07+00:00",
+    "collected_at": "2026-03-27T02:33:25.078633+00:00",
+    "filter_score": 8,
+    "summary_ko": "FDA에서 Rocket gene therapy를 희귀한 면역 질환 치료를 위한 승인을 받았다.",
+    "emerging_sector": "Gene Therapy",
+    "leading_companies": [
+      "Rocket"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "0e4ce6b84da215bcdc7695eeeb9cca15",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Denali Therapeutics, Corcept Therapeutics win FDA approvals",
+    "summary": "In today's Readout Newsletter, Denali and Corcept win FDA approvals, Sarepta eyes a rebound, and Allogene progresses with an off-the-shelf CAR-T.",
+    "url": "https://www.statnews.com/2026/03/26/denali-corcept-fda-allogene-car-t-readout-newsletter/?utm_campaign=rss",
+    "published_at": "2026-03-26T16:04:26+00:00",
+    "collected_at": "2026-03-27T02:33:25.078695+00:00",
+    "filter_score": 8,
+    "summary_ko": "Denali Therapeutics와 Corcept Therapeutics가 FDA 승인을 받았다.",
+    "emerging_sector": "Biotechnology",
+    "leading_companies": [
+      "Denali Therapeutics",
+      "Corcept Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "bf2ec0b45047954eca99d51f9d184cf5",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Merck to buy Terns in $6.7B bet on a ‘differentiated’ leukemia drug",
+    "summary": "If consummated, the deal would hand Merck a treatment that could challenge Novartis&rsquo; fast-selling Scemblix. But the low purchase premium &mdash; which one analyst described as a \"steal\"&nbsp;&mdash; may leave room for a competing bid.",
+    "url": "https://www.biopharmadive.com/news/merck-terns-acquire-deal-leukemia-drug/815637/",
+    "published_at": "2026-03-25T12:50:02+00:00",
+    "collected_at": "2026-03-27T02:33:25.324265+00:00",
+    "filter_score": 8,
+    "summary_ko": "Merck는 Terns를 6.7억 달러에 인수하여 백혈병 치료제 개발에 투자했습니다. 이 치료제는 Novartis의 Scemblix와 경쟁할 수 있습니다.",
+    "emerging_sector": "백혈병 치료제",
+    "leading_companies": [
+      "Merck",
+      "Terns",
+      "Novartis"
+    ],
+    "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "a41cdc1a8822c8defef60e0e8f606777",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Gilead, with Ouro deal, wagers $1.7B on bispecifics for autoimmune diseases",
+    "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
+    "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
+    "published_at": "2026-03-24T14:07:58+00:00",
+    "collected_at": "2026-03-27T02:33:25.324288+00:00",
+    "filter_score": 8,
+    "summary_ko": "Gilead는 Ouro Medicines를 인수하여 1.7억 달러를 투자하고 자가 면역 질환 치료를 위한 비스펙시픽스 개발에 집중했습니다.",
+    "emerging_sector": "비스펙시픽스",
+    "leading_companies": [
+      "Gilead",
+      "Ouro Medicines"
+    ],
+    "category": "smart_money",
+    "urgency": "high"
+  },
+  {
+    "id": "6487340f30cd5395018eab58ebd0b54a",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Kodiak’s Phase 3 eye drug success; Innate discontinues anti-CD20 program",
+    "summary": "Plus, news about Astellas' setidegrasib and Anavex:\n\n 📈 Kodiak’s eye drug win: The biotech’s experimental drug Zenkuda, whose scientific name is tarcocimab tedromer, beat a sham procedure in patients ...",
+    "url": "https://endpoints.news/kodiaks-phase-3-eye-drug-success-innate-discontinues-anti-cd20-program/",
+    "published_at": "2026-03-26T14:28:58+00:00",
+    "collected_at": "2026-03-27T02:33:25.874508+00:00",
+    "filter_score": 8,
+    "summary_ko": "Kodiak의 안구 치료제가 임상 시험에서 성공했습니다. 이는 안구 치료제 개발의 새로운 기회를 열어줍니다.",
+    "emerging_sector": "안구 치료제",
+    "leading_companies": [
+      "Kodiak"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "8e05fea73af85947d84380b626d73121",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Oral peptides biotech Pinnacle Medicines gets $89M from US, China investors",
+    "summary": "The pill version of Novo Nordisk's blockbuster Wegovy showed what was possible when drug chemists turned peptides into oral molecules. Now investors have found their next related bet.\n\n Pinnacle Medicines, a two-year-old startup based in ...",
+    "url": "https://endpoints.news/oral-peptides-biotech-pinnacle-medicines-gets-89m-from-us-china-investors/",
+    "published_at": "2026-03-26T11:30:18+00:00",
+    "collected_at": "2026-03-27T02:33:25.874540+00:00",
+    "filter_score": 8,
+    "summary_ko": "피나클 메디신즈(Pinnacle Medicines)는 미국과 중국의 투자자로부터 8,900만 달러를 투자받았다. 이는 구강 펩타이드 생물기술 분야에서 새로운 기회를 찾은 것으로 보인다.",
+    "emerging_sector": "Oral Peptides Biotech",
+    "leading_companies": [
+      "Pinnacle Medicines",
+      "Novo Nordisk"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "60a1ec56464ee879a867cf5d0dbe9c83",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "FDA Approval for Denali Therapeutics Blazes a New Trail for Brain-Penetrating Drugs",
+    "summary": "Denali Therapeutics’ Avlayah received FDA approval for treating Hunter syndrome, a rare neurological disorder. The biologic medicine uses Denali’s proprietary drug delivery technology to cross the protective blood-brain barrier. \nThe post FDA Approval for Denali Therapeutics Blazes a New Trail for Brain-Penetrating Drugs appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/fda-approval-denali-therapeutics-hunter-syndrome-rare-disease-avlayah-ert-blood-brain-barrier-dnli/",
+    "published_at": "2026-03-26T21:58:27+00:00",
+    "collected_at": "2026-03-27T02:33:26.152370+00:00",
+    "filter_score": 8,
+    "summary_ko": "데날리 테라퓨틱스의 아블라야는 FDA의 승인을 받아 새로운 뇌 침투성 약물의 길을 열었다. 이는 희귀한 신경계 질환인 헌터 증후군의 치료에 사용된다.",
+    "emerging_sector": "Brain-Penetrating Drugs",
+    "leading_companies": [
+      "Denali Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "61f47b767a75542e878c42c106a91c1b",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: Allogene’s off-the-shelf CAR-T is nearing an early but pivotal study readout",
+    "summary": "A preliminary readout from a study could vindicate Allogene Therapeutics' stubborn belief in its off-the-shelf CAR-T treatment.",
+    "url": "https://www.statnews.com/2026/03/26/allogene-car-t-lymphoma-treatment-study/?utm_campaign=rss",
+    "published_at": "2026-03-26T10:30:00+00:00",
+    "collected_at": "2026-03-27T02:33:25.078761+00:00",
+    "filter_score": 7,
+    "summary_ko": "Allogene의 오프-더-셸프 CAR-T 치료제가 임상 시험에서 초기 nhưng 중요한 결과를 나타낼 수 있습니다. 이는 면역 요법 분야에서 새로운 발전을 의미할 수 있습니다.",
+    "emerging_sector": "CAR-T Therapy",
+    "leading_companies": [
+      "Allogene Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "5d1b01ee26239811f356a2d1138a6ce7",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Sarepta sees early success with RNAi drugs from Arrowhead",
+    "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta&rsquo;s stock and, according to the company,&nbsp;suggest potential for two medicines to treat muscle-weakening conditions.",
+    "url": "https://www.biopharmadive.com/news/sarepta-arrowhead-trial-data-muscular-dystrophy/815681/",
+    "published_at": "2026-03-25T15:03:53+00:00",
+    "collected_at": "2026-03-27T02:33:25.324251+00:00",
+    "filter_score": 7,
+    "summary_ko": "Sarepta는 Arrowhead의 RNAi 약물에 대한 초기 성공을 보였습니다. 이 약물은 근육 약화 질환을 치료하는 데 잠재력이 있습니다.",
+    "emerging_sector": "RNAi 기술",
+    "leading_companies": [
+      "Sarepta",
+      "Arrowhead"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "44190ce87aad46de0ebafc2385424fb3",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/cmr-surgical-kicks-versius-plus-robots-us-commercial-launch\" hreflang=\"en\">CMR Surgical kicks off Versius Plus robot’s US commercial launch</a>",
+    "summary": "Following FDA approval last December for its upgraded robot, CMR Surgical has begun rolling out its Versius Plus platform in the U.S.",
+    "url": "https://www.fiercebiotech.com/medtech/cmr-surgical-kicks-versius-plus-robots-us-commercial-launch",
+    "published_at": "2026-03-27T02:33:25.555301+00:00",
+    "collected_at": "2026-03-27T02:33:25.555320+00:00",
+    "filter_score": 7,
+    "summary_ko": "CMR Surgical은 FDA 승인을 받은 Versius Plus 로봇을 미국에서 상업적으로 출시했습니다.",
+    "emerging_sector": "로봇 수술",
+    "leading_companies": [
+      "CMR Surgical"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "0a86f2d848a82f4a0eba49d1955f3b13",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance\" hreflang=\"en\">Philips AI cath lab copilot nets FDA clearance</a>",
+    "summary": "Developed with Edwards Lifesciences, DeviceGuide is aimed at the challenging task of transcatheter mitral valve repair.",
+    "url": "https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance",
+    "published_at": "2026-03-27T02:33:25.555333+00:00",
+    "collected_at": "2026-03-27T02:33:25.555340+00:00",
+    "filter_score": 7,
+    "summary_ko": "Philips는 Edwards Lifesciences와 함께 개발한 AI 카테터 랩 코파일럿이 FDA 승인을 받았습니다.",
+    "emerging_sector": "의료 기기 AI",
+    "leading_companies": [
+      "Philips",
+      "Edwards Lifesciences"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "ac25758ba4210045029545a08d624203",
+    "source": "FierceBiotech",
+    "source_type": "rss",
+    "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections\" hreflang=\"en\">FDA approves Denali's Hunter syndrome drug, handing rare disease community a win</a>",
+    "summary": "The FDA has approved Denali Therapeutics’ enzyme replacement therapy for a genetic lysosomal storage disease after a string of high-profile rejections for rare disease candidates.",
+    "url": "https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections",
+    "published_at": "2026-03-27T02:33:25.555422+00:00",
+    "collected_at": "2026-03-27T02:33:25.555428+00:00",
+    "filter_score": 7,
+    "summary_ko": "FDA는 Denali Therapeutics의 헌터 증후군 치료제를 승인했습니다. 이는 희귀 질환 치료 분야에서 새로운 기회를 열어주는 것으로 보입니다.",
+    "emerging_sector": "Rare Disease Treatment",
+    "leading_companies": [
+      "Denali Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "c6a0510ea013447e7dc7205d49d63071",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "UCB picks Georgia for $2B biologics site; AbbVie exec visits China",
+    "summary": "UCB has selected Gwinnett County, GA, as the location for its new biologics factory. The 460,000-square-foot facility is expected to cost $2 billion and will supply biologics to the US market ...",
+    "url": "https://endpoints.news/ucb-picks-georgia-for-2b-biologics-site-abbvie-exec-visits-china/",
+    "published_at": "2026-03-26T16:36:26+00:00",
+    "collected_at": "2026-03-27T02:33:25.874473+00:00",
+    "filter_score": 7,
+    "summary_ko": "UCB가 조지아에 20억 달러의 바이오로직스 공장을 건설할 계획입니다. 이 공장은 460,000 제곱피트 규모로 미국 시장에 바이오로직스를 공급할 예정입니다.",
+    "emerging_sector": "바이오로직스",
+    "leading_companies": [
+      "UCB"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "50e7a3e5dbf83b0d6232c851a26e6d24",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "FDA gives Denali accelerated approval for rare disease drug",
+    "summary": "The FDA granted accelerated approval to Denali Therapeutics’ rare disease drug Avlayah, bucking a recent trend of rejections in the space that has put the agency under political pressure.\n\n Avlayah, whose generic name is tividenofusp ...",
+    "url": "https://endpoints.news/fda-gives-denali-accelerated-approval-for-rare-disease-drug/",
+    "published_at": "2026-03-25T19:24:58+00:00",
+    "collected_at": "2026-03-27T02:33:25.874551+00:00",
+    "filter_score": 7,
+    "summary_ko": "FDA는 데날리 테라퓨틱스(Denali Therapeutics)의 희귀병 치료제 아블라야(Avlayah)에 대해 가속 승인을 부여했다. 이는 최근 거부되는 추세를 깨는 것으로 정치적 압력을 받고 있는 기관에 대한 승인이다.",
+    "emerging_sector": "Rare Disease Treatment",
+    "leading_companies": [
+      "Denali Therapeutics"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "60920108716aad0ed5412d109f097e37",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Frozen Does Not Mean Stable: Rethinking Cryopreservation in Cell and Gene Therapy Manufacturing",
+    "summary": "As cell-based therapies grow more complex and manufacturing networks expand, resilience can’t be an afterthought, and cryopreservation can no longer just be a step that gets validated during development and left alone. It needs to play an ongoing role in product consistency, potency, and reliability.\nThe post Frozen Does Not Mean Stable: Rethinking Cryopreservation in Cell and Gene Therapy Manufacturing appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/frozen-does-not-mean-stable-rethinking-cryopreservation-in-cell-and-gene-therapy-manufacturing/",
+    "published_at": "2026-03-26T14:04:14+00:00",
+    "collected_at": "2026-03-27T02:33:26.152401+00:00",
+    "filter_score": 7,
+    "summary_ko": "세포 및 유전자 치료제 제조에서 동결 보존은 더 이상 개발 중에 검증되는 단계가 될 수 없다. 복잡한 치료법과 제조 네트워크의 확장으로 인해 회복力은 사후 고려 사항이 될 수 없다.",
+    "emerging_sector": "Cell and Gene Therapy Manufacturing",
+    "leading_companies": [],
+    "category": "tech_trend",
+    "urgency": "medium"
+  },
+  {
+    "id": "4b312b9205fe266fa8e807147a0697d3",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Merck’s $6.7B Terns Acquisition Positions It to Challenge a Blockbuster Novartis Cancer Drug",
+    "summary": "Merck has been acquiring assets that could help make up for the coming revenue decline as its top product, the cancer drug Keytruda, drops off the patent cliff.  Terns Pharmaceuticals’ lead product candidate, in development for treating a type of leukemia, could offer dosing and efficacy advantages over the Novartis drug Scemblix.\nThe post Merck’s $6.7B Terns Acquisition Positions It to Challenge a Blockbuster Novartis Cancer Drug appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/merck-terns-pharma-acquisition-cancer-chronic-myeloid-leukemia-cml-tern-mrk/",
+    "published_at": "2026-03-25T17:53:12+00:00",
+    "collected_at": "2026-03-27T02:33:26.152470+00:00",
+    "filter_score": 7,
+    "summary_ko": "Merck가 Terns Pharmaceuticals를 67억 달러에 인수하여 노바티스의 암 치료제에 도전할 수 있는 자리를 잡았다. Terns의 주요 제품은 Merck의 암 치료제 키트루다의 특허 만료에 대비하여 수익을 보충할 수 있을 것이다.",
+    "emerging_sector": "암 치료제",
+    "leading_companies": [
+      "Merck",
+      "Terns Pharmaceuticals",
+      "Novartis"
+    ],
+    "category": "smart_money",
+    "urgency": "medium"
+  }
+]
