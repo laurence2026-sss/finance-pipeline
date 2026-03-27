@@ -1,5 +1,60 @@
 [
   {
+    "id": "4da5165906eb6e8183c200eb6050a5e5",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "AI Disruption Returns: Cybersecurity Stocks Tumble On Report Of New Anthropic \"Step Change\" AI Model",
+    "summary": "AI Disruption Returns: Cybersecurity Stocks Tumble On Report Of New Anthropic \"Step Change\" AI Model\n\n            Cybersecurity stocks are slumping in premarket trading on Friday as the AI disruption trade returns after a Fortune report said Anthropic is testing a new AI model that “poses significant cybersecurity risks.”\n\nAccording to the report, Anthropic is \"developing and has begun testing with early access customers a new AI model more capable than any it has released previously,\" the compa",
+    "url": "https://www.zerohedge.com/markets/ai-disruption-returns-cybersecurity-stocks-tumble-report-new-anthropic-step-change-ai-model",
+    "published_at": "2026-03-27T13:01:26+00:00",
+    "collected_at": "2026-03-27T14:52:50.615288+00:00",
+    "filter_score": 8,
+    "summary_ko": "신규 AI 모델의 개발로 인해 사이버 보안 스톡이 하락하고 있으며, 이는 AI 기술의 발전과 함께 사이버 보안 산업에 큰 변화를 가져올 수 있다.",
+    "emerging_sector": "AI",
+    "leading_companies": [
+      "Anthropic"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "c8cb895e1132595d8413182a5e481d68",
+    "source": "STAT News",
+    "source_type": "rss",
+    "title": "STAT+: China’s biotech boom is rewriting everything",
+    "summary": "In today's Readout newsletter, how China's biotech boom is rewriting everything and how an NIH crackdown is disrupting global science collaboration.",
+    "url": "https://www.statnews.com/2026/03/27/china-biotech-boom-nih-crackdown-foreign-grants-readout-newsletter/?utm_campaign=rss",
+    "published_at": "2026-03-27T14:07:49+00:00",
+    "collected_at": "2026-03-27T14:52:51.816610+00:00",
+    "filter_score": 8,
+    "summary_ko": "중국의 바이오테크 산업이 급성장하며 새로운 기술과 투자 기회를 창출하고 있다.",
+    "emerging_sector": "바이오테크",
+    "leading_companies": [
+      "중국 바이오테크 기업들"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "5d1b01ee26239811f356a2d1138a6ce7",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Sarepta sees early success with RNAi drugs from Arrowhead",
+    "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta&rsquo;s stock and, according to the company,&nbsp;suggest potential for two medicines to treat muscle-weakening conditions.",
+    "url": "https://www.biopharmadive.com/news/sarepta-arrowhead-trial-data-muscular-dystrophy/815681/",
+    "published_at": "2026-03-25T15:03:53+00:00",
+    "collected_at": "2026-03-27T14:52:51.907273+00:00",
+    "filter_score": 8,
+    "summary_ko": "Sarepta의 RNAi 약물이 근무약화 질환 치료에 잠재력을 보였습니다.",
+    "emerging_sector": "RNAi 기술",
+    "leading_companies": [
+      "Sarepta",
+      "Arrowhead"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
     "id": "bf2ec0b45047954eca99d51f9d184cf5",
     "source": "BioPharma Dive",
     "source_type": "rss",
@@ -7,14 +62,13 @@
     "summary": "If consummated, the deal would hand Merck a treatment that could challenge Novartis&rsquo; fast-selling Scemblix. But the low purchase premium &mdash; which one analyst described as a \"steal\"&nbsp;&mdash; may leave room for a competing bid.",
     "url": "https://www.biopharmadive.com/news/merck-terns-acquire-deal-leukemia-drug/815637/",
     "published_at": "2026-03-25T12:50:02+00:00",
-    "collected_at": "2026-03-27T13:11:21.680900+00:00",
+    "collected_at": "2026-03-27T14:52:51.907286+00:00",
     "filter_score": 8,
-    "summary_ko": "Merck는 Terns를 6.7억 달러에 인수하여 구별되는 백혈병 약물에 대한 베팅을 했습니다. 이 거래는 Merck에게 Novartis의 Scemblix와 경쟁할 수 있는 약물을 제공할 수 있습니다.",
+    "summary_ko": "Merck가 Terns를 6.7억 달러에 인수하여 백혈병 치료제 시장에 진출합니다.",
     "emerging_sector": "백혈병 치료",
     "leading_companies": [
       "Merck",
-      "Terns",
-      "Novartis"
+      "Terns"
     ],
     "category": "smart_money",
     "urgency": "high"
@@ -27,49 +81,13 @@
     "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
     "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
     "published_at": "2026-03-24T14:07:58+00:00",
-    "collected_at": "2026-03-27T13:11:21.680923+00:00",
+    "collected_at": "2026-03-27T14:52:51.907310+00:00",
     "filter_score": 8,
-    "summary_ko": "Gilead는 Ouro Medicines를 인수하여 1.7억 달러를 자율 면역 질환의 비스펙시픽스에 투자했습니다. 이 인수는 Gilead에게 BCMA와 CD3를 대상으로 하는 항체를 제공했습니다.",
-    "emerging_sector": "자율 면역 질환 치료",
+    "summary_ko": "Gilead가 Ouro Medicines를 인수하여 자가면역 질환 치료를 위한 비스펙시픽스 기술을 확보했습니다.",
+    "emerging_sector": "비스펙시픽스",
     "leading_companies": [
       "Gilead",
       "Ouro Medicines"
-    ],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "ccf29468040074e694a1bc54c6ee1aea",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pens-2b-deal-allergy-biotech-potential-xolair-successor\" hreflang=\"en\">Novartis pens $2B deal for allergy biotech with potential Xolair successor</a>",
-    "summary": "Novartis has penned a $2 billion deal for a biotech whose next-gen anti-IgE program could offer a worthy successor to Xolair.",
-    "url": "https://www.fiercebiotech.com/biotech/novartis-pens-2b-deal-allergy-biotech-potential-xolair-successor",
-    "published_at": "2026-03-27T13:11:21.840784+00:00",
-    "collected_at": "2026-03-27T13:11:21.840790+00:00",
-    "filter_score": 8,
-    "summary_ko": "노바티스(Novartis)가 알러지 바이오테크 회사와 20억 달러의 계약을 체결하였습니다. 이 계약은 노바티스의 Xolair의 후속 제품을 개발하는 데 목적이 있습니다.",
-    "emerging_sector": "알러지 바이오테크",
-    "leading_companies": [
-      "노바티스"
-    ],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "0a86f2d848a82f4a0eba49d1955f3b13",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance\" hreflang=\"en\">Philips AI cath lab copilot nets FDA clearance</a>",
-    "summary": "Developed with Edwards Lifesciences, DeviceGuide is aimed at the challenging task of transcatheter mitral valve repair.",
-    "url": "https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance",
-    "published_at": "2026-03-27T13:11:21.840817+00:00",
-    "collected_at": "2026-03-27T13:11:21.840823+00:00",
-    "filter_score": 8,
-    "summary_ko": "필립스(Philips)가 개발한 AI 카테터 랩 코파일럿이 FDA의 승인을 받았습니다. 이 기술은 심장 질환 치료를 위한 새로운 방법입니다.",
-    "emerging_sector": "의료 AI",
-    "leading_companies": [
-      "필립스"
     ],
     "category": "tech_trend",
     "urgency": "high"
@@ -82,10 +100,10 @@
     "summary": "Some investors and analysts believe the pharma&rsquo;s $6.7 billion offer is justified given Terns&rsquo; recent stock run. Others are convinced a better proposal is coming.&nbsp;",
     "url": "https://www.biopharmadive.com/news/merck-terns-buyout-valuation-debate/815812/",
     "published_at": "2026-03-26T16:10:00+00:00",
-    "collected_at": "2026-03-27T13:11:21.680815+00:00",
+    "collected_at": "2026-03-27T14:52:51.907212+00:00",
     "filter_score": 7,
-    "summary_ko": "Merck의 Terns 인수에 대한 입찰 전쟁 논란",
-    "emerging_sector": "바이오테크",
+    "summary_ko": "Merck의 Terns 인수 제안이 바이오텍 업계에서 인수 전쟁을 촉발할 수 있다.",
+    "emerging_sector": "바이오텍",
     "leading_companies": [
       "Merck",
       "Terns"
@@ -94,76 +112,57 @@
     "urgency": "high"
   },
   {
-    "id": "5d1b01ee26239811f356a2d1138a6ce7",
+    "id": "deb4ae995aca6eba9061b40e881a9669",
     "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "Sarepta sees early success with RNAi drugs from Arrowhead",
-    "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta&rsquo;s stock and, according to the company,&nbsp;suggest potential for two medicines to treat muscle-weakening conditions.",
-    "url": "https://www.biopharmadive.com/news/sarepta-arrowhead-trial-data-muscular-dystrophy/815681/",
-    "published_at": "2026-03-25T15:03:53+00:00",
-    "collected_at": "2026-03-27T13:11:21.680886+00:00",
+    "title": "FDA clears Denali drug in ‘clear step’ for rare disease biotechs",
+    "summary": "The approval of Denali&rsquo;s Hunter syndrome treatment, Avlayah, comes after a series of drug rejections and delays that had led to criticism of the FDA&rsquo;s stance on rare disease therapies.",
+    "url": "https://www.biopharmadive.com/news/denali-fda-hunter-syndrome-avlayah-approve-rare-disease/815766/",
+    "published_at": "2026-03-26T15:16:00+00:00",
+    "collected_at": "2026-03-27T14:52:51.907226+00:00",
     "filter_score": 7,
-    "summary_ko": "Sarepta는 Arrowhead의 RNAi 약물에 대한 초기 성공을 보였습니다. 이 결과는 Sarepta의 주가 상승과 함께 두 가지 약물이 근육 약화 질환을 치료할 수 있는 잠재력을 보여주었습니다.",
-    "emerging_sector": "RNAi 기술",
+    "summary_ko": "Denali의 Hunter 증후군 치료제 Avlayah가 FDA 승인을 받았다. 이는 희귀병 치료제 개발에 긍정적인 신호이다.",
+    "emerging_sector": "희귀병 치료제",
     "leading_companies": [
-      "Sarepta",
-      "Arrowhead"
-    ],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "3b9cb853d5ca3df06f52f2456b98d107",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-delivers-dream-result-phase-3-copd-hits-breathe-life-class-rocked-flops\" hreflang=\"en\">AstraZeneca delivers dream result as phase 3 COPD hits breathe life into class rocked by flops</a>",
-    "summary": "AstraZeneca’s chronic obstructive pulmonary disease drug candidate has hit the mark in a pair of phase 3 trials, delivering broad efficacy with a mechanism that yielded mixed data for Roche and Sanofi.",
-    "url": "https://www.fiercebiotech.com/biotech/astrazeneca-delivers-dream-result-phase-3-copd-hits-breathe-life-class-rocked-flops",
-    "published_at": "2026-03-27T13:11:21.840766+00:00",
-    "collected_at": "2026-03-27T13:11:21.840774+00:00",
-    "filter_score": 7,
-    "summary_ko": "AstraZeneca의 만성 폐쇄성 폐질환 약물 후보는 3상 임상 시험에서 목표를 달성하여 이 분야에서 혼조된 결과를 보인 Roche와 Sanofi와는 다른 메커니즘을 보여주었습니다.",
-    "emerging_sector": "만성 폐쇄성 폐질환 치료",
-    "leading_companies": [
-      "AstraZeneca",
-      "Roche",
-      "Sanofi"
-    ],
-    "category": "tech_trend",
-    "urgency": "high"
-  },
-  {
-    "id": "44190ce87aad46de0ebafc2385424fb3",
-    "source": "FierceBiotech",
-    "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/cmr-surgical-kicks-versius-plus-robots-us-commercial-launch\" hreflang=\"en\">CMR Surgical kicks off Versius Plus robot’s US commercial launch</a>",
-    "summary": "Following FDA approval last December for its upgraded robot, CMR Surgical has begun rolling out its Versius Plus platform in the U.S.",
-    "url": "https://www.fiercebiotech.com/medtech/cmr-surgical-kicks-versius-plus-robots-us-commercial-launch",
-    "published_at": "2026-03-27T13:11:21.840802+00:00",
-    "collected_at": "2026-03-27T13:11:21.840808+00:00",
-    "filter_score": 7,
-    "summary_ko": "CMR Surgical의 Versius Plus 로봇이 미국에서 상업적으로 출시되었습니다. 이 로봇은 FDA의 승인을 받은 후 미국 시장에 진출하였습니다.",
-    "emerging_sector": "의료 로봇",
-    "leading_companies": [
-      "CMR Surgical"
+      "Denali"
     ],
     "category": "tech_trend",
     "urgency": "medium"
   },
   {
-    "id": "034aba0e1e7655304fd2dcd0299f4a06",
+    "id": "80813646f9534920e15d40d6cd47837b",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Beam posts positive data on base editing treatment for AATD",
+    "summary": "Updated data showed the biotech's approach to the rare lung and liver condition helped restore functional protective proteins in a small study.",
+    "url": "https://www.biopharmadive.com/news/beam-base-gene-editing-clinical-data-aatd/815714/",
+    "published_at": "2026-03-25T17:50:20+00:00",
+    "collected_at": "2026-03-27T14:52:51.907262+00:00",
+    "filter_score": 7,
+    "summary_ko": "Beam의 베이스 에디팅 치료법이 희귀한 폐와 간 질환인 AATD에서 긍정적인 결과를 보였습니다.",
+    "emerging_sector": "베이스 에디팅",
+    "leading_companies": [
+      "Beam"
+    ],
+    "category": "tech_trend",
+    "urgency": "high"
+  },
+  {
+    "id": "7ba2328bdf1c90ca369f82ddacd6aa51",
     "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biopharma-doubles-down-big-bets-and-china-ipos-hit-10-year-low\" hreflang=\"en\">Biopharma funding dropped 20% in 2025 as companies doubled down on big bets: IQVIA</a>",
-    "summary": "Biopharma funding fell 20% last year, reversing the post-pandemic recovery as the IPO haul dropped to the lowest level of the past 10 years, according to an IQVIA analysis.",
-    "url": "https://www.fiercebiotech.com/biotech/biopharma-doubles-down-big-bets-and-china-ipos-hit-10-year-low",
-    "published_at": "2026-03-27T13:11:21.840872+00:00",
-    "collected_at": "2026-03-27T13:11:21.840878+00:00",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/after-local-tumor-approval-novocure-touts-positive-data-metastatic-pancreatic-cancer\" hreflang=\"en\">After local tumor approval, Novocure touts positive data in metastatic pancreatic cancer</a>",
+    "summary": "After collecting an FDA approval earlier this year for local pancreatic cancer, Novocure is putting forward positive clinical data for its electric field-based treatment in metastatic cases of the aggressive disease.",
+    "url": "https://www.fiercebiotech.com/medtech/after-local-tumor-approval-novocure-touts-positive-data-metastatic-pancreatic-cancer",
+    "published_at": "2026-03-27T14:52:52.009116+00:00",
+    "collected_at": "2026-03-27T14:52:52.009141+00:00",
     "filter_score": 7,
-    "summary_ko": "바이오제약 투자가 2025년에 20% 감소하였습니다. 이는 IPO가 10년 만에 최저 수준으로 떨어진 결과입니다.",
-    "emerging_sector": "바이오제약",
-    "leading_companies": [],
-    "category": "macro",
+    "summary_ko": "Novocure의 전기장 기반 치료법이 전이성 췌장암에서 긍정적인 결과를 보였습니다.",
+    "emerging_sector": "전이성 췌장암 치료",
+    "leading_companies": [
+      "Novocure"
+    ],
+    "category": "tech_trend",
     "urgency": "high"
   }
 ]
