@@ -1,5 +1,27 @@
 [
   {
+    "id": "bf2ec0b45047954eca99d51f9d184cf5",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Merck to buy Terns in $6.7B bet on a ‘differentiated’ leukemia drug",
+    "summary": "If consummated, the deal would hand Merck a treatment that could challenge Novartis&rsquo; fast-selling Scemblix. But the low purchase premium &mdash; which one analyst described as a \"steal\"&nbsp;&mdash; may leave room for a competing bid.",
+    "url": "https://www.biopharmadive.com/news/merck-terns-acquire-deal-leukemia-drug/815637/",
+    "published_at": "2026-03-25T12:50:02+00:00",
+    "collected_at": "2026-03-27T08:57:12.207855+00:00",
+    "filter_score": 8,
+    "summary_ko": "Merck는 Terns를 6.7억 달러에 인수하여 구별되는 백혈병 약물에 대한 베팅을 했습니다. 이 거래는 Merck에게 Novartis의 Scemblix와 경쟁할 수 있는 약물을 제공할 수 있습니다.",
+    "emerging_sector": "백혈병 치료",
+    "leading_companies": [
+      "Merck",
+      "Terns"
+    ],
+    "category": "smart_money",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 8,
+    "korea_search_query": "Merck"
+  },
+  {
     "id": "0f27dc0a0c4c04164f83a3498706da2c",
     "source": "ZeroHedge",
     "source_type": "rss",
@@ -7,9 +29,9 @@
     "summary": "BYD And VinFast Race To Dominate Southeast Asia's EV Market\n\n            BYD and VinFast are rapidly expanding their presence in Southeast Asia, where electric vehicles are gaining traction and competition is intensifying, according to Nikkei. Both companies have emerged as the fastest-growing car brands in the region’s six largest markets in 2025, with sales rising about 95% for BYD and 90% for VinFast compared with the previous year.\n\nVinFast sold more than 100,000 vehicles across countries in",
     "url": "https://www.zerohedge.com/markets/byd-and-vinfast-race-dominate-southeast-asias-ev-market",
     "published_at": "2026-03-27T02:15:00+00:00",
-    "collected_at": "2026-03-27T07:11:42.253487+00:00",
-    "filter_score": 8,
-    "summary_ko": "BYD와 VinFast가 동남아시아의 전기차 시장에서 우위를 점하기 위해 경쟁하고 있습니다.",
+    "collected_at": "2026-03-27T08:57:06.362947+00:00",
+    "filter_score": 7,
+    "summary_ko": "BYD와 VinFast가 동남아시아 전기차 시장에서 우위를 점하기 위해 경쟁하고 있다.",
     "emerging_sector": "전기차",
     "leading_companies": [
       "BYD",
@@ -22,111 +44,91 @@
     "korea_search_query": "VinFast"
   },
   {
-    "id": "4e481421dd0537d13722204ce93a0d88",
-    "source": "STAT News",
+    "id": "49904dd4c96c950bd3b585b36ebe251f",
+    "source": "BioPharma Dive",
     "source_type": "rss",
-    "title": "STAT+: FDA approves Rocket gene therapy for rare immune disorder",
-    "summary": "Kresladi has been tested in just nine patients but has had positive results.",
-    "url": "https://www.statnews.com/2026/03/26/rocket-pharma-kresladi-lad-1-fda-approval/?utm_campaign=rss",
-    "published_at": "2026-03-27T00:42:07+00:00",
-    "collected_at": "2026-03-27T07:11:49.358130+00:00",
-    "filter_score": 8,
-    "summary_ko": "FDA가 Rocket 제네 테라피를 희귀한 면역 질환에 대한 치료제로 승인했다. 이 치료제는 9명의 환자에게 테스트되었지만 긍정적인 결과를 보였다.",
-    "emerging_sector": "Gene Therapy",
-    "leading_companies": [
-      "Rocket"
-    ],
-    "category": "tech_trend",
-    "urgency": "medium",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "STAT"
-  },
-  {
-    "id": "0e4ce6b84da215bcdc7695eeeb9cca15",
-    "source": "STAT News",
-    "source_type": "rss",
-    "title": "STAT+: Denali Therapeutics, Corcept Therapeutics win FDA approvals",
-    "summary": "In today's Readout Newsletter, Denali and Corcept win FDA approvals, Sarepta eyes a rebound, and Allogene progresses with an off-the-shelf CAR-T.",
-    "url": "https://www.statnews.com/2026/03/26/denali-corcept-fda-allogene-car-t-readout-newsletter/?utm_campaign=rss",
-    "published_at": "2026-03-26T16:04:26+00:00",
-    "collected_at": "2026-03-27T07:11:49.358170+00:00",
-    "filter_score": 8,
-    "summary_ko": "Denali Therapeutics와 Corcept Therapeutics가 FDA 승인을 받았다. 또한 Sarepta는 반등을 노리고 있으며 Allogene는 오프-더-쉘프 CAR-T를 진행 중이다.",
-    "emerging_sector": "Gene Therapy",
-    "leading_companies": [
-      "Denali Therapeutics",
-      "Corcept Therapeutics",
-      "Sarepta",
-      "Allogene"
-    ],
-    "category": "tech_trend",
-    "urgency": "medium",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "STAT"
-  },
-  {
-    "id": "4c584dd511a360bf10ed8da73af902cf",
-    "source": "ZeroHedge",
-    "source_type": "rss",
-    "title": "AirGas Declares Force Majeure On Helium Shipments As Qatar Production Collapses",
-    "summary": "AirGas Declares Force Majeure On Helium Shipments As Qatar Production Collapses\n\n            Earlier this week we reported that global chip production was in peril as \"Qatar Warns Helium Exports Set To Collapse.\" Best known as the gas that makes party balloons float, helium is far more important as a key input in chipmaking, space rockets and medical imaging. The problem is that Qatar supplies a third of the world’s helium, and the Gulf nation had to halt production after Iranian strikes against",
-    "url": "https://www.zerohedge.com/markets/airgas-declares-force-majeure-helium-shipments-qatar-production-collapses",
-    "published_at": "2026-03-27T01:25:00+00:00",
-    "collected_at": "2026-03-27T07:11:42.253557+00:00",
+    "title": "Merck’s deal for Terns sparks debate over a possible biotech bidding war",
+    "summary": "Some investors and analysts believe the pharma&rsquo;s $6.7 billion offer is justified given Terns&rsquo; recent stock run. Others are convinced a better proposal is coming.&nbsp;",
+    "url": "https://www.biopharmadive.com/news/merck-terns-buyout-valuation-debate/815812/",
+    "published_at": "2026-03-26T16:10:00+00:00",
+    "collected_at": "2026-03-27T08:57:12.207776+00:00",
     "filter_score": 7,
-    "summary_ko": "AirGas가 헬륨 수출을 중단하고 생산이 붕괴된 카타르에서 강제 조치 선언했습니다.",
-    "emerging_sector": "헬륨",
+    "summary_ko": "Merck의 Terns 인수가 바이오텍 기업 인수 전쟁을 불러올 수 있을지에 대한 논란",
+    "emerging_sector": "Biotech",
     "leading_companies": [
-      "AirGas"
+      "Merck",
+      "Terns"
     ],
-    "category": "macro",
+    "category": "smart_money",
+    "urgency": "high",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "ARM"
+  },
+  {
+    "id": "5d1b01ee26239811f356a2d1138a6ce7",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Sarepta sees early success with RNAi drugs from Arrowhead",
+    "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta&rsquo;s stock and, according to the company,&nbsp;suggest potential for two medicines to treat muscle-weakening conditions.",
+    "url": "https://www.biopharmadive.com/news/sarepta-arrowhead-trial-data-muscular-dystrophy/815681/",
+    "published_at": "2026-03-25T15:03:53+00:00",
+    "collected_at": "2026-03-27T08:57:12.207843+00:00",
+    "filter_score": 7,
+    "summary_ko": "Sarepta는 Arrowhead의 RNAi 약물에 대한 초기 성공을 보였습니다. 이 결과는 Sarepta의 주가를 올렸으며, 두 가지 약물이 근무력 질환을 치료할 수 있는 잠재력을 보여주었습니다.",
+    "emerging_sector": "RNAi 기술",
+    "leading_companies": [
+      "Sarepta",
+      "Arrowhead"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "Sarepta"
+  },
+  {
+    "id": "a41cdc1a8822c8defef60e0e8f606777",
+    "source": "BioPharma Dive",
+    "source_type": "rss",
+    "title": "Gilead, with Ouro deal, wagers $1.7B on bispecifics for autoimmune diseases",
+    "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers.",
+    "url": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
+    "published_at": "2026-03-24T14:07:58+00:00",
+    "collected_at": "2026-03-27T08:57:12.207876+00:00",
+    "filter_score": 7,
+    "summary_ko": "Gilead는 Ouro Medicines를 인수하여 1.7억 달러를 자율면역 질환의 비스펙시픽스 약물 개발에 투자했습니다.",
+    "emerging_sector": "비스펙시픽스 기술",
+    "leading_companies": [
+      "Gilead",
+      "Ouro Medicines"
+    ],
+    "category": "tech_trend",
     "urgency": "high",
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 2,
-    "korea_search_query": "우주항공 OR 우주산업"
+    "korea_search_query": "Gilead"
   },
   {
-    "id": "61f47b767a75542e878c42c106a91c1b",
-    "source": "STAT News",
+    "id": "0a86f2d848a82f4a0eba49d1955f3b13",
+    "source": "FierceBiotech",
     "source_type": "rss",
-    "title": "STAT+: Allogene’s off-the-shelf CAR-T is nearing an early but pivotal study readout",
-    "summary": "A preliminary readout from a study could vindicate Allogene Therapeutics' stubborn belief in its off-the-shelf CAR-T treatment.",
-    "url": "https://www.statnews.com/2026/03/26/allogene-car-t-lymphoma-treatment-study/?utm_campaign=rss",
-    "published_at": "2026-03-26T10:30:00+00:00",
-    "collected_at": "2026-03-27T07:11:49.358236+00:00",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance\" hreflang=\"en\">Philips AI cath lab copilot nets FDA clearance</a>",
+    "summary": "Developed with Edwards Lifesciences, DeviceGuide is aimed at the challenging task of transcatheter mitral valve repair.",
+    "url": "https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance",
+    "published_at": "2026-03-27T08:57:12.316123+00:00",
+    "collected_at": "2026-03-27T08:57:12.316130+00:00",
     "filter_score": 7,
-    "summary_ko": "Allogene의 오프-더-쉘프 CAR-T 치료제가 초기 연구 결과를 발표할 예정입니다. 이 결과는 CAR-T 치료제의 효능을 입증할 수 있습니다.",
-    "emerging_sector": "CAR-T Treatment",
+    "summary_ko": "Philips의 AI 카테터 실험실 코파일럿이 FDA의 승인을 받았습니다. 이 시스템은 에드워즈 라이프사이언스와 함께 개발되었으며, 심장 판막 수리를 위한 도전적인 작업을 지원합니다.",
+    "emerging_sector": "의료 기기 AI",
     "leading_companies": [
-      "Allogene Therapeutics"
+      "Philips",
+      "Edwards Lifesciences"
     ],
     "category": "tech_trend",
     "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 10,
-    "korea_search_query": "STAT"
-  },
-  {
-    "id": "deb4ae995aca6eba9061b40e881a9669",
-    "source": "BioPharma Dive",
-    "source_type": "rss",
-    "title": "FDA clears Denali drug in ‘clear step’ for rare disease biotechs",
-    "summary": "The approval of Denali&rsquo;s Hunter syndrome treatment, Avlayah, comes after a series of drug rejections and delays that had led to criticism of the FDA&rsquo;s stance on rare disease therapies.",
-    "url": "https://www.biopharmadive.com/news/denali-fda-hunter-syndrome-avlayah-approve-rare-disease/815766/",
-    "published_at": "2026-03-26T15:16:00+00:00",
-    "collected_at": "2026-03-27T07:11:49.497231+00:00",
-    "filter_score": 7,
-    "summary_ko": "FDA가 드문 질병 치료제에 대한 승인을 내렸습니다. 이 결정은 드문 질병 치료제 개발에 대한 명확한 단계입니다.",
-    "emerging_sector": "Rare Disease Treatment",
-    "leading_companies": [
-      "Denali"
-    ],
-    "category": "macro",
-    "urgency": "high",
-    "korea_status": "⚪ 이미 반영",
-    "korea_news_count": 8,
-    "korea_search_query": "Denali"
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 1,
+    "korea_search_query": "Philips"
   }
 ]
