@@ -489,5 +489,49 @@
     "korea_status": "⚡ 초기 반영",
     "korea_news_count": 3,
     "korea_search_query": "인수합병 ARM"
+  },
+  {
+    "id": "0f27dc0a0c4c04164f83a3498706da2c",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "BYD And VinFast Race To Dominate Southeast Asia's EV Market",
+    "summary": "BYD And VinFast Race To Dominate Southeast Asia's EV Market\n\n            BYD and VinFast are rapidly expanding their presence in Southeast Asia, where electric vehicles are gaining traction and competition is intensifying, according to Nikkei. Both companies have emerged as the fastest-growing car brands in the region’s six largest markets in 2025, with sales rising about 95% for BYD and 90% for VinFast compared with the previous year.\n\nVinFast sold more than 100,000 vehicles across countries in",
+    "url": "https://www.zerohedge.com/markets/byd-and-vinfast-race-dominate-southeast-asias-ev-market",
+    "published_at": "2026-03-27T02:15:00+00:00",
+    "collected_at": "2026-03-27T05:43:57.737807+00:00",
+    "filter_score": 8,
+    "summary_ko": "BYD와 VinFast가 동남아시아 전기차 시장에서 경쟁을 벌이고 있습니다. 전기차 시장이 성장하고 있습니다.",
+    "emerging_sector": "전기차",
+    "leading_companies": [
+      "BYD",
+      "VinFast"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "VinFast"
+  },
+  {
+    "id": "bfb8a5e75e221feae47d0d43571f6f31",
+    "source": "Endpoints News",
+    "source_type": "rss",
+    "title": "Recordati says it's received a $12B+ takeover bid",
+    "summary": "Milan-based Recordati confirmed Thursday that it has received a buyout offer north of $12 billion.\n\n The company said in a press release that private equity firm CVC Capital Partners has submitted ...",
+    "url": "https://endpoints.news/recordati-says-its-received-a-12b-takeover-bid/",
+    "published_at": "2026-03-26T17:06:08+00:00",
+    "collected_at": "2026-03-27T05:44:01.244781+00:00",
+    "filter_score": 8,
+    "summary_ko": "Recordati가 120억 달러 이상의 인수 제안을 받았다. 이는 바이오테크 산업에서 큰 변화가 일어나고 있는 상황에서 나온 뉴스이다.",
+    "emerging_sector": "바이오테크",
+    "leading_companies": [
+      "Recordati",
+      "CVC Capital Partners"
+    ],
+    "category": "smart_money",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 1,
+    "korea_search_query": "Recordati"
   }
 ]
