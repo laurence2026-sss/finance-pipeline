@@ -223,5 +223,87 @@
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 2,
     "korea_search_query": "AstraZeneca"
+  },
+  {
+    "id": "074ad5c892ffcbf79eb66f3551658db1",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Musk Targets Retail Investors For Up To 30% Of SpaceX's IPO Shares",
+    "summary": "Musk Targets Retail Investors For Up To 30% Of SpaceX's IPO Shares\n\n            Elon Musk is planning a highly unconventional IPO for SpaceX, aiming to make it one of the largest public offerings ever, with a target raise in the tens of billions, according to the Wall Street Journal.\n\nInstead of relying solely on the standard investor roadshow, he is considering bringing investors directly to SpaceX sites, where they could tour facilities and potentially witness rocket launches—turning the pitch",
+    "url": "https://www.zerohedge.com/markets/musk-targets-retail-investors-30-spacexs-ipo-shares",
+    "published_at": "2026-03-27T18:20:00+00:00",
+    "collected_at": "2026-03-27T20:41:34.560522+00:00",
+    "filter_score": 8,
+    "summary_ko": "엘론 머스크가 스페이스X의 IPO에서 소매 투자자에게 최대 30%의 주식을 할당할 계획입니다.",
+    "emerging_sector": "SpaceX",
+    "leading_companies": [
+      "SpaceX"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "IPO OR 상장 우주항공 OR 우주산업"
+  },
+  {
+    "id": "60920108716aad0ed5412d109f097e37",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Frozen Does Not Mean Stable: Rethinking Cryopreservation in Cell and Gene Therapy Manufacturing",
+    "summary": "As cell-based therapies grow more complex and manufacturing networks expand, resilience can’t be an afterthought, and cryopreservation can no longer just be a step that gets validated during development and left alone. It needs to play an ongoing role in product consistency, potency, and reliability.\nThe post Frozen Does Not Mean Stable: Rethinking Cryopreservation in Cell and Gene Therapy Manufacturing appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/frozen-does-not-mean-stable-rethinking-cryopreservation-in-cell-and-gene-therapy-manufacturing/",
+    "published_at": "2026-03-26T14:04:14+00:00",
+    "collected_at": "2026-03-27T20:41:36.773559+00:00",
+    "filter_score": 8,
+    "summary_ko": "세포 및 유전자 치료 제조에서 동결 보존의 한계를 재고하는 필요성이 제기되었습니다. 이는 세포 기반 치료가 더 복잡해지고 제조 네트워크가 확장됨에 따라 회복력과 안정성이 중요해지고 있습니다.",
+    "emerging_sector": "세포 및 유전자 치료",
+    "leading_companies": [],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Frozen"
+  },
+  {
+    "id": "5871fc67fe1189129ed8c69edf71d306",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Soaring Prices Set To Crash China's LNG Imports To 8-Year Low",
+    "summary": "Soaring Prices Set To Crash China's LNG Imports To 8-Year Low\n\n            Submitted by Tsvetana Paraskova of OilPrice.com\n\nSurging LNG prices amid the war in the Middle East are set to lead to the lowest monthly LNG imports into China in eight years as Qatari and UAE supply is off the market and Chinese buyers look to raise supply from domestic gas production and pipeline deliveries.\n\nChina is on track to import about 3.7 million tons of LNG in March, per tanker-tracking data by Kpler cited by ",
+    "url": "https://www.zerohedge.com/commodities/soaring-prices-set-crash-chinas-lng-imports-8-year-low",
+    "published_at": "2026-03-27T19:30:00+00:00",
+    "collected_at": "2026-03-27T20:41:34.560339+00:00",
+    "filter_score": 7,
+    "summary_ko": "중국의 LNG 수입이 8년 만에 최저치로 떨어질 것으로 예상됩니다. 이는 중동 전쟁으로 인한 LNG 가격 상승의 영향입니다.",
+    "emerging_sector": "LNG",
+    "leading_companies": [
+      "OilPrice.com"
+    ],
+    "category": "macro",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "폭락"
+  },
+  {
+    "id": "76b562c79dd6de34918a22fdd0759e3f",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Why Agentic AI is Useful But Limited & Other Hot Takes on the AI Market",
+    "summary": "Fawad Butt, CEO of Penguin Ai, gave his candid thoughts on where the healthcare AI market is headed, including how data leakage could be fueling smarter AI models and the limits of agentic AI in enterprise settings.\nThe post Why Agentic AI is Useful But Limited & Other Hot Takes on the AI Market appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/healthcare-ai-5/",
+    "published_at": "2026-03-26T21:54:36+00:00",
+    "collected_at": "2026-03-27T20:41:36.773545+00:00",
+    "filter_score": 7,
+    "summary_ko": "펭귄 AI의 CEO는 의료 인공지능 시장에 대한 자신의 생각을 공유했으며, 데이터 누출이 더智能한 AI 모델을 구축하는 데 사용될 수 있으며, 엔터프라이즈 환경에서 에이전트 AI의 한계를 강조했습니다.",
+    "emerging_sector": "의료 인공지능",
+    "leading_companies": [
+      "Penguin Ai"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Agentic"
   }
 ]

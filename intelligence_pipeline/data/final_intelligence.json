@@ -1,5 +1,26 @@
 [
   {
+    "id": "074ad5c892ffcbf79eb66f3551658db1",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Musk Targets Retail Investors For Up To 30% Of SpaceX's IPO Shares",
+    "summary": "Musk Targets Retail Investors For Up To 30% Of SpaceX's IPO Shares\n\n            Elon Musk is planning a highly unconventional IPO for SpaceX, aiming to make it one of the largest public offerings ever, with a target raise in the tens of billions, according to the Wall Street Journal.\n\nInstead of relying solely on the standard investor roadshow, he is considering bringing investors directly to SpaceX sites, where they could tour facilities and potentially witness rocket launches—turning the pitch",
+    "url": "https://www.zerohedge.com/markets/musk-targets-retail-investors-30-spacexs-ipo-shares",
+    "published_at": "2026-03-27T18:20:00+00:00",
+    "collected_at": "2026-03-27T20:41:34.560522+00:00",
+    "filter_score": 8,
+    "summary_ko": "엘론 머스크가 스페이스X의 IPO에서 소매 투자자에게 최대 30%의 주식을 할당할 계획입니다.",
+    "emerging_sector": "SpaceX",
+    "leading_companies": [
+      "SpaceX"
+    ],
+    "category": "tech_trend",
+    "urgency": "high",
+    "korea_status": "🔥 독점 정보",
+    "korea_news_count": 0,
+    "korea_search_query": "IPO OR 상장 우주항공 OR 우주산업"
+  },
+  {
     "id": "c8cb895e1132595d8413182a5e481d68",
     "source": "STAT News",
     "source_type": "rss",
@@ -7,13 +28,11 @@
     "summary": "In today's Readout newsletter, how China's biotech boom is rewriting everything and how an NIH crackdown is disrupting global science collaboration.",
     "url": "https://www.statnews.com/2026/03/27/china-biotech-boom-nih-crackdown-foreign-grants-readout-newsletter/?utm_campaign=rss",
     "published_at": "2026-03-27T14:07:49+00:00",
-    "collected_at": "2026-03-27T18:59:04.055508+00:00",
+    "collected_at": "2026-03-27T20:41:35.958983+00:00",
     "filter_score": 8,
-    "summary_ko": "중국의 바이오테크 산업은 급격하게 성장하고 있으며, 이는 전 세계적인 과학 협력을 변화시키고 있다.",
+    "summary_ko": "중국의 바이오테크 산업이 급성장하고 있다.",
     "emerging_sector": "바이오테크",
-    "leading_companies": [
-      "중국 바이오테크 기업들"
-    ],
+    "leading_companies": [],
     "category": "tech_trend",
     "urgency": "high",
     "korea_status": "⚪ 이미 반영",
@@ -28,12 +47,12 @@
     "summary": "The buyout, which includes another $525 million in floated payouts, hands Otsuka a medicine it sees as a possibly &ldquo;paradigm-shifting therapy&rdquo; in psychiatry.",
     "url": "https://www.biopharmadive.com/news/otsuka-transcend-deal-acquisition-neurology-psychiatry-neuroscience/815985/",
     "published_at": "2026-03-27T16:19:00+00:00",
-    "collected_at": "2026-03-27T18:59:04.213738+00:00",
+    "collected_at": "2026-03-27T20:41:36.143209+00:00",
     "filter_score": 8,
-    "summary_ko": "오쓰카 제약이 PTSD 치료제를 개발 중인 트랜스센드(Transcend)를 7억 달러에 인수하였습니다. 이는 정신과 치료제 개발에 대한 기대가 높아지는 상황입니다.",
+    "summary_ko": "오쓰카가 7억 달러에 트랜스센드의 PTSD 치료제를 인수했습니다.",
     "emerging_sector": "정신과 치료제",
     "leading_companies": [
-      "오쓰카 제약"
+      "오쓰카"
     ],
     "category": "smart_money",
     "urgency": "high",
@@ -49,12 +68,12 @@
     "summary": "Worth up to $2 billion, the deal is centered around a drug that could lead to faster and more complete control of allergic conditions than Novartis and Roche&rsquo;s popular medicine.&nbsp;",
     "url": "https://www.biopharmadive.com/news/novartis-excellergy-allergy-drugs-deal-xolair/815956/",
     "published_at": "2026-03-27T15:22:00+00:00",
-    "collected_at": "2026-03-27T18:59:04.213780+00:00",
+    "collected_at": "2026-03-27T20:41:36.143244+00:00",
     "filter_score": 8,
-    "summary_ko": "노바티스 제약이 알러지 치료제 개발 중인 엑셀러지(Excellergy)를 인수하였습니다. 이는 노바티스와 로슈의 인기 치료제의 후속 제품이 될 수 있습니다.",
-    "emerging_sector": "알러지 치료제",
+    "summary_ko": "노바티스는 20억 달러에 엑셀러지를 인수하여 알레르기 치료제를 개발할 계획입니다.",
+    "emerging_sector": "알레르기 치료",
     "leading_companies": [
-      "노바티스 제약"
+      "노바티스"
     ],
     "category": "smart_money",
     "urgency": "high",
@@ -69,17 +88,57 @@
     "title": "<a href=\"https://www.fiercebiotech.com/research/pig-semen-extract-enables-eye-drops-kill-eye-cancer-mice\" hreflang=\"en\">Scientists turn pig semen extract into eye drops that kill cancer in mice</a>",
     "summary": "The human eye is like an immunological fortress, with its ability to exclude unwanted intruders a boon when preventing infection but a burden when trying to deliver vital medicines. Researchers in China have now turned to an unusual source—pig semen—to develop eye drops that can deliver cancer drugs to the back of the eye.",
     "url": "https://www.fiercebiotech.com/research/pig-semen-extract-enables-eye-drops-kill-eye-cancer-mice",
-    "published_at": "2026-03-27T18:59:04.330154+00:00",
-    "collected_at": "2026-03-27T18:59:04.330173+00:00",
+    "published_at": "2026-03-27T20:41:36.248823+00:00",
+    "collected_at": "2026-03-27T20:41:36.248843+00:00",
     "filter_score": 8,
-    "summary_ko": "과학자들이 돼지 정자 추출물을 이용하여 눈 질환을 치료하는 안약을 개발하였다.",
-    "emerging_sector": "안약",
+    "summary_ko": "과학자들이 돼지 정자 추출물을 이용하여 눈 암을 치료하는 안약을 개발하였다.",
+    "emerging_sector": "신종 암 치료법",
     "leading_companies": [],
     "category": "tech_trend",
     "urgency": "high",
     "korea_status": "⚪ 이미 반영",
     "korea_news_count": 10,
     "korea_search_query": "Scientists"
+  },
+  {
+    "id": "60920108716aad0ed5412d109f097e37",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Frozen Does Not Mean Stable: Rethinking Cryopreservation in Cell and Gene Therapy Manufacturing",
+    "summary": "As cell-based therapies grow more complex and manufacturing networks expand, resilience can’t be an afterthought, and cryopreservation can no longer just be a step that gets validated during development and left alone. It needs to play an ongoing role in product consistency, potency, and reliability.\nThe post Frozen Does Not Mean Stable: Rethinking Cryopreservation in Cell and Gene Therapy Manufacturing appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/frozen-does-not-mean-stable-rethinking-cryopreservation-in-cell-and-gene-therapy-manufacturing/",
+    "published_at": "2026-03-26T14:04:14+00:00",
+    "collected_at": "2026-03-27T20:41:36.773559+00:00",
+    "filter_score": 8,
+    "summary_ko": "세포 및 유전자 치료 제조에서 동결 보존의 한계를 재고하는 필요성이 제기되었습니다. 이는 세포 기반 치료가 더 복잡해지고 제조 네트워크가 확장됨에 따라 회복력과 안정성이 중요해지고 있습니다.",
+    "emerging_sector": "세포 및 유전자 치료",
+    "leading_companies": [],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Frozen"
+  },
+  {
+    "id": "5871fc67fe1189129ed8c69edf71d306",
+    "source": "ZeroHedge",
+    "source_type": "rss",
+    "title": "Soaring Prices Set To Crash China's LNG Imports To 8-Year Low",
+    "summary": "Soaring Prices Set To Crash China's LNG Imports To 8-Year Low\n\n            Submitted by Tsvetana Paraskova of OilPrice.com\n\nSurging LNG prices amid the war in the Middle East are set to lead to the lowest monthly LNG imports into China in eight years as Qatari and UAE supply is off the market and Chinese buyers look to raise supply from domestic gas production and pipeline deliveries.\n\nChina is on track to import about 3.7 million tons of LNG in March, per tanker-tracking data by Kpler cited by ",
+    "url": "https://www.zerohedge.com/commodities/soaring-prices-set-crash-chinas-lng-imports-8-year-low",
+    "published_at": "2026-03-27T19:30:00+00:00",
+    "collected_at": "2026-03-27T20:41:34.560339+00:00",
+    "filter_score": 7,
+    "summary_ko": "중국의 LNG 수입이 8년 만에 최저치로 떨어질 것으로 예상됩니다. 이는 중동 전쟁으로 인한 LNG 가격 상승의 영향입니다.",
+    "emerging_sector": "LNG",
+    "leading_companies": [
+      "OilPrice.com"
+    ],
+    "category": "macro",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "폭락"
   },
   {
     "id": "f6794e7b3ae8572165722c1573a2d056",
@@ -89,10 +148,10 @@
     "summary": "The treatment, tozorakimab, succeeded where other similar therapies failed and could help a broader group of COPD patients than Dupixent.&nbsp;",
     "url": "https://www.biopharmadive.com/news/astrazeneca-lung-drug-gets-surprise-win-in-copd-trials/815949/",
     "published_at": "2026-03-27T15:56:00+00:00",
-    "collected_at": "2026-03-27T18:59:04.213765+00:00",
+    "collected_at": "2026-03-27T20:41:36.143230+00:00",
     "filter_score": 7,
-    "summary_ko": "아스트라제네카의 폐질환 치료제 토조라키마브(Tozorakimab)가 임상 시험에서 성공을 거두었습니다. 이는 더 많은 폐질환 환자에게 도움이 될 수 있습니다.",
-    "emerging_sector": "폐질환 치료제",
+    "summary_ko": "아스트라제네카의 폐 질환 치료제가 임상 시험에서 성공했습니다.",
+    "emerging_sector": "폐 질환 치료",
     "leading_companies": [
       "아스트라제네카"
     ],
@@ -110,10 +169,10 @@
     "summary": "The approval of Denali&rsquo;s Hunter syndrome treatment, Avlayah, comes after a series of drug rejections and delays that had led to criticism of the FDA&rsquo;s stance on rare disease therapies.",
     "url": "https://www.biopharmadive.com/news/denali-fda-hunter-syndrome-avlayah-approve-rare-disease/815766/",
     "published_at": "2026-03-26T15:16:00+00:00",
-    "collected_at": "2026-03-27T18:59:04.213816+00:00",
+    "collected_at": "2026-03-27T20:41:36.143279+00:00",
     "filter_score": 7,
-    "summary_ko": "FDA가 데날리의 헌터 증후군 치료제를 승인함으로써, 드문 질병을 치료하는 바이오테크 기업들에게 새로운 기회가 열렸으며, 이는 FDA의 드문 질병 치료제에 대한 입장에 대한 비판을 받은 후에 나온 결정이다.",
-    "emerging_sector": "드문 질병 치료",
+    "summary_ko": "FDA가 데날리의 헌터 증후군 치료제를 승인함으로써, 드문 질병을 치료하는 바이오테크 기업들에게 새로운 기회가 열렸다고 볼 수 있다.",
+    "emerging_sector": "드문 질병 치료 바이오테크",
     "leading_companies": [
       "데날리"
     ],
@@ -131,17 +190,39 @@
     "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta&rsquo;s stock and, according to the company,&nbsp;suggest potential for two medicines to treat muscle-weakening conditions.",
     "url": "https://www.biopharmadive.com/news/sarepta-arrowhead-trial-data-muscular-dystrophy/815681/",
     "published_at": "2026-03-25T15:03:53+00:00",
-    "collected_at": "2026-03-27T18:59:04.213863+00:00",
+    "collected_at": "2026-03-27T20:41:36.143332+00:00",
     "filter_score": 7,
-    "summary_ko": "세렙타의 RNAi 치료제가 근무력 질환을 치료하는 데 효과가 있음을 보여주었다.",
-    "emerging_sector": "RNAi 치료",
+    "summary_ko": "세레프타의 RNAi 치료제가 근무력 질환을 치료하는 데 потен셜을 보여주었다.",
+    "emerging_sector": "RNAi 치료제",
     "leading_companies": [
-      "세렙타"
+      "세레프타",
+      "어로헤드"
     ],
     "category": "tech_trend",
     "urgency": "high",
     "korea_status": "🔥 독점 정보",
     "korea_news_count": 0,
     "korea_search_query": "Sarepta"
+  },
+  {
+    "id": "76b562c79dd6de34918a22fdd0759e3f",
+    "source": "MedCity News",
+    "source_type": "rss",
+    "title": "Why Agentic AI is Useful But Limited & Other Hot Takes on the AI Market",
+    "summary": "Fawad Butt, CEO of Penguin Ai, gave his candid thoughts on where the healthcare AI market is headed, including how data leakage could be fueling smarter AI models and the limits of agentic AI in enterprise settings.\nThe post Why Agentic AI is Useful But Limited & Other Hot Takes on the AI Market appeared first on MedCity News.",
+    "url": "https://medcitynews.com/2026/03/healthcare-ai-5/",
+    "published_at": "2026-03-26T21:54:36+00:00",
+    "collected_at": "2026-03-27T20:41:36.773545+00:00",
+    "filter_score": 7,
+    "summary_ko": "펭귄 AI의 CEO는 의료 인공지능 시장에 대한 자신의 생각을 공유했으며, 데이터 누출이 더智能한 AI 모델을 구축하는 데 사용될 수 있으며, 엔터프라이즈 환경에서 에이전트 AI의 한계를 강조했습니다.",
+    "emerging_sector": "의료 인공지능",
+    "leading_companies": [
+      "Penguin Ai"
+    ],
+    "category": "tech_trend",
+    "urgency": "medium",
+    "korea_status": "⚪ 이미 반영",
+    "korea_news_count": 10,
+    "korea_search_query": "Agentic"
   }
 ]
